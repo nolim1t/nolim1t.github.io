@@ -2,18 +2,35 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
-		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0a2/jquery.mobile-1.0a2.min.css" />
-		<script src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
-		<script src="http://code.jquery.com/mobile/1.0a2/jquery.mobile-1.0a2.min.js"></script>
-		<meta name="keywords" content="巴里, 槍, バリー, Barry, iPhone, iPhonedev, webdev, phpdev, php, asp, asp.net, .Net, Rails, Mac, OS X, Development, automated-qa, portfolio, freelance, consulting, 日本語できます, nolim1t" />
-		
+		<link rel="stylesheet" href="/css/screen.css?20110723" type="text/css" media="screen, projection" />	
 	</head>
-	<body bgcolor="#ffffff">
-		<div data-role="page"> 
-				<div data-role="content">
-					<img src="/nolim1t.png" />
-					{{ content }}
-				</div>
+	<body>
+		<div class="site">
+		  <div id="sidebar">
+			<h3><a href="/">@nolim1t</a></h3>
+		    <p>eat. sleep. code. . UX. </p>
+		    <p>
+		     Find me on:<br />
+		     <a href="http://github.com/nolim1t/">github</a><br />
+		     <a href="http://twitter.com/nolim1t">twitter</a><br />
+		     <a href="http://foodspotting.com/nolim1t">foodspotting</a><br /><br />
+			<g:plusone size="medium"></g:plusone>		
+		     </p>
+		  </div>
+		  <div id="content">
+	      	<img src="/nolim1t.png" />								
+			{{ content }}
+
+			<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>						
+		  </div>							
 		</div>
+		<a href="http://github.com/nolim1t"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://d3nwyuy0nl342s.cloudfront.net/img/7afbc8b248c68eb468279e8c17986ad46549fb71/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" /></a>
+		
 	</body>
 </html>
