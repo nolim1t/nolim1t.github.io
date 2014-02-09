@@ -13,3 +13,5 @@ Lots of stuff has happened lately.
 * Doing freelance mobile development
 * Dabbling in UX (have 2 UX clients as of this year) and seem to be loving it (mainly because people actually "get it")
 * Researching company incorporation (HK could be nice)
+
+
