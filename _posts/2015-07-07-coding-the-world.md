@@ -34,7 +34,7 @@ In my Application I do this before doing anything else, although you may actuall
 
 Below is some coffeescript code. I set a variable and then handle it later, although you probably don't need to do this.
 
-~~~coffeescript
+~~~ coffeescript
 # Language check (http://www.ietf.org/rfc/rfc1766.txt)
 	if req.acceptsLanguages('en', 'en-US', 'en-GB')
 		language = 'en'
