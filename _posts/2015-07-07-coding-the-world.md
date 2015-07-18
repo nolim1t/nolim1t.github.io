@@ -33,7 +33,7 @@ In the express.js framework (which is what I use) you can check against req.acce
 In my Application I do this before doing anything else, although you may actually decide to do others. What I do is I check for the language, and if it's not supported I just default to english. Eventually I'd like to actually see what people are using and then perhaps store a tally of languages so you know what to support next
 
 Below is some coffeescript code. I set a variable and then handle it later, although you probably don't need to do this.
-```coffeescript
+~~~ coffeescript
 # Language check (http://www.ietf.org/rfc/rfc1766.txt)
 	if req.acceptsLanguages('en', 'en-US', 'en-GB')
 		language = 'en'
@@ -46,7 +46,7 @@ Below is some coffeescript code. I set a variable and then handle it later, alth
 	else
 		# Just use english if we can't work it out
 		language = 'en'
-```
+~~~
 
 ### Document your API so that client code will use this header
 Never trust the client. 
