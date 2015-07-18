@@ -25,30 +25,30 @@ The way we do this is through a bridging header file (ugh), which exposes all th
 
 For this project, we'll include both Core and Login.
 
-```objective-c
+~~~ objective-c
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 #import <FBSDKLoginKit/FBSDKLoginKit.h> // For FB Logins
-```
+~~~
 
 ## Now lets go to the ViewController.swift file
 
 Now lets go into the Login Viewcontroller swift file and make sure it first conforms with the FBSDKLoginButtonDelegate 
 
 
-```swift
+~~ swift
 class ViewController: UIViewController, FBSDKLoginButtonDelegate {
 
 // ...
 // Insert your awesome class implementation here
 
 }
-```
+~~~
 
 ### Delegate functions
 
 And here are the delegate functions in the class.
 
-```swift
+~~~ swift
     func loginButton(loginButton: FBSDKLoginButton!, didCompleteWithResult result: FBSDKLoginManagerLoginResult!, error: NSError!) {
         // Show the access token, maybe send it to the server?
         println("User Logged In. Access token: \(FBSDKAccessToken.currentAccessToken().tokenString)")
@@ -75,13 +75,13 @@ And here are the delegate functions in the class.
     func loginButtonDidLogOut(loginButton: FBSDKLoginButton!) {
         println("User Logged Out")
     }
-```
+~~~
 
 ### Display the login button
 
 At the very basics, we'll put it in the center. And we won't customize the view
 
-```swift
+~~~ swift
     override func viewDidLoad() {
         super.viewDidLoad()
         if (FBSDKAccessToken.currentAccessToken() != nil)
@@ -101,19 +101,19 @@ At the very basics, we'll put it in the center. And we won't customize the view
         }
         
     }
-```
+~~~
 
 ## Lets edit the Application delegate file
 
 ### Edit the application entrypoint
 
-```swift
+~~~ swift
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
 
         return FBSDKApplicationDelegate.sharedInstance().application(application, didFinishLaunchingWithOptions: launchOptions)
     }
-```
+~~~
 
 ### Handle the login callback
 
@@ -124,7 +124,7 @@ We need to handle this by setting up a URL scheme and handling that URL scheme.
 #### The Swift code for URL handling
 
 Here is the code:
-```swift
+~~~ swift
     func application(application: UIApplication,
         openURL url: NSURL,
         sourceApplication: String?,
@@ -135,7 +135,7 @@ Here is the code:
             sourceApplication: sourceApplication,
             annotation: annotation)
     }
-```
+~~~
 
 #### Adding the URL handler
 
