@@ -26,9 +26,10 @@ The way we do this is through a bridging header file (ugh), which exposes all th
 For this project, we'll include both Core and Login.
 
 ~~~ objective-c
-#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import <FBSDKCoreKit/FBSDKCoreKit.h> // FB Core
 #import <FBSDKLoginKit/FBSDKLoginKit.h> // For FB Logins
 ~~~
+
 
 ## Now lets go to the ViewController.swift file
 
