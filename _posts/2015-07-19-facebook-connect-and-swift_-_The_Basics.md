@@ -154,3 +154,5 @@ In "Info.plist" add the following:
 ## Conclusion
 
 After this, you should be all set to test the very basics and be able to customize the above boilerplate to suit your application logic.
+
+Last but not least, the code examples in this post can be found on a [GitHub Repository](https://github.com/nolim1t/swift-and-facebook-sdk) that I set up.
