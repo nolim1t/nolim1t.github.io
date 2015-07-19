@@ -31,6 +31,7 @@ For this project, we'll include both Core and Login.
 ~~~
 
 
+
 ## Now lets go to the ViewController.swift file
 
 Now lets go into the Login Viewcontroller swift file and make sure it first conforms with the FBSDKLoginButtonDelegate 
@@ -96,7 +97,8 @@ At the very basics, we'll put it in the center. And we won't customize the view
           let loginView : FBSDKLoginButton = FBSDKLoginButton()
           self.view.addSubview(loginView)
           loginView.center = self.view.center
-          loginView.readPermissions = ["public_profile", "email", "user_birthday", "user_friends"]
+          // Keep in mind that some permissions requires approval
+          loginView.readPermissions = ["public_profile", "email", "user_friends"]
           loginView.delegate = self
         }
         
@@ -141,6 +143,8 @@ Here is the code:
 #### Adding the URL handler
 
 In "Info.plist" add the following:
+* "FacebookAppID" key with your app ID as the string value
+* "FacebookDisplayName" with your app name as the string value
 * "URL Types" main key
 * Expand "URL Types" (It should be an array). Add another key called "Document Role" = "Editor" (String) in the first array entry. And add a key called "URL Schemes" which should be another array. The first key should be called "fb<appid>" (where <appid> is you application id)
 
