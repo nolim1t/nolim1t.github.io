@@ -34,7 +34,6 @@ For this project, we'll include both Core and Login.
 
 Now lets go into the Login Viewcontroller swift file and make sure it first conforms with the FBSDKLoginButtonDelegate 
 
-
 ~~~ swift
 class ViewController: UIViewController, FBSDKLoginButtonDelegate {
 
@@ -124,6 +123,7 @@ We need to handle this by setting up a URL scheme and handling that URL scheme.
 #### The Swift code for URL handling
 
 Here is the code:
+
 ~~~ swift
     func application(application: UIApplication,
         openURL url: NSURL,
