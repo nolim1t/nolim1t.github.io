@@ -35,7 +35,7 @@ For this project, we'll include both Core and Login.
 Now lets go into the Login Viewcontroller swift file and make sure it first conforms with the FBSDKLoginButtonDelegate 
 
 
-~~ swift
+~~~ swift
 class ViewController: UIViewController, FBSDKLoginButtonDelegate {
 
 // ...
