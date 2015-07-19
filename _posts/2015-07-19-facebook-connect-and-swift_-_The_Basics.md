@@ -143,6 +143,7 @@ Here is the code:
 #### Adding the URL handler
 
 In "Info.plist" add the following:
+
 * "FacebookAppID" key with your app ID as the string value
 * "FacebookDisplayName" with your app name as the string value
 * "URL Types" main key
