@@ -25,6 +25,7 @@ Anyway here are some tips for API UX
 * Respond to various HTTP Headers. Such as Accepts (bonus is to return a response based on what the client defines here), Accept-Language (for localization of responses and error messages)
 * Use HTTP status codes that is appropriate to the response. User requested a resource thats not available? Thats a 404. User requested a resource that requires authentication? 401. User sends a request which can't be understood? 400. General errors? 500. Another good reason for doing this is load balancers and CDNs tend to speak this protocol. Be on the same language as they are.
 * Have a way of discovering API endpoints. A good way is to make use of the indexes.
+* Have an API explorer for your API (important if you are building a public platform)
 
 I'm sure there are more.
 
