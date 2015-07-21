@@ -28,4 +28,4 @@ Anyway here are some tips for API UX
 
 I'm sure there are more.
 
-If you want to check out one of my projects which tries to implement all those things, refer to [nolim1t/naked-coffeescript](https://github.com/nolim1t/nolim1t-nakedcoffeescript)
+If you want to check out one of my projects which tries to implement all those things, refer to [nolim1t/naked-coffeescript](https://github.com/nolim1t/naked-coffeescript) which is also compatible with Docker.
