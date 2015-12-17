@@ -11,6 +11,15 @@ title: "nolim1t.co :: @nolim1t"
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
           <time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
         </header>
+        <script>
+          var randomNumber = Math.floor((Math.random() * 12) + 1);
+          if (randomNumber < 10) {
+            randomNumber = "0" + randomNumber.toString();
+          } else {
+            randomNumber = randomNumber.toString();
+          }
+          document.write('<a href="{{ post.url }}" class="image"><img src="/template/images/pic' + randomNumber + '.jpg" alt="" /></a>');
+        </script>
       </article>
     </li>
     {% endfor %}
