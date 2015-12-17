@@ -10,3 +10,11 @@ Markdown motherfucker.. do you not speak it?
 
 ## Creating pages
 Just dump them in the main directory as per [guide](http://jekyllrb.com/docs/pages/)
+
+# Test Often!
+## Locally
+Simple run the following command
+
+```bash
+bundle exec jekyll serve
+```
