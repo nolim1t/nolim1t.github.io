@@ -3,7 +3,6 @@ layout: post
 title: "AWS Learnings"
 ---
 
-# {{ page.title }}
 
 As a full stack developer, I don't think its enough to only know about the application backend as well as the layer which the user interacts with your application.
 

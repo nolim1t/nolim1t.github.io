@@ -3,19 +3,17 @@ layout: post
 title: "UX for web APIs"
 ---
 
-# {{ page.title }}
-
 As I'm currently architecting an API (and have done in the past) for an external developer, I think it is important to recognize the importance of UX from an API point of view.
 
 So what is UX from an API perspective.
 
-Lets begin with UX in general. It's not all about what it looks like, but how well it works for the user. 
+Lets begin with UX in general. It's not all about what it looks like, but how well it works for the user.
 
 Your app can end up looking like shit, but it may well have good UX. Inversely, a good designer can do an awesome design - but the user has no idea how to use it, therefore having bad UX.
 
 From an API point of view, you can architect the API to support all the bells and whistles, however the poor soul who has to integrate with it may have a hard time working out how. Or you can opt for a simple architecture, and easy to work with.
 
-UX is about understanding the extremes and meeting someplace in the middle. 
+UX is about understanding the extremes and meeting someplace in the middle.
 
 Myself personally, I'd go for the more usable route as an app without users means you're effectively wasting your time. Ever heard of if a tree falls in a secluded forest, does it make a noise. Sure it does, but noone is around to really care.
 

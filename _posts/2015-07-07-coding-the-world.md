@@ -3,7 +3,6 @@ layout: post
 title: "Coding the world"
 ---
 
-<h1>{{ page.title }}</h1>
 Well well, it's been a while since I've last updated this github blog as theres been so much going on.But this time I'd like to try updating this more on my coding adventures just so I can share what's happening.
 
 The topic I'd like to blog about is "Localization" or "Coding the world" as I call it. As a traveller as well, I do understand and recognize the fact that not everyone speaks english natively so it is important as an app developer to create your apps which give an awesome user experience in someones locale.
@@ -26,7 +25,7 @@ An example of this which inspired me to localize a backend was foursquare which 
 
 ### How? Use the Accept-Language header for your web framework
 
-This way you don't need to pass any extra API parameters. 
+This way you don't need to pass any extra API parameters.
 
 In the express.js framework (which is what I use) you can check against req.acceptsLanguages(languageCode) - as long as you are using the latest version.
 
@@ -50,12 +49,10 @@ Below is some coffeescript code. I set a variable and then handle it later, alth
 ~~~
 
 ### Document your API so that client code will use this header
-Never trust the client. 
+Never trust the client.
 
 As a backend architect it's your job to enforce the rules. Just like a bouncer at the door of a nightclub where they enforce a dress code and keep certain riff-raff out.
 
 And It's part of <a href="http://www.ietf.org/rfc/rfc2616.txt">RFC2616</a>, so any good internet citizen who can write client code ideally should send this.
 
 I'll get more on the client code later.
-
-

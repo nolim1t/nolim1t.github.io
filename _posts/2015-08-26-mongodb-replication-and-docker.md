@@ -3,8 +3,6 @@ layout: post
 title: "MongoDB Replication and docker"
 ---
 
-# {{ page.title }}
-
 As docker is the hot thing in the systems administration world, and it's also recommended to have replica sets for mongo DB. And also in general on a production environment so your application is 99.9999% available.
 
 Here are some of the things I've learnt when you use docker and mongodb replication.

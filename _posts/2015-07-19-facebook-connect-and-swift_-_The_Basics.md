@@ -3,8 +3,6 @@ layout: post
 title: "Facebook connect SDK and Swift - The basics"
 ---
 
-# {{ page.title }}
-
 There's heaps of blog posts out there for doing several things, but not too much on integrating the facebook SDK on Swift.
 
 I think Swift is a powerful language and any new projects should start using it. Recently, Lyft shipped an iOS app which is built in pure Swift to demonstrate to the world that yes its possible.
@@ -34,7 +32,7 @@ For this project, we'll include both Core and Login.
 
 ## Now lets go to the ViewController.swift file
 
-Now lets go into the Login Viewcontroller swift file and make sure it first conforms with the FBSDKLoginButtonDelegate 
+Now lets go into the Login Viewcontroller swift file and make sure it first conforms with the FBSDKLoginButtonDelegate
 
 ~~~ swift
 class ViewController: UIViewController, FBSDKLoginButtonDelegate {
@@ -53,26 +51,26 @@ And here are the delegate functions in the class.
     func loginButton(loginButton: FBSDKLoginButton!, didCompleteWithResult result: FBSDKLoginManagerLoginResult!, error: NSError!) {
         // Show the access token, maybe send it to the server?
         println("User Logged In. Access token: \(FBSDKAccessToken.currentAccessToken().tokenString)")
-        
-        
+
+
         if ((error) != nil)
         {
             // Handle errors like a boss. UX Matters
         }
         else if result.isCancelled {
-            // What happens when the user presses the cancel button. It's not an error. We should handle it. 
+            // What happens when the user presses the cancel button. It's not an error. We should handle it.
             // UX matters.
         }
         else {
             // If you ask for multiple permissions at once, you
             // should check if specific permissions missing
-            if result.grantedPermissions.contains("email, public_profile") 
+            if result.grantedPermissions.contains("email, public_profile")
             {
                 // Do something awesome here once we confirm we got all the permissions
             }
         }
     }
-    
+
     func loginButtonDidLogOut(loginButton: FBSDKLoginButton!) {
         println("User Logged Out")
     }
@@ -101,7 +99,7 @@ At the very basics, we'll put it in the center. And we won't customize the view
           loginView.readPermissions = ["public_profile", "email", "user_friends"]
           loginView.delegate = self
         }
-        
+
     }
 ~~~
 
