@@ -46,8 +46,9 @@ Sounds good? It's sure a rollercoaster - just like the prices of bitcoin.
 * Hopefully a new Hong Kong visa in the future (It's been an awesome 1 1/2 years. I feel like I need to stay for more)
 
 ### Messing Around
-#### Snapchat
+
+** Snapchat **
 ![Snapcode](https://images.itinerantfoodie.com/snapchat_code.png)
 
-#### Peach
+** Peach **
 Username: barryt
