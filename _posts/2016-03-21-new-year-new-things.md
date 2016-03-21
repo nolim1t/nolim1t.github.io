@@ -47,8 +47,8 @@ Sounds good? It's sure a rollercoaster - just like the prices of bitcoin.
 
 ### Messing Around
 
-** Snapchat **
+**Snapchat**
 ![Snapcode](https://images.itinerantfoodie.com/snapchat_code.png)
 
-** Peach **
+**Peach**
 Username: barryt
