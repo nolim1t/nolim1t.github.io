@@ -16,3 +16,5 @@ Tools you can use (I know there are others, but this is what I use)
 - Systems/Infrastructure (and deployment): [puppet](https://github.com/puppetlabs/puppet), [chef](https://github.com/chef/chef), [docker](https://github.com/docker/docker)
 
 Using the above tooling let you choose the version that will be run across all environments (as well as not mess up someones local system - personally I do not take too kindly to someone making me install software packages, unless you’re a top paying client)
+
+[Medium article](https://medium.com/@nolim1t/managing-versions-across-multiple-environments-2c1f2f7cdb81#.i8faw69n8)
