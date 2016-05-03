@@ -3,7 +3,7 @@ layout: post
 title: "Reading HTTP POST requests to an AWS Lambda function"
 ---
 
-This has taken me some time to figure out.
+This has taken me some time to figure out. But I guess one of my new initiatives is to build microservices without running server infrastructure because its much more cost efficient to do so. (Yes it's centralized, blahblah... but blockchain tech is still very new. Eventually I want to be able to read identity information off my blog onto the public blockchain)
 
 I've figured out the GET part easily enough, but the POST part through API gateway requires the format into **application/json** and not **application/x-www-form-urlencoded**
 
