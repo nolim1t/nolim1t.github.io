@@ -3,7 +3,9 @@ layout: post
 title: "Reading HTTP POST requests to an AWS Lambda function"
 ---
 
-This has taken me some time to figure out. But I guess one of my new initiatives is to build microservices without running server infrastructure because its much more cost efficient to do so. (Yes it's centralized, blahblah... but blockchain tech is still very new. Eventually I want to be able to read identity information off my blog onto the public blockchain)
+This has taken me some time to figure out. But I guess one of my new initiatives is to build microservices without running server infrastructure because its much more cost efficient to do so. (Yes it's centralized, blahblah... but blockchain tech is still very new. Eventually I want to be able to read identity information off my blog onto the public blockchain).
+
+Why am I pushing AWS lambda? Because it takes time and resources to set up a server farm properly. Or you are locked into a platform such as heroku (which **I still think is great** if you're deploying standard web apps). Or parse/firebase/backendless if you're into mobile app development. Those backend as a service platforms are great however, look [whats happening with parse](http://blog.parse.com/announcements/moving-on/) its good to have many options available. I don't evangelize lots of technologies. For me, hackers are like painters/artists - they focus on **the best way to get the job done** given tools available.
 
 I've figured out the GET part easily enough, but the POST part through API gateway requires the format into **application/json** and not **application/x-www-form-urlencoded**
 
