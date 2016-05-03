@@ -32,7 +32,7 @@ But I finally found a solution (and it seems to work out quite well. Almost too 
 15. Click "application/x-www-form-urlencoded".
 16. Click the pencil icon next to "Input passthrough".
 17. Select "Mapping template".
-18. Paste the following into the template box
+18. Paste the following into the template box. Don't forget to include any [stage variables](http://www.nolim1t.co/2016/04/28/managing-versions-across-multiple-environments.html)! Refer to my post about stage variables and why you should use them.
 
 ```code
 ## convert HTML POST data or HTTP GET query string to JSON
@@ -78,8 +78,11 @@ But I finally found a solution (and it seems to work out quite well. Almost too 
  #end
 #end
  
-## next we set up our loop inside the output structure "{" and "}"
+## We now populate the key value stuff.
+## Including any stage variables too because 'tis bad to check in configuration variables
 {
+ "version": "$stageVariables.get('version')",
+ "tablename": "$stageVariables.get('tablename')",
 #foreach( $kvPair in $tokenisedEquals )
   ## finally we output the JSON for this pair and append a comma if this isn't the last pair
   #set($kvTokenised = $kvPair.split("="))
