@@ -1,3 +1,4 @@
 *.sw*
 _site/
 Gemfile.lock
+.bundle
