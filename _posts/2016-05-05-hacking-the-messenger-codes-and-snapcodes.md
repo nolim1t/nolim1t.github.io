@@ -18,4 +18,5 @@ Next, take your original photo and put it behind the snapcode background.
 Then take your snapcode and put it within the messenger code circle.
 
 Example:
+
 ![Messenger and snapcode](//d3hs7z89jfjpsh.cloudfront.net/profile/nolim1t_snap_and_messenger.png)
