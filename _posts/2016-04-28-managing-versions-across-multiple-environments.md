@@ -10,10 +10,10 @@ As a developer it’s important to have a consistent environment for several rea
 * Better Quality Assurance/Control Processes: Developers or anyone else are not very good at catching their own mistakes. From a UX point of view if you have better developed product, you would probably want to have some dedicated quality assurance people (or engage with another quality assurance provider).  But to have a good Quality Assurance Process you need to know what sort of versions they need to use.
 
 Tools you can use (I know there are others, but this is what I use)
-- Ruby: [rbenv](https://github.com/rbenv/rbenv)
-- Node.js: [nvm](https://github.com/creationix/nvm)
-- Python: [pyenv](https://github.com/yyuu/pyenv)
-- Systems/Infrastructure (and deployment): [puppet](https://github.com/puppetlabs/puppet), [chef](https://github.com/chef/chef), [docker](https://github.com/docker/docker)
+* **Ruby:** [rbenv](https://github.com/rbenv/rbenv)
+* **Node.js:** [nvm](https://github.com/creationix/nvm)
+* **Python:** [pyenv](https://github.com/yyuu/pyenv)
+* **Systems/Infrastructure (and deployment):** [puppet](https://github.com/puppetlabs/puppet), [chef](https://github.com/chef/chef), [docker](https://github.com/docker/docker)
 
 Using the above tooling let you choose the version that will be run across all environments (as well as not mess up someones local system - personally I do not take too kindly to someone making me install software packages, unless you’re a top paying client)
 
