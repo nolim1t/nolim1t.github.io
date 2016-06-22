@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WWDC 2016 - My Thoughts"
+title: "WWDC 2016 - My Writeup and thoughts"
 ---
 ![Hello, WWDC16](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160623/dubdub16.jpg)
 
