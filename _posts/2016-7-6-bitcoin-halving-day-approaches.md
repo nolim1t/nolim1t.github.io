@@ -82,5 +82,6 @@ St Louis, MO: [http://www.meetup.com/St-Louis-Bitcoin-Users-Group/events/2315659
 San Francisco, CA: [http://www.meetup.com/San-Francisco-Bitcoin-Social/events/228473627/](http://www.meetup.com/San-Francisco-Bitcoin-Social/events/228473627/)
 
 **Taiwan:**
+
 Kaohsiung:
 [http://www.meetup.com/Kaohsiung-Bitcoiners/events/232246215/](http://www.meetup.com/Kaohsiung-Bitcoiners/events/232246215/)
