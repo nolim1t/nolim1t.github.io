@@ -9,7 +9,7 @@ I wasn't really active then so this might be another boost to the crypto currenc
 * Has the similar properties of gold 
 * with one additional property that it can be moved anyway without too much effort,
 
-Anyway here is a [list credits to thehalvening.com](http://blog.thehalvening.com/bitcoin-halving-parties-2016/) of halvening parties.
+Anyway here is a [list with main credits to thehalvening.com](http://blog.thehalvening.com/bitcoin-halving-parties-2016/) of halvening parties. If you know anymore, send a pull request or issue request to [this project](https://github.com/nolim1t/nolim1t.github.io) and/or maybe let the guys at the halvening know too.
 
 **Argentina:**  
 Buenos Aires: [http://www.meetup.com/Bitcoin-Argentina/events/232283091/](http://www.meetup.com/Bitcoin-Argentina/events/232283091/)
