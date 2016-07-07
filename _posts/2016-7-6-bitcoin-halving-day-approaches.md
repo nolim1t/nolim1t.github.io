@@ -84,4 +84,7 @@ San Francisco, CA: [http://www.meetup.com/San-Francisco-Bitcoin-Social/events/22
 **Taiwan:**
 
 Kaohsiung:
-[http://www.meetup.com/Kaohsiung-Bitcoiners/events/232246215/](http://www.meetup.com/Kaohsiung-Bitcoiners/events/232246215/)
+[http://www.meetup.com/Kaohsiung-Bitcoiners/events/232246215/](http://www.meetup.com/Kaohsiung-Bitcoiners/events/232246215)
+
+## Hong Kong
+Wanchai: [http://meetu.ps/e/BN4Kk/1wyqs/a](http://meetu.ps/e/BN4Kk/1wyqs/a)
