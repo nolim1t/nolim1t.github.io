@@ -38,13 +38,11 @@ and then fill in all the information and follow the instructions.
 
 You will need to create a challenge file on AWS S3. I recommend storing the challenge locally in a file called acme-challenge
 
-And for each server you need to do this.
+And for each server you need to do this (which uploads a file as a public file)
 
 ```bash
-aws s3 --profile=yourprofile cp acme-challenge s3://s3bucketname/.well-known/acme-challenge/thefilenametofetch
+aws s3 --profile=yourprofile  --region=regionname cp acme-challenge s3://s3bucketname/.well-known/acme-challenge/thefilenametofetch --acl public-read
 ```
-Then you need to set the permission of the file to be writeable.
-
 Test out the URL first and then hit ENTER to verify through the certbot tool.
 
 Then use AWS IAM to upload the certificate.
