@@ -10,3 +10,5 @@ But I settled on React (only because I want to do a React Native project.. Baby 
 I guess if you still like having everything on a controller, then use react, but if you want to split up the DOM components into each class you should use react.
 
 It's still early days anyway.
+
+And next step is to get rid of all that cloudflare code (because Cloudflare doesn't work properly in mainland China, I'd like to get some Mainland china readership here too)
