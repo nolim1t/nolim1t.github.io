@@ -14,6 +14,14 @@ var LastSeenComponent = React.createClass({
         if (result.meta.status == 200) {
           setLocation(result);
         }
+      },
+      error: function(error) {
+        console.log("Error: " + JSON.stringify(error));
+        setLocation({
+          "where": {
+              "code": "XX",
+          }
+        });
       }
     });
   },
@@ -24,18 +32,24 @@ var LastSeenComponent = React.createClass({
   setLocationState: function(location) {
     var countrycode = location.where.code;
     var location_string = "";
-    if (location.where.city != undefined) {
-      location_string = location.where.city + ", ";
-    }
-    location_string = location_string + location.where.country;
-    if (location.where.lastseen_timestamp != undefined) {
-      location_string = location_string + " " + moment.unix(parseInt(location.where.lastseen_timestamp)).fromNow();
-    }
-    var timestamp = location.where.lastseen_timestamp;
+    if (countrycode != "XX") {
+      if (location.where.city != undefined) {
+        location_string = location.where.city + ", ";
+      }
+      location_string = location_string + location.where.country;
+      if (location.where.lastseen_timestamp != undefined) {
+        location_string = location_string + " " + moment.unix(parseInt(location.where.lastseen_timestamp)).fromNow();
+      }
+      var timestamp = location.where.lastseen_timestamp;
 
-    this.setState({
-      data: location_string
-    });
+      this.setState({
+        data: location_string
+      });
+    } else {
+      this.setState({
+        data: "Error fetching location"
+      });
+    }
   },
   render: function() {
     return (
