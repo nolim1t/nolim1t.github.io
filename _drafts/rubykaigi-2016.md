@@ -58,8 +58,8 @@ The bento art features the Rail map for Kyoto.
 
 More on Ruby 3.
 
-* Performance
-* Concurrency
+* Performance (3x the speed!)
+* Concurrency (Guilds, see the talk by Koichi-San)
 * Typing (The focus of the keynote)
 
 ###### Typing in Ruby (by Matz)
