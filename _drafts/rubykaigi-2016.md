@@ -37,7 +37,7 @@ It's showtime. Here are the highlights
 
 Matz discusses that static Typed language in Ruby 3 would be a possibility to follow the footsteps of Swift, Go, TypeScript. However technology is like a pendulum - it goes back and forth.
 
-He also discusses that hot languages went from non-staticly typed, to staticly typed, but it might back.
+He also discusses that hot languages went from non-staticly typed, to staticly typed, but it might come back again so maybe Ruby 3 will remain dynamic typed.
 
 ### Day 2
 
