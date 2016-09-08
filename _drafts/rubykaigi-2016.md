@@ -26,18 +26,61 @@ It's showtime. Here are the highlights
 
 #### Ruby Kaigi Keynote
 
-
 ##### Ruby 3
+
+More on Ruby 3.
 
 * Performance
 * Concurrency
-* Typing
+* Typing (The focus of the keynote)
 
 ###### Typing in Ruby (by Matz)
 
 Matz discusses that static Typed language in Ruby 3 would be a possibility to follow the footsteps of Swift, Go, TypeScript. However technology is like a pendulum - it goes back and forth.
 
-He also discusses that hot languages went from non-staticly typed, to staticly typed, but it might come back again so maybe Ruby 3 will remain dynamic typed.
+He also discusses that hot languages went from non-staticly typed , to staticly typed, but it might come back again so maybe Ruby 3 will remain dynamic typed.
+
+
+#### mRuby and Docker
+
+2 types of container apps:
+* Docker
+* LXC (More understable than docker)
+
+##### drone.io
+* Ephemeral CI container backend. Bit theres some issues (see issue #6980)
+
+##### sqale.jp
+* LXC based PaaS
+
+##### Cleanup for docker
+docker ps -a | grep Exited | awk '{print $1 }' | xargs docker rm -f
+
+##### Haconiwa
+
+* Haconiwa means miniture garden in Japanese
+* Installed using [package cloud](http://packagecloud.io)
+* Can remove certain capabilities that root traditionally have access to. Because root is dangerous.
+* Process is treated as an OS by an developer and controlled by a Ruby DSL
+* Haconiwa can provide the abstract layer for resource limitation, namespace, filesystem and kernel.
+
+###### First implementation
+
+* Using CRuby
+* Limitations where CRuby is multithreaded but some system calls can't be run in multithreaded mode
+
+###### mRuby implementation
+
+* Haconiwa is created under the mruby-cli layout
+
+###### Summary
+
+* Containers embrace the UNIX philosophy
+* mruby is good for cool and well designed APIs
+
+#### GLSL on OpenFrameworks
+
+
 
 ### Day 2
 
