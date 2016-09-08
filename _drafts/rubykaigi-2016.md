@@ -127,8 +127,34 @@ docker ps -a | grep Exited | awk '{print $1 }' | xargs docker rm -f
 
 #### Scalable job queue system built with Docker
 
-* Point 1
-* Point 2
+* Job queue system definition by the speaker. Queue up the task request and then have workers listen for the request.
+* Job Queue system: Barbecue (developed by cookpad)
+* github.com/cookpad/barbeque (rubygem)
+* Components: Built with Serverengine, Execute a job using Docker, Slack notification, Web API, and web console  (register applications, see logs in S3)
+* Barbeque worker = serverengine
+* Barbeque enqueues to AWS SQS
+* Barbeque client gem is also available
+
+
+##### Amazon SQS
+###### Benefits
+
+* Scalable
+* High availability
+
+###### Tradeoffs
+
+* There may be deplicate messages
+* Maximum queue retry is 900 seconds
+
+##### Gems
+
+* Resque gem (defining the job)
+* Resque-web
+* delayed_job gem
+* delayed_job_web
+* Shoryuken gem
+* hako (github.com/eagletmt/hako) - Docker deploy gem that deploys to ECS
 
 ### Day 2
 
