@@ -18,38 +18,39 @@ Of course a trip to Kyoto (especially the first time), isn't complete without vi
 * Kinkaku-ji or the Golden Temple
 * Kiyomizu-dera Temple (Perfect for the sunset)
 
-[Kinkaku-ji](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/kinkakuji.png)
-[Kiyomizudera](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/Kiyomizudera.png)
+![Kinkaku-ji](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/kinkakuji.png)
+![Kiyomizudera](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/Kiyomizudera.png)
 
-[Okonomiyaki](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/okonomiyaki.png)
+![Okonomiyaki](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/okonomiyaki.png)
 
 The weather for the first day was perfect, until the evening then the Typhoon type weather started. But then most of the trip would be spent indoors.
 
-### Day 1
-
-[Kyoto ICC](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/icc-convention-center.png)
-[Lets start](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-convention.png)
-
-It's showtime. Here are the highlights
-
-#### Sponsors
+### Sponsors
 
 A good conference wouldn't happen without sponsors. My most notable one is TravisCI, which has some cool stickers.
 
 This time, it pays homage to diversity in tech
 
-[TravisCI](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/travis-ci-diversity-stickers.png)
+![TravisCI](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/travis-ci-diversity-stickers.png)
 
-#### Bento
+
+### Day 1
+
+![Kyoto ICC](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/icc-convention-center.png)
+![Lets start](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-convention.png)
+
+It's showtime. Here are the my notes on the conference (and some pictures)
+
+#### Bento (Day 1)
 
 This conference unlike the 2015 one actually has a Bento sponsor (which is good because theres no food around the area).
 
 The bento art features the Rail map for Kyoto.
 
-[Cover Art](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-day1-bento-coverart.png)
-[Sushi](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-day1-bento.png)
+![Cover Art](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-day1-bento-coverart.png)
+![Sushi](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-day1-bento.png)
 
-#### Ruby Kaigi Keynote
+#### Ruby Kaigi Matznote
 
 ##### Ruby 3
 
