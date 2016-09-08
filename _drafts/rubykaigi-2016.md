@@ -156,7 +156,7 @@ docker ps -a | grep Exited | awk '{print $1 }' | xargs docker rm -f
 * Shoryuken gem
 * hako (github.com/eagletmt/hako) - Docker deploy gem that deploys to ECS
 
-more information can be found on the [slide deck](https://speakerdeck.com/k0kubun/scalable-job-queue-system-built-with-docker)
+More information can be found on the [slide deck](https://speakerdeck.com/k0kubun/scalable-job-queue-system-built-with-docker)
 
 ### Day 2
 
