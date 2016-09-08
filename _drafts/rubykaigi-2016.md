@@ -36,7 +36,9 @@ This time, it pays homage to diversity in tech
 
 ### Day 1
 
+![Kyoto ICC](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/kyoto-icc-yicam.png)
 ![Kyoto ICC](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/icc-convention-center.png)
+
 ![Lets start](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-convention.png)
 
 It's showtime. Here are the my notes on the conference (and some pictures)
@@ -122,6 +124,11 @@ docker ps -a | grep Exited | awk '{print $1 }' | xargs docker rm -f
 ##### Useful Gems
 
 * bcrypt gem for encrypting passwords
+
+#### Scalable job queue system built with Docker
+
+* Point 1
+* Point 2
 
 ### Day 2
 
