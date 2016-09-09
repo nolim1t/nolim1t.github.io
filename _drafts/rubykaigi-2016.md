@@ -163,6 +163,7 @@ More information can be found on the [slide deck](https://speakerdeck.com/k0kubu
 ### Day 2
 
 ![Day 2](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-day2-icc.png)
+![The Foyer](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/kyoto-icc-foyer.png)
 
 A bit better weather, so maybe lunch outside in the gardens today.
 
@@ -197,6 +198,21 @@ A bit better weather, so maybe lunch outside in the gardens today.
 
 * "suture" gem testdouble/suture (Do not put in in the Gemfile). Useful for testing old functions. Released on the date of the keynote September 9th 2016!
 
+
+#### Writing A Gameboy Emulator in Ruby
+
+* The talk featured how to emulate different parts of the gameboy such as the CPU, memory, and GPU as Ruby classes in great detail.
+* Code found at: https://github.com/colby-swandale/waterfoul
+
+#### Big Data support with rubygems.org
+
+* Talk explained how to use github repo data, and ruby gems data to get the popularly used gems to better support the Google Cloud platform.
+* Uses Google BigQuery to do this. You have to get the data into Google BigQuery before you can do this (CSV import)
+* "Rubyists are most consistent on Spaces vs Tabs" #bigdata
+
+##### Gems
+
+* gcloud gem: Formally known as google-cloud.
 
 ### Day 3
 
