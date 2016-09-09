@@ -193,9 +193,10 @@ A bit better weather, so maybe lunch outside in the gardens today.
 
 * 99 Bottles of OOP
 
-##### Gens
+##### Gems
 
-* "suture" gem testdouble/suture (Do not put in in the Gemfile)
+* "suture" gem testdouble/suture (Do not put in in the Gemfile). Useful for testing old functions. Released on the date of the keynote September 9th 2016!
+
 
 ### Day 3
 
