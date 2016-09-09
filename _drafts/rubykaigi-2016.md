@@ -214,6 +214,28 @@ A bit better weather, so maybe lunch outside in the gardens today.
 
 * gcloud gem: Formally known as google-cloud.
 
+#### Bento (Day 2)
+
+The bento sponsor for day 2 is ESM (Eiwa System Management).
+
+#### Lonely Operator &. (Ruby 2.3) talk (@ericweinstein at github/twitter)
+
+* Similar to ? or Optionals in Swift
+* Object#try in ActiveSupport works too but the library is quite big if you only need that.
+* Slides available on speakerdeck
+
+##### A World Without non-staticly
+
+Meaningless states wouldn't be representable,  but meaningless states show up all the time. Such as a person with date of birth and date of death. Someone still alive would not have a date of death.
+
+##### TLDR
+
+* Nil is powerful, dangerous, and ubiquitous.
+* Use &. so that you don't cause errors/exceptions.
+
+#### Web Server concurrency
+
+
 ### Day 3
 
 What happened day 3
