@@ -443,5 +443,6 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 * Ruby uses fibers, so you don't need to worry about OS threads
 * Fibers is still on a single thread
 
+Add image for fibers (explanation)
 
 #### Closing Remarks
