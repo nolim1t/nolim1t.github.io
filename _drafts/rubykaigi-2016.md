@@ -303,7 +303,7 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 [![Ruby Committers](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/RubyCommitters.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/RubyCommitters-Full.png)
 
-* 
+* 2 new committers joined since December 2015
 
 #### Web Clients for Ruby and What they should be in the future
 
@@ -321,6 +321,4 @@ RubyKaigiB
 
 RubyKaigiB
 
-### Key Takeaways from the conference
-
-This can only be entered on the last day
+#### Closing Remarks
