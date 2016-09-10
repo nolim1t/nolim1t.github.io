@@ -422,7 +422,9 @@ Include image from phone
 
 ####### How to push while processing requests
 
-Include the phone
+Include the phone image
+
+* Supported in H2O 2.1
 
 ####### Using mruby for other stuff
 
