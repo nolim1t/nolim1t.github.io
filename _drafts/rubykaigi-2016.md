@@ -216,7 +216,7 @@ A bit better weather, so maybe lunch outside in the gardens today.
 
 #### Bento (Day 2)
 
-The bento sponsor for day 2 is ESM (Eiwa System Management).
+The bento sponsor for day 2 is ESM (Eiwa System Management). There's a hidden message if you try to run the code written on the bento box too ;)
 
 ![Bento Cover](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day2-bento-cover.png)
 ![Bento Food](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day2-bento-food.png)
@@ -268,9 +268,10 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 #### Pwrake: Distributed Workflow Engine based on Rake (@masa16tanaka)
 
-add logo from processed files on desktop.
+[![PW Rake](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/prake-structure-thumb.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/prake-structure-full.png)
 
-* Rubygem location: github.com/masa16/pwrake | [Github Page](https://masa16.github.io/pwrake/)
+
+* Rubygem location: github.com/masa16/pwrake
 * Uses Fiber. Because threads are limited (see **ulimit -u**). Hard to find the reason for deadlocks. Faster, but just need to wait for I/O from worker nodes. Easier to code.
 * Uses Rake for the definition language
 * Use seki/bartender gem for Asynchronous I/O
@@ -296,7 +297,25 @@ add logo from processed files on desktop.
 
 ### Day 3
 
-What happened day 3
+#### Ruby Committers vs the World
+
+rubykaigiA
+
+#### Web Clients for Ruby and What they should be in the future
+
+RubyKaigiB
+
+#### Deletion Driven Development: Code to delete code!
+
+RubyKaigiB
+
+#### Recent Advances in HTTP and Controlling them using ruby
+
+RubyKaigiB
+
+#### Ruby Concurrency compared
+
+RubyKaigiB
 
 ### Key Takeaways from the conference
 
