@@ -72,7 +72,6 @@ Also, news is that ruby is getting a database.
 
 When will ruby 3 be released? Hopefully by 2020. I'll hold him to that promise.
 
-
 #### mRuby and Docker
 
 2 types of container apps:
@@ -95,6 +94,7 @@ docker ps -a | grep Exited | awk '{print $1 }' | xargs docker rm -f
 * Can remove certain capabilities that root traditionally have access to. Because root is dangerous.
 * Process is treated as an OS by an developer and controlled by a Ruby DSL
 * Haconiwa can provide the abstract layer for resource limitation, namespace, filesystem and kernel.
+* [Slides](https://speakerdeck.com/udzura/mruby-on-container)
 
 ###### First implementation
 
@@ -109,6 +109,10 @@ docker ps -a | grep Exited | awk '{print $1 }' | xargs docker rm -f
 
 * Containers embrace the UNIX philosophy
 * mruby is good for cool and well designed APIs
+
+#### Ruby 3 concurrency
+
+* [Slides](http://www.atdot.net/~ko1/activities/2016_rubykaigi.pdf)
 
 #### GLSL on mruby with OpenFrameworks
 
@@ -346,6 +350,7 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 * [Ruby Gem Debride]( https://github.com/seattlerb/debride): Ruby dead method processor.  Runs against a dir or file. Can be used in a commit hook?
 * [olde_code_finder](https://github.com/tcopeland/olde_code_finder) : Ruby gem to check code content by date and authorship.
 * [unused](https://github.com/joshuaclayton/unused) : Haskell to utilize ctags to find unused code.
+* [Slides](https://chrisarcand.com/talks/deletion-driven-development-code-to-delete-code/)
 
 ##### Gems
 
@@ -358,12 +363,13 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 ![Cover](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day3-bento-cover.png)
 ![Food](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day3-bento-food.png)
 
-#### Recent Advances in HTTP and Controlling them using ruby
+#### Recent Advances in HTTP and Controlling them using ruby (@kazuho)
 
 ##### Summary
 * http/2 is becoming popular
 * TLS/1.3 and QUIC also are upcoming specs
 * H2O is configured using mruby
+* [Slides](http://www.slideshare.net/tkawa1/rubykaigi2016-web-clients-for-ruby)
 
 ##### Why use HTTP/2
 
