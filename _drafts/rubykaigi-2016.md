@@ -454,7 +454,4 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 
 [![Fibers and threads](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fibers-and-threads.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fibers-and-threads-full.png)
 
-#### CRuby Internals (Keynote)
-
-
 #### Closing Remarks
