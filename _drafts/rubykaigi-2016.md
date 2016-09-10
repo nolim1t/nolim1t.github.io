@@ -325,7 +325,7 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 * { Grape }
 
-##### Gems that the author built
+##### Gems that the speaker has built
 
 * faraday-navigation : Go back and forward, follow and link, fill in parameters. Use link header from RFC5988 amd URI template from RFC6570
 * faraday-link-extractor : Extract links from APIs and convert them to a link header. Theres a github compatible extractor.
