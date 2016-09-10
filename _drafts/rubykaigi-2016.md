@@ -416,13 +416,14 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 
 ###### How to push while processing requests
 
-Include the phone image
+
+[![Push while processing requests](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/http2-push-while-proccessing-request-small.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/http2-push-while-proccessing-request-full.png)
 
 * Supported in H2O 2.1
 
 ##### Using mruby for other stuff
 
-Include the image from phone
+[![mruby for other stuff](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/other-h2o-stuff-mruby-small.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/other-h2o-stuff-mruby.png)
 
 * Authentication
 * DoS control
@@ -439,5 +440,8 @@ Include the image from phone
 ##### Key takes
 
 * Node.js is good for fast IO, but for CPU use another technology
+* Ruby uses fibers, so you don't need to worry about OS threads
+* Fibers is still on a single thread
+
 
 #### Closing Remarks
