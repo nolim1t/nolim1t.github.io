@@ -323,7 +323,7 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 ##### Frameworks mentioned in the talk
 
-* { Grape }
+* [Grape Framework](https://github.com/ruby-grape/grape)
 
 ##### Gems that the speaker has built
 
@@ -351,6 +351,9 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 * ruby_parser (Put it in a format that we can work with)
 
+#### Day 3 lunch
+
+Today (last day) doesn't have a special mention to any of the big sponsors.
 
 #### Recent Advances in HTTP and Controlling them using ruby
 
