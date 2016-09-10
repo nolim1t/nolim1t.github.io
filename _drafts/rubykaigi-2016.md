@@ -218,11 +218,26 @@ A bit better weather, so maybe lunch outside in the gardens today.
 
 The bento sponsor for day 2 is ESM (Eiwa System Management).
 
+![Bento Cover](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day2-bento-cover.png)
+![Bento Food](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day2-bento-food.png)
+
+![Outside](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/kyoto-icc-day-2-pond.png)
+![Swan](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/kyoto-icc-day-2-pond-swan.png)
+
+![Swan 2](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/kyoto-icc-day-2-pond-swan-2.png)
+
+##### The book line
+
+Also noted this at the book queue. Best way of communicating in an international Ruby Conference.
+
+![End of the line](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day-2-end-of-the-line.png)
+![End of the line 2](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day-2-end-of-the-line-2.png)
+
 #### Lonely Operator &. (Ruby 2.3) talk (@ericweinstein at github/twitter)
 
 * Similar to ? or Optionals in Swift
 * Object#try in ActiveSupport works too but the library is quite big if you only need that.
-* Slides available on speakerdeck
+* Slides available on [speakerdeck](https://speakerdeck.com/ericqweinstein/a-nil-device-a-lonely-operator-and-a-voyage-to-the-void-star)
 
 ##### A World Without non-staticly
 
@@ -235,6 +250,49 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 #### Web Server concurrency
 
+* github.com/engineyard/rubykaigi2016-concurrency
+* fork in multi process doesn't work on Jruby or Windows
+
+##### Web servers
+
+* Mongrel is unmaintained
+* Swiftiply (event driven using EventMachine). Works like an reverse proxy
+* Puma runs on the backbones of mongrel. Thread based. And fast. It's based on thin.
+* Passenger is common in the rails world. multiprocess.
+* Unicorn is not fast but stable.
+* ServerEngine (Spoken at RubyKaigi 2016)
+
+##### Gems
+
+* [Scrawls](https://github.com/wyhaines/scrawls)
+
+#### Pwrake: Distributed Workflow Engine based on Rake (@masa16tanaka)
+
+add logo from processed files on desktop.
+
+* Rubygem location: github.com/masa16/pwrake | [Github Page](https://masa16.github.io/pwrake/)
+* Uses Fiber. Because threads are limited (see **ulimit -u**). Hard to find the reason for deadlocks. Faster, but just need to wait for I/O from worker nodes. Easier to code.
+* Uses Rake for the definition language
+* Use seki/bartender gem for Asynchronous I/O
+* [Gfarm filesystem](https://sourceforge.net/projects/gfarm/) - Designed for wide area file system.
+* NICT Science cloud is the GFarm file system to do file processing
+* Subaru Telescope uses gfarm and prake to process a large amount of data quickly.
+
+#### FluentD plugin system (@tagomoris)
+
+* msgpack-inspect written by speaker for reading binaries
+* Black Magic = Metaprogramming in Programming
+* Fluent v0.14 released
+* Logo change! (Add logo from phone camera)
+* New plugin namespace
+* Plugin base class for common methods
+* Plugin call stack is different
+
+#### JRuby (@tom_enebo)
+
+* JRuby 9.1.4.0 = 2.3 compatible (so can use &.)
+* FORA (Fix Once, Run Anywhere). JRuby 9000.
+* OORA (Optimized Once, Run Anywhere)
 
 ### Day 3
 
