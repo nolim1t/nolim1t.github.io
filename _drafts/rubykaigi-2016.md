@@ -444,6 +444,7 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 * Fibers is still on a single thread
 * Ruby does Multiprocessing (fork) and Multithreading (Thread)
 * Threads require less overhead
+* Ruby has a concurrent-ruby gem which is a general purpose abstraction
 
 Add image for fibers (explanation)
 
