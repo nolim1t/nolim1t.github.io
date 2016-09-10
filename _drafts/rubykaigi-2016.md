@@ -311,10 +311,29 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 * There's talk about a rvm / rbenv type package manager may be incorporate, but it may be out of scope.
 * Ruby committers would like to see younger developers to keep it going.
 * Question: Package management library for specifying versions for linked C libraries. However it's difficult because different operating systems handle its database differently.
+* Ruby 2.4 is released in Ruby Kaigi
 
-#### Web Clients for Ruby and What they should be in the future
+#### Web Clients for Ruby and What they should be in the future (@tkawa)
 
-RubyKaigiB
+* Many ruby HTTP clients available. 2 different HTTP clients in the standard library.
+* Many gems are dedicated to each web API, except they are tailored specific to it but you have to read the gems documentation rather than the web API.
+* Faraday gem. HTTP client that wraps the net/http library. Very familiar with rack middleware. There is some Faraday adapters that connect directly to rack.
+* Build a gem as a Faraday middleware so code is more reusable.
+* Faraday works like a web browser where there is inbuilt schemes
+
+##### Frameworks mentioned in the talk
+
+* { Grape }
+
+##### Gems that the author built
+
+* faraday-navigation : Go back and forward, follow and link, fill in parameters. Use link header from RFC5988 amd URI template from RFC6570
+* faraday-link-extractor : Extract links from APIs and convert them to a link header. Theres a github compatible extractor.
+
+##### Conclusion
+
+* APIs should be self documented.
+* APIs should be easy to use.
 
 #### Deletion Driven Development: Code to delete code!
 
