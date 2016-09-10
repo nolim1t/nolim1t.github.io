@@ -334,6 +334,7 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 * APIs should be self documented.
 * APIs should be easy to use.
+* APIs should be designed with RFC standards
 
 #### Deletion Driven Development: Code to delete code!
 
