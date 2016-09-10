@@ -304,6 +304,13 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 [![Ruby Committers](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/RubyCommitters.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/RubyCommitters-Full.png)
 
 * 2 new committers joined since December 2015
+* Bundler and RubyGems will be one tool.
+* Ruby 3 will remain compatible to 2, unlike Python 3 which breaks compatible.
+* If you use Japanese in environment variables, be prepared for possible breakage as there will be a change in encoding (Windows only)
+* A question was asked about a SVN -> Github (or git in general), but theres a lot of commit scripts which still is SVN dependent. Although pull requests can be still received from github.
+* There's talk about a rvm / rbenv type package manager may be incorporate, but it may be out of scope.
+* Ruby committers would like to see younger developers to keep it going.
+* Question: Package management library for specifying versions for linked C libraries. However it's difficult because different operating systems handle its database differently.
 
 #### Web Clients for Ruby and What they should be in the future
 
