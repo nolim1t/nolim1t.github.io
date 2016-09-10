@@ -337,9 +337,20 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 * APIs should be designed with RFC standards
 * Build components on a common interface like Faraday
 
-#### Deletion Driven Development: Code to delete code!
+#### Deletion Driven Development: Code to delete code! (@chrisarcand)
 
-RubyKaigiB
+* Programmatically delete code
+* Parse ruby code
+* Build method parser
+* Build dead method finder. WarningL: Ruby is complex so you might need to add edge cases.
+* [Ruby Gem Debride]( https://github.com/seattlerb/debride): Ruby dead method processor.  Runs against a dir or file. Can be used in a commit hook?
+* [olde_code_finder](https://github.com/tcopeland/olde_code_finder) : Ruby gem to check code content by date and authorship.
+* [unused](https://github.com/joshuaclayton/unused) : Haskell to utilize ctags to find unused code.
+
+##### Gems
+
+* ruby_parser (Put it in a format that we can work with)
+
 
 #### Recent Advances in HTTP and Controlling them using ruby
 
