@@ -454,4 +454,21 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 
 [![Fibers and threads](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fibers-and-threads.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fibers-and-threads-full.png)
 
+#### CRuby Internals (Keynote) by (@nalsh)
+
+##### Proposing features.
+
+*  Make sure you're clear on the use case. Bad example is the touch(1) command which has two uses. Another example, Time class can be improved.
+* Design API for the group of use case and find a good name
+
+##### New platform issues
+
+* eg. clang / llvm-gcc. It's similar to gcc but optimizes code a bit better. It breaks Ruby GC
+* Visual C++ 2015 has different IO treatments which broke a few things.
+
+##### Debugging Ruby
+
+* pid2line.rb (gist.github.com/nurse)= shows source files and line numbers
+* SEGV = C level issue as the root cause)
+
 #### Closing Remarks
