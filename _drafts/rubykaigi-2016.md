@@ -355,6 +355,9 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 Today (last day) doesn't have a special mention to any of the big sponsors.
 
+![Cover](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day3-bento-cover.png)
+![Food](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/day3-bento-food.png)
+
 #### Recent Advances in HTTP and Controlling them using ruby
 
 RubyKaigiB
