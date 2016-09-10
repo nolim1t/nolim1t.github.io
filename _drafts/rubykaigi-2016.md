@@ -360,7 +360,44 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 
 #### Recent Advances in HTTP and Controlling them using ruby
 
-RubyKaigiB
+##### Why use HTTP/2
+
+* latency
+* HTTP/2 to conceallatency by raising Concurrency. 6 concurrent requests in HTTP/1 and 100 in HTTP/2
+
+##### Key features
+
+* Header compression
+* Multiplexing and prioritization
+* HTTP Push
+
+###### Header Compression
+
+* 90% reduction in the median for Compression
+* Works well
+
+###### Multiplexing and prioritization
+
+* Client gives hint on priority
+*
+
+###### HTTP Push
+
+* 20-30% speedup onpage render time
+* Unnecessary pushes?
+* Render time increased due to some anti-patterns
+* Consider preload instead of pushes
+* How to push from CDN?
+
+###### Ideal HTTP Transaction
+
+Include image from phone.
+
+###### In Reality
+
+Include image from phone
+
+
 
 #### Ruby Concurrency compared
 
