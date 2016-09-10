@@ -301,7 +301,9 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 #### Ruby Committers vs the World
 
-rubykaigiA
+[![Ruby Committers](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/RubyCommitters.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/RubyCommitters-Full.png)
+
+* 
 
 #### Web Clients for Ruby and What they should be in the future
 
