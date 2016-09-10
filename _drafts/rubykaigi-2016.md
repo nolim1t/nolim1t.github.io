@@ -281,6 +281,8 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 #### FluentD plugin system (@tagomoris)
 
+![FluentD Logo](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fluentd.png)
+
 * msgpack-inspect written by speaker for reading binaries
 * Black Magic = Metaprogramming in Programming
 * Fluent v0.14 released
