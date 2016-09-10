@@ -139,12 +139,12 @@ docker ps -a | grep Exited | awk '{print $1 }' | xargs docker rm -f
 
 
 ##### Amazon SQS
-###### Benefits
+##### Benefits
 
 * Scalable
 * High availability
 
-###### Tradeoffs
+##### Tradeoffs
 
 * There may be deplicate messages
 * Maximum queue retry is 900 seconds
@@ -446,10 +446,9 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 * Threads require less overhead
 * Ruby has a concurrent-ruby gem which is a general purpose abstraction
 
-Add image for fibers (explanation)
+[![Fibers and threads](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fibers-and-threads.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fibers-and-threads-full.png)
 
-#### Hijacking syscalls with (m)Ruby
+#### CRuby Internals (Keynote)
 
-* mruby-cli is a docker based solution
 
 #### Closing Remarks
