@@ -360,6 +360,11 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 
 #### Recent Advances in HTTP and Controlling them using ruby
 
+##### Summary
+* http/2 is becoming popular
+* TLS/1.3 and QUIC also are upcoming specs
+* H2O is configured using mruby
+
 ##### Why use HTTP/2
 
 * latency
@@ -397,6 +402,40 @@ Include image from phone.
 
 Include image from phone
 
+###### Hidden Resources
+
+* CSS @import or document.write() in javascript
+* Still an anti-pattern in HTTP/2, and also an anti-pattern in HTTP/1.
+
+####### Solution
+
+* Don't use it
+* use link rel=preload
+
+###### Server Side push
+
+####### How to push
+
+* Use rel=preload (Apache, H2, Cloudflare, nghttp2)
+* Use **rel=preload; nopush** to opt-out
+* W3C is working on the standard for push
+
+####### How to push while processing requests
+
+Include the phone
+
+####### Using mruby for other stuff
+
+Include the image from phone
+
+* Authentication
+* DoS control
+
+####### Avoid negative effect by push
+
+* Don't push unless cache-aware
+* Only push resources that block rendering (i.e. CSS/Javascript)
+* You can do img src=data-uri if its small and don't have to refresh the images.
 
 
 #### Ruby Concurrency compared
