@@ -470,5 +470,6 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 
 * pid2line.rb (gist.github.com/nurse)= shows source files and line numbers
 * SEGV = C level issue as the root cause)
+* .gdbinit =  shows what happened when ruby crashed.
 
 #### Closing Remarks
