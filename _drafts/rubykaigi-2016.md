@@ -384,7 +384,6 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 ###### Multiplexing and prioritization
 
 * Client gives hint on priority
-*
 
 ###### HTTP Push
 
@@ -396,11 +395,11 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 
 ###### Ideal HTTP Transaction
 
-Include image from phone.
+[![Ideal HTTP Transaction](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/ideal-http-transaction-small.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/ideal-http-transaction-big.png)
 
 ###### In Reality
 
-Include image from phone
+[![In Reality](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/reality-http-transaction-small.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/reality-http-transaction-big.png)
 
 ###### Hidden Resources
 
