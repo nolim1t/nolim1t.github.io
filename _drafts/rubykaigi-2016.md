@@ -448,4 +448,8 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 
 Add image for fibers (explanation)
 
+#### Hijacking syscalls with (m)Ruby
+
+* mruby-cli is a docker based solution
+
 #### Closing Remarks
