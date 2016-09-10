@@ -376,16 +376,16 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 * Multiplexing and prioritization
 * HTTP Push
 
-###### Header Compression
+##### Header Compression
 
 * 90% reduction in the median for Compression
 * Works well
 
-###### Multiplexing and prioritization
+##### Multiplexing and prioritization
 
 * Client gives hint on priority
 
-###### HTTP Push
+##### HTTP Push
 
 * 20-30% speedup onpage render time
 * Unnecessary pushes?
@@ -393,54 +393,51 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 * Consider preload instead of pushes
 * How to push from CDN?
 
-###### Ideal HTTP Transaction
+##### Ideal HTTP Transaction
 
 [![Ideal HTTP Transaction](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/ideal-http-transaction-small.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/ideal-http-transaction-big.png)
 
-###### In Reality
+##### In Reality
 
 [![In Reality](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/reality-http-transaction-small.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/reality-http-transaction-big.png)
 
-###### Hidden Resources
+##### Hidden Resources
 
 * CSS @import or document.write() in javascript
 * Still an anti-pattern in HTTP/2, and also an anti-pattern in HTTP/1.
 
-####### Solution
+##### Server Side push
 
-* Don't use it
-* use link rel=preload
-
-###### Server Side push
-
-####### How to push
+###### How to push
 
 * Use rel=preload (Apache, H2, Cloudflare, nghttp2)
 * Use **rel=preload; nopush** to opt-out
 * W3C is working on the standard for push
 
-####### How to push while processing requests
+###### How to push while processing requests
 
 Include the phone image
 
 * Supported in H2O 2.1
 
-####### Using mruby for other stuff
+##### Using mruby for other stuff
 
 Include the image from phone
 
 * Authentication
 * DoS control
 
-####### Avoid negative effect by push
+##### Avoid negative effect by push
 
 * Don't push unless cache-aware
 * Only push resources that block rendering (i.e. CSS/Javascript)
 * You can do img src=data-uri if its small and don't have to refresh the images.
 
 
-#### Ruby Concurrency compared
+#### Ruby Concurrency compared (@anildigital)
 
-RubyKaigiB
+##### Key takes
+
+* Node.js is good for fast IO, but for CPU use another technology
 
 #### Closing Remarks
