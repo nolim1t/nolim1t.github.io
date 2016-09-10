@@ -442,6 +442,8 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 * Node.js is good for fast IO, but for CPU use another technology
 * Ruby uses fibers, so you don't need to worry about OS threads
 * Fibers is still on a single thread
+* Ruby does Multiprocessing (fork) and Multithreading (Thread)
+* Threads require less overhead
 
 Add image for fibers (explanation)
 
