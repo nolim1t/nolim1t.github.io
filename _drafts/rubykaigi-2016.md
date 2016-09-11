@@ -119,6 +119,7 @@ docker ps -a | grep Exited | awk '{print $1 }' | xargs docker rm -f
 
 * GLSL is a DSL for OpenGL
 * mRuby Shader github.com/elct9620/mruby-shady-generator
+* [Slides](https://speakerdeck.com/elct9620/play-glsl-on-mruby-with-openframeworks)
 
 #### Isomorphic Web Programs in Web Programs
 
@@ -127,6 +128,7 @@ docker ps -a | grep Exited | awk '{print $1 }' | xargs docker rm -f
 * Command line: silica new app name (eg. silica new todo-app)
 * Advantages: Sgare the same models on client side and server side. Object marshalling (objects are the same)
 * Doesn't have validations on server side, but client side should do it for speed.
+* [Slides](http://rubykaigi.youchan.org/)
 
 ##### Useful Gems
 
