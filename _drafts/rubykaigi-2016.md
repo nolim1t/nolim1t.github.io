@@ -15,15 +15,16 @@ The first day, I decided to do some exploring of the city's attractions and tryi
 
 Of course a trip to Kyoto (especially the first time), isn't complete without visiting stuff such as:
 
-* Kinkaku-ji or the Golden Temple
-* Kiyomizu-dera Temple (Perfect for the sunset)
+* Kinkaku-ji or the Golden Temple (I heard this place is also good at sunset)
+* Kiyomizu-dera Temple (Perfect for the sunset too)
+* Eating Okonomiyaki (It's a local Kansai dish)
 
 ![Kinkaku-ji](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/kinkakuji.png)
 ![Kiyomizudera](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/Kiyomizudera.png)
 
 ![Okonomiyaki](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/okonomiyaki.png)
 
-The weather for the first day was perfect, until the evening then the Typhoon type weather started. But then most of the trip would be spent indoors.
+The weather for the first day was perfect, until the evening then the Typhoon type weather started. But then most of the trip would be spent indoors. The weather improved alot after the first day though.
 
 ### Sponsors
 
@@ -202,6 +203,7 @@ A bit better weather, so maybe lunch outside in the gardens today.
 
 * "suture" gem testdouble/suture (Do not put in in the Gemfile). Useful for testing old functions. Released on the date of the keynote September 9th 2016!
 
+[Slides](https://speakerdeck.com/searls/surgical-refactors)
 
 #### Writing A Gameboy Emulator in Ruby
 
@@ -213,6 +215,8 @@ A bit better weather, so maybe lunch outside in the gardens today.
 * Talk explained how to use github repo data, and ruby gems data to get the popularly used gems to better support the Google Cloud platform.
 * Uses Google BigQuery to do this. You have to get the data into Google BigQuery before you can do this (CSV import)
 * "Rubyists are most consistent on Spaces vs Tabs" #bigdata
+
+[Slides](http://www.thagomizer.com/files/ruby_kaigi_2016.pdf)
 
 ##### Gems
 
@@ -256,6 +260,7 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 
 * github.com/engineyard/rubykaigi2016-concurrency
 * fork in multi process doesn't work on Jruby or Windows
+* [Slides](https://engineyard.github.io/rubykaigi2016-concurrency/)
 
 ##### Web servers
 
@@ -283,6 +288,8 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 * NICT Science cloud is the GFarm file system to do file processing
 * Subaru Telescope uses gfarm and prake to process a large amount of data quickly.
 
+[Slides](https://speakerdeck.com/masa16tanaka/pwrake-distributed-workflow-engine-based-on-rake)
+
 #### FluentD plugin system (@tagomoris)
 
 ![FluentD Logo](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fluentd.png)
@@ -294,6 +301,8 @@ Meaningless states wouldn't be representable,  but meaningless states show up al
 * New plugin namespace
 * Plugin base class for common methods
 * Plugin call stack is different
+
+[Slides](http://www.slideshare.net/tagomoris/modern-black-mages-fighting-in-the-real-world)
 
 #### JRuby (@tom_enebo)
 
@@ -399,6 +408,8 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 * Consider preload instead of pushes
 * How to push from CDN?
 
+[Slides](http://www.slideshare.net/tkawa1/rubykaigi2016-web-clients-for-ruby)
+
 ##### Ideal HTTP Transaction
 
 [![Ideal HTTP Transaction](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/ideal-http-transaction-small.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/ideal-http-transaction-big.png)
@@ -441,9 +452,11 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 * You can do img src=data-uri if its small and don't have to refresh the images.
 
 
+[Slides](http://www.slideshare.net/kazuho/recent-advances-in-http-controlling-them-using-ruby)
+
 #### Ruby Concurrency compared (@anildigital)
 
-##### Key takes
+##### Key takes from this talk
 
 * Node.js is good for fast IO, but for CPU use another technology
 * Ruby uses fibers, so you don't need to worry about OS threads
@@ -454,7 +467,7 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 
 [![Fibers and threads](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fibers-and-threads.png)](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/fibers-and-threads-full.png)
 
-#### CRuby Internals (Keynote) by (@nalsh)
+#### Diving into CRuby ([Keynote](http://rubykaigi.org/2016/presentations/nalsh.html)) by (@nalsh)
 
 ##### Proposing features.
 
