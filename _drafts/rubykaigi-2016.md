@@ -473,3 +473,8 @@ Today (last day) doesn't have a special mention to any of the big sponsors.
 * .gdbinit =  shows what happened when ruby crashed.
 
 #### Closing Remarks
+
+Thanks to all the sponsors and helpers for making RubyKaigi 2016 happen! And amazing job to all the translators who managed to translate in real time some of the technical talks.
+
+![RubyKaigi Helpers](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-2016-closing.png)
+![Stats](https://d3hs7z89jfjpsh.cloudfront.net/nolim1t.co/20160908/rubykaigi-2016-stats.png)
