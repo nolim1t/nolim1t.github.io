@@ -38,7 +38,13 @@ var LastSeenComponent = React.createClass({
       }
       location_string = location_string + location.where.country;
       if (location.where.lastseen_timestamp != undefined) {
-        location_string = location_string + " " + moment.unix(parseInt(location.where.lastseen_timestamp)).fromNow();
+        var currentTime =  Math.floor(new Date().getTime() / 1000);
+        var TimeDiff = currentTime - parseInt(location.where.lastseen_timestamp);
+        if (TimeDiff < 259200) { // Less than 3 days
+          location_string = location_string + " " + moment.unix(parseInt(location.where.lastseen_timestamp)).fromNow();
+        } else {
+          location_string = location_string;
+        }
       }
       var timestamp = location.where.lastseen_timestamp;
 
