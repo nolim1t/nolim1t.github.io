@@ -77,19 +77,90 @@ Pink Street was where most of the action for the night summit was happening at w
 ![Tinder founder](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1488.png)
 ![Tinder stats](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1489.png)
 
-* **Tinder talk**: Tinder is very empowering for contacting people. Key takes on optimizing your profile: try not to do model poses, be real - people like authenticity, fill in all your information on your profile for a higher chance of matching.
+* **Tinder talk**: Tinder is very empowering for contacting people. Key takes on optimizing your profile: try not to do model poses, be real - people like authenticity, fill in all your information on your profile for a higher chance of matching. Also another surprising note about Tinder according to data gathered (Tinder is a tech company), is *drumroll* millennials are having less sex.
 
 ## Day 3 - My favorite (November 10th)
 
-* **How hackers changed the industry** - Key takes: The security industry started by scripts/tools to exploit vulnerabilities. Then as soon as a hacker got fired for testing out their own company network, someone started a company and sold it for a billion dollars to IBM. This spawned a whole new industry for security and penetration testing.
-* **Open source philosophy** - Key takes: transparency of governance and code. Free exchange of work. Makes it easier to work with people outside of the company without going into the details of intellectual property deals, etc. Open source doesn't work everywhere - some cultures don't take criticism very well. Will only work in places where having criticism is ok for the feedback loop. You can't compete without open source. Open source developers do it for the art of code creation with developers. Get it out there vs Get it perfect. Just make sure it builds. "If you're not gonna harvest the extra r&d out in the world you're not gonna compete". Recommended reading: [http://producingoss.com](http://producingoss.com)
-* **Conversation with a benevolent dictator for life - Larry Wall** - People use perl because it allows them to expressive. There is a huge ecosystem of modules. Perl caters with a lot of needs. And obviously fits the way they are thinking. Sometimes they just need a script, then they need to go a different direction. But programs tend to evolve from something simple to something complex. Bad programmers will produce bad code in any languages, good programmers can produce good code in any language (even PHP). On the topic of a 100 year language - we don't know what a language will be like in 100 years, but according to Larry Wall we can guess that it will be something can evolve over time - For example: Perl 5 was not anticipating the web, yet it was able to power most of the web when it was around. Perl 6 language concepts have come from natural languages. Community is important. Any language that is successful needs to have a good community.
-* **The Hacker Code - activity logs, encryption and radioactivity**.  Anything can be hacked by anyone. A backdoor for the good guys is a back door is the bad guys. Hacker responsible disclosure - report it then publish it. Hire hackers to hack your company - only way to make yourself secure. Bug bounties (crowd sourced security testing). Build Zero knowledge systems (the best database is a database with nothing in it). Be mindful of your digital footprint. No backdoor guarantee. Mr Robot (recommended show), real hack attacks. Encryption - world security vs national law enforcement. Going Dark vs Blinded by the light. Privacy policies = ownership policy. Personal information = hazardous waste (do not collect more than needed).  We are all connected.
-* **API design** - If you're a software engineer, chances are you are using something that someone else has done.
+Day 3 was my favorite. So basically I'm gonna split this up into subcategories because there is a lot of information to digest. Also, the general theme is about security and privacy (one of the hot topics - and my favorite thing). I'd like to be able to build zero knowledge systems personally.
+
+### How hackers changed the industry
+
+#### Key takes
+
+* The security industry started by scripts/tools to exploit vulnerabilities
+* Then as soon as a hacker got fired for testing out their own company network, someone started a company and sold it for a billion dollars to IBM. Therefore, this spawned a whole new industry for security and penetration testing.
+
+### Open source philosophy
+
+#### Key takes
+
+* Transparency of governance and code.
+* Free exchange of work. Makes it easier to work with people outside of the company without going into the details of intellectual property deals, etc.
+* Open source doesn't work everywhere - some cultures don't take criticism very well. Will only work in places where having criticism is ok for the feedback loop.
+* You can't compete without open source. Open source developers do it for the art of code creation. Get it out there vs Get it perfect. Just make sure it builds. "If you're not gonna harvest the extra r&d out in the world you're not gonna compete".
+* Recommended reading: [http://producingoss.com](http://producingoss.com)
+
+### Conversation with a benevolent dictator for life - Larry Wall
+
+#### Key Takes
+
+* People use perl because it allows them to expressive.
+* There is a huge ecosystem of modules.
+* Perl caters with a lot of needs. And obviously fits the way they are thinking. Sometimes they just need a script, then they need to go a different direction and build a full application. (MVP to real product!)
+* But programs tend to evolve from something simple to something complex. Bad programmers will produce bad code in any languages, good programmers can produce good code in any language (even PHP).
+* On the topic of a 100 year language - we don't know what a language will be like in 100 years, but according to Larry Wall we can guess that it will be something can evolve over time - For example: Perl 5 was not anticipating the web, yet it was able to power most of the web when it was around. Perl 6 language concepts have come from natural languages. Community is important.
+* Any language that is successful needs to have a good community.
+* My take: Perl is very similar to the ruby philosophy, from past RubyKaigi's - Matz also talks about the 100 year language at several RubyKaigis in Japan and Ruby conferences around the world
+
+### The Hacker Code - activity logs, encryption and radioactivity
+
+#### Key takes
+
+* Anything can be hacked by anyone.
+* A backdoor for the good guys is a back door is the bad guys. No backdoor guarantee is the best
+* Hacker responsible disclosure - report it then publish it
+* Hire hackers to hack your company - only way to make yourself secure.
+* Do Bug bounties (crowd sourced security testing).
+* Build Zero knowledge systems (the best database is a database with nothing in it)
+* Be mindful of your digital footprint
+* Mr Robot (recommended show), real hack attacks.
+* Encryption - world security vs national law enforcement.
+* On collecting data, Going Dark vs Blinded by the light.
+* Privacy policies = ownership policy
+*  Personal information = hazardous waste (do not collect more than needed)
+* We are all connected.
+
+### API Design talk
+
+* If you're a software engineer, chances are you are using something that someone else has done
+* APIs exist forever.
+
+
+### Reclaim your freedom with free (libre) software by Richard Stallman
 
 ![Richard Stallman](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1521.png)
 
-* **Reclaim your freedom with free (libre) software by Richard Stallman.** Everyone deserves freedom. Don't post photos on Instagram/Facebook. You don't use Facebook, Facebook uses you. For software to free (and the program not to use you) the users need complete control. Don't use apps that are tied to a particular server (vendor lock-in). DRM is malware. Amazon swind... kindle has a backdoor to delete books. Every portable phone has a universal backdoor (aka full time listening devices, tracking people's movements all the time). Mobile phones don't really have off switches. In other words - Stalin's dream. Democracy = freedom of movement. You shouldn't have to say who you are to transact (zero knowledge systems). Proprietary code = spyware. An ethical website runs without JavaScript. Insurance companies should not let people be tracked. Be scared about driverless cars. Can computers make moral decisions? (See I-Robot). Uber can set a dangerous precedent, if it becomes self aware (if you're doing something that someone doesn't agree with it - be careful). Online Payments can be anonymous but without aiding tax evasion. I don't like ads, I'm happy to pay if I can pay anonymously (data can be misused/stolen by rogue employees, governments, and other bad actors)
-* **Key takeaways for the day** -  Sharing is caring. Build zero knowledge systems to avoid getting hacked (make yourself an unattractive target)
+This talk goes into a lot of depth on freedom/privacy. Some key takes here:
+
+* Everyone deserves freedom.
+* Don't post photos on Instagram/Facebook. You don't use Facebook, Facebook uses you.
+* For software to free (and the program not to use you) the users need complete control.
+* Don't use apps that are tied to a particular server (vendor lock-in).
+* DRM is malware
+* Amazon swind... kindle has a backdoor to delete books. Every portable phone has a universal backdoor (aka full time listening devices, tracking people's movements all the time).
+* Mobile phones don't really have off switches. In other words - Stalin's dream. Democracy = freedom of movement
+* You shouldn't have to say who you are to transact (zero knowledge systems)
+* Proprietary code = spyware
+* An ethical website runs without JavaScript.
+* Insurance companies should not let people be tracked.
+* Be scared about driverless cars. Can computers make moral decisions? (See I-Robot).
+* Uber can set a dangerous precedent (especially if its driverless), if it becomes self aware (if you're doing something that someone doesn't agree with it - be careful).
+* Online Payments can be anonymous but without aiding tax evasion.
+* I don't like ads, I'm happy to pay if I can pay anonymously (data can be misused/stolen by rogue employees, governments, and other bad actors)
+
+### Key takeaways for the day
+
+* Sharing is caring
+* Build zero knowledge systems to avoid getting hacked (make yourself an unattractive target)
 
 ![Towards the end](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_baxiachiado_end.png)
