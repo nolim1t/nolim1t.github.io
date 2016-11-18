@@ -121,13 +121,13 @@ Day 3 was my favorite. So basically I'm gonna split this up into subcategories b
 * Hacker responsible disclosure - report it then publish it
 * Hire hackers to hack your company - only way to make yourself secure.
 * Do Bug bounties (crowd sourced security testing).
-* Build Zero knowledge systems (the best database is a database with nothing in it)
+* Build Zero knowledge systems - the best database is a database with nothing in it. If there's nothing in it you're not a target.
 * Be mindful of your digital footprint
 * Mr Robot (recommended show), real hack attacks.
 * Encryption - world security vs national law enforcement.
 * On collecting data, Going Dark vs Blinded by the light.
 * Privacy policies = ownership policy
-*  Personal information = hazardous waste (do not collect more than needed)
+* Personal information = hazardous waste (do not collect more than needed)
 * We are all connected.
 
 ### API Design talk
@@ -142,14 +142,14 @@ Day 3 was my favorite. So basically I'm gonna split this up into subcategories b
 
 This talk goes into a lot of depth on freedom/privacy. Some key takes here:
 
-* Everyone deserves freedom.
-* Don't post photos on Instagram/Facebook. You don't use Facebook, Facebook uses you.
+* Everyone deserves freedom
+* If you value privacy and your rights - don't post photos on Instagram/Facebook. You don't use Facebook, Facebook uses you. My own comment that any free platform does this - I still use those free platforms to connect, however I keep most of my good content on my own paid servers.
 * For software to free (and the program not to use you) the users need complete control.
 * Don't use apps that are tied to a particular server (vendor lock-in).
 * DRM is malware
 * Amazon swind... kindle has a backdoor to delete books. Every portable phone has a universal backdoor (aka full time listening devices, tracking people's movements all the time).
-* Mobile phones don't really have off switches. In other words - Stalin's dream. Democracy = freedom of movement
-* You shouldn't have to say who you are to transact (zero knowledge systems)
+* Mobile phones don't really have off switches. In other words - Stalin's dream in the soviet union had the technology existed then. Democracy = freedom and privacy of movement
+* You shouldn't have to say who you are to transact (zero knowledge systems). See the previous talk about why Zero knowledge systems are important.
 * Proprietary code = spyware
 * An ethical website runs without JavaScript.
 * Insurance companies should not let people be tracked.
