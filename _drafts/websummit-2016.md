@@ -63,27 +63,52 @@ Pink Street was where most of the action for the night summit was happening at w
 
 #### Facebook
 
+![Facebook Booth](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_facebook_stand.png)
+
 * Showcasing Facebook Workplaces (basically a slack competitor)
 * FBStart for web summit
 * Free coffee (although personally the web summit coffee from the automatic booths was better).
 
 #### Delta coffee
 
-![Delta Coffee Macine](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_deltacoffee.png)
+![Delta Coffee Machine](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_deltacoffee.png)
 
 This was available all throughout the conference. Basically, it's a coffee automated dispensing machine that makes good coffee (future of work for baristas?).
 
 #### MyTaxi.com
 
+![Mytaxi stand](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_mytaxi_rise2016_pitch_winner.png)
+
 Good to see some RISE startups at Web Summit. MyTaxi.com was one of the winners of the RISE 2016 pitch contest.
 
 #### Estonia e-Residency
+
+![Apply for e-Residency](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1443.png)
+![Estonia e-Residency](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_estonia_eresidency.png)
 
 * I've given this already a lot of thought. However getting a photo sent to them in the right dimensions was a bit of a hassle. Luckily there was a booth at web summit, and at the booth there was a resident photographer who took the photos. I definetly applied because the tech is interesting, and I'd like to use the opportunity to incorporate a location independent business.
 
 #### Atlassian
 
+![Atlassian booth](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_atlassian.png)
+
 In the software as a service section, Atlassian has a very prominent booth (with Schwag!).
+
+#### TAP portugal
+
+I flew over here on TAP so thought I might check it out as a travel blogger too. The airline was showcasing the new seating for business class for their new planes, and also got to sample it.
+
+My verdict? It's similar to cathay pacific in controls and comfort - but a bit wider. Too bad it's Star Alliance.
+
+![TAP Business class seating](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1485.png)
+
+
+#### BMW stand
+
+At web summit BMW was showcasing their electrict vehicles which you could testdrive (drive around the block).
+
+![BMW 1](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1463.png)
+![BMW 2](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1464.png)
 
 #### Fintech startups
 
@@ -91,6 +116,9 @@ Two companies on the floor doing something cool.
 
 * An [openbazaar type company](http://www.bithappy.co.uk/) (but claims to be better);
 * A [decentralized funding platform](http://decentral.fund/) whom I had the opportunity to also followup a catchup in Barcelona over beer and tapas. The platform sounds interesting, would be nice to be able to collaborate on this.
+
+![decentral.fund](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_decentralfund.png)
+
 
 ### Future of the worker
 
@@ -103,17 +131,43 @@ Two companies on the floor doing something cool.
 ### Ask your Developer
 
 ![Ask your developer](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1460.png)
+
+* The developers are revolting. How to retain and attract developers. Don't forget that developers are now empowered and a developer can change the world on their own.
+
 ![The Developers are revolting](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1461.png)
 
 * Give them (developers) problems not solutions
+
+![Give developers problems not solutions](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_twilio_give_developers_problems_not_solutions.png)
+
 * Don't treat them like commodities. (A lot of managers in Asia (particularly Hong Kong), need to attend this talk for sure. There's a shortage of developers there for a reason)
-* Code is a creative thing, give your developers space
+
+
+![Dont treat developers like commodities](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_twilio_dont_treat_devs_like_commodities.png)
+
+* Code is a creative thing, give your developers space. If you don't give them the right tools, they can't create something cool.
+
+### Day 1 Afterparties
+
+* Spent most of my time at a Canada Web summit event.
+* Then moved onto a Teamleader party near Praça do Comércio
 
 ## Day 2 (November 9th)
 
 ![Web Summit Sign](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1548.png)
 
+### Lunch on Day 2
+
+On day 2 I decided to spend some time at the RISE lounge, which had free cantonese food, and coffee.
+
+![RISE lounge](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_rise_lounge.png)
+
 ### Designing security and safety for billions
+
+![Facebook Talk](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_facebook_designing_security_and_safety_for_billions.png)
+![MEO Arena prior to FB Talk](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_meo_flashlight_fbtalk.png)
+
+Facebook's mission is to keep the world connected. So they need to be mindful about safety and also security (while delivering a good user experience). Here are some pointers:
 
 * Be mindful of the impact when building services
 * Usernames and Passwords came from a bygone era - people don't use strong passwords anymore and reuse passwords. So keep this in mind.
@@ -128,6 +182,9 @@ Two companies on the floor doing something cool.
 
 ### US Election fallout
 
+![Outside advertisement capitalizing on the election results](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_build_bridges_not_walls.png)
+
+* Even an advertisement capitalized on the election results (see the picture)
 * Across the western world there's a lot of discontent blaming immigrants/muslims/etc.
 * American voters don't like the idea of the candidates saying it's my term.
 * We live in a world of curated news feeds and engines so we won't see the real thing, therefore it could be a surprise if most of your social graph favored the same candidate. Case in point, my own social media graph is a bit polarized on the political angle, so I see both sides of the coin. Personally I don't care about someones political beliefs (I stay neutral - meaning I hate or like both sides equally), I saw the points for both parties and weighed them up and saw the most likely candidate.
@@ -142,15 +199,44 @@ Two companies on the floor doing something cool.
 * Another tip: Fill in all your information in your peofile.
 * Surprising fact about Tinder data - *drumroll* millennials are having less sex.
 
+### Day 2 Afterparties
+
+* InvestHK meetup at Silk lounge
+* Digital Nomads meetup
+* RISE ChinaAccelerator party
+* secondhome.io + Uber party at the up and coming secondhome coworking space at Mercado Riveria (above the Timeout Market)
+
+
 ## Day 3 - My favorite (November 10th)
+
+### Synopsis
 
 Day 3 was my favorite. So basically I'm gonna split this up into subcategories because there is a lot of information to digest. Also, the general theme is about security and privacy (one of the hot topics - and my favorite thing). I'd like to be able to build zero knowledge systems personally.
 
-### How hackers changed the industry
+### Lunch on Day 3
+
+I kept seeing the Chicken Tachadinha stand, but decided to try it out.
+
+![Chicken Tachadinha](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_taldinha.png)
+![Chicken Tachadinha snapchat comment](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_taldinha_snapchat_comment.png)
+![The meal](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1508.png)
+
+### My most noteable booths on the exhibit floor
+
+#### King Of App
+
+![King of App](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_king_of_app.png)
+
+The name sounds a bit cheesy. But I like their approach for building apps. Basically they are trying to be a wordpress for app development, and monetizing by publishing.
+
+### Talk: How hackers changed the industry
 
 #### Key takes
 
 * The security industry started by scripts/tools to exploit vulnerabilities
+
+![Some of these tools which changed the industry](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_fullstk_hackertools.png)
+
 * Then as soon as a hacker got fired for testing out their own company network, someone started a company and sold it for a billion dollars to IBM. Therefore, this spawned a whole new industry for security and penetration testing.
 
 ### Open source philosophy
@@ -176,6 +262,8 @@ Day 3 was my favorite. So basically I'm gonna split this up into subcategories b
 * My take: Perl is very similar to the ruby philosophy, from past RubyKaigi's - Matz also talks about the 100 year language at several RubyKaigis in Japan and Ruby conferences around the world
 
 ### The Hacker Code - activity logs, encryption and radioactivity
+
+![Hackers are powerful](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1511.png)
 
 #### Key takes
 
@@ -220,6 +308,12 @@ This talk goes into a lot of depth on freedom/privacy. Some key takes here:
 * Uber can set a dangerous precedent (especially if its driverless), if it becomes self aware (if you're doing something that someone doesn't agree with it - be careful).
 * Online Payments can be anonymous but without aiding tax evasion.
 * I don't like ads, I'm happy to pay if I can pay anonymously (data can be misused/stolen by rogue employees, governments, and other bad actors)
+
+### Day 3 Afterparties
+
+* Casper ventures party
+* Startup creator party
+* Web summit official afterparty
 
 ### Key takeaways for the day
 
