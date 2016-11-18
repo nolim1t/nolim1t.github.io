@@ -57,6 +57,8 @@ Pink Street was where most of the action for the night summit was happening at w
 
 ## Day 1 (November 8th)
 
+![Web Summit Day 1 - Entrance](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_day1.png)
+
 ### My most noteable booths on the exhibit floor
 
 #### Facebook
@@ -65,9 +67,23 @@ Pink Street was where most of the action for the night summit was happening at w
 * FBStart for web summit
 * Free coffee (although personally the web summit coffee from the automatic booths was better).
 
+#### Delta coffee
+
+![Delta Coffee Macine](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_deltacoffee.png)
+
+This was available all throughout the conference. Basically, it's a coffee automated dispensing machine that makes good coffee (future of work for baristas?).
+
+#### MyTaxi.com
+
+Good to see some RISE startups at Web Summit. MyTaxi.com was one of the winners of the RISE 2016 pitch contest.
+
 #### Estonia e-Residency
 
 * I've given this already a lot of thought. However getting a photo sent to them in the right dimensions was a bit of a hassle. Luckily there was a booth at web summit, and at the booth there was a resident photographer who took the photos. I definetly applied because the tech is interesting, and I'd like to use the opportunity to incorporate a location independent business.
+
+#### Atlassian
+
+In the software as a service section, Atlassian has a very prominent booth (with Schwag!).
 
 #### Fintech startups
 
