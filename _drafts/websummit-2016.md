@@ -71,13 +71,34 @@ Pink Street was where most of the action for the night summit was happening at w
 
 ![Web Summit Sign](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1548.png)
 
-* **Facebook security talk** -  Key takes: Be mindful of the impact when building services. Usernames and Passwords came from a bygone era - people don't use strong passwords anymore and reuse passwords. Facebook use social graph for password reset code. Facebook also uses machine learning for security to determine if it is the actual person. Facebook even tests passwords on the black market. Facebook builds self defending apps and uses its own crypto. Also thwarts backdoors from bad guys or governments. For privacy (I know I know.. Facebook and privacy), Facebook uses TOR and End-to-End encryption. Look for OSQuery on Facebook GitHub for securing a network. Threatexchange.fb.com is another interesting site to look at.
-* **US election fallout** - Across the western world there's a lot of discontent blaming immigrants/muslims/etc. American voters don't like the idea of the candidates saying it's my term. We live in a world of curated news feeds and engines so we won't see the real thing, therefore it could be a surprise if most of your social graph favored the same candidate. Luckily my own social graph is a bit polarized on the political angle, so I see both sides of the coin. I saw the points for both parties and weight them up.
+### Designing security and safety for billions
+
+* Be mindful of the impact when building services
+* Usernames and Passwords came from a bygone era - people don't use strong passwords anymore and reuse passwords. So keep this in mind.
+* Therefore try to avoid using usernames and passwords to secure an account alone.
+* Facebook use social graph for password reset code, because email may be insecure especially if your email account is owned.
+* Facebook also uses machine learning for security to determine if it is the actual person
+* Facebook even tests passwords on the black market.
+* Facebook builds self defending apps and uses its own crypto. Also thwarts backdoors from bad guys or governments.
+* For privacy (I know I know.. Facebook and privacy), Facebook uses TOR and End-to-End encryption.
+* Look for OSQuery on Facebook GitHub for securing a network.
+* Threatexchange.fb.com is another interesting site to look at.
+
+### US Election fallout
+
+* Across the western world there's a lot of discontent blaming immigrants/muslims/etc.
+* American voters don't like the idea of the candidates saying it's my term.
+* We live in a world of curated news feeds and engines so we won't see the real thing, therefore it could be a surprise if most of your social graph favored the same candidate. Case in point, my own social media graph is a bit polarized on the political angle, so I see both sides of the coin. Personally I don't care about someones political beliefs (I stay neutral - meaning I hate or like both sides equally), I saw the points for both parties and weighed them up and saw the most likely candidate.
+
+### Love & tech in the time of Tinder
 
 ![Tinder founder](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1488.png)
 ![Tinder stats](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1489.png)
 
-* **Tinder talk**: Tinder is very empowering for contacting people. Key takes on optimizing your profile: try not to do model poses, be real - people like authenticity, fill in all your information on your profile for a higher chance of matching. Also another surprising note about Tinder according to data gathered (Tinder is a tech company), is *drumroll* millennials are having less sex.
+* Tinder is very empowering for contacting people
+* Profile optimization tip according to the founder: Don't do model poses, be real/authentic.
+* Another tip: Fill in all your information in your peofile.
+* Surprising fact about Tinder data - *drumroll* millennials are having less sex.
 
 ## Day 3 - My favorite (November 10th)
 
