@@ -57,15 +57,41 @@ Pink Street was where most of the action for the night summit was happening at w
 
 ## Day 1 (November 8th)
 
-* **Fintech startup exhibits** -  Two companies on the floor doing something cool was an [openbazaar type company](http://www.bithappy.co.uk/) (but claims to be better), and a [decentralized funding platform](http://decentral.fund/).
-* **Future of work** Basically AI is going to shake up the economy in a big way eventually. Lets hope that there is a social safety net in place, because not everyone has investments (and how do people get those investments in the first place)
-* More blockchain. Perhaps ZCash has some potential.
-* **Estonia e-Residency** - I've given this already a lot of thought. However getting a photo sent to them in the right dimensions was a bit of a hassle. Luckily there was a booth at web summit, and at the booth there was a resident photographer who took the photos. I definetly applied because the tech is interesting, and I'd like to use the opportunity to incorporate a location independent business.
+### My most noteable booths on the exhibit floor
+
+#### Facebook
+
+* Showcasing Facebook Workplaces (basically a slack competitor)
+* FBStart for web summit
+* Free coffee (although personally the web summit coffee from the automatic booths was better).
+
+#### Estonia e-Residency
+
+* I've given this already a lot of thought. However getting a photo sent to them in the right dimensions was a bit of a hassle. Luckily there was a booth at web summit, and at the booth there was a resident photographer who took the photos. I definetly applied because the tech is interesting, and I'd like to use the opportunity to incorporate a location independent business.
+
+#### Fintech startups
+
+Two companies on the floor doing something cool.
+
+* An [openbazaar type company](http://www.bithappy.co.uk/) (but claims to be better);
+* A [decentralized funding platform](http://decentral.fund/) whom I had the opportunity to also followup a catchup in Barcelona over beer and tapas. The platform sounds interesting, would be nice to be able to collaborate on this.
+
+### Future of the worker
+
+* Basically AI is going to shake up the economy in a big way eventually
+* Lets hope that there is a social safety net in place, because not everyone has investments (and how do people get those investments in the first place).
+* Observation: I can already see jobs being lost at the low end of the spectrum, it's only a matter of time till AI starts taking over for others (self driving ubers, and eventually self aware computing) - humanity will be enslaved haha.
+
 * **The art of conference hacking** - This talk was more focused on companies trying to get good positioning. But Basically, find a partner company who's attending (also look for warm mutual connections). Basically common sense.
+
+### Ask your Developer
 
 ![Ask your developer](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1460.png)
 ![The Developers are revolting](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1461.png)
-* **"Ask your developer" talk by Twilio** - Key takes: Give them problems not solutions. Don't treat them like commodities. Code is a creative thing, give your developers space. A lot of managers in Asia (particularly Hong Kong), need to attend this talk for sure. There's a shortage of developers there for a reason.
+
+* Give them (developers) problems not solutions
+* Don't treat them like commodities. (A lot of managers in Asia (particularly Hong Kong), need to attend this talk for sure. There's a shortage of developers there for a reason)
+* Code is a creative thing, give your developers space
 
 ## Day 2 (November 9th)
 
