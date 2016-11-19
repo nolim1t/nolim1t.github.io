@@ -156,6 +156,21 @@ Two companies on the floor doing something cool.
 
 ![Web Summit Sign](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1548.png)
 
+### Day 2 Startup exhibit standouts
+
+#### CodinGame
+
+![CodinGame](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_D326294CCC43-1.png)
+
+This seemed like a cool startup. It gamifies the whole aspect of teaching people how to code. I'm definitely gonna [give this a try](https://www.codingame.com/start).
+
+#### ULockMe
+
+![ULockMe](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_3BE042D53177-1.png)
+
+I have a big interest in smart locks. While it's now a crowded space, their tech seems interesting on their [website](http://www.ulockme.hu/). Although they are an Alpha startup so hopefully they will continue and be part of the beta program.
+
+
 ### Lunch on Day 2
 
 On day 2 I decided to spend some time at the RISE lounge, which had free cantonese food, and coffee.
@@ -219,6 +234,7 @@ I kept seeing the Chicken Tachadinha stand, but decided to try it out.
 
 ![Chicken Tachadinha](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_taldinha.png)
 ![Chicken Tachadinha snapchat comment](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_taldinha_snapchat_comment.png)
+
 ![The meal](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1508.png)
 
 ### My most noteable booths on the exhibit floor
@@ -311,6 +327,8 @@ This talk goes into a lot of depth on freedom/privacy. Some key takes here:
 
 ### Day 3 Afterparties
 
+![Pink Street Day 3](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1569.png)
+
 * Casper ventures party
 * Startup creator party
 * Web summit official afterparty
@@ -321,3 +339,4 @@ This talk goes into a lot of depth on freedom/privacy. Some key takes here:
 * Build zero knowledge systems to avoid getting hacked (make yourself an unattractive target)
 
 ![Towards the end](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_baxiachiado_end.png)
+![Closeup](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1555.png)
