@@ -11,7 +11,7 @@ This year (and last year), I was fortunate enough to be invited to Web Summit. A
 ![Tram](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1350.png)
 ![Tram 2](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-lisbon_tram.png)
 
-I was expecting it not to be good for tech people to attend (if RISE was anything to go by), however looking at the speaker lineup and a whole track called Fullstk (on Day 3) - I've been mistaken a lot. Some of the speakers were amazing.
+I was expecting it not to be good for tech people to attend (if RISE was anything to go by), however looking at the speaker lineup and a whole track called Fullstk (on Day 3) - I've been mistaken a lot. Some of the speakers were amazing, and it's taken a while to digest all the information. Here's a summary of the jam packed 3 days.
 
 ![Nighttime Baixa Chiado on Opening night](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_sign_nighttime_baixachiado.png)
 ![Daytime sign](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_sign_daytime.png)
@@ -57,6 +57,8 @@ Pink Street was where most of the action for the night summit was happening at w
 
 ## Day 1 (November 8th)
 
+The firehose of information starts.
+
 ![Web Summit Day 1 - Entrance](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_day1.png)
 
 ### My most noteable booths on the exhibit floor
@@ -75,7 +77,7 @@ Pink Street was where most of the action for the night summit was happening at w
 
 This was available all throughout the conference. Basically, it's a coffee automated dispensing machine that makes good coffee (future of work for baristas?).
 
-#### MyTaxi.com
+#### MyTaxiindia.com
 
 ![Mytaxi stand](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_mytaxi_rise2016_pitch_winner.png)
 
@@ -147,10 +149,13 @@ Two companies on the floor doing something cool.
 
 * Code is a creative thing, give your developers space. If you don't give them the right tools, they can't create something cool.
 
+![Code is creative](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_35C2ADC3C2C1-1.png)
+
+
 ### Day 1 Afterparties
 
-* Spent most of my time at a Canada Web summit event.
-* Then moved onto a Teamleader party near Praça do Comércio
+* Spent most of my time at a Canada Web summit event. Free beer and free food.
+* Then moved onto a Teamleader party near Praça do Comércio. That was a cool party where there was an open bar.
 
 ## Day 2 (November 9th)
 
