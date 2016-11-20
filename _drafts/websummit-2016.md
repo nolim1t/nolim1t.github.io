@@ -67,7 +67,7 @@ The firehose of information starts.
 
 ![Facebook Booth](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_facebook_stand.png)
 
-* Showcasing Facebook Workplaces (basically a slack competitor)
+* Showcasing [Facebook Workplaces](https://workplace.fb.com/) (basically a slack competitor). The pricing [seems a lot more attractive](https://workplace.fb.com/pricing) than [slack](https://slack.com/pricing) when it comes to paid programs, at $3 per user but with similar support as the $12 per user per month pricing with slack. It also supports video conferencing too. And for educational or non-profit institutions, it is free. Another feature of this is that you do not require a Facebook account to use this, nor does employers see content in a personal account - it's a new product completely. 
 * FBStart for web summit
 * Free coffee (although personally the web summit coffee from the automatic booths was better).
 
