@@ -125,7 +125,7 @@ Two companies on the floor doing something cool.
 
 * Connecting the billions of people
 * Building truly intelligent machines to manage the mass of information only
-* Building virtual reality experiences for anyone to access anything and anytime.
+* Building virtual reality experiences for anyone to access anything and anytime. The ability to connect with anyone over long distances is why facebook is excited about VR.
 * Facebook will bring the remaining 4 billion people online. In space for rural areas, high altitude for urban areas. Wireless cells for high density areas.
 * Facebook has its own space program but has some setbacks
 * Facebook has high altitude drones for delivering internet
