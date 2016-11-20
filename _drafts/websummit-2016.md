@@ -24,7 +24,7 @@ This goes for any large conference (such as South by Southwest). I even use this
 
 * Be prepared. Have a plan B in case plan A falls through. Your plan will not be exact. Be open to changes.
 * Be social at the night events (just don't by an ass and get too drunk). I made most of my connections by being present there. Also invites to other parties. Free food and booze too (just see the point about pacing yourself with the drinks)
-* Keep your phone juiced up (and have data). For web summit,  have your badge on. Scan those badges, then import the data later. Have some business cards as a fallback low tech option (Business cards at web summit was a plan B for me, I didn't want to give them all out!)
+* Keep your phone juiced up (and have data). For web summit,  have your badge on. Scan those badges, then import the data later. Have some business cards as a fallback low tech option (As it was not Asia, business cards at web summit was a plan B for me, I didn't want to give them all out!)
 * Keep the web summit app installed until you get everyones connections exported off it, and you've provided a way of contacting all the people you met out of the app.
 * Account for travel time to events. Always be mindful of your plan B or for alternatives.
 * Use UberPool. I've met some connections sharing Ubers with. During web summit most of my ride share mates were also fellow attendees (one of the UberPool rides coincidently was someone I met at one of the parties)
@@ -67,7 +67,7 @@ The firehose of information starts.
 
 ![Facebook Booth](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_facebook_stand.png)
 
-* Showcasing [Facebook Workplaces](https://workplace.fb.com/) (basically a slack competitor). The pricing [seems a lot more attractive](https://workplace.fb.com/pricing) than [slack](https://slack.com/pricing) when it comes to paid programs, at $3 per user but with similar support as the $12 per user per month pricing with slack. It also supports video conferencing too. And for educational or non-profit institutions, it is free. Another feature of this is that you do not require a Facebook account to use this, nor does employers see content in a personal account - it's a new product completely. 
+* Showcasing [Facebook Workplaces](https://workplace.fb.com/) (basically a slack competitor). The pricing [seems a lot more attractive](https://workplace.fb.com/pricing) than [slack](https://slack.com/pricing) when it comes to paid programs, at $3 per user but with similar support as the $12 per user per month pricing with slack. It also supports video conferencing too. And for educational or non-profit institutions, it is free. Another feature of this is that you do not require a Facebook account to use this, nor does employers see content in a personal account - it's a new product completely.
 * FBStart for web summit
 * Free coffee (although personally the web summit coffee from the automatic booths was better).
 
@@ -121,6 +121,15 @@ Two companies on the floor doing something cool.
 
 ![decentral.fund](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_decentralfund.png)
 
+### Facebook: 10 years from now
+
+* Connecting the billions of people
+* Building truly intelligent machines to manage the mass of information only
+* Building virtual reality experiences for anyone to access anything and anytime.
+* Facebook will bring the remaining 4 billion people online. In space for rural areas, high altitude for urban areas. Wireless cells for high density areas.
+* Facebook has its own space program but has some setbacks
+* Facebook has high altitude drones for delivering internet
+* Facebook has computer vision AI to determine what sort of photo is when it is uploaded. But AI needs to be trained.
 
 ### Future of the worker
 
@@ -128,7 +137,9 @@ Two companies on the floor doing something cool.
 * Lets hope that there is a social safety net in place, because not everyone has investments (and how do people get those investments in the first place).
 * Observation: I can already see jobs being lost at the low end of the spectrum, it's only a matter of time till AI starts taking over for others (self driving ubers, and eventually self aware computing) - humanity will be enslaved haha.
 
-* **The art of conference hacking** - This talk was more focused on companies trying to get good positioning. But Basically, find a partner company who's attending (also look for warm mutual connections). Basically common sense.
+###  The art of conference hacking
+
+This talk was more focused on companies trying to get good positioning. But Basically, find a partner company who's attending (also look for warm mutual connections). Basically common sense.
 
 ### Ask your Developer
 
@@ -347,3 +358,11 @@ This talk goes into a lot of depth on freedom/privacy. Some key takes here:
 
 ![Towards the end](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-websummit_baxiachiado_end.png)
 ![Closeup](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1555.png)
+
+## Conclusion
+
+Videos for web summit which I'll be catching up on missed talks are on [Facebook](https://www.facebook.com/WebSummitHQ/videos/)
+
+### Key takes
+
+* Future of work see
