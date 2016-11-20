@@ -167,7 +167,7 @@ Two companies on the floor doing something cool.
 
 ![CodinGame](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_D326294CCC43-1.png)
 
-This seemed like a cool startup. It gamifies the whole aspect of teaching people how to code. I'm definitely gonna [give this a try](https://www.codingame.com/start).
+This seemed like a cool startup. It gamifies the whole aspect of teaching people how to code. I've already [giving this a try](https://www.codingame.com/start), and found the concepts quite addictive - especially for those who prefer to see things visually. I think they are better than [codility](https://codility.com) - but they need the ability to add test cases
 
 #### ULockMe
 
