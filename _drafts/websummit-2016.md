@@ -175,6 +175,8 @@ This seems like a cool startup at first glance. As a gamer and coder, I love thi
 
 I have a big interest in smart locks. While it's now a crowded space, their tech seems interesting on their [website](http://www.ulockme.hu/). Although they are an Alpha startup so hopefully they will continue and be part of the beta program.
 
+My requests for ULockMe, they need to use blockchain tech.
+
 
 ### Lunch on Day 2
 
