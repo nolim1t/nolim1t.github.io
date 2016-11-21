@@ -343,6 +343,18 @@ This talk goes into a lot of depth on freedom/privacy. Some key takes here:
 * Online Payments can be anonymous but without aiding tax evasion.
 * I don't like ads, I'm happy to pay if I can pay anonymously (data can be misused/stolen by rogue employees, governments, and other bad actors)
 
+### Closing - The age of moonshots and hyperloop one
+
+While I didn't get to attend this talk in person, the hyperloop seems interesting enough. It's basically like a metro but with the speed of an airplane.
+
+Hopefully, it will come to Europe - would be a good testing ground as there's no borders (assuming that no other country tries or leaves the EU). Maybe in Australia - Sydney to Melbourne.. work in Sydney, live in Melbourne anyone?
+
+#### Key points
+
+* Entrepreneurs challenge the boundaries all the time (see Uber)
+* Always naysayers all the time talking down on the tech
+* Advise to Entrepreneurs who want to go for a moonshot idea is go for it - It's the best time to do so (if you look at whats been done over the last 2 years). Access to capital, resources, etc.
+
 ### Day 3 Afterparties
 
 ![Pink Street Day 3](https://d3hs7z89jfjpsh.cloudfront.net/websummit-2016/resized-IMG_1569.png)
