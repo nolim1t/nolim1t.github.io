@@ -3,7 +3,7 @@ layout: post
 title: "I'm not AWOL ... yet"
 ---
 
-Wow, It's been a good two months since my last post here. No I haven't gone AWOL yet haha.
+Wow, It's been a good two months since my last post here, so I think it's high time to do a first post for 2017. No I haven't gone AWOL yet haha.
 
 Life does in fact have a habit of getting in a way.
 
