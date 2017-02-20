@@ -30,3 +30,4 @@ Have created and updated the following open source projects.
 * [**Event Logger**](https://github.com/nolim1t/event-logger) - I created this project in order to experiment with Stripe (as well as github) webhooks. Mainly to see what it receives.
 * [**Stripe Events Webhook**](https://github.com/nolim1t/stripe-events-webhook) - This project spawned from the event logger prokect
 * [**AWS S3 Signer**](https://github.com/nolim1t/aws-s3-policy-signer-api) - This is the backend component for signing temporary tokens WITHOUT exposing your AWS Secret key to the outside world
+* [**HTML page to AWS S3 bucket**](https://github.com/nolim1t/html-to-aws-s3) - Requires the previous backend component
