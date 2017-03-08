@@ -113,7 +113,11 @@ If all goes well, the file should reflect on github.
 
 ## Does this work?
 
-YES! In fact this post is created purely through the github API
+YES! In fact this post is created purely through the github API (using the exact published code above). I'm a fan of dogfooding and open source. What I publish and talk about is what I use.
+
+```bash
+./upload.js draft_post.md _posts/2017-03-08-uploading-to-github-through-the-API.md
+```
 
 ## Got code?
 
