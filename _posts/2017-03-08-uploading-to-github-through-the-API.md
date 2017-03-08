@@ -11,7 +11,7 @@ However there's a few interesting use cases that I can think of.
 
 * Programmatically maintaining a static page. It might sound a bit silly, but one of the key things about github pages is there is no server in between. Where the programmatically stuff comes in is through a server less implementation such as amazon lambda. If you're feeling enterprising, you can even set it up so your static page takes input from a facebook bot.
 * Creating a mobile app to do some blogging. This is something that I'd like to do. I've already set up an image uploader and resizer for my blog which runs using Amazon S3 and Amazon Lambda. Serverless rocks because you can do more with less (money).
-* Scripting the updating of github in some way.
+* Scripting the updating of github in some way (combine with another automated process?)
 
 ## Summary
 
