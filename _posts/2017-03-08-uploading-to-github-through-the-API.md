@@ -111,6 +111,10 @@ curl -u "$GITHUBUSER:$GITHUBAPIKEY" "https://api.github.com/repos/$GITHUBUSER/$R
 
 If all goes well, the file should reflect on github.
 
+## Does this work?
+
+YES! In fact this post is created purely through the github API
+
 ## Got code?
 
 Yes, I have some code which does this.
