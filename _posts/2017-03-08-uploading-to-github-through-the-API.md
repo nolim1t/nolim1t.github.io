@@ -121,6 +121,6 @@ YES! In fact this post is created purely through the github API (using the exact
 
 ## Got code?
 
-Yes, I have some code which does this.
+Yes, I have some code which does this. In fact, I've also got a [NPM Package](https://github.com/nolim1t/create_github_commit) available which does the above (and more) so you can use this in AWS Lambda too.
 
 <script src="https://gist.github.com/nolim1t/7cf664ace50fc3b03740d1b9ad0ae8fc.js"></script>
