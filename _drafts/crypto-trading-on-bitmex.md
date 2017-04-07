@@ -42,4 +42,32 @@ I also like how because it is crypto-only, there is no KYC.
 
 But for those who don't like holding bitcoin, it may not be your platform of choice. For me it's ok. Bitcoin, despite the dramas is still the reserve cryptocurrency (just like the USD is in the traditional finance world).
 
+I personally like the functionality here. I've tried the following orders:
+
+* Take Profit Market
+* Take Profit Limit
+* Stop Limit
+* Stop Market
+* Limit
+* Market
+
+#### Take Profit Orders
+
+What are these? Everyone knows about the "Stop" orders right to limit your losses.
+
+This works the same way, however in reverse. Basically it gives the trading platform an instruction to automatically close your position (or sell off part of your position) if the price of the instrument gets to a certain value.
+
+In other words, leave the dealers table after I've made a certain amount.
+
+On BitMex you can choose either Limit or Market.
+
+#### Stop Orders
+
+Pretty much the standard stop loss. As in get out if the price drops below a certain point.
+
+You can also choose limit or market. Market being useful in flash crashes as limit may not execute therefore liquiding your whole position.
+
+#### Limit or Market Orders
+
+Pretty much the usual. Buy/Sell at this price. Or buy/sell whatever the market dictates.
 
