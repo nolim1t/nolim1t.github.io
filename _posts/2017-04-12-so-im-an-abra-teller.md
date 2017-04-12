@@ -28,7 +28,7 @@ Lets say you want to deposit 1000 pesos or baht.
 
 * You would open up the [Abra app](https://www.goabra.com/)
 * You would choose "Add Money" from the prompt
-* You would then use the Abra app to locate tellers where you can see their fees and how to contact them. You can ten contact them this way.
+* You would then use the Abra app to locate tellers where you can see their fees and how to contact them. You can then contact them this way.
 * Once you've arranged a time and place to meet, you bring your cash and then have your personal code scanned.
 * The teller chooses deposit, enters in the amount and then takes the cash then credits your account with the deposit once the cash is received.
 
