@@ -61,3 +61,5 @@ An Early Adopter special - if you deposit money into with me I will provide a re
 ### Other currencies than Thai Baht
 
 Usually by deposit only. I accept pristine quality USD or EUR banknotes as well - no fee up to April 20th, but I'll add an additional 1% handling fee after. For other currencies, I can take MYR/LAK/VND/MMK/KHR for an additional 3% (no discount for these sorry). Exchange rates will be XE.com rates.
+
+[Mirror article](http://telegra.ph/So-now-Im-an-Abra-Teller-04-17)
