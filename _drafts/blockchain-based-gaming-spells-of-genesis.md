@@ -29,3 +29,5 @@ There's two types of cards you can own in the game:
 * Blockchain cards
 
 The interesting thing about blockchain based cards is you can actually trade them on [SOG Assets](https://sogassets.com/) 's decentralized exchange exactly the same way as you would trade a blockchain token ([Instructions here](https://counterparty.io/docs/buy_and_sell_assets_on_the_dex/)).
+
+And because the blockchain cards are tokens, you can probably trade with players too for either blockchain currency or if you like cash.
