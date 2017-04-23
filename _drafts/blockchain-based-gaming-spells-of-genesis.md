@@ -3,6 +3,8 @@ layout: post
 title: "Gaming on the blockchain"
 ---
 
+![Satoshi](/satoshi.png)
+
 In case you haven't heard what's on in the last few years - the blockchain is changing a lot of industries. First and foremost, banking. No longer do you need to trust a middleman to hold your money.
 
 And in other industries, blockchain is useful for keeping tabs on assets without a middleman too.
