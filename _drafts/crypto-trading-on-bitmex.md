@@ -11,9 +11,9 @@ Poloniex is not too bad, but after I gave BitMex a try - it seems that their pla
 
 ## Lessons Learnt doing leverage trading
 
-* If you're highly leveraged, don't forget to set a "stop loss" order (especially trading late at night, you snooze you lose literally). That way you don't loose everything when the market goes the other way.
-* Experiment with smaller orders
-* Trend is your friend. Look at the charts and news. Also check out the only trading chats on telegram for tips.
+* If you're highly leveraged, don't forget to set a "stop loss" order (especially trading late at night, you snooze you lose - literally!). That way you don't loose everything when the market goes the other way.
+* Experiment with smaller orders first
+* Trend is your friend. Look at the charts and news relating to your asset you are purchasing. Also check out the only trading chats on telegram for tips. You can gather market sentiment from the "trollbox", but remember - theres more noise than signal
 
 
 ## Trading Platforms
@@ -24,13 +24,13 @@ Here are the two trading platforms I've used.
 
 I first started experimenting on Poloniex. First with ETH/ETC, then with DASH.
 
-I made a fair bit with DASH, but also lost some of it with a BTC long getting liquidated (thanks to a flash crash). I'll make sure I set stops before I log out!
+I made a fair bit with DASH, but also lost some of it with a BTC long getting liquidated (thanks to a flash crash). Lesson - I'll make sure I set stops properly before I log out!
 
-The advantage of Poloniex is you can cash out in multiple crypto if you don't like holding bitcoin (including USDT).
+The advantage of Poloniex is you can cash out in multiple crypto if you don't like holding bitcoin.
 
-The only think about Poloniex is if you make a lot, you have to cash out in chunks of 2000 USD (or go through their KYC process)
+The only think about Poloniex is if you make a lot, you have to cash out in chunks of 2000 USD (or go through their KYC process).
 
-### Bitmex
+### BitMex
 
 I had an account open on bitmex for a while but haven't really started using it as the UI is quite complex.
 
@@ -70,4 +70,3 @@ You can also choose limit or market. Market being useful in flash crashes as lim
 #### Limit or Market Orders
 
 Pretty much the usual. Buy/Sell at this price. Or buy/sell whatever the market dictates.
-
