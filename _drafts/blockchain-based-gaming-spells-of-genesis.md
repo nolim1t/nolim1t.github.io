@@ -21,11 +21,13 @@ The technology was behind the digital currency Bitcoin, allows for having only o
 
 Fast forward to today, you can pretty much live off cryptocurrencies. For a digital nomad, cryptocurrencies is awesome at transfering value across borders. Also nowadays with the economic uncertainty and the money printing going on, it makes even more sense to keep your savings in a finite asset.
 
+## Back on topic - Gaming
+
 Anyway back on topic before we go too far down the blockchain rabbit hole, there's a new game released on April 20th which uses the counterparty protocol to be able to own collectable cards. The game is called [Spells of Genesis](https://spellsofgenesis.com/), and available on iOS and Android.
 
-I've given the game a try and it's interesting. As usual starts of slow, but then the difficulty and therefore strategy ramps up (and you probably need powerful cards to get past certain stages).
+I've given the game a try and it's interesting. It's a typical mobile game, but has a bit of a strategy element to it. As usual starts of slow, but then the difficulty and therefore strategy ramps up (and you probably need powerful cards to get past certain stages).
 
-Where blockchain comes in handy in the game is you can link your blockchain address to your game account, so that you actually own the cards.
+Where blockchain comes in handy in the game is you can link your blockchain address to your game account, so that you actually own the cards as if it was a physical card. I think if you do so, you actually get given a card this month.
 
 My recommended wallet is [IndiesquareWallet](https://wallet.indiesquare.me/), which is available for iOS and Android. There is a list of wallets you can choose from on the [counterparty](http://counterparty.io/counterparty-wallets/) site.
 
@@ -36,9 +38,11 @@ There's two types of cards you can own in the game:
 * Game cards
 * Blockchain cards
 
+Game cards can be purchased in game, however I think I'll spend the earnt game currency to acquire them. The cards I'm most interested in is the blockchain cards, because its like owning a physical representation of it (some cards, only a limited number of cards exist so may be worth more in future).
+
 The interesting thing about blockchain based cards is you can actually trade them on [SOG Assets](https://sogassets.com/) 's decentralized exchange exactly the same way as you would trade a blockchain token ([Instructions here](https://counterparty.io/docs/buy_and_sell_assets_on_the_dex/)).
 
-And because the blockchain cards are tokens, you can probably trade with players too for either blockchain currency or if you like cash.
+And because the blockchain cards are tokens, you can probably trade with players too for either another blockchain currency or if you like just trade in cash like its done in the old way.
 
 ## Details on the app
 
@@ -46,3 +50,8 @@ And because the blockchain cards are tokens, you can probably trade with players
 * [Twitter](https://twitter.com/spellsofgenesis)
 * [iOS Download](https://itunes.apple.com/app/spells-of-genesis/id1163689873)
 * [Android Download](https://play.google.com/store/apps/details?id=com.channel4.spellsofgenesis)
+
+
+## Conclusion
+
+Blockchain is the key technology for bridging the physical world and the digital world.
