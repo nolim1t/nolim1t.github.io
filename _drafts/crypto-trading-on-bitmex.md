@@ -7,7 +7,7 @@ Recently, I've been doing a bit of crypto trading with altcoins and also bitcoin
 
 I first got my first taste of trading on Poloniex where I used to open positions against ethereum (after the hard fork).
 
-Poloniex is not too bad, but after I gave BitMex a try - it seems that their platform is a bit more mature. Also the charting on the platform is so much more superior.
+Poloniex is not too bad (when it works), but after I gave BitMex a try - it seems that their platform is a bit more mature. Also the charting on the platform is so much more superior.
 
 ## Lessons Learnt doing leverage trading
 
@@ -70,3 +70,7 @@ You can also choose limit or market. Market being useful in flash crashes as lim
 #### Limit or Market Orders
 
 Pretty much the usual. Buy/Sell at this price. Or buy/sell whatever the market dictates.
+
+## Joining BitMex
+
+I've got a [promo code](https://www.bitmex.com/register/TjGKqo) that you can use to join bitmex with which lets you save money on the trading fees. 
