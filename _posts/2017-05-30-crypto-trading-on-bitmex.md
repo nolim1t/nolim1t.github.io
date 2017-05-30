@@ -3,7 +3,7 @@ layout: post
 title: "Leverage crypto trading on BitMex"
 ---
 
-Recently, I've been doing a bit of crypto trading with altcoins and also bitcoin.
+In light of the surge in cryptocurrencies - recently, I've been doing a bit of crypto trading with altcoins and also bitcoin. 
 
 I first got my first taste of trading on Poloniex where I used to open positions against ethereum (after the hard fork).
 
@@ -24,7 +24,7 @@ Here are the two trading platforms I've used.
 
 I first started experimenting on Poloniex. First with ETH/ETC, then with DASH.
 
-I made a fair bit with DASH, but also lost some of it with a BTC long getting liquidated (thanks to a flash crash). Lesson - I'll make sure I set stops properly before I log out!
+I made a fair bit with DASH, but also lost some of it with a BTC long getting liquidated on bitmex (thanks to a flash crash). Lesson - I'll make sure I set stops as a limit sell rather than limit market.
 
 The advantage of Poloniex is you can cash out in multiple crypto if you don't like holding bitcoin.
 
@@ -74,3 +74,4 @@ Pretty much the usual. Buy/Sell at this price. Or buy/sell whatever the market d
 ## Joining BitMex
 
 I've got a [promo code](https://www.bitmex.com/register/TjGKqo) that you can use to join bitmex with which lets you save money on the trading fees. 
+
