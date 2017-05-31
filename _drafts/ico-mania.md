@@ -1,0 +1,40 @@
+---
+layout: post
+title: "The ICO (Initial Coin Offering) Mania (and Blockchain Bubble) of 2017"
+---
+
+In Case you haven't been following the tech news closely, crypto currencies across the board have been hitting all time highs (and defying general investment guidelines).
+
+## Reason for the increase in prices
+
+* Mainly **ICOs**, which is the blockchain(y) way of seeking funding for a startup idea.
+* Bitcoin is seen as the gold of cryptocurrency. It's got steady value, so I'd be guessing most of the money fueled into token sales would flow back into bitcoin (and maybe USD/EUR if needed). It's probably got the best infrastructure setup, and also has **predictable** inflation built in.
+
+## What is an ICO?
+
+An ICO at the simplest terms is right now an ethereum smart contract for a token, where all the the issuance parameters are defined there.
+
+This is probably what's fueling the ethereum bubble - you need Ether to be able to invest money into these companies
+
+A more complex type of ICO, is to actually issue a separate coin complete with its own mining algorithm, proof of work/stake, etc. The latest ICO that does this is [Tezos](tezos.com), which seems to be a competitor for ethereum.
+
+Theres little detail about this at the time of writing, however it looks interesting.
+
+## How does it differ to traditional methods?
+
+The major difference between an ICO and getting traditional finance is probably that it exists on a blockchain only.
+
+Another difference is that because it's on the blockchain - **anyone** can create a fundraiser campaign, while going to the traditional route you will be subject to more friction and sometimes "censorship" if the lender does not like what you're trying to do.
+
+Much like the web (http protocol), how it changed the way publishing worked - the blockchain is slowly changing how finance is working.
+
+## Biggest use case to blockchain technology
+
+The big use case for blockchain technology right now is **breaking down borders** by doing the following:
+
+* **International Remittance** - Right now I can remit money into Asia (Thailand / Phillipines) from Europe  **better rates** than the official exchange rates. Money flows across borders 24 / 7, within minutes.
+* **Crowdfunding campaigns** - Normally, you'd have to start a crowdfunding campaign through kickstarter, indiegogo, or even seek money from angel investors. This is all subject to the lenders criteria who may or fund you. Also, some countries may not be open for crowdfunding (or may not be able to accept funds to or from certain countries). The blockchain ignores all this and opens it up to everyone.
+
+## Want to stay up to date with ICOs?
+
+You should first install telegram if you haven't already,  and follow the account [@ICOAlerts](https://telegram.me/ICOAlerts) which announces ICOs and gives information on how to invest in them.
