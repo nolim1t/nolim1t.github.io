@@ -3,18 +3,22 @@ layout: post
 title: "The ICO (Initial Coin Offering) Mania (and Blockchain Bubble) of 2017"
 ---
 
+![ICOs - the new way of funding startups](http://nolim1t.co/vcs-disrupted.jpg)
+
 In Case you haven't been following the tech news closely, crypto currencies across the board have been hitting all time highs (and defying general investment guidelines).
 
 ## Reason for the increase in prices
 
 * Mainly **ICOs**, which is the blockchain(y) way of seeking funding for a startup idea.
-* Bitcoin is seen as the gold of cryptocurrency. It's got steady value, so I'd be guessing most of the money fueled into token sales would flow back into bitcoin (and maybe USD/EUR if needed). It's probably got the best infrastructure setup, and also has **predictable** inflation built in.
+* Bitcoin is seen as the gold of cryptocurrency. Despite the short term volatility (which is awesome for traders) it is increasing steadly, so I'd be guessing most of the money fueled into token sales would flow back into bitcoin (and maybe USD/EUR if needed). It's probably got the best infrastructure setup, and also has **predictable** inflation built in. Also, in order to get most of the ICOs, you need to have bitcoin (and also to be able to trade other "shitcoins", bitcoin is usually the more trusted base currency to use)
 
 ## What is an ICO?
 
 An ICO at the simplest terms is right now an ethereum smart contract for a token, where all the the issuance parameters are defined there.
 
-This is probably what's fueling the ethereum bubble - you need Ether to be able to invest money into these companies
+This is probably what's fueling the ethereum bubble - you need Ether to be able to invest money into these companies.
+
+I see Ethereum right now as the stock market on the blockchain.
 
 A more complex type of ICO, is to actually issue a separate coin complete with its own mining algorithm, proof of work/stake, etc. The latest ICO that does this is [Tezos](tezos.com), which seems to be a competitor for ethereum.
 
@@ -32,7 +36,7 @@ Much like the web (http protocol), how it changed the way publishing worked - th
 
 The big use case for blockchain technology right now is **breaking down borders** by doing the following:
 
-* **International Remittance** - Right now I can remit money into Asia (Thailand / Phillipines) from Europe  **better rates** than the official exchange rates. Money flows across borders 24 / 7, within minutes.
+* **International Remittance** - Right now I can remit money into Asia (Thailand / Phillipines) from any western country  **better rates** than the official exchange rates. If you're Korean, you can actually make money on remittance right now (as long as most of your money is outside of Korea, and you don't mind sending money back to Korea). Money flows across borders 24 / 7, within minutes.
 * **Crowdfunding campaigns** - Normally, you'd have to start a crowdfunding campaign through kickstarter, indiegogo, or even seek money from angel investors. This is all subject to the lenders criteria who may or fund you. Also, some countries may not be open for crowdfunding (or may not be able to accept funds to or from certain countries). The blockchain ignores all this and opens it up to everyone.
 
 ## Want to stay up to date with ICOs?
