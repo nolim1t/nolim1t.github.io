@@ -46,3 +46,15 @@ The big use case for blockchain technology right now is **breaking down borders*
 ## Want to stay up to date with ICOs?
 
 You should first install telegram if you haven't already,  and follow the account [@ICOAlerts](https://telegram.me/ICOAlerts) which announces ICOs and gives information on how to invest in them.
+
+## Want to raise funding for your company/startup?
+
+I have some smart contract writing experience so I can help you issue a token. Please [get in touch with me](http://21.co/barryt), and I'll go through the steps. All contact moneys through 21.co is donated to charity.
+
+You will need to provide:
+
+* Your business idea
+* Your team and team credentials / profiles
+* How to contact your team or discuss about your campaign (social media, telegram group, facebook group, slack group, etc)
+* How many shares you will issue
+* Price per share in BTC / ETH / ETC
