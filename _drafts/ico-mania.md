@@ -32,6 +32,10 @@ Another difference is that because it's on the blockchain - **anyone** can creat
 
 Much like the web (http protocol), how it changed the way publishing worked - the blockchain is slowly changing how finance is working.
 
+And last but not least, with blockchain technology you actually own (as in possess) the underlying asset (as long as you actually take it off the exchange). With shares/stocks, most of the time the exchange does say you own it - however the real possession of the asset is with the exchange.
+
+When you actually own the asset, you're free to move it across to another exchange or even trade it privately without a middleman.
+
 ## Biggest use case to blockchain technology
 
 The big use case for blockchain technology right now is **breaking down borders** by doing the following:
