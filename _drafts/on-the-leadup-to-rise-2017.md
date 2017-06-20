@@ -27,6 +27,10 @@ Anyway it's time for my pre-conference tips.
 
 ### Events to look out for
 
+#### Sunday July 9th
+
+* [Brinc RISE China Trip](https://riseconf.com/china-trip)
+
 #### Monday July 10
 
 * [preRISE SG / HK startup & VC mixer](https://www.eventbrite.sg/e/prerise-sg-hk-startup-vc-mixer-tickets-35449650860)
