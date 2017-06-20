@@ -22,6 +22,7 @@ Anyway it's time for my pre-conference tips.
 * While in Europe, I didn't really care to give them out. Plus web summit has an awesome app to use. **But In Asia, it's all about business cards**. Always have them. Just your name and contact at the bare minimum. For me it's my name, and website portal. Bonus points: Have something that stands out which is also a good conversation starter, and something memorable. Some events you need a name-card to get in to them.
 * Always have a drink. For those that don't drink (or just want to save money), get a mock-tail. It can be an awesome conversation starter.
 * It's not a college frat party, pace yourself. It's not a race to how much alcohol you can consumed (might be tempting though because its all free).
+* Carry spare power for your phone. It's your portal to finding out where your "crew" is and where the action is when out and about and the party is starting to get lame.
 
 ## RISE Events
 
