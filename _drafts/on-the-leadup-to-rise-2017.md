@@ -53,7 +53,7 @@ Anyway it's time for my pre-conference tips.
 
 ## Want to connect during RISE?
 
-Contact details below
+My contact details are below
 
 * <i class="fa fa-envelope" aria-hidden="true"></i> [E-mail](https://21.co/barryt/)
 * <i class="fa fa-telegram" aria-hidden="true"></i> [Telegram](https://t.me/nolim1t)
