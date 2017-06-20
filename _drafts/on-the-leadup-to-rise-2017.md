@@ -5,9 +5,9 @@ title: "On the leadup to RISE 2017"
 
 I've been a conference veteran for many years - United States, Asia, and Europe.
 
-I've been to South by Southwest from 2010 all the way through to 2015, RISE from 2015 up until now (this being the 3rd year), and Web Summit since 2016.
+I've been to South by Southwest from 2010 all the way through to 2015, [RISE](http://www.nolim1t.co/2016/06/06/post-rise-conference-key-takes.html) from 2015 up until now (this being the 3rd year), and [Web Summit](http://www.nolim1t.co/2016/11/21/websummit-2016.html) since 2016.
 
-I've also attended Ruby Kaigi in Japan since 2011, but sadly I might have to give this year a miss due to timing (I'd love to visit Japan again!).
+I've also attended [Ruby Kaigi in Japan](http://www.nolim1t.co/2016/09/12/rubykaigi-2016.html) since 2011, but sadly I might have to give this year a miss due to timing (I'd love to visit Japan again!).
 
 Anyway it's time for my pre-conference tips.
 
