@@ -13,16 +13,24 @@ Anyway it's time for my pre-conference tips.
 
 ## Tips for preparation
 
-* If you're coming from out of town, arrive a few days before to allow time to adjust to the time zone. Also you might want to get business cards printed out in Hong Kong rather than carrying it there. You need to stay alert during AND after the conference - If you actually want to meet people, you need to be at the night events. I found the best connections were at night.
-* Obviously, you might need to do some work. There's a cool spot in the basement of the convention centre which has fast free wifi and power (but very limited seating), there should be chillout areas in the actual venue too (just have some headphones). Also, there are lots of co-working spaces in Hong Kong. My favorite one is WeWork but it's quite expensive for the day unless you're already a member. However if you have a WeWork community member you can use that. Try to time your day with the events they hold, but more importantly - don't get too drunk on the free bottomless beer they offer there or you won't be working.
-* Check out some of the other events. HK is a very happening place.
+### Arriving in Hong Kong
+
+If you're coming from out of town, arrive a few days before to allow time to adjust to the time zone. Also you might want to get business cards printed out in Hong Kong rather than carrying it there. You need to stay alert during AND after the conference - If you actually want to meet people, you need to be at the night events. I found the best connections were at night.
+
+### Get Shit down / Working
+
+Obviously, you might need to do some work at times. There's a cool spot in the basement of the convention centre which has fast free wifi and power (but very limited seating), there should be chillout areas in the actual venue too (just have some headphones).
+
+Also, there are lots of co-working spaces in Hong Kong. My favorite one is WeWork but it's quite expensive for the day unless you're already a member. However if you have a WeWork community member you can use that. Try to time your day with the events they hold, but more importantly - don't get too drunk on the free bottomless beer they offer there or you won't be working.
+
 
 ## Networking Tips
 
 * While in Europe, I didn't really care to give them out. Plus web summit has an awesome app to use. **But In Asia, it's all about business cards**. Always have them. Just your name and contact at the bare minimum. For me it's my name, and website portal. Bonus points: Have something that stands out which is also a good conversation starter, and something memorable. Some events you need a name-card to get in to them.
-* Always have a drink. For those that don't drink (or just want to save money), get a mock-tail. It can be an awesome conversation starter.
+* Update your Tinder profile to reflect that you're there for RISE. You never know who you might find.
+* Always have a drink. For those that don't drink (or just want to save money), get a mock-tail. It can be an awesome conversation starter if you have a unique drink.
 * It's not a college frat party, pace yourself. It's not a race to how much alcohol you can consumed (might be tempting though because its all free).
-* Carry spare power for your phone. It's your portal to finding out where your "crew" is and where the action is when out and about and the party is starting to get lame.
+* Always Be Charging. Carry spare power for your phone. It's your portal to finding out where your "crew" is and where the action is when out and about and the party is starting to get lame.
 
 ## RISE Events
 
