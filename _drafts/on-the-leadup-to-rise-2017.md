@@ -50,3 +50,11 @@ Anyway it's time for my pre-conference tips.
 * **Monday July 10** [RISE x ChinaAccelerator](https://www.eventbrite.com/e/chinaccelerator-x-wework-launch-across-borders-tickets-35303223893)
 * **Friday July 14th** [#TaiwanRocksHK](https://www.eventbrite.com/e/taiwanrockshk-registration-35339277731)
 * **All Night Every Night** - Night Summit Shenanigans at LKF
+
+## Want to connect during RISE?
+
+Contact details below
+
+* <i class="fa fa-envelope" aria-hidden="true"></i> [E-mail](https://21.co/barryt/)
+* <i class="fa fa-telegram" aria-hidden="true"></i> [Telegram](https://t.me/nolim1t)
+* <i class="fa fa-commenting-o" aria-hidden="true"></i> [Messenger](https://m.me/barry.teoh)
