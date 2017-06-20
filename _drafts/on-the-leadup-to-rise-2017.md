@@ -14,7 +14,7 @@ Anyway it's time for my pre-conference tips.
 ## Tips for preparation
 
 * If you're coming from out of town, arrive a few days before to allow time to adjust to the time zone. Also you might want to get business cards printed out in Hong Kong rather than carrying it there. You need to stay alert during AND after the conference - If you actually want to meet people, you need to be at the night events. I found the best connections were at night.
-* There are lots of co-working spaces in Hong Kong. My favorite one is WeWork but it's quite expensive for the day. However if you have a WeWork community member you can use that. Try to time your day with the events they hold, but more importantly - don't get too drunk on the free bottomless beer they offer there or you won't be working.
+* Obviously, you might need to do some work. There's a cool spot in the basement of the convention centre which has fast free wifi and power (but very limited seating), there should be chillout areas in the actual venue too (just have some headphones). Also, there are lots of co-working spaces in Hong Kong. My favorite one is WeWork but it's quite expensive for the day unless you're already a member. However if you have a WeWork community member you can use that. Try to time your day with the events they hold, but more importantly - don't get too drunk on the free bottomless beer they offer there or you won't be working.
 * Check out some of the other events. HK is a very happening place.
 
 ## Networking Tips
