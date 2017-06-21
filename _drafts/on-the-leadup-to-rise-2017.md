@@ -23,7 +23,7 @@ If you're coming from out of town, arrive a few days before to allow time to adj
 
 ### Get Shit down / Working
 
-[WeWork HK](https://images.itinerantfoodie.com/uploads/hong-kong-pics/hk-wework.jpg)
+![WeWork HK](https://images.itinerantfoodie.com/uploads/hong-kong-pics/hk-wework.jpg)
 
 Obviously, you might need to do some work at times. There's a cool spot in the basement of the convention centre which has fast free wifi and power (but very limited seating), there should be chillout areas in the actual venue too (just have some headphones).
 
