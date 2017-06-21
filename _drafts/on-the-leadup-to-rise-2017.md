@@ -44,6 +44,8 @@ Also, there are lots of co-working spaces in Hong Kong. My favorite one is WeWor
 
 ### Events to look out for
 
+More to be added. Give me a shout out (contact details at the bottom or put a comment), if theres something mising.
+
 #### Sunday July 9th
 
 * [Brinc RISE China Trip](https://riseconf.com/china-trip)
