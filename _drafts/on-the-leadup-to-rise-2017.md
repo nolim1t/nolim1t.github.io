@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On the leadup to RISE 2017"
+title: "On the lead-up to RISE 2017"
 ---
 
 ![Hong Kong at Night](https://images.itinerantfoodie.com/uploads/hong-kong-pics/peaknighttime.png)
