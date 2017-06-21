@@ -3,6 +3,8 @@ layout: post
 title: "On the leadup to RISE 2017"
 ---
 
+[Hong Kong at Night](https://images.itinerantfoodie.com/uploads/hong-kong-pics/peaknighttime.png)
+
 I've been a conference veteran for many years - United States, Asia, and Europe.
 
 I've been to South by Southwest from 2010 all the way through to 2015, [RISE](http://www.nolim1t.co/2016/06/06/post-rise-conference-key-takes.html) from 2015 up until now (this being the 3rd year), and [Web Summit](http://www.nolim1t.co/2016/11/21/websummit-2016.html) since 2016.
@@ -14,6 +16,8 @@ Anyway it's time for my pre-conference tips.
 ## Tips for preparation
 
 ### Arriving in Hong Kong
+
+[Welcome to Hong Kong](https://images.itinerantfoodie.com/uploads/hong-kong-pics/welcome-to-hk.png)
 
 If you're coming from out of town, arrive a few days before to allow time to adjust to the time zone. Also you might want to get business cards printed out in Hong Kong rather than carrying it there. You need to stay alert during AND after the conference - If you actually want to meet people, you need to be at the night events. I found the best connections were at night.
 
@@ -33,6 +37,8 @@ Also, there are lots of co-working spaces in Hong Kong. My favorite one is WeWor
 * Always Be Charging. Carry spare power for your phone. It's your portal to finding out where your "crew" is and where the action is when out and about and the party is starting to get lame.
 
 ## RISE Events
+
+[LKF](https://images.itinerantfoodie.com/uploads/hong-kong-pics/lkf.jpg)
 
 ### Events to look out for
 
