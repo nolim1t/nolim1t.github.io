@@ -23,6 +23,8 @@ If you're coming from out of town, arrive a few days before to allow time to adj
 
 ### Get Shit down / Working
 
+[WeWork HK](https://images.itinerantfoodie.com/uploads/hong-kong-pics/hk-wework.jpg)
+
 Obviously, you might need to do some work at times. There's a cool spot in the basement of the convention centre which has fast free wifi and power (but very limited seating), there should be chillout areas in the actual venue too (just have some headphones).
 
 Also, there are lots of co-working spaces in Hong Kong. My favorite one is WeWork but it's quite expensive for the day unless you're already a member. However if you have a WeWork community member you can use that. Try to time your day with the events they hold, but more importantly - don't get too drunk on the free bottomless beer they offer there or you won't be working.
