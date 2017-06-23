@@ -76,6 +76,7 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 
 * **Monday July 10** [preRISE SG / HK startup & VC mixer](https://www.eventbrite.sg/e/prerise-sg-hk-startup-vc-mixer-tickets-35449650860)
 * **Monday July 10** [RISE x ChinaAccelerator](https://www.eventbrite.com/e/chinaccelerator-x-wework-launch-across-borders-tickets-35303223893)
+* **Monday July 11** [RISE Startup Ferry](https://www.eventbrite.hk/e/startupferry-2017-party-by-alivenotdeadcom-tickets-35070216963) - 9pm
 * **Friday July 14th** [#TaiwanRocksHK](https://www.eventbrite.com/e/taiwanrockshk-registration-35339277731)
 * **All Night Every Night** - Night Summit Shenanigans at LKF
 
