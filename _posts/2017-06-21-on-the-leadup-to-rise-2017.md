@@ -66,6 +66,7 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 * [Brinc IoT Night](https://www.eventbrite.hk/e/brincs-internet-of-things-night-tickets-35073544917)
 * [RISE Fintech Meetup](https://www.eventbrite.com/e/rise-fintech-meetup-tickets-35395918144)
 * [RISE Pitch like a girl event](https://www.eventbrite.hk/e/pitch-like-a-girl-rise-tickets-35029601481)
+* [RISE TravelTech Event](https://www.eventbrite.hk/e/rise-community-event-traveltech-runway-tickets-35035253386)
 
 #### Thursday July 13
 
@@ -77,6 +78,7 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 * **Monday July 10** [preRISE SG / HK startup & VC mixer](https://www.eventbrite.sg/e/prerise-sg-hk-startup-vc-mixer-tickets-35449650860)
 * **Monday July 10** [RISE x ChinaAccelerator](https://www.eventbrite.com/e/chinaccelerator-x-wework-launch-across-borders-tickets-35303223893)
 * **Tuesday July 11** [RISE Startup Ferry](https://www.eventbrite.hk/e/startupferry-2017-party-by-alivenotdeadcom-tickets-35070216963) - 9pm
+* **Wednesday July 12** [RISE TravelTech Event](https://www.eventbrite.hk/e/rise-community-event-traveltech-runway-tickets-35035253386)
 * **Friday July 14th** [#TaiwanRocksHK](https://www.eventbrite.com/e/taiwanrockshk-registration-35339277731)
 * **All Night Every Night** - Night Summit Shenanigans at LKF
 
