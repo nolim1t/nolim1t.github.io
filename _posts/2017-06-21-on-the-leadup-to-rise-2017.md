@@ -60,6 +60,8 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 * [500 Startups x Alibaba Entrepreneurs Fund @RISE Founders Night](https://www.eventbrite.com/e/500-startups-x-alibaba-entrepreneurs-fund-rise-founders-night-tickets-34930324541?aff=es2)
 * [RISE Startup Ferry](https://www.eventbrite.hk/e/startupferry-2017-party-by-alivenotdeadcom-tickets-35070216963)
 * [RISE Event - The Future of Higher Education](https://www.eventbrite.com/e/rise-community-event-the-future-of-higher-education-tickets-34954164848)
+* [Growth Marketer RISE Pub Crawl](https://www.eventbrite.hk/e/the-1st-rise-pub-crawl-for-growth-marketers-by-growthmarketeracademy-tickets-35501192021) - Also note that participants here is obliged to order at least 1 drink. For those on startup budgets, expect to pay at least 10 - 15 USD for a drink in HK bars.
+* [SG@RISE After Party](https://www.eventbrite.sg/e/sgrise-after-party-tickets-35031543289)
 
 #### Wednesday July 12
 
@@ -67,6 +69,8 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 * [RISE Fintech Meetup](https://www.eventbrite.com/e/rise-fintech-meetup-tickets-35395918144)
 * [RISE Pitch like a girl event](https://www.eventbrite.hk/e/pitch-like-a-girl-rise-tickets-35029601481)
 * [RISE TravelTech Event](https://www.eventbrite.hk/e/rise-community-event-traveltech-runway-tickets-35035253386)
+* [RISE CONFERENCE Community Event - VR Meetup](https://www.eventbrite.com/e/rise-conference-community-event-vr-meetup-vr-content-development-community-engagement-international-tickets-35516622173)
+* [Selling into China via Cross-Border E-Commerce](https://www.eventbrite.com/e/cross-border-ecommerce-into-china-at-rise-conference-tickets-35073885937) - Note that this is a PAID event.
 
 #### Thursday July 13
 
