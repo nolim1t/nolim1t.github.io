@@ -94,3 +94,4 @@ My contact details are below
 * <i class="fa fa-envelope" aria-hidden="true"></i> [E-mail](https://21.co/barryt/)
 * <i class="fa fa-telegram" aria-hidden="true"></i> [Telegram](https://t.me/nolim1t)
 * <i class="fa fa-commenting-o" aria-hidden="true"></i> [Messenger](https://m.me/barry.teoh)
+* <i class="fa fa-snapchat-host" aria-hidden="true"></i> [snapchat](https://www.snapchat.com/add/nolim1t) for fun space during the conference.
