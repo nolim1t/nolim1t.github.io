@@ -76,6 +76,7 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 
 * [Retail Tech: The Next Generation of Business Accelerators](https://www.eventbrite.hk/e/retail-tech-the-next-generation-of-business-accelerators-tickets-32346478187)
 * [StartupHK Karaoke](https://www.eventbrite.com/e/startupshk-presents-startup-karaoke-rise-closing-party-powered-by-alivenotdead-tickets-34460285642)
+* [RISE CONFERENCE Community Event–“Tech x Culture x Entertainment” Meetup](https://www.eventbrite.com/e/rise-conference-community-eventtech-x-culture-x-entertainment-meetup-tickets-35595516147)
 
 ### Some Events I've registered and hoping to attend
 
