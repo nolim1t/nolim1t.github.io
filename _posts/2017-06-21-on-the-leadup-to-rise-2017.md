@@ -71,6 +71,7 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 * [RISE TravelTech Event](https://www.eventbrite.hk/e/rise-community-event-traveltech-runway-tickets-35035253386)
 * [RISE CONFERENCE Community Event - VR Meetup](https://www.eventbrite.com/e/rise-conference-community-event-vr-meetup-vr-content-development-community-engagement-international-tickets-35516622173)
 * [Selling into China via Cross-Border E-Commerce](https://www.eventbrite.com/e/cross-border-ecommerce-into-china-at-rise-conference-tickets-35073885937) - Note that this is a PAID event.
+* [ChinaAccelerator RISE Party](https://www.eventbrite.com/e/chinaccelerator-happy-hour-at-rise-tickets-33811105928)
 
 #### Thursday July 13
 
@@ -84,6 +85,7 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 * **Monday July 10** [RISE x ChinaAccelerator](https://www.eventbrite.com/e/chinaccelerator-x-wework-launch-across-borders-tickets-35303223893)
 * **Tuesday July 11** [RISE Startup Ferry](https://www.eventbrite.hk/e/startupferry-2017-party-by-alivenotdeadcom-tickets-35070216963) - 9pm
 * **Wednesday July 12** [RISE TravelTech Event](https://www.eventbrite.hk/e/rise-community-event-traveltech-runway-tickets-35035253386)
+* **Wednesday July 12** [ChinaAccelerator RISE Party](https://www.eventbrite.com/e/chinaccelerator-happy-hour-at-rise-tickets-33811105928)
 * **Friday July 14th** [#TaiwanRocksHK](https://www.eventbrite.com/e/taiwanrockshk-registration-35339277731)
 * **All Night Every Night** - Night Summit Shenanigans at LKF
 
