@@ -65,6 +65,7 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 
 #### Wednesday July 12
 
+* [Outblaze Hike](https://outblaze-morning-hike.eventgrid.com/)
 * [Brinc IoT Night](https://www.eventbrite.hk/e/brincs-internet-of-things-night-tickets-35073544917)
 * [RISE Fintech Meetup](https://www.eventbrite.com/e/rise-fintech-meetup-tickets-35395918144)
 * [RISE Pitch like a girl event](https://www.eventbrite.hk/e/pitch-like-a-girl-rise-tickets-35029601481)
@@ -78,6 +79,7 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 * [Retail Tech: The Next Generation of Business Accelerators](https://www.eventbrite.hk/e/retail-tech-the-next-generation-of-business-accelerators-tickets-32346478187)
 * [StartupHK Karaoke](https://www.eventbrite.com/e/startupshk-presents-startup-karaoke-rise-closing-party-powered-by-alivenotdead-tickets-34460285642)
 * [RISE CONFERENCE Community Event–“Tech x Culture x Entertainment” Meetup](https://www.eventbrite.com/e/rise-conference-community-eventtech-x-culture-x-entertainment-meetup-tickets-35595516147)
+* [Outblaze Sunset Cruise](https://outblaze.eventgrid.com/)
 
 ### Some Events I've registered and hoping to attend
 
