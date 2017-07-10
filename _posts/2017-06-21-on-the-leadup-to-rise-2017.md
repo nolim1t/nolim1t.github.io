@@ -81,12 +81,13 @@ More to be added. Give me a shout out (contact details at the bottom or put a co
 * [RISE CONFERENCE Community Event–“Tech x Culture x Entertainment” Meetup](https://www.eventbrite.com/e/rise-conference-community-eventtech-x-culture-x-entertainment-meetup-tickets-35595516147)
 * [Outblaze Sunset Cruise](https://outblaze.eventgrid.com/)
 
-### Some Events I've registered and hoping to attend
+### Some Events I've registered and/or hoping to attend
 
 * **Monday July 10** [preRISE SG / HK startup & VC mixer](https://www.eventbrite.sg/e/prerise-sg-hk-startup-vc-mixer-tickets-35449650860)
 * **Monday July 10** [RISE x ChinaAccelerator](https://www.eventbrite.com/e/chinaccelerator-x-wework-launch-across-borders-tickets-35303223893)
 * **Tuesday July 11** [RISE Startup Ferry](https://www.eventbrite.hk/e/startupferry-2017-party-by-alivenotdeadcom-tickets-35070216963) - 9pm
 * **Wednesday July 12** [RISE TravelTech Event](https://www.eventbrite.hk/e/rise-community-event-traveltech-runway-tickets-35035253386)
+* **Wednesday July 12** [RISE Fintech Meetup](https://www.eventbrite.com/e/rise-fintech-meetup-tickets-35395918144)
 * **Wednesday July 12** [ChinaAccelerator RISE Party](https://www.eventbrite.com/e/chinaccelerator-happy-hour-at-rise-tickets-33811105928)
 * **Friday July 14th** [#TaiwanRocksHK](https://www.eventbrite.com/e/taiwanrockshk-registration-35339277731)
 * **All Night Every Night** - Night Summit Shenanigans at LKF
