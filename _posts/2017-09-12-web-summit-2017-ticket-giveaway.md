@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Summit 2017 Ticket giveaway!"
+title: "Offering 1 Web Summit 2017 Ticket... Apply within"
 ---
 
 ![Web Summit Email](https://images.itinerantfoodie.com/uploads/pre-web-summit-2017/websummit-sign-praco-commercio.jpg)
