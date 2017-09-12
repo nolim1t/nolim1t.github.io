@@ -22,4 +22,6 @@ Here are some of the cool points I've noticed so far:
 
 Now on to the fun part. This was the sole reason why I got into the program. I was more interested with the tech behind the scenes (implementing ID card login for websites).
 
-Also the way of digitally signing documents which is as good as paper. 
+When I'm a bit more free, I'll be building some proof of concept stuff based on the Eesti-ID (maybe even find a way of tying it in with Blockstack or an easy way of generating a bitcoin wallet)
+
+Also the way of digitally signing documents which is as good as paper.
