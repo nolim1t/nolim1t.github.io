@@ -4,6 +4,7 @@ title: "Tere Eesti!"
 ---
 
 ![Tallinn Old Town](https://images.itinerantfoodie.com/uploads/tere-eesti/tallinn-old-town-1.jpg)
+![Raekoda plats](https://images.itinerantfoodie.com/uploads/tere-eesti/IMG_2711.png)
 
 Over the last few days I've been busy setting up my legal entity in Estonia (which is my gateway to the EU).
 
