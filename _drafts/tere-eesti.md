@@ -3,7 +3,7 @@ layout: post
 title: "Tere Eesti!"
 ---
 
-![Tere Eesti](https://images.itinerantfoodie.com/uploads/tere-eesti/tallinn-old-town-1.jpg)
+![Tallinn Old Town](https://images.itinerantfoodie.com/uploads/tere-eesti/tallinn-old-town-1.jpg)
 
 Over the last few days I've been busy setting up my legal entity in Estonia (which is my gateway to the EU).
 
