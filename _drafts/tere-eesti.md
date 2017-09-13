@@ -18,7 +18,7 @@ Here are some of the cool points I've noticed so far:
 * You have a personal eesti.ee email address issued to yourself and also one for the company that you have registered. It's gotta be better than GMAIL (I've had issues with GMAIL in the past)
 * Setup for the company (assuming no trademarks or similar names), is done and entered into the registry within 24-48 hours.
 * Assuming no issues, EU business bank account set up within 1 week but you need to be in Tallinn for this.
-* Money left in the company is NOT TAXED. You are only taxed on taking money out of the company (as a dividend an income). Therefore you can spend money as the company (as long as its a legitimate business expense). 
+* Money left in the company is NOT TAXED. You are only taxed on taking money out of the company (as a dividend an income). Therefore you can spend money as the company (as long as its a legitimate business expense).
 
 
 ## Technology
@@ -28,3 +28,12 @@ Now on to the fun part. This was the sole reason why I got into the program. I w
 When I'm a bit more free, I'll be building some proof of concept stuff based on the Eesti-ID (maybe even find a way of tying it in with Blockstack or an easy way of generating a bitcoin wallet)
 
 Also the way of digitally signing documents which is as good as paper.
+
+## Estonia in General
+
+* Cost of Living wise it is about 10-15% more expensive than Chiang Mai.
+* Similar living expenses as Taiwan
+* More english than Chiang Mai or Taiwan
+* Close to UK (for conferences)
+* Internet access is considered a human right (I love that)
+* Similar weather to Canada (Doesn't get warmer than 20 degrees in Summer!)
