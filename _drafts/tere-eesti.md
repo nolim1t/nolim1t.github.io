@@ -48,7 +48,7 @@ Different people here have different circumstances, so consult your tax departme
 
 Also read up on double taxation treaties for your taxation country to see if you are taxed both by Estonia and your country before paying yourself a salary.
 
-If you're a digital nomad though, you could pretty much be completely tax free as travel expenses (flights, accomodation, Uber, taxi, and meals) are regarded as business expenses if you are in a city outside of your "Home base". Including flights to Estonia. Co-working spaces? Also a business expense.
+If you're a digital nomad though, you could theoretically be completely tax free as travel expenses (flights, accomodation, Uber, taxi, and meals) are regarded as business expenses if you are in a city outside of your "Home base". Including flights to Estonia. Co-working spaces? Also a business expense. I've read up on the travel expense claim a bit, and its basically unlimited (as long as the company has funds)
 
 Also, if you're the investor type any money you inject into the Estonian economy by angel investments is not taxed too. Great to boost startups. Finally someone gets it.
 
