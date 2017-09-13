@@ -69,6 +69,10 @@ Now on to the fun part. This was the sole reason why I got into the program. I w
 
 When I'm a bit more free, I'll be building some proof of concept stuff based on the Eesti-ID (maybe even find a way of tying it in with Blockstack or an easy way of generating a bitcoin wallet)
 
+## Brexit
+
+Last but not least, Brexit. For the brits who still want to remain part of the EU (at least business and financial wise), there's a way to have a EURO bank account to shield yourself against the devaluing pound.
+
 ## Estonia in General
 
 ![Estonia 1](https://images.itinerantfoodie.com/uploads/tere-eesti/IMG_2792.png)
