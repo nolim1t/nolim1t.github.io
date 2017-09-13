@@ -26,7 +26,7 @@ It's awesome if you don't have a fixed address but still have the means of makin
 
 Banks traditionally don't like dealing people without a fixed address.
 
-Also all communications can be handled online (managing my affairs in other countries though feels like a big tedious clusterfuck).
+Also all communications can be handled online (managing my affairs in other countries though feels like a big tedious "clusterfuck", and sometimes its not even possible).
 
 You have a personal eesti.ee email address issued to yourself and also one for the company that you have registered. It's gotta be better than GMAIL (I've had issues with GMAIL in the past). Not to mention it filters out spam.
 
@@ -51,6 +51,8 @@ Different people here have different circumstances, so consult your tax departme
 Also read up on double taxation treaties for your taxation country to see if you are taxed both by Estonia and your country before paying yourself a salary.
 
 ### Digital Nomads / Long term slow travellers
+
+![Thailand Nomadlife](https://images.itinerantfoodie.com/uploads/nomadlife-thailand/FullSizeRender.jpg)
 
 If you're a "digital nomad" (I hate that word) though, you could theoretically be completely tax free as travel expenses (flights, accomodation, Uber, taxi, and meals) are regarded as business expenses if you are in a city outside of your "Home base". Including flights to Estonia. Co-working spaces? Also a business expense. I've read up on the travel expense claim a bit, and its basically unlimited (as long as the company has funds).
 
