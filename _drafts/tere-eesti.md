@@ -42,7 +42,7 @@ I started the application for the company while I was not in Estonia - including
 
 Assuming no issues, EU business bank account set up within 1 week but you need to be in Tallinn for this (obviously for identity purposes).
 
-## Taxation
+## Taxation Optimization
 
 ![Taxation](http://www.nolim1t.co/taxes.jpg)
 
@@ -50,9 +50,13 @@ Different people here have different circumstances, so consult your tax departme
 
 Also read up on double taxation treaties for your taxation country to see if you are taxed both by Estonia and your country before paying yourself a salary.
 
-If you're a digital nomad though, you could theoretically be completely tax free as travel expenses (flights, accomodation, Uber, taxi, and meals) are regarded as business expenses if you are in a city outside of your "Home base". Including flights to Estonia. Co-working spaces? Also a business expense. I've read up on the travel expense claim a bit, and its basically unlimited (as long as the company has funds)
+### Digital Nomads / Long term slow travellers
 
-Also, if you're the investor type any money you inject into the Estonian economy by angel investments is not taxed too. Great to boost startups. Finally someone gets it.
+If you're a "digital nomad" (I hate that word) though, you could theoretically be completely tax free as travel expenses (flights, accomodation, Uber, taxi, and meals) are regarded as business expenses if you are in a city outside of your "Home base". Including flights to Estonia. Co-working spaces? Also a business expense. I've read up on the travel expense claim a bit, and its basically unlimited (as long as the company has funds).
+
+### So you do some Angel Investments?
+
+Also, if you're the investor type any money you inject into the Estonian economy by investments as that not taxed too. Great to boost startups. Or just leave it in your company any wait for that perfect investment. Finally someone gets it.
 
 
 ## Technology
