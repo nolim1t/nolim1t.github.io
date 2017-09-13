@@ -20,11 +20,13 @@ No need to worry about couriering documents and wasting paper. It's more eco-fri
 
 Not to mention, no need to worry about getting documents certified - public key cryptography rocks.
 
-## Perfect for digital nomads
+## No fixed address no problems!
 
 It's awesome if you don't have a fixed address but still have the means of making money through your company.
 
 Banks traditionally don't like dealing people without a fixed address.
+
+Your banking options are: LHV (requires an in-person interview, however this is a real bank),
 
 Also all communications can be handled online (managing my affairs in other countries though feels like a big tedious "clusterfuck", and sometimes its not even possible).
 
@@ -77,5 +79,5 @@ When I'm a bit more free, I'll be building some proof of concept stuff based on 
 * Definitely more english than Chiang Mai
 * Cheap alcohol! (I'm addicted to that estonian liqueur)
 * Close to UK (for conferences). Also doesn't count towards your schengen time.
-* Internet access is considered a human right (I love that)
+* Internet access is considered a human right (I love that). Also there is a lot of internet freedom as well.
 * Similar weather to Vancouver, Canada but without the pricetag (Doesn't get warmer than 20 degrees in Summer!)
