@@ -72,9 +72,10 @@ When I'm a bit more free, I'll be building some proof of concept stuff based on 
 ![Estonia 1](https://images.itinerantfoodie.com/uploads/tere-eesti/IMG_2792.png)
 ![Estonia 2](https://images.itinerantfoodie.com/uploads/tere-eesti/IMG_2793.png)
 
-* Cost of Living wise it is about 10-15% more expensive than Chiang Mai (similar to Taiwan, but accomodation is a bit cheaper than Taiwan)
+* Cost of Living wise it is about 10-15% more expensive than the "digital nomad mecca Chiang Mai"
 * Most non-EU citizens get 90 days every 6 months. There are ways around it (Portugal lets you spend 180 days every 6 months).
-* More english than Chiang Mai or Taiwan
+* Definitely more english than Chiang Mai
+* Cheap alcohol! (I'm addicted to that estonian liqueur)
 * Close to UK (for conferences). Also doesn't count towards your schengen time.
 * Internet access is considered a human right (I love that)
 * Similar weather to Vancouver, Canada but without the pricetag (Doesn't get warmer than 20 degrees in Summer!)
