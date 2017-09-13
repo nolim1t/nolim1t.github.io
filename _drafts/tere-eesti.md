@@ -44,6 +44,8 @@ Assuming no issues, EU business bank account set up within 1 week but you need t
 
 ## Taxation
 
+![Taxation](http://www.nolim1t.co/taxes.jpg)
+
 Different people here have different circumstances, so consult your tax department website (or hire someone who understands it if you don't want to do it yourself).
 
 Also read up on double taxation treaties for your taxation country to see if you are taxed both by Estonia and your country before paying yourself a salary.
