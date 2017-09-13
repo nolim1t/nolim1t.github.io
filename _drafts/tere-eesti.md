@@ -69,6 +69,9 @@ When I'm a bit more free, I'll be building some proof of concept stuff based on 
 
 ## Estonia in General
 
+![Estonia 1](https://images.itinerantfoodie.com/uploads/tere-eesti/IMG_2792.png)
+![Estonia 2](https://images.itinerantfoodie.com/uploads/tere-eesti/IMG_2793.png)
+
 * Cost of Living wise it is about 10-15% more expensive than Chiang Mai (similar to Taiwan, but accomodation is a bit cheaper than Taiwan)
 * Most non-EU citizens get 90 days every 6 months. There are ways around it (Portugal lets you spend 180 days every 6 months).
 * More english than Chiang Mai or Taiwan
