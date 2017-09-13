@@ -54,7 +54,7 @@ Also read up on double taxation treaties for your taxation country to see if you
 
 ![Thailand Nomadlife](https://images.itinerantfoodie.com/uploads/nomadlife-thailand/FullSizeRender.jpg)
 
-If you're a "digital nomad" (I hate that word) though, you could theoretically be completely tax free as travel expenses (flights, accomodation, Uber, taxi, and meals) are regarded as business expenses if you are in a city outside of your "Home base". Including flights to Estonia. Co-working spaces? Also a business expense. I've read up on the travel expense claim a bit, and its basically unlimited (as long as the company has funds).
+If you're a "digital nomad" (I hate that word) though, you could theoretically be completely tax free as travel expenses (flights, accomodation, Uber, taxi, and meals) are regarded as business expenses if you are in a city outside of your nominated "Home base". Including flights to Estonia (as long as you don't actually live there). Co-working spaces? Also a business expense (but it should be anyway). I've read up on the travel expense claim a bit, and its basically unlimited so its very digital nomad friendly (as long as the company has funds).
 
 ### So you do some Angel Investments?
 
