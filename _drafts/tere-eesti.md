@@ -78,10 +78,12 @@ Last but not least, Brexit. For the brits who still want to remain part of the E
 ![Estonia 1](https://images.itinerantfoodie.com/uploads/tere-eesti/IMG_2792.png)
 ![Estonia 2](https://images.itinerantfoodie.com/uploads/tere-eesti/IMG_2793.png)
 
-* Cost of Living wise it is about 10-15% more expensive than the "digital nomad mecca Chiang Mai"
+* Cost of Living is quite similar to Chiang Mai. In fact apartment rents seem cheaper than Cebu in the Phillipines. In Tallinn, public transport is FREE if you decide to register as a resident.
+* Startup friendly country
+* Banks actually offer you free tea and coffee while waiting! (Seriously)
 * Most non-EU citizens get 90 days every 6 months. There are ways around it (Portugal lets you spend 180 days every 6 months).
 * Definitely more english than Chiang Mai
 * Cheap alcohol! (I'm addicted to that estonian liqueur)
-* Close to UK (for conferences). Also doesn't count towards your schengen time.
+* Close to UK (for conferences, and meetups).
 * Internet access is considered a human right (I love that). Also there is a lot of internet freedom as well.
 * Similar weather to Vancouver, Canada but without the pricetag (Doesn't get warmer than 20 degrees in Summer!)
