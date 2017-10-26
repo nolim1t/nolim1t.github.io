@@ -87,7 +87,6 @@ Last but not least, Brexit. For the brits who still want to remain part of the E
 * Cost of Living is quite similar to Chiang Mai. In fact apartment rents seem cheaper than Cebu in the Phillipines. In Tallinn, public transport is FREE if you decide to register as a resident.
 * Startup friendly country
 * Banks actually offer you free tea and coffee while waiting! (Seriously)
-* Most non-EU citizens get 90 days every 6 months. There are ways around it (Portugal lets you spend 180 days every 6 months).
 * Definitely more english than Chiang Mai
 * Cheap alcohol! (I'm addicted to that estonian liqueur)
 * Close to UK (for conferences, and meetups).
