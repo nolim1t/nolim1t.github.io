@@ -53,4 +53,4 @@ May as well just stick with non-blockchain currency.
 
 Here's an analogy:
 
-![Bitcoin Scaling](http://nolim1t.co/btcvsbch-scaling.jpg)
+[![BTC vs BCH analogy](http://nolim1t.co/btcvsbch-scaling-thumb.png)](http://nolim1t.co/btcvsbch-scaling.jpg)
