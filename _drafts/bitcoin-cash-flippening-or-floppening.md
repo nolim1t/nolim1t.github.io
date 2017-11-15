@@ -3,6 +3,8 @@ layout: post
 title: "Bitcoin Cash Flippening or Floppening"
 ---
 
+![BTC vs BCH a fork in the road](http://nolim1t.co/btc-vs-bch-a-forkintheroad.jpg)
+
 As of lately I've seen a huge spike in the Bitcoin cash price (which got a bit of interest).
 
 Along with the spike, a lot of F.U.D has been spread on the bitcoin forums and reddit.
