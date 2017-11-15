@@ -40,3 +40,15 @@ While bigger blocks gives a reason for scalability, it's something that can't ke
 There is some news going about all the bitcoin core (as in [github.com/bitcoin/bitcoin](http://github.com/bitcoin/bitcoin)) developers on the payroll. However, according to [this site](https://www.weusecoins.com/en/whos-who/) - less than half of the core developers are on the payroll.
 
 Why would you spread fake news? I guess to discredit the competitor
+
+### Scaling is only a short term solution
+
+Basically the method of scaling for Bitcoin Cash is a short term fix.
+
+Make more room in the blocks, but what happens when that gets full? Just increase it? But see the issue about centralization which is bad for a decentralized currency.
+
+May as well just stick with non-blockchain currency.
+
+Here's an analogy:
+
+![Bitcoin Scaling](http://nolim1t.co/btcvsbch-scaling.jpg)
