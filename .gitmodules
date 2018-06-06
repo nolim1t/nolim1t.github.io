@@ -1,3 +1,6 @@
 [submodule "_layouts"]
 	path = _layouts
 	url = https://gitlab.com/nolim1t/nolim1t-co-templates.git
+[submodule "projects"]
+	path = projects
+	url = https://gitlab.com/nolim1t/projects.git
