@@ -11,4 +11,9 @@ The other alternative would be BitBucket, however the [UX isn't so great](https:
 
 Anyway GitLab has a cool CI/CD feature which means you don't need travisCI at all and includes private repos in the price.
 
+A few other features I like:
+
+* Repository grouping
+* SSL for custom sites (guide to come soon, but you can see this [source for this site](https://gitlab.com/nolim1t/nolim1t-co))
+
 Will be doing a writeup later on using gitlabs CI/CD feature to push deployments to AWS S3 later.
