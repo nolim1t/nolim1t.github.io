@@ -23,3 +23,11 @@ Simple run the following command
 ```bash
 bundle exec jekyll serve
 ```
+
+## Building
+
+```bash
+git submodule foreach git pull origin master
+bundle exec jekyll build
+ls _site
+```

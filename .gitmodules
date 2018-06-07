@@ -7,3 +7,6 @@
 [submodule "opensource"]
 	path = opensource
 	url = https://gitlab.com/nolim1t/opensource.git
+[submodule "resume"]
+	path = resume
+	url = https://gitlab.com/nolim1t/resume.git
