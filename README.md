@@ -31,3 +31,9 @@ git submodule foreach git pull origin master
 bundle exec jekyll build
 ls _site
 ```
+
+## Previewing
+
+```bash
+bundle exec jekyll serve
+```
