@@ -10,3 +10,6 @@
 [submodule "resume"]
 	path = resume
 	url = https://gitlab.com/nolim1t/resume.git
+[submodule "lightning-pay-page"]
+	path = lightning-pay-page
+	url = https://gitlab.com/nolim1t/lightning-pay-page.git
