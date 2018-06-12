@@ -28,7 +28,6 @@ bundle exec jekyll serve
 
 ```bash
 git submodule foreach git pull origin master
-bundle exec jekyll build
 ls _site
 ```
 
