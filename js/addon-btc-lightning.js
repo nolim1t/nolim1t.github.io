@@ -77,6 +77,11 @@ var lnapp = new Vue({
   },
   mounted: function() {
     console.log("lightning app initialized!");
+    if ((document.getElementById("submitbutton") !== undefined && document.getElementById("submitbutton") !== null) && (document.getElementById("descriptionform") !== undefined && document.getElementById("descriptionform") !== null)) {
+      console.log("Adjust style")
+      document.getElementById("descriptionform").style['margin-top'] = '5px';
+      document.getElementById("submitbutton").style['margin-top'] = '5px';
+    }
     if (document.getElementById('btcrates') !== undefined && document.getElementById('btcrates') !== null) {
       console.log("Loading BTC rates");
       check_btc_rates((btcratescb) => {
