@@ -105,9 +105,10 @@ var lnapp = new Vue({
 
         // Hide form when submitted
         if (document.getElementById("blurb") !== undefined && document.getElementById("blurb") !== null) document.getElementById("blurb").style.display = 'none'; //  Hide text
-        if (document.getElementById("submitbutton") !== undefined) document.getElementById("submitbutton").style.display = 'none'; // disable submit button
-        if (document.getElementById("amountinput") !== undefined) document.getElementById("amountinput").style.display = 'none'; // disable input field
-        if (document.getElementById("descriptionform") !== undefined && document.getElementById("descriptionform") !== null) document.getElementById("descriptionform").style.display = 'none'; // disable input field
+        if (document.getElementById("submitbutton") !== undefined) document.getElementById("submitbutton").style.display = 'none'; // hide submit button if exists
+        if (document.getElementById("amountinput") !== undefined) document.getElementById("amountinput").style.display = 'none'; // hide amount if exists
+        if (document.getElementById("descriptionform") !== undefined && document.getElementById("descriptionform") !== null) document.getElementById("descriptionform").style.display = 'none'; // Hide invoice description if exists
+        if (document.getElementById("btcrates") !== undefined && document.getElementById("btcrates") !== null) document.getElementById("btcrates").style.display = 'none'; // Hide 'btcrates' if exist
 
         axios.get(url).then((response) => {
           if (response.data.info['id'] !== undefined && response.data['lnd_payment_request'] !== undefined) {
