@@ -12,16 +12,18 @@ var lnapp = new Vue({
     chargeId: '',
     paid: false,
     pollCount: 0,
-    maxpollIntervals: 20
+    maxpollIntervals: 20,
+    resultElement: '',
+    pollWaitDiv: '',
   },
   methods: {
     generateInvoice: function () { // Generates BTC lightning invoice
-      var resultElement = document.getElementById('result');
+      this.resultElement = document.getElementById('result');
       if (parseFloat(this.amount) >= 0.005 && document.getElementById("descriptionform").value != '') {
         // If description not empty and greator than half a cent
-        resultElement.innerHTML = 'Amount is ' + this.amount.toString();
+        this.resultElement.innerHTML = 'Amount is ' + this.amount.toString();
         var url = base_url + "?showInvoice=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(document.getElementById("descriptionform").value);
-        resultElement.innerHTML = 'Fetching....';
+        this.resultElement.innerHTML = 'Fetching....';
         console.log('fetching ' + url);
                 document.getElementById("submitbutton").disabled = "true"; // disable submit button
         axios.get(url).then((response) => {
@@ -30,18 +32,25 @@ var lnapp = new Vue({
             this.chargeId = response.data.info['id'];
             this.lndinvoice = response.data['lnd_payment_request'];
             this.pollCount = 0;
-            var textarea_html = "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + response.data['lnd_payment_request'] + "</textarea>";
-            resultElement.innerHTML = '<strong>Pay the following TESTNET Lightning Invoice:</strong><br /><img src="http://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=' + response.data['lnd_payment_request'] + '" /><br />or copy the following payment request<br />' + textarea_html;
+            this.resultElement.innerHTML = '<div id="innerresult"><strong>Pay the following TESTNET Lightning Invoice:</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div>';
+            this.pollWaitDiv = document.getElementById('waitresults');
             setInterval(function () {
+              this.pollWaitDiv.innerHTML = '(Waiting ' + ((this.pollCount + 1) * 10).toString() + ' seconds out of ' + (this.maxpollIntervals * 10).toString() + ' seconds)';
               this.pollPayment(this.chargeId)
             }.bind(this), 10000);
           } else {
-            resultElement.innerHTML = 'Oh No! There was an error in response from LN API';
+            this.resultElement.innerHTML = 'Oh No! There was an error in response from LN API';
           }
         });
       } else {
         console.log('Do not submit');
       }
+    },
+    generateLNDTextArea: function(lndinvoice) {
+      return "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + lndinvoice + "</textarea>";
+    },
+    generateQRCode: function(lndinvoice) {
+      return "<img src=\"http://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=" + lndinvoice + "\" />";
     },
     pollPayment: function (chargeId) {
       this.pollCount += 1 ;
