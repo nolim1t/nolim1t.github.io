@@ -58,9 +58,28 @@ const check_charge_id = (chargeId, callback) => {
         IsPaid: false
       });
     }
+  }).catch(function (error) {
+    if (error.response.data['status'] !== undefined && error.response.data['status'] !== null) {
+      if (error.response.data['status'] === 404) {
+        callback({
+          IsPaid: false,
+          error: true,
+          error_type: 'Charge Doesnt Exist'
+        });
+      } else {
+        callback({
+          IsPaid: false,
+          error: true,
+          error_type: error.response.data['message']
+        });
+      }
+    }
   });
 }
 var receiptId = ''; // Global
+/*
+  Lightning App
+*/
 var lnapp = new Vue({
   el: '#lnapp',
   data: {
@@ -77,21 +96,33 @@ var lnapp = new Vue({
   },
   mounted: function() {
     console.log("lightning app initialized!");
-    if ((document.getElementById("submitbutton") !== undefined && document.getElementById("submitbutton") !== null) && (document.getElementById("descriptionform") !== undefined && document.getElementById("descriptionform") !== null)) {
-      console.log("Adjust style")
-      document.getElementById("descriptionform").style['margin-top'] = '5px';
-      document.getElementById("submitbutton").style['margin-top'] = '5px';
-    }
-    if (document.getElementById('btcrates') !== undefined && document.getElementById('btcrates') !== null) {
-      console.log("Loading BTC rates");
-      check_btc_rates((btcratescb) => {
-        console.log(btcratescb);
-        if (btcratescb['rates'] !== undefined && btcratescb['rates'] !== null) {
-          if (btcratescb['rates']['USD'] !== undefined || btcratescb['rates']['USD'] !== null) {
-            document.getElementById('btcrates').innerHTML = '<p class="blurb">Please note, that our BTC Rate is <strong>$' + btcratescb['rates']['USD'].toString() + ' per BTC</strong></p>';
+    if (document.getElementById("paymentwidget") !== undefined && document.getElementById("paymentwidget") !== null) {
+      console.log("Payment widget loaded!");
+      if ((document.getElementById("submitbutton") !== undefined && document.getElementById("submitbutton") !== null) && (document.getElementById("descriptionform") !== undefined && document.getElementById("descriptionform") !== null)) {
+        console.log("Adjust style")
+        document.getElementById("descriptionform").style['margin-top'] = '5px';
+        document.getElementById("submitbutton").style['margin-top'] = '5px';
+      }
+      if (document.getElementById('btcrates') !== undefined && document.getElementById('btcrates') !== null) {
+        console.log("Loading BTC rates");
+        check_btc_rates((btcratescb) => {
+          console.log(btcratescb);
+          if (btcratescb['rates'] !== undefined && btcratescb['rates'] !== null) {
+            if (btcratescb['rates']['USD'] !== undefined || btcratescb['rates']['USD'] !== null) {
+              document.getElementById('btcrates').innerHTML = '<p class="blurb">Please note, that our BTC Rate is <strong>$' + btcratescb['rates']['USD'].toString() + ' per BTC</strong></p>';
+            }
           }
-        }
-      });
+        });
+      }
+    } else {
+      console.log("Payment widget not loaded");
+    }
+
+    if (document.getElementById("receiptcheck") !== undefined && document.getElementById("receiptcheck") !== null) {
+      console.log("Receipt check loaded!");
+      document.getElementById("checkreceiptref").style['margin-top'] = '5px';
+    } else {
+      console.log("Receipt check not loaded!");
     }
   },
   methods: {
@@ -166,6 +197,19 @@ var lnapp = new Vue({
       } else { // If poll payment still runs and paid true (this block probably doesnt get executed)
         if (this.pollWaitDiv !== undefined) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Please click <a onClick="document.getElementById(\'manualcheckstatus\').innerHTML = \'. Checking status...\'; check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅<br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. \'; } else { console.log(\'Still not paid. \'); } }); document.getElementById(\'manualcheckstatus\').innerHTML = \'. Not Paid\'; ">here</a> to manually check payments <span id="manualcheckstatus"></span>)';
         console.log("No longer polling because paid");
+      }
+    },
+    checkreceipt: function() {
+      // Test: 8jbvJpTZmvNJzHQzEKz1STMSDWg5Z
+      if (document.getElementById('receiptresult') !== undefined && document.getElementById('receiptresult') !== null && document.getElementById('receiptrefinput') !== undefined && document.getElementById('receiptrefinput') !== null) {
+        if (document.getElementById('receiptrefinput').value !== undefined && document.getElementById('receiptrefinput').value !== null && document.getElementById('receiptrefinput').value !== '') {
+          check_charge_id('ch_' + document.getElementById('receiptrefinput').value.toString(), function(callback) {
+            var friendlyPaymentStatus = 'Not Paid';
+            if (callback.IsPaid === true) friendlyPaymentStatus = 'Paid';
+            document.getElementById('receiptresult').style['margin-top'] = '4px';
+            document.getElementById('receiptresult').innerHTML = 'The receipt reference for the invoice is ' + friendlyPaymentStatus;
+          });
+        }
       }
     }
   } // End Methods in vue.js object
