@@ -53,10 +53,10 @@ var lnapp = new Vue({
         this.resultElement.innerHTML = 'Fetching....';
 
         // Hide form when submitted
-        if (document.getElementById("blurb") !== undefined) document.getElementById("blurb").style.display = 'none'; //  Hide text
+        if (document.getElementById("blurb") !== undefined && document.getElementById("blurb") !== null) document.getElementById("blurb").style.display = 'none'; //  Hide text
         if (document.getElementById("submitbutton") !== undefined) document.getElementById("submitbutton").style.display = 'none'; // disable submit button
         if (document.getElementById("amountinput") !== undefined) document.getElementById("amountinput").style.display = 'none'; // disable input field
-        if (document.getElementById("descriptionform") !== undefined) document.getElementById("descriptionform").style.display = 'none'; // disable input field
+        if (document.getElementById("descriptionform") !== undefined && document.getElementById("descriptionform") !== null) document.getElementById("descriptionform").style.display = 'none'; // disable input field
 
         axios.get(url).then((response) => {
           if (response.data.info['id'] !== undefined && response.data['lnd_payment_request'] !== undefined) {
@@ -70,7 +70,7 @@ var lnapp = new Vue({
               console.log("Poll Job ID: " + this.intervalId.toString());
               if (this.pollCount >= this.maxpollIntervals || this.paid === true) {
                 console.log("Cancel all waiting");
-                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer polling. Click <a onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); ">here</a> to check payments)';
+                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Click <a href="#" onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); ">here</a> to manually check payments)';
                 clearInterval(this.intervalId);
               } else {
                 if (document.getElementById('waitresults')!== undefined && document.getElementById('waitresults') !== null) {
