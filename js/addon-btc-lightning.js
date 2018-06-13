@@ -2,6 +2,39 @@
   Beta Lightning network addition
 */
 const base_url = "https://ddanppib10.execute-api.us-east-2.amazonaws.com/awslightning1/generateinvoice";
+const check_btc_rates = (callback) => {
+  axios.get(base_url + '?showRates=true').then((response) => {
+    if (response.data !== undefined && response.data !== null) {
+      if (response.data['status'] !== undefined && response.data['status'] !== null) {
+        if (response.data['status'] === 200) {
+          if (response.data['rates'] !== undefined && response.data['rates'] !== null) {
+            callback({
+              fetched: true,
+              rates: response.data['rates']
+            });
+          } else {
+            callback({
+              fetched: false
+            });
+          }
+        } else {
+          callback({
+            fetched: false
+          });
+        }
+      } else {
+        callback({
+          fetched: false
+        });
+      }
+    } else {
+      callback({
+        fetched: false
+      });
+    }
+  });
+};
+
 const check_charge_id = (chargeId, callback) => {
   axios.get(base_url + '?checkCharge=true&chargeId=' + chargeId).then((response) => {
     if (response.data['response'] !== undefined) {
@@ -41,6 +74,20 @@ var lnapp = new Vue({
     resultElement: '',
     pollWaitDiv: '',
     intervalId: ''
+  },
+  mounted: function() {
+    console.log("lightning app initialized!");
+    if (document.getElementById('btcrates') !== undefined && document.getElementById('btcrates') !== null) {
+      console.log("Loading BTC rates");
+      check_btc_rates((btcratescb) => {
+        console.log(btcratescb);
+        if (btcratescb['rates'] !== undefined && btcratescb['rates'] !== null) {
+          if (btcratescb['rates']['USD'] !== undefined || btcratescb['rates']['USD'] !== null) {
+            document.getElementById('btcrates').innerHTML = '<p class="blurb">Please note, that our BTC Rate is <strong>$' + btcratescb['rates']['USD'].toString() + ' per BTC</strong></p>';
+          }
+        }
+      });
+    }
   },
   methods: {
     generateInvoice: function () { // Generates BTC lightning invoice
