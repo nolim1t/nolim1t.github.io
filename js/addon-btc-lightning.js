@@ -64,7 +64,7 @@ const check_charge_id = (chargeId, callback) => {
 var lnapp = new Vue({
   el: '#lnapp',
   data: {
-    amount: '0.05',
+    amount: '0.50',
     message: '',
     lndinvoice: '',
     chargeId: '',
