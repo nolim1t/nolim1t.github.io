@@ -41,20 +41,24 @@ const check_charge_id = (chargeId, callback) => {
       if (response.data['response']['paid'] !== undefined) {
         if (response.data['response']['paid'] === true) {
           callback({
+            chargeId: chargeId,
             IsPaid: response.data['response']['paid']
           });
         } else {
           callback({
+            chargeId: chargeId,
             IsPaid: response.data['response']['paid']
           });
         }
       } else {
         callback({
+          chargeId: chargeId,
           IsPaid: false
         });
       }
     } else {
       callback({
+        chargeId: chargeId,
         IsPaid: false
       });
     }
@@ -62,12 +66,14 @@ const check_charge_id = (chargeId, callback) => {
     if (error.response.data['status'] !== undefined && error.response.data['status'] !== null) {
       if (error.response.data['status'] === 404) {
         callback({
+          chargeId: chargeId,
           IsPaid: false,
           error: true,
-          error_type: 'Charge Doesnt Exist'
+          error_type: 'notexist'
         });
       } else {
         callback({
+          chargeId: chargeId,
           IsPaid: false,
           error: true,
           error_type: error.response.data['message']
@@ -200,14 +206,21 @@ var lnapp = new Vue({
       }
     },
     checkreceipt: function() {
-      // Test: 8jbvJpTZmvNJzHQzEKz1STMSDWg5Z
       if (document.getElementById('receiptresult') !== undefined && document.getElementById('receiptresult') !== null && document.getElementById('receiptrefinput') !== undefined && document.getElementById('receiptrefinput') !== null) {
         if (document.getElementById('receiptrefinput').value !== undefined && document.getElementById('receiptrefinput').value !== null && document.getElementById('receiptrefinput').value !== '') {
           check_charge_id('ch_' + document.getElementById('receiptrefinput').value.toString(), function(callback) {
             var friendlyPaymentStatus = 'Not Paid';
             if (callback.IsPaid === true) friendlyPaymentStatus = 'Paid';
+            if (callback.error !== undefined && callback.error !== null) {
+              if (callback.error === true) {
+                friendlyPaymentStatus = ' Unspecified Error';
+                if (callback['error_type'] !== undefined && callback['error_type'] !== null) {
+                  if (callback['error_type'] === 'notexist') friendlyPaymentStatus = 'Receipt does not exist!';
+                }
+              }
+            }
             document.getElementById('receiptresult').style['margin-top'] = '4px';
-            document.getElementById('receiptresult').innerHTML = 'The receipt reference for the invoice is ' + friendlyPaymentStatus;
+            document.getElementById('receiptresult').innerHTML = 'The receipt reference <strong>' + document.getElementById('receiptrefinput').value.toString() + '</strong> for the invoice is: ' + friendlyPaymentStatus;
           });
         }
       }
