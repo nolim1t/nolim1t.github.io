@@ -94,7 +94,7 @@ var lnapp = new Vue({
       return "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + lndinvoice + "</textarea>";
     },
     generateQRCode: function(lndinvoice) {
-      return "<img src=\"http://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=" + lndinvoice + "\" />";
+      return "<img src=\"https://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=" + lndinvoice + "\" />";
     },
     pollPayment: function (chargeId) {
       console.log("Before running pollPayment: " + this.paid.toString());
@@ -111,7 +111,7 @@ var lnapp = new Vue({
           }
         });
       } else {
-        if (this.pollWaitDiv !== undefined) this.pollWaitDiv.innerHTML = ' (No longer polling. Click <a onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); ">here</a> to check payments)';
+        if (this.pollWaitDiv !== undefined) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Please click <a onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); " href="#">here</a> to manually check payments)';
         console.log("No longer polling because paid");
       }
     }
