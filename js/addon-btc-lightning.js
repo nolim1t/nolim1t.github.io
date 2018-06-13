@@ -63,7 +63,7 @@ var lnapp = new Vue({
             this.lndinvoice = response.data['lnd_payment_request'];
             this.pollCount = 1;
             this.paid = false;
-            this.resultElement.innerHTML = '<div id="innerresult"><strong>Pay the following TESTNET Lightning Invoice:</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div>';
+            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following TESTNET ⚡️ lightning Invoice:</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div>';
             this.pollWaitDiv = document.getElementById('waitresults');
             this.intervalId = setInterval(function () {
               console.log("Poll Job ID: " + this.intervalId.toString());
