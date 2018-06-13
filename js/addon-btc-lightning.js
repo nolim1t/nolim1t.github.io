@@ -60,7 +60,7 @@ const check_charge_id = (chargeId, callback) => {
     }
   });
 }
-
+var receiptId = ''; // Global
 var lnapp = new Vue({
   el: '#lnapp',
   data: {
@@ -113,20 +113,21 @@ var lnapp = new Vue({
         axios.get(url).then((response) => {
           if (response.data.info['id'] !== undefined && response.data['lnd_payment_request'] !== undefined) {
             this.chargeId = response.data.info['id'];
+            receiptId = this.chargeId.replace('ch_','');
             this.lndinvoice = response.data['lnd_payment_request'];
             this.pollCount = 1;
             this.paid = false;
-            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following TESTNET ⚡️ lightning Invoice:</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div>';
+            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following TESTNET ⚡️ lightning Invoice:</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div><div id="reference">If you wish to manually check the payment status, quote payment reference <strong>' + receiptId + '</strong> to the admin</div>';
             this.pollWaitDiv = document.getElementById('waitresults');
             this.intervalId = setInterval(function () {
               console.log("Poll Job ID: " + this.intervalId.toString());
               if (this.pollCount >= this.maxpollIntervals || this.paid === true) {
-                console.log("Cancel all waiting");
-                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Click <a onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); ">here</a> to manually check payments)';
+                console.log("Cancel all waiting"); // If waiting timed out
+                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Click <a onClick="document.getElementById(\'manualcheckstatus\').innerHTML = \'. Checking status...\'; check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ <br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. \'; } else { console.log(\'Still not paid. \'); document.getElementById(\'manualcheckstatus\').innerHTML = \'. Not Paid\'; } }); ">here</a> to manually check payment<span id="manualcheckstatus"></span>)';
                 clearInterval(this.intervalId);
               } else {
                 if (document.getElementById('waitresults')!== undefined && document.getElementById('waitresults') !== null) {
-                  document.getElementById('waitresults').innerHTML = ' (Waiting ' + ((this.pollCount) * 10).toString() + ' seconds out of ' + (this.maxpollIntervals * 10).toString() + ' seconds)';
+                  document.getElementById('waitresults').innerHTML = ' (Waiting for payment... )';
                   this.pollPayment(this.chargeId)
                 } else { // Safety Stop
                   console.log("No longer polling because  'pollWaitDiv' element is no longer appearing");
@@ -157,13 +158,13 @@ var lnapp = new Vue({
           if (callback['IsPaid'] == true) {
             this.paid = callback.IsPaid;
             if (document.getElementById('waitresults') !== undefined && document.getElementById('waitresults') !== null) document.getElementById('waitresults').innerHTML = '';
-            if (document.getElementById('result') !== undefined && document.getElementById('result') !== null) document.getElementById('result').innerHTML = 'Thank you for your ⚡️ payment! ✅';
+            if (document.getElementById('result') !== undefined && document.getElementById('result') !== null) document.getElementById('result').innerHTML = 'Thank you for your ⚡️ payment! ✅.<br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. ';
             console.log('Paid! Attempt to stop polling');
             clearInterval(this.intervalId);
           }
         });
-      } else {
-        if (this.pollWaitDiv !== undefined) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Please click <a onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); ">here</a> to manually check payments)';
+      } else { // If poll payment still runs and paid true (this block probably doesnt get executed)
+        if (this.pollWaitDiv !== undefined) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Please click <a onClick="document.getElementById(\'manualcheckstatus\').innerHTML = \'. Checking status...\'; check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅<br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. \'; } else { console.log(\'Still not paid. \'); } }); document.getElementById(\'manualcheckstatus\').innerHTML = \'. Not Paid\'; ">here</a> to manually check payments <span id="manualcheckstatus"></span>)';
         console.log("No longer polling because paid");
       }
     }
