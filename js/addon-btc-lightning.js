@@ -25,6 +25,8 @@ var lnapp = new Vue({
         axios.get(url).then((response) => {
           console.log(response.data.info);
           if (response.data.info['id'] !== undefined && response.data['lnd_payment_request'] !== undefined) {
+            this.chargeId = response.data.info['id'];
+            this.lndinvoice = response.data['lnd_payment_request'];
             var textarea_html = "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + response.data['lnd_payment_request'] + "</textarea>";
             resultElement.innerHTML = '<strong>Pay the following TESTNET Lightning Invoice:</strong><br /><img src="http://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=' + response.data['lnd_payment_request'] + '" /><br />or copy the following payment request<br />' + textarea_html;
           } else {
