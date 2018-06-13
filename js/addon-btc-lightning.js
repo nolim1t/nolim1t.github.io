@@ -1,6 +1,5 @@
 /*
   Beta Lightning network addition
-
 */
 const base_url = "https://ddanppib10.execute-api.us-east-2.amazonaws.com/awslightning1/generateinvoice";
 const check_charge_id = (chargeId, callback) => {
