@@ -69,7 +69,7 @@ var lnapp = new Vue({
               console.log("Poll Job ID: " + this.intervalId.toString());
               if (this.pollCount >= this.maxpollIntervals || this.paid === true) {
                 console.log("Cancel all waiting");
-                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Click <a href="#" onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); ">here</a> to manually check payments)';
+                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Click <a onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); ">here</a> to manually check payments)';
                 clearInterval(this.intervalId);
               } else {
                 if (document.getElementById('waitresults')!== undefined && document.getElementById('waitresults') !== null) {
@@ -110,7 +110,7 @@ var lnapp = new Vue({
           }
         });
       } else {
-        if (this.pollWaitDiv !== undefined) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Please click <a onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); " href="#">here</a> to manually check payments)';
+        if (this.pollWaitDiv !== undefined) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Please click <a onClick="check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ \'; } else { console.log(\'Still not paid. \'); } }); ">here</a> to manually check payments)';
         console.log("No longer polling because paid");
       }
     }
