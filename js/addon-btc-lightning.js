@@ -1,5 +1,7 @@
 /*
   Beta Lightning network addition
+
+  check charge: https://ddanppib10.execute-api.us-east-2.amazonaws.com/awslightning1/generateinvoice?checkCharge=true&chargeId=
 */
 var lnapp = new Vue({
   el: '#lnapp',
@@ -7,6 +9,7 @@ var lnapp = new Vue({
     amount: '0.50',
     message: '',
     lndinvoice: '',
+    chargeId: ''
   },
   methods: {
     generateInvoice: function () { // Generates BTC lightning invoice
@@ -21,8 +24,12 @@ var lnapp = new Vue({
                 document.getElementById("submitbutton").disabled = "true"; // disable submit button
         axios.get(url).then((response) => {
           console.log(response.data.info);
-          var textarea_html = "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + response.data['lnd_payment_request'] + "</textarea>";
-          resultElement.innerHTML = '<br /><strong>Pay the following TESTNET Lightning Invoice:</strong><br /><img src="http://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=' + response.data['lnd_payment_request'] + '" /><br />or copy the following payment request<br />' + textarea_html;
+          if (response.data.info['id'] !== undefined && response.data['lnd_payment_request'] !== undefined) {
+            var textarea_html = "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + response.data['lnd_payment_request'] + "</textarea>";
+            resultElement.innerHTML = '<strong>Pay the following TESTNET Lightning Invoice:</strong><br /><img src="http://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=' + response.data['lnd_payment_request'] + '" /><br />or copy the following payment request<br />' + textarea_html;
+          } else {
+            resultElement.innerHTML = 'Oh No! There was an error in response from LN API';
+          }
         });
       } else {
         console.log('Do not submit');
