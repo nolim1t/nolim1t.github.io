@@ -39,16 +39,17 @@ const check_charge_id = (chargeId, callback) => {
   axios.get(base_url + '?checkCharge=true&chargeId=' + chargeId).then((response) => {
     if (response.data['response'] !== undefined) {
       if (response.data['response']['paid'] !== undefined) {
+        var cbresp_charge = {
+          chargeId: chargeId,
+          IsPaid: response.data['response']['paid']
+        };
+        if (response.data['response']['lightning-pay-details'] !== undefined && response.data['response']['lightning-pay-details'] !== null) {
+          cbresp_charge['lightning-pay-details'] = response.data['response']['lightning-pay-details'];
+        }
         if (response.data['response']['paid'] === true) {
-          callback({
-            chargeId: chargeId,
-            IsPaid: response.data['response']['paid']
-          });
+          callback(cbresp_charge);
         } else {
-          callback({
-            chargeId: chargeId,
-            IsPaid: response.data['response']['paid']
-          });
+          callback(cbresp_charge);
         }
       } else {
         callback({
@@ -63,25 +64,30 @@ const check_charge_id = (chargeId, callback) => {
       });
     }
   }).catch(function (error) {
+    // 31efWAGPj2WHvWSgapPE3bzmLAesC
+    var error_charge = {
+      chargeId: chargeId,
+      IsPaid: false,
+      error: true,
+    };
     if (error.response.data['status'] !== undefined && error.response.data['status'] !== null) {
       if (error.response.data['status'] === 404) {
-        callback({
-          chargeId: chargeId,
-          IsPaid: false,
-          error: true,
-          error_type: 'notexist'
-        });
+        error_charge['error_type'] = 'notexist'
+        callback(error_charge);
       } else {
-        callback({
-          chargeId: chargeId,
-          IsPaid: false,
-          error: true,
-          error_type: error.response.data['message']
-        });
+        error_charge['error_type'] = error.response.data['message'];
+        callback(error_charge);
       }
     }
   });
 }
+const generateLNDTextArea = function(lndinvoice) {
+  return "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + lndinvoice + "</textarea>";
+}
+const generateQRCode = function(lndinvoice) {
+  return "<img src=\"https://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=" + lndinvoice + "\" />";
+}
+
 var receiptId = ''; // Global
 /*
   Lightning App
@@ -138,8 +144,14 @@ var lnapp = new Vue({
         if (document.getElementById("amountinput").value !== undefined && document.getElementById("amountinput").value !== null) {
           console.log("user filled in: " + document.getElementById("amountinput").value.toString());
           if (this.amount === undefined || this.amount === null) {
+            console.log('setting this.amount to be the textbox value');
             this.amount = document.getElementById("amountinput").value;
-          }
+          } else { // If this amount exists
+            if (this.amount !== document.getElementById("amountinput").value) { // If the value is different
+              console.log('Setting this.mount to be the new value set by javascript');
+              this.amount = document.getElementById("amountinput").value;
+            }
+          } // End this.amount check
         }
       }
       if (parseFloat(this.amount) >= 0.005 && document.getElementById("descriptionform").value !== '') {
@@ -154,6 +166,9 @@ var lnapp = new Vue({
         if (document.getElementById("amountinput") !== undefined) document.getElementById("amountinput").style.display = 'none'; // hide amount if exists
         if (document.getElementById("descriptionform") !== undefined && document.getElementById("descriptionform") !== null) document.getElementById("descriptionform").style.display = 'none'; // Hide invoice description if exists
         if (document.getElementById("btcrates") !== undefined && document.getElementById("btcrates") !== null) document.getElementById("btcrates").style.display = 'none'; // Hide 'btcrates' if exist
+        if (document.getElementById("like-button") !== undefined && document.getElementById("like-button") !== null) document.getElementById("like-button").style.display = 'none';
+        if (document.getElementById("coffee-button") !== undefined && document.getElementById("coffee-button") !== null) document.getElementById("coffee-button").style.display = 'none';
+        if (document.getElementById("love-button") !== undefined && document.getElementById("love-button") !== null) document.getElementById("love-button").style.display = 'none';
 
         axios.get(url).then((response) => {
           if (response.data.info['id'] !== undefined && response.data['lnd_payment_request'] !== undefined) {
@@ -188,12 +203,8 @@ var lnapp = new Vue({
         console.log('Do not submit');
       }
     },
-    generateLNDTextArea: function(lndinvoice) {
-      return "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + lndinvoice + "</textarea>";
-    },
-    generateQRCode: function(lndinvoice) {
-      return "<img src=\"https://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=" + lndinvoice + "\" />";
-    },
+    generateLNDTextArea: generateLNDTextArea,
+    generateQRCode: generateQRCode,
     pollPayment: function (chargeId) {
       console.log("Before running pollPayment: " + this.paid.toString());
       if (this.pollCount < this.maxpollIntervals || this.paid === true) { // Either max poll or paid
@@ -219,6 +230,7 @@ var lnapp = new Vue({
           check_charge_id('ch_' + document.getElementById('receiptrefinput').value.toString(), function(callback) {
             var friendlyPaymentStatus = 'Not Paid';
             if (callback.IsPaid === true) friendlyPaymentStatus = 'Paid';
+
             if (callback.error !== undefined && callback.error !== null) {
               if (callback.error === true) {
                 friendlyPaymentStatus = ' Unspecified Error';
@@ -228,7 +240,12 @@ var lnapp = new Vue({
               }
             }
             document.getElementById('receiptresult').style['margin-top'] = '4px';
-            document.getElementById('receiptresult').innerHTML = 'The receipt reference <strong>' + document.getElementById('receiptrefinput').value.toString() + '</strong> for the invoice is: ' + friendlyPaymentStatus;
+            if (callback['lightning-pay-details'] !== undefined && callback['lightning-pay-details'] !== null) {
+              document.getElementById('receiptresult').innerHTML = 'The receipt reference <strong>' + document.getElementById('receiptrefinput').value.toString() + '</strong> details are as follows: <br /><strong>Payment Status: </strong>' + friendlyPaymentStatus + '<br /><strong>Amount</strong>: ' + callback['lightning-pay-details']['amount'] + ' シ (satoshis) or ' + (parseFloat(callback['lightning-pay-details']['amount']) / 100000000) + ' BTC<br /><strong>Lightning Invoice: </strong><br />' + generateLNDTextArea(callback['lightning-pay-details']['payment_request']) + '<br />' + generateQRCode(callback['lightning-pay-details']['payment_request']);
+            } else {
+              document.getElementById('receiptresult').innerHTML = 'The receipt reference <strong>' + document.getElementById('receiptrefinput').value.toString() + '</strong> details are as follows: <br /><strong>Payment Status: </strong>' + friendlyPaymentStatus;
+            }
+
           });
         }
       }
