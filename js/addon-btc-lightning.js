@@ -134,6 +134,14 @@ var lnapp = new Vue({
   methods: {
     generateInvoice: function () { // Generates BTC lightning invoice
       this.resultElement = document.getElementById('result');
+      if (document.getElementById("amountinput") !== undefined && document.getElementById("amountinput") !== null) {
+        if (document.getElementById("amountinput").value !== undefined && document.getElementById("amountinput").value !== null) {
+          console.log("user filled in: " + document.getElementById("amountinput").value.toString());
+          if (this.amount === undefined || this.amount === null) {
+            this.amount = document.getElementById("amountinput").value;
+          }
+        }
+      }
       if (parseFloat(this.amount) >= 0.005 && document.getElementById("descriptionform").value !== '') {
         // If description not empty and greator than half a cent
         this.resultElement.innerHTML = 'Amount is ' + this.amount.toString();
