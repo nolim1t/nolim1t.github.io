@@ -89,7 +89,7 @@ var receiptId = ''; // Global
 var lnapp = new Vue({
   el: '#lnapp',
   data: {
-    amount: '0.50',
+    amount: '1',
     message: '',
     lndinvoice: '',
     chargeId: '',
