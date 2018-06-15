@@ -254,6 +254,11 @@ var lnapp = new Vue({
 }); // End VUE.js
 
 function toggleLNPay() {
+  if (document.getElementById("like-button") !== undefined && document.getElementById("like-button") !== null && document.getElementById("submitbutton") !== undefined && document.getElementById("submitbutton") !== null) {
+    document.getElementById("like-button").style['margin-top'] = '5px';
+    document.getElementById("submitbutton").style['margin-top'] = '5px'
+  }
+  
   if (document.getElementById('lnpay').style.visibility == 'hidden') {
     document.getElementById('lnpay').style.visibility = 'visible';
   } else {
