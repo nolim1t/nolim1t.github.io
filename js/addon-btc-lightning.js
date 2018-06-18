@@ -117,6 +117,9 @@ var lnapp = new Vue({
         document.getElementById("descriptionform").style['margin-top'] = '5px';
         document.getElementById("submitbutton").style['margin-top'] = '5px';
       }
+      if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
+        document.getElementById("fiatcode").style["width"] = '80px'; document.getElementById("fiatcode").style["margin-top"] = '5px';
+      }      
       if (document.getElementById('btcrates') !== undefined && document.getElementById('btcrates') !== null) {
         console.log("Loading BTC rates");
         check_btc_rates((btcratescb) => {
@@ -268,6 +271,9 @@ function toggleLNPay() {
   if (document.getElementById("like-button") !== undefined && document.getElementById("like-button") !== null && document.getElementById("submitbutton") !== undefined && document.getElementById("submitbutton") !== null) {
     document.getElementById("like-button").style['margin-top'] = '5px';
     document.getElementById("submitbutton").style['margin-top'] = '5px'
+  }
+  if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
+    document.getElementById("fiatcode").style["width"] = '80px'; document.getElementById("fiatcode").style["margin-top"] = '5px';
   }
 
   if (document.getElementById('lnpay').style.visibility == 'hidden') {
