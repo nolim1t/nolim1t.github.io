@@ -119,7 +119,7 @@ var lnapp = new Vue({
       }
       if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
         document.getElementById("fiatcode").style["width"] = '80px'; document.getElementById("fiatcode").style["margin-top"] = '5px';
-      }      
+      }
       if (document.getElementById('btcrates') !== undefined && document.getElementById('btcrates') !== null) {
         console.log("Loading BTC rates");
         check_btc_rates((btcratescb) => {
@@ -167,7 +167,7 @@ var lnapp = new Vue({
         if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
           if (document.getElementById("fiatcode").value !== undefined && document.getElementById("fiatcode").value !== null) {
             if (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR" || document.getElementById("fiatcode").value.toString() === "THB") {
-              url = '&fiatCode=' + document.getElementById("fiatcode").value.toString();
+              url = url + '&fiatCode=' + document.getElementById("fiatcode").value.toString();
             }
           }
         } // End check for currency code
