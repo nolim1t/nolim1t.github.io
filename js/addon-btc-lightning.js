@@ -1,5 +1,7 @@
 /*
   Beta Lightning network addition
+  // Mainnet: https://jenh8onnc8.execute-api.ap-southeast-1.amazonaws.com/awslightningmainnet1/generateinvoice
+  // Testnet: https://ddanppib10.execute-api.us-east-2.amazonaws.com/awslightning1/generateinvoice
 */
 const base_url = "https://ddanppib10.execute-api.us-east-2.amazonaws.com/awslightning1/generateinvoice";
 const check_btc_rates = (callback) => {
@@ -258,7 +260,7 @@ function toggleLNPay() {
     document.getElementById("like-button").style['margin-top'] = '5px';
     document.getElementById("submitbutton").style['margin-top'] = '5px'
   }
-  
+
   if (document.getElementById('lnpay').style.visibility == 'hidden') {
     document.getElementById('lnpay').style.visibility = 'visible';
   } else {
