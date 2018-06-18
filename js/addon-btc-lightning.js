@@ -160,9 +160,18 @@ var lnapp = new Vue({
         // If description not empty and greator than half a cent
         this.resultElement.innerHTML = 'Amount is ' + this.amount.toString();
         var url = base_url + "?showInvoice=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(document.getElementById("descriptionform").value);
+        // Check for currencycode
+        if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
+          if (document.getElementById("fiatcode").value !== undefined && document.getElementById("fiatcode").value !== null) {
+            if (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR" || document.getElementById("fiatcode").value.toString() === "THB") {
+              url = '&fiatCode=' + document.getElementById("fiatcode").value.toString();
+            }
+          }
+        } // End check for currency code
         this.resultElement.innerHTML = 'Fetching....';
 
         // Hide form when submitted
+        if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) document.getElementById("fiatcode").style.display = 'none'; // Hide fiatcode
         if (document.getElementById("blurb") !== undefined && document.getElementById("blurb") !== null) document.getElementById("blurb").style.display = 'none'; //  Hide text
         if (document.getElementById("submitbutton") !== undefined) document.getElementById("submitbutton").style.display = 'none'; // hide submit button if exists
         if (document.getElementById("amountinput") !== undefined) document.getElementById("amountinput").style.display = 'none'; // hide amount if exists
