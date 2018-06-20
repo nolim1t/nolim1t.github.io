@@ -3,7 +3,7 @@
   // Mainnet: https://jenh8onnc8.execute-api.ap-southeast-1.amazonaws.com/awslightningmainnet1/generateinvoice
   // Testnet: https://ddanppib10.execute-api.us-east-2.amazonaws.com/awslightning1/generateinvoice
 */
-const base_url = "https://ddanppib10.execute-api.us-east-2.amazonaws.com/awslightning1/generateinvoice";
+const base_url = "https://jenh8onnc8.execute-api.ap-southeast-1.amazonaws.com/awslightningmainnet1/generateinvoice";
 const check_btc_rates = (callback) => {
   axios.get(base_url + '?showRates=true').then((response) => {
     if (response.data !== undefined && response.data !== null) {
@@ -191,7 +191,7 @@ var lnapp = new Vue({
             this.lndinvoice = response.data['lnd_payment_request'];
             this.pollCount = 1;
             this.paid = false;
-            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following TESTNET ⚡️ lightning Invoice:</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div><div id="reference">If you wish to manually check the payment status, quote payment reference <strong>' + receiptId + '</strong> to the admin</div>';
+            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following Mainnet ⚡️ lightning Invoice:</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div><div id="reference">If you wish to manually check the payment status, quote payment reference <strong>' + receiptId + '</strong> to the admin</div>';
             this.pollWaitDiv = document.getElementById('waitresults');
             this.intervalId = setInterval(function () {
               console.log("Poll Job ID: " + this.intervalId.toString());
