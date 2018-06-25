@@ -4,6 +4,7 @@
   // Testnet: https://ddanppib10.execute-api.us-east-2.amazonaws.com/awslightning1/generateinvoice
 */
 const base_url = "https://jenh8onnc8.execute-api.ap-southeast-1.amazonaws.com/awslightningmainnet1/generateinvoice";
+var traditionalPaymentURL = 'https://www.coinpayments.net/';
 const check_btc_rates = (callback) => {
   axios.get(base_url + '?showRates=true').then((response) => {
     if (response.data !== undefined && response.data !== null) {
@@ -163,13 +164,21 @@ var lnapp = new Vue({
         // If description not empty and greator than half a cent
         this.resultElement.innerHTML = 'Amount is ' + this.amount.toString();
         var url = base_url + "?showInvoice=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(document.getElementById("descriptionform").value);
+        traditionalPaymentURL = traditionalPaymentURL + '/index.php?cmd=_pay&reset=1&merchant=b865a4c43872710001c9c2de4b17b8be&item_name=' + encodeURIComponent(document.getElementById("descriptionform").value) + '&amountf=' + this.amount.toString() + '&quantity=1&allow_quantity=0&want_shipping=0&allow_extra=0';
         // Check for currencycode
         if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
           if (document.getElementById("fiatcode").value !== undefined && document.getElementById("fiatcode").value !== null) {
             if (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR" || document.getElementById("fiatcode").value.toString() === "THB") {
               url = url + '&fiatCode=' + document.getElementById("fiatcode").value.toString();
+              traditionalPaymentURL = traditionalPaymentURL + '&currency=' + document.getElementById("fiatcode").value.toString();
+            } else {
+              traditionalPaymentURL = traditionalPaymentURL + '&currency=USD';
             }
+          } else {
+            traditionalPaymentURL = traditionalPaymentURL + '&currency=USD';
           }
+        } else {
+          traditionalPaymentURL = traditionalPaymentURL + '&currency=USD';
         } // End check for currency code
         this.resultElement.innerHTML = 'Fetching....';
 
@@ -186,12 +195,13 @@ var lnapp = new Vue({
 
         axios.get(url).then((response) => {
           if (response.data.info['id'] !== undefined && response.data['lnd_payment_request'] !== undefined) {
+            // Generate Charge Info
             this.chargeId = response.data.info['id'];
             receiptId = this.chargeId.replace('ch_','');
             this.lndinvoice = response.data['lnd_payment_request'];
             this.pollCount = 1;
             this.paid = false;
-            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following Mainnet ⚡️ lightning Invoice:</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div><div id="reference">If you wish to manually check the payment status, quote payment reference <strong>' + receiptId + '</strong> to the admin</div>';
+            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following Mainnet ⚡️ lightning Invoice (or if you do not use lightning yet, try <a href="' + traditionalPaymentURL + '">this link</a> for bitcoin or other crypto):</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div><div id="reference">If you wish to manually check the payment status, quote payment reference <strong>' + receiptId + '</strong> to the admin</div>';
             this.pollWaitDiv = document.getElementById('waitresults');
             this.intervalId = setInterval(function () {
               console.log("Poll Job ID: " + this.intervalId.toString());
@@ -255,7 +265,8 @@ var lnapp = new Vue({
             }
             document.getElementById('receiptresult').style['margin-top'] = '4px';
             if (callback['lightning-pay-details'] !== undefined && callback['lightning-pay-details'] !== null) {
-              document.getElementById('receiptresult').innerHTML = 'The receipt reference <strong>' + document.getElementById('receiptrefinput').value.toString() + '</strong> details are as follows: <br /><strong>Payment Status: </strong>' + friendlyPaymentStatus + '<br /><strong>Amount</strong>: ' + callback['lightning-pay-details']['amount'] + ' シ (satoshis) or ' + (parseFloat(callback['lightning-pay-details']['amount']) / 100000000) + ' BTC<br /><strong>Lightning Invoice: </strong><br />' + generateLNDTextArea(callback['lightning-pay-details']['payment_request']) + '<br />' + generateQRCode(callback['lightning-pay-details']['payment_request']);
+              traditionalPaymentURL = traditionalPaymentURL + '/index.php?cmd=_pay&reset=1&merchant=b865a4c43872710001c9c2de4b17b8be&item_name=' + encodeURIComponent(callback['lightning-pay-details']['description']) + '&amountf=' + (parseFloat(callback['lightning-pay-details']['amount']) / 100000000).toString() + '&quantity=1&allow_quantity=0&want_shipping=0&allow_extra=0&currency=BTC';
+              document.getElementById('receiptresult').innerHTML = 'The receipt reference <strong>' + document.getElementById('receiptrefinput').value.toString() + '</strong> details are as follows: <br /><strong>Payment Status: </strong>' + friendlyPaymentStatus + '<br /><strong>Amount</strong>: ' + callback['lightning-pay-details']['amount'] + ' シ (satoshis) or ' + (parseFloat(callback['lightning-pay-details']['amount']) / 100000000) + ' BTC (you may pay for this in mainnet or other crypto <a href="' + traditionalPaymentURL + '">here</a>)<br /><strong>Lightning Invoice: </strong><br />' + generateLNDTextArea(callback['lightning-pay-details']['payment_request']) + '<br />' + generateQRCode(callback['lightning-pay-details']['payment_request']);
             } else {
               document.getElementById('receiptresult').innerHTML = 'The receipt reference <strong>' + document.getElementById('receiptrefinput').value.toString() + '</strong> details are as follows: <br /><strong>Payment Status: </strong>' + friendlyPaymentStatus;
             }
