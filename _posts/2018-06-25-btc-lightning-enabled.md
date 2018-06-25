@@ -11,6 +11,6 @@ All made possible thanks to [this project](https://gitlab.com/nolim1t/lightning-
 
 As well as supporting my technology business, and hospitality business - I intend to formalize my crypto to fiat OTC offerings this way (the rates is based on a Thailand based exchange including covering for any fees (as well as liquidity), which is where I spend a lot of time - hence the fiat will come from there).
 
-For those who need web design or development (wordpress / static sites), app design or development, UX design - yes we accept crypto. Please do [get in touch](http://t.me/nolim1t). 
+For those who need web design or development (wordpress / static sites), app design or development, UX design - yes we accept crypto. Please do [get in touch](https://earn.com/barryt/).
 
-For those who need to rent out rooms in Taipei, Taiwan on a long or short term basis, please do [get in touch](http://t.me/nolim1t)
+For those who need to rent out rooms in Taipei, Taiwan on a long or short term basis, please do [get in touch](https://earn.com/barryt/)
