@@ -125,10 +125,21 @@ var lnapp = new Vue({
         console.log("Loading BTC rates");
         check_btc_rates((btcratescb) => {
           console.log(btcratescb);
+          var ratesHTML = '<p class="blurb">Please note, that our BTC Rate is <strong>$USDPRICE / €EURPRICE per BTC</strong></p>';
           if (btcratescb['rates'] !== undefined && btcratescb['rates'] !== null) {
+            // USD Price
             if (btcratescb['rates']['USD'] !== undefined || btcratescb['rates']['USD'] !== null) {
-              document.getElementById('btcrates').innerHTML = '<p class="blurb">Please note, that our BTC Rate is <strong>$' + btcratescb['rates']['USD'].toString() + ' per BTC</strong></p>';
+              ratesHTML = ratesHTML.replace('USDPRICE', btcratescb['rates']['USD'].toString());
+            } else {
+              ratesHTML = ratesHTML.replace('USDPRICE', '---');
             }
+            // EUR Price
+            if (btcratescb['rates']['EUR'] !== undefined || btcratescb['rates']['EUR'] !== null) {
+              ratesHTML = ratesHTML.replace('EURPRICE', btcratescb['rates']['EUR'].toString());
+            } else {
+              ratesHTML = ratesHTML.replace('EURPRICE', '---');
+            }
+            document.getElementById('btcrates').innerHTML = ratesHTML;
           }
         });
       }
