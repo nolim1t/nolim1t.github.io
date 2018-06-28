@@ -227,6 +227,29 @@ var lnapp = new Vue({
           } else {
             this.resultElement.innerHTML = 'Oh No! There was an error in response from LN API';
           }
+        }).catch(function (error) {
+          if (error.response.data !== undefined && error.response.data !== null) {
+            if (error.response.data['message'] !== undefined && error.response.data['message'] !== null) {
+              if (error.response.data['message'].toString().indexOf('cannot be greater') !== -1) {
+                // Too large
+                if (error.response.data['info']['converted_amount'] !== undefined && error.response.data['info']['converted_amount'] !== null) {
+                  console.log('User tried to pay ' + error.response.data['info']['converted_amount'].toString() + ' satoshis (' + (parseFloat(error.response.data['info']['converted_amount']) / 100000000).toString() + ' BTC) but failed');
+                  traditionalPaymentURL = traditionalPaymentURL + '/index.php?cmd=_pay&reset=1&merchant=b865a4c43872710001c9c2de4b17b8be&item_name=' + encodeURIComponent(document.getElementById("descriptionform").value) + '&amountf=' + (parseFloat(error.response.data['info']['converted_amount']) / 100000000).toString() + '&quantity=1&allow_quantity=0&want_shipping=0&allow_extra=0&currency=BTC';
+                  document.getElementById('result').innerHTML = '<div id="innerresult">Amount too large for lightning payment, please use <a href="' + traditionalPaymentURL + '">normal crypto channels</a></div>';
+                } else {
+                  document.getElementById('result').innerHTML = '<div id="innerresult">Amount too large, however there was an error getting the converted amount. Please contact support with the amount you are trying to pay</div>';
+                }
+              } else {
+                document.getElementById('result').innerHTML = '<div id="innerresult">Error with the API: ' + error.response.data['message'].toString() + '</div>';
+              }
+            } else {
+              console.log("Undefined Error");
+              document.getElementById('result').innerHTML = '<div id="innerresult">Error from API</div>';
+            }
+          } else {
+            console.log("Undefined Error");
+            document.getElementById('result').innerHTML = '<div id="innerresult">Error From API</div>';
+          }
         });
       } else {
         console.log('Do not submit');
