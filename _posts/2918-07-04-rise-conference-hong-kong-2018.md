@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Back to Hong Kong for RISE Conference 2018!"
+title: "Back to Hong Kong / Reality for RISE Conference 2018!"
 ---
 
 ![RISE Conference 2018](https://images.itinerantfoodie.com/uploads/rise-2018-nolim1t-co/IMG_1396.png)
@@ -11,6 +11,8 @@ I've been so chilled out lately in my [jungle abode](https://itinerantfoodie.com
 
 ![Jungles and Temples](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/7AAE916D-9617-454B-81B5-FC90FFCA8510.jpeg)
 ![Beachlife ](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/E2F39C1B-9986-4642-BB94-CD4ED64FB693.jpeg)
+
+But time for a little bit more inspiration from techsauce and now ready for conference season again.
 
 Anyway, the last few weeks have been getting some bits and pieces together (such a shiny crypto payment system together for micropayments and also tying in the trusty non-micropayments solution) now ready to get back in to it getting in some new work for the next year.
 
@@ -57,3 +59,8 @@ You can follow my noms throughout Hong Kong live on snapchat ID: nolim1t as well
 * PITCH 16:00 - 17:00 Runway to RISE
 * Unofficial: [Canadian Entrepreneurs 7pm to 9pm](https://www.eventbrite.hk/e/rise-community-night-canadian-entrepreneurs-in-hong-kong-tickets-46752238203)  ✅
 * Unofficial: [ChinaAccelerator Happy Hour 7pm to late](https://www.eventbrite.com/e/chinaccelerator-happy-hour-at-rise-2018-tickets-47383394007) ✅
+* Night summit again
+
+But wait isn't RISE supposed to be 3 days? I decided to cut my trip short because of some family reasons (good to compromise on the work life balance hey?).
+
+But for those who didn't get a chance to meet? I'll be in Taipei in late August, and possibly Korea in early September. And then probably over to Europe for a few blockchain conferences.
