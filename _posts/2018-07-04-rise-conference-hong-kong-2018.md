@@ -24,8 +24,11 @@ You can follow my noms throughout Hong Kong live on snapchat ID: nolim1t as well
 
 ## Monday July 9th
 
-* Pub Summit 18:30 - 20:30 (TBA - however would not want to miss this)
-* UNOFFICIAL: [Token Foundry x Tokenomia Hong Kong RISE Showcase](https://www.eventbrite.com/e/token-foundry-x-tokenomia-hong-kong-rise-showcase-tickets-47583842554) 19:00 -21:00 ✅
+* Pub Crawl Group 3 (Host: Holger Bartel) ✅
+* 6:30pm at La Cabane, 62 Hollywood Rd, Central
+* 7:15pm at Bar 42, G/F, 42 Staunton St, Central
+* 8:00pm at Brookyln Bar and Grill
+* UNOFFICIAL: [Token Foundry x Tokenomia Hong Kong RISE Showcase](https://www.eventbrite.com/e/token-foundry-x-tokenomia-hong-kong-rise-showcase-tickets-47583842554) 19:00 -21:00
 * Night Summit 20:30 - 00:00
 
 ## Tuesday July 10th
