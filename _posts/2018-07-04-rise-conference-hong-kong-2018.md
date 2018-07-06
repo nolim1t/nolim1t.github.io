@@ -47,6 +47,7 @@ You can follow my noms throughout Hong Kong live on snapchat ID: nolim1t as well
 * Unofficial: [Startupferry: 20:30 or 21:30 sailing](https://www.eventbrite.hk/e/startupferry-2018-party-tickets-46902238859)
 * Unofficial: [WeWork 500 Startups Event 18:30 - 21:00](https://www.eventbrite.com/e/china-internet-report-launch-rise-500startups-x-scmp-x-ok-blockchain-capital-x-abacus-tickets-46707536499) ✅
 * Unofficial: [Blockchain Event 19:00 - 22:00](https://www.eventbrite.hk/e/blockchain-mass-adoption-and-trends-for-2018-a-rise-fringe-event-powered-by-startupshk-coinusage-tickets-47382660814) ✅
+* Unofficial: [Startup drinks hosted by Cathay Pacific Airways at Bungalow](https://admin.cilabs.net/rsvp/events/3a1d2a31889772974f97946f97326dd8/invitation/) - 20:00 - 00:00 ✅
 
 ## Wednesday July 11th - Leave Hong Kong)
 * Centre Stage: 11:25 - 11:45 Me, myself and Ethereum
