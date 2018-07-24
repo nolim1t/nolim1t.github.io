@@ -5,7 +5,7 @@ title: "RISE Conference 2018 Retrospective"
 
 Despite a short trip in Hong Kong, it seemed like a long time. But Looking back on RISE conference here are my key takes of what I should improve on:
 
-## To improve on
+### To improve on
 
 * **Improve on my initial pitch** - This is pretty much important I think. I've pitched a few variations of what me and/or my business does, however I think heading to more of these sorts of events should help me to improve.
 
@@ -15,7 +15,7 @@ Despite a short trip in Hong Kong, it seemed like a long time. But Looking back 
 
 * **Bring backup device** - As with all things, always carry redundancies. Day 2 in RISE I was a bit crippled because my device stopped working (and resulted in me having to drain down its battery). I ended up having to use my cheaper Android device, but should have brought my backup iPhone 6S instead which would have worked alot better.
 
-## And things I did well
+### And things I did well
 
 * **Move closer to the conference when its showtime** - I learnt this from previous years when I wasn't living in HK (before I stayed in Mid Levels). Basically its fine to stay far away (as long as you're with friends), but when the conference happens its definetly worth the extra money to stay on Hong Kong Island. Particularly around LKF. I will do this on my next web summit jaunt.
 
@@ -25,7 +25,7 @@ Despite a short trip in Hong Kong, it seemed like a long time. But Looking back 
 
 * **Always be charging** - I carry backup power with me religiously because no power means you can't contact people through the app (and hard to scan contacts for follow up later) or meet up with people. Or find out whats happening and where.
 
-## My thoughts of RISE 2018.
+### My thoughts of RISE 2018.
 
 I felt that this year seemed a bit quieter than previously. However there seems to be a lot more activity happening in blockchain.
 
