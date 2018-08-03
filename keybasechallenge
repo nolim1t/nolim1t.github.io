@@ -1,0 +1,79 @@
+---
+layout: null
+permalink: /.well-known/keybase.txt
+---
+
+==================================================================
+https://keybase.io/barryteoh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nolim1t.co
+  * I am barryteoh (https://keybase.io/barryteoh) on keybase.
+  * I have a public key with fingerprint 6DFA 2E69 6D0C E300 0D05  8FD8 EE7B B025 3A66 8CD2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101109ec2855b4f1bbcd3416a9026978f3a7620b7e447887726c44ecccba5e180b60a",
+      "fingerprint": "6dfa2e696d0ce3000d058fd8ee7bb0253a668cd2",
+      "host": "keybase.io",
+      "key_id": "ee7bb0253a668cd2",
+      "kid": "0101109ec2855b4f1bbcd3416a9026978f3a7620b7e447887726c44ecccba5e180b60a",
+      "uid": "a22b33653a1f494d0fde639b77a94b19",
+      "username": "barryteoh"
+    },
+    "service": {
+      "hostname": "nolim1t.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1533284226,
+  "expire_in": 157680000,
+  "prev": "39e236fb502b7e9bee420635e63ac00e07aaa5ee35abe26429a9e62e7d9942f2",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNCAnicrVJrUBVlGD4IpuAcjpiNBQK2BxAK6Nv77sGKa+OgkMQPQYrTXr7lbMLu
+6Zw9yMXbgGkziUXJxQYtjWMkCkaAYkYQMDWhGViOg5BlgulQMyDFYDPQLmP/+tmv
+b753nud5n+eZt9/sawrw+aP8bKRNOjjsM9hb5zHliZaKcoRXxVLEVo5sh4sPLBSh
+W7Nvl0XEhgAUoChgoYAxJMkTEsrzgogTKMWxAKNYmpFwjqYwwNOQIGiGoWmMEggC
+CoLAcyREGcBTgENiEUlWCqDL6ZIVTZelRInDIMVSIhAgDgAQAclIIgMhzfMAI3GO
+ohhBxHSiQ3UbDN0cz7lhvKzqM/1jX7T3H/j/2bdnUY7DMB7HKX0PKhEsIQJJhBTO
+8jTNsQSPsgbQDV0KVwR1NM+5XKUaVB3IrlhEHxfLAjSaNaI8hChqoVyEavGCEcfp
+UjVVUAv1uUPTnG6bwdNKnQZwB+TtDyXsvKyIeo06oxi63LKqIDZURwqabGiiJI5j
+DIFhVCwCS5yyC9plA0HSFKM3DIw9sFiXxFmI4ZTEkwDT47M8hAQGKJzUE3ECABDQ
+HKd3AHGS4yFGERjLsZDCIC2yLIFJRslu+LqiIjYC1X1yBbqmWy5QOM3jgsiur3pf
+9jP5BJgeWbrEuC9TgP/Kf6+urHGlaXj8igAC2LI7DR1tkTNZo9GTrwQ6xixZh6Yz
+q2t9LpesK+ltyNhd0xm3sd3pnvokroUV20+/UFm+98K1lJ3C5a3wl8n3Wrz0lLkp
+17KwbVld3DvIXEjdsadm65/deSZyOnxdct6PETNkYUNTYY3f/rLW5n3SUHV9DrxY
+1ervOT7/eODPQe1fDC1JMxNx3tCIpwfGu6xpX9dO7ri4xRqSPhNetrt3fKL40vuz
+0SFJI5nKRFpS8u3E3Nwv3/XufeZGdaxlyHd18KrvEtY8f2LtipGIz5X5oxtfshaN
+NlfmXe3a/O1cb27qnvsHP3afbOsPnq+4nsc/lrCpFHF+dqqefu5w14W3M2+FTTgG
+euxZ37xoWbixL6fH43sSu9T5p8aMmWMaewLNUVx8TeKDN4NOhVWtrz2Tmuhd9tuh
+Dr8cC9UY5d1w1Lelu3RtRfajBwb6avtGAyPz50PTam9NTSe33RtE+vwHR++H0jnZ
+dZaFD7Zm3F36/e/HTU/GA8TTmXptoTkGeWvLOfN0eF1y0JD/nhPIX3hl1s0MclNK
+Ubo82tSSu/zuD0npTU+gaz5aBdffO0eBbD6sg139aZRDnc0/ohS3jWSEWWdfy3hj
+on+b9dXzGxJc3Q/yb/7UVYQkMd3W6cS8Y+eHvT2Kejs9dMXY9VTySMOHZ1N+XX71
+dPTQ/uCYuao7fx/eTF9p/QcoWbgv
+=dBCh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/barryteoh
+
+==================================================================
