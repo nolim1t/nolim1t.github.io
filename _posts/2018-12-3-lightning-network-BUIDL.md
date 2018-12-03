@@ -15,4 +15,4 @@ For those who want to open some channels, try the following nodes (basically the
 * **IPv4 Connection String (2)** ```0207e84c3f26846744509c76cdd8215119d88e4e07b8f885f3657025fcb49bb728@nl-main.lncm.io:9739```
 * **TORv3 Connection String** ```0207e84c3f26846744509c76cdd8215119d88e4e07b8f885f3657025fcb49bb728@es3vqw62flcpawyoa3bc32xvcrljop227pgcibyvck263ipnx3ym6gid.onion:9739```
 
-Feel free to ping @nolim1t on Wire Messenger or [Mastodon](https://bitcoinhackers.org/@nolim1t).
+Feel free to ping @nolim1t on Wire Messenger or [Mastodon](https://bitcoinhackers.org/@nolim1t) if there's any issues.
