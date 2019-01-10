@@ -24,14 +24,22 @@ Simple run the following command
 bundle exec jekyll serve
 ```
 
-## Building
+## Build and Test
+
+### Clone
+
+```bash
+git clone --recurse-submodules git@gitlab.com:nolim1t/nolim1t-co.git
+```
+
+### Syncing submodules
 
 ```bash
 git submodule foreach git pull origin master
 ls _site
 ```
 
-## Previewing
+### Previewing
 
 ```bash
 bundle exec jekyll serve
