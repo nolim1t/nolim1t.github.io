@@ -39,7 +39,7 @@ const check_btc_rates = (callback) => {
 };
 
 const check_charge_id = (chargeId, callback) => {
-  axios.get(base_url + '?checkCharge=true&chargeId=' + chargeId).then((response) => {
+  axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&chargeId=' + chargeId).then((response) => {
     if (response.data['response'] !== undefined) {
       if (response.data['response']['paid'] !== undefined) {
         var cbresp_charge = {
