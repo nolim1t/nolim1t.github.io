@@ -174,7 +174,7 @@ var lnapp = new Vue({
       if (parseFloat(this.amount) >= 0.005 && document.getElementById("descriptionform").value !== '') {
         // If description not empty and greator than half a cent
         this.resultElement.innerHTML = 'Amount is ' + this.amount.toString();
-        var url = base_url + "?showInvoice=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(document.getElementById("descriptionform").value);
+        var url = base_url + "?showInvoice=true&useLNCNXNode=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(document.getElementById("descriptionform").value);
         this.resultElement.innerHTML = 'Fetching....';
 
         // If theres a fiatcode specified then set it
