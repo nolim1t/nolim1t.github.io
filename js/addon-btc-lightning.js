@@ -112,6 +112,13 @@ var lnapp = new Vue({
   mounted: function() {
     console.log("lightning app initialized!");
     console.log("Setting app defaults");
+    if (document.getElementById("shoutoutbox") !== undefined && document.getElementById("shoutoutbox") !== undefined !== null) {
+      if (document.getElementById("like-button") !== undefined && document.getElementById("like-button") !== undefined !== null) {
+        // 'tis good enough for now, ideally we check the positions
+        console.log("Donation page detected!");
+        document.getElementById("shoutoutbox").style['margin-bottom'] = '5px';
+      }
+    }
     if (document.getElementById("submitbutton") !== undefined && document.getElementById("submitbutton") !== null) {
       document.getElementById("submitbutton").style['margin-top'] = '5px';
     }
