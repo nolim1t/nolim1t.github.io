@@ -111,6 +111,10 @@ var lnapp = new Vue({
   },
   mounted: function() {
     console.log("lightning app initialized!");
+    console.log("Setting app defaults");
+    if (document.getElementById("submitbutton") !== undefined && document.getElementById("submitbutton") !== null) {
+      document.getElementById("submitbutton").style['margin-top'] = '5px';
+    }
     if (document.getElementById("paymentwidget") !== undefined && document.getElementById("paymentwidget") !== null) {
       console.log("Payment widget loaded!");
       if ((document.getElementById("submitbutton") !== undefined && document.getElementById("submitbutton") !== null) && (document.getElementById("descriptionform") !== undefined && document.getElementById("descriptionform") !== null)) {
