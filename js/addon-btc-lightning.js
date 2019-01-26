@@ -174,7 +174,20 @@ var lnapp = new Vue({
       if (parseFloat(this.amount) >= 0.005 && document.getElementById("descriptionform").value !== '') {
         // If description not empty and greator than half a cent
         this.resultElement.innerHTML = 'Amount is ' + this.amount.toString();
-        var url = base_url + "?showInvoice=true&useLNCNXNode=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(document.getElementById("descriptionform").value);
+        var invoiceDescriptionToGenerate = ''
+        if (document.getElementById("shoutoutbox") !== undefined && document.getElementById("shoutoutbox") !== null) {
+          // If theres a shoutout box
+          if (document.getElementById("shoutoutbox").value !== '' && ((document.getElementById("shoutoutbox").value).toString()).length < 32  ) {
+            invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (From: ' + document.getElementById("shoutoutbox").value + ')';
+          } else {
+            // By default
+            invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
+          }
+        } else {
+          // by default
+          invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
+        }
+        var url = base_url + "?showInvoice=true&useLNCNXNode=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
         // If theres a fiatcode specified then set it
