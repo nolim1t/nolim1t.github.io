@@ -195,6 +195,7 @@ var lnapp = new Vue({
         if (document.getElementById("btcrates") !== undefined && document.getElementById("btcrates") !== null) document.getElementById("btcrates").style.display = 'none'; // Hide 'btcrates' if exist
         if (document.getElementById("like-button") !== undefined && document.getElementById("like-button") !== null) document.getElementById("like-button").style.display = 'none';
         if (document.getElementById("coffee-button") !== undefined && document.getElementById("coffee-button") !== null) document.getElementById("coffee-button").style.display = 'none';
+        if (document.getElementById("beer-button") !== undefined && document.getElementById("beer-button") !== null) document.getElementById("beer-button").style.display = 'none';        
         if (document.getElementById("love-button") !== undefined && document.getElementById("love-button") !== null) document.getElementById("love-button").style.display = 'none';
 
         axios.get(url).then((response) => {
