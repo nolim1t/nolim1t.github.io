@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Financial Soveignity Update! Happy 2019"
+title: "Financial Sovereignty Update! Happy 2019"
 ---
 
 First post in 2019! One of my resolutions is to be more lean and efficient in how things are done. That is trim out any unwanted efficiencies.
