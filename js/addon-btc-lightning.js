@@ -177,10 +177,10 @@ var lnapp = new Vue({
         var invoiceDescriptionToGenerate = ''
         if (document.getElementById("shoutoutbox") !== undefined && document.getElementById("shoutoutbox") !== null) {
           // If theres a shoutout box
-          if (document.getElementById("shoutoutbox").value !== '' && ((document.getElementById("shoutoutbox").value).toString()).length < 32  ) {
+          if ( (document.getElementById("shoutoutbox").value !== '') && ((document.getElementById("shoutoutbox").value).toString().length < 32)  ) {
             invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (From: ' + document.getElementById("shoutoutbox").value + ')';
           } else {
-            // By default
+            // By default (if less than 32 characters)
             invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
           }
         } else {
