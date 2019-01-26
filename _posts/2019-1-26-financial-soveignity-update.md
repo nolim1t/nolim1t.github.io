@@ -7,6 +7,10 @@ First post in 2019! One of my resolutions is to be more lean and efficient in ho
 
 That is why I got involved with [The Box](https://lncm.io/project/box/) project. To help business owners (like myself) accept money without relying on a middleman which can technically not pay them whats owing if they choose not to.
 
+Just a little teaser.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHVxpgrslEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 PayPal was actually my prime driver for discovering an amazing thing called bitcoin almost 10 years ago, and I'm grateful for the opportunity that they gave me. One door closes, another door opens.
 
 Anyway, my next project is to create a bunch of tools for online website owners to tap into the box APIs, and sell products through the box without going through a payment processor. First things first, will probably do some javascript drop-in plugins, then do a react plugin, and then eventually WordPress (I hate PHP, so putting it off).
