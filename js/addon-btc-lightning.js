@@ -279,7 +279,7 @@ var lnapp = new Vue({
     checkreceipt: function() {
       if (document.getElementById('receiptresult') !== undefined && document.getElementById('receiptresult') !== null && document.getElementById('receiptrefinput') !== undefined && document.getElementById('receiptrefinput') !== null) {
         if (document.getElementById('receiptrefinput').value !== undefined && document.getElementById('receiptrefinput').value !== null && document.getElementById('receiptrefinput').value !== '') {
-          check_charge_id('ch_' + document.getElementById('receiptrefinput').value.toString(), function(callback) {
+          check_charge_id(document.getElementById('receiptrefinput').value.toString(), function(callback) {
             var friendlyPaymentStatus = 'Not Paid';
             if (callback.IsPaid === true) friendlyPaymentStatus = 'Paid';
 
