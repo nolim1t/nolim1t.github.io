@@ -206,7 +206,7 @@ var lnapp = new Vue({
           whichLNDNode = whichLNDNode - 1;
         }
         // LNNodePorts[whichLNDNode]
-        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=" + parseInt(1668) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=" + parseInt(LNNodePorts[whichLNDNode]) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
         // If theres a fiatcode specified then set it
