@@ -206,7 +206,7 @@ var lnapp = new Vue({
           whichLNDNode = whichLNDNode - 1;
         }
         // LNNodePorts[whichLNDNode]
-        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=" + parseInt(LNNodePorts[whichLNDNode]) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=" + parseInt(1668) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
         // If theres a fiatcode specified then set it
@@ -263,9 +263,9 @@ var lnapp = new Vue({
             this.resultElement.innerHTML = 'Oh No! There was an error in response from LN API';
           }
         }).catch(function (error) {
-          this.resultElement.innerHTML = 'Error fetching invoice';
           console.log('ERROR triggered');
           console.log(error.message);
+          document.getElementById('result').innerHTML = 'Error fetching invoice (' + error.message.toString() + ')';
           if (error.response.data !== undefined && error.response.data !== null) {
             if (error.response.data['message'] !== undefined && error.response.data['message'] !== null) {
               if (error.response.data['message'].toString().indexOf('cannot be greater') !== -1) {
