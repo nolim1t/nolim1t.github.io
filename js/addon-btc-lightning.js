@@ -84,6 +84,15 @@ const check_charge_id = (chargeId, callback) => {
     }
   });
 }
+
+const checkServiceAvailability(host, port) = {
+  axios.get('http://' + host + ':' + port + '/invoicer/info/').then(function(response) {
+    return response.status;
+  }).catch(function (error) {
+    return error.message;
+  });
+}
+
 const generateLNDTextArea = function(lndinvoice) {
   return "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + lndinvoice + "</textarea>";
 }
