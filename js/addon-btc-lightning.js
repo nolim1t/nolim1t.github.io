@@ -263,6 +263,7 @@ var lnapp = new Vue({
             this.resultElement.innerHTML = 'Oh No! There was an error in response from LN API';
           }
         }).catch(function (error) {
+          console.log('ERROR triggered')
           if (error.response.data !== undefined && error.response.data !== null) {
             if (error.response.data['message'] !== undefined && error.response.data['message'] !== null) {
               if (error.response.data['message'].toString().indexOf('cannot be greater') !== -1) {
