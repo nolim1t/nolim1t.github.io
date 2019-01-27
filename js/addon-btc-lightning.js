@@ -39,7 +39,7 @@ const check_btc_rates = (callback) => {
 };
 
 const check_charge_id = (chargeId, callback) => {
-  axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&chargeId=' + chargeId).then((response) => {
+  axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=1666&chargeId=' + chargeId).then((response) => {
     if (response.data['response'] !== undefined) {
       if (response.data['response']['paid'] !== undefined) {
         var cbresp_charge = {
@@ -198,7 +198,7 @@ var lnapp = new Vue({
           // by default
           invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
         }
-        var url = base_url + "?showInvoice=true&useLNCNXNode=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=1666&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
         // If theres a fiatcode specified then set it
