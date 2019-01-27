@@ -198,6 +198,13 @@ var lnapp = new Vue({
           // by default
           invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
         }
+        var LNNodePorts = [1666, 1667]; // Choose a random node
+        var whichLNDNode = Math.floor((Math.random() * LNNodePorts.length) + 0);
+        // Normalize it
+        if (whichLNDNode == LNNodePorts.length) {
+          whichLNDNode = whichLNDNode - 1;
+        }
+        // LNNodePorts[whichLNDNode]
         var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=1666&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
