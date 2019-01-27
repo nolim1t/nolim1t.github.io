@@ -200,7 +200,7 @@ var lnapp = new Vue({
           // by default
           invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
         }
-        var LNNodePorts = [1666, 1667]; // Choose a random node
+        var LNNodePorts = 1666; // Choose a random node
         var LNCNXNodeHost = 'reckless.nolim1t.co'; // same same
         var BorkedNodeList = ''; // Borked Node list (defines which nodes are not working, for fallover)
         var whichLNDNode = Math.floor((Math.random() * LNNodePorts.length) + 0);
