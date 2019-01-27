@@ -85,13 +85,6 @@ const check_charge_id = (chargeId, callback) => {
   });
 }
 
-function checkServiceAvailability(host, port) {
-  axios.get('http://' + host + ':' + port + '/invoicer/info/').then(function(response) {
-    return response.status;
-  }).catch(function (error) {
-    return error.message;
-  });
-}
 
 const generateLNDTextArea = function(lndinvoice) {
   return "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + lndinvoice + "</textarea>";
@@ -216,7 +209,6 @@ var lnapp = new Vue({
           whichLNDNode = whichLNDNode - 1;
         }
         // LNNodePorts[whichLNDNode]
-        console.log("Service availability status: " + checkServiceAvailability(LNCNXNodeHost, LNNodePorts[whichLNDNode]));
         var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=" + parseInt(LNNodePorts[whichLNDNode]) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
