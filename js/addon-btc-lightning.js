@@ -112,7 +112,7 @@ var lnapp = new Vue({
   mounted: function() {
     console.log("lightning app initialized!");
     console.log("Setting app defaults");
-    if (document.getElementById("shoutoutbox") !== undefined && document.getElementById("shoutoutbox") !== undefined !== null) {
+    if (document.getElementById("shoutoutbox") !== undefined && document.getElementById("shoutoutbox") !== null) {
       if (document.getElementById("like-button") !== undefined && document.getElementById("like-button") !== undefined !== null) {
         // 'tis good enough for now, ideally we check the positions
         console.log("Donation page detected!");
@@ -206,7 +206,7 @@ var lnapp = new Vue({
           whichLNDNode = whichLNDNode - 1;
         }
         // LNNodePorts[whichLNDNode]
-        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=1666&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=" + parseInt(LNNodePorts[whichLNDNode]) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
         // If theres a fiatcode specified then set it
