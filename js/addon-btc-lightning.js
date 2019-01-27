@@ -85,7 +85,7 @@ const check_charge_id = (chargeId, callback) => {
   });
 }
 
-const checkServiceAvailability(host, port) = {
+function checkServiceAvailability(host, port) = {
   axios.get('http://' + host + ':' + port + '/invoicer/info/').then(function(response) {
     return response.status;
   }).catch(function (error) {
