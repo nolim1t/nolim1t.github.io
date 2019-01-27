@@ -200,16 +200,10 @@ var lnapp = new Vue({
           // by default
           invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
         }
-        var LNNodePorts = 1666; // Choose a random node
+        var LNNodePort = 1666; // Use full node
         var LNCNXNodeHost = 'reckless.nolim1t.co'; // same same
-        var BorkedNodeList = ''; // Borked Node list (defines which nodes are not working, for fallover)
-        var whichLNDNode = Math.floor((Math.random() * LNNodePorts.length) + 0);
-        // Normalize it
-        if (whichLNDNode == LNNodePorts.length) {
-          whichLNDNode = whichLNDNode - 1;
-        }
         // LNNodePorts[whichLNDNode]
-        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=" + parseInt(LNNodePorts[whichLNDNode]) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + parseInt(LNNodePort) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
         // If theres a fiatcode specified then set it
