@@ -216,7 +216,7 @@ var lnapp = new Vue({
           whichLNDNode = whichLNDNode - 1;
         }
         // LNNodePorts[whichLNDNode]
-        console.log("Service availability status: " + checkServiceAvailability("reckless.nolim1t.co", LNNodePorts[whichLNDNode]));
+        console.log("Service availability status: " + checkServiceAvailability(LNCNXNodeHost, LNNodePorts[whichLNDNode]));
         var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=" + parseInt(LNNodePorts[whichLNDNode]) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
