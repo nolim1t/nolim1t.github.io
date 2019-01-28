@@ -3,8 +3,13 @@
   // Mainnet: https://jenh8onnc8.execute-api.ap-southeast-1.amazonaws.com/awslightningmainnet1/generateinvoice
   // Testnet: https://ddanppib10.execute-api.us-east-2.amazonaws.com/awslightning1/generateinvoice
 */
+
+// set defaults
 const base_url = "https://jenh8onnc8.execute-api.ap-southeast-1.amazonaws.com/awslightningmainnet1/generateinvoice";
 var traditionalPaymentURL = 'https://www.coinpayments.net/';
+var LNNodePort = 1667; // Use full node
+var LNCNXNodeHost = 'reckless.nolim1t.co'; // same same
+
 const check_btc_rates = (callback) => {
   axios.get(base_url + '?showRates=true').then((response) => {
     if (response.data !== undefined && response.data !== null) {
@@ -39,7 +44,7 @@ const check_btc_rates = (callback) => {
 };
 
 const check_charge_id = (chargeId, callback) => {
-  axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&LNCNXNodeHost=reckless.nolim1t.co&LNCNXNodePort=1666&chargeId=' + chargeId).then((response) => {
+  axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&LNCNXNodeHost=' + LNCNXNodeHost.toString() + '&LNCNXNodePort=' + LNNodePort.toString() + '&chargeId=' + chargeId).then((response) => {
     if (response.data['response'] !== undefined) {
       if (response.data['response']['paid'] !== undefined) {
         var cbresp_charge = {
@@ -200,10 +205,8 @@ var lnapp = new Vue({
           // by default
           invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
         }
-        var LNNodePort = 1666; // Use full node
-        var LNCNXNodeHost = 'reckless.nolim1t.co'; // same same
         // LNNodePorts[whichLNDNode]
-        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + parseInt(LNNodePort) + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         this.resultElement.innerHTML = 'Fetching....';
 
         // If theres a fiatcode specified then set it
