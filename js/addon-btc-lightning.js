@@ -213,7 +213,8 @@ var lnapp = new Vue({
         if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
           if (document.getElementById("fiatcode").value !== undefined && document.getElementById("fiatcode").value !== null) {
             if (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR" || document.getElementById("fiatcode").value.toString() === "THB" || document.getElementById("fiatcode").value.toString() === "Satoshis" || document.getElementById("fiatcode").value.toString() === "BTC") {
-              if ( ((parseFloat(this.amount) < 0.001) && (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR")) || ((parseFloat(this.amount) < 1) && (document.getElementById("fiatcode").value.toString() === "Satoshis" ) || document.getElementById("fiatcode").value.toString() === "JPY" )) ) {
+              // document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR")
+              if ( (parseFloat(this.amount) < 0.001) && (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR") ) {
                 // Reject because too low
                 return;
               }
