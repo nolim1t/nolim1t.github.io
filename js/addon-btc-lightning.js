@@ -239,14 +239,14 @@ var lnapp = new Vue({
               }
               // document.getElementById("fiatcode").value.toString() === "Satoshis"
               // 1 Satoshi
-              if ( (parseFloat(this.amount) < 1) && (document.getElementById("fiatcode").value.toString() === "Satoshis") ) {
+              if ( (parseFloat(this.amount) < 1 || parseFloat(this.amount) > 10000000) && (document.getElementById("fiatcode").value.toString() === "Satoshis") ) {
                 // Reject because too low
                 return;
               }
               // document.getElementById("fiatcode").value.toString() === "BTC"
-              // 0.00000001 BTC
-              if ( (parseFloat(this.amount) < 0.00000001) && (document.getElementById("fiatcode").value.toString() === "BTC") ) {
-                // Reject because too low
+              // 0.00000001 BTC or greater than 0.1 BTC
+              if ( (parseFloat(this.amount) < 0.00000001 || parseFloat(this.amount) > 0.1) && (document.getElementById("fiatcode").value.toString() === "BTC") ) {
+                // Reject because too low or too high
                 return;
               }
 
