@@ -207,17 +207,43 @@ var lnapp = new Vue({
         }
         // LNNodePorts[whichLNDNode]
         var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
-        this.resultElement.innerHTML = 'Fetching....';
 
         // If theres a fiatcode specified then set it
         if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
           if (document.getElementById("fiatcode").value !== undefined && document.getElementById("fiatcode").value !== null) {
             if (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR" || document.getElementById("fiatcode").value.toString() === "THB" || document.getElementById("fiatcode").value.toString() === "Satoshis" || document.getElementById("fiatcode").value.toString() === "BTC") {
+              // Add some checks for too low of a currency
               // document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR")
-              if ( (parseFloat(this.amount) < 0.001) && (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR") ) {
+              // 1/100 of a cent
+              if ( (parseFloat(this.amount) < 0.0001) && (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR") ) {
                 // Reject because too low
                 return;
               }
+              // document.getElementById("fiatcode").value.toString() === "THB"
+              // Half a satang
+              if ( (parseFloat(this.amount) < 0.005) && (document.getElementById("fiatcode").value.toString() === "THB") ) {
+                // Reject because too low
+                return;
+              }
+              // document.getElementById("fiatcode").value.toString() === "HKD"
+              // Half a hong kong cent
+              if ( (parseFloat(this.amount) < 0.005) && (document.getElementById("fiatcode").value.toString() === "HKD") ) {
+                // Reject because too low
+                return;
+              }
+              // document.getElementById("fiatcode").value.toString() === "JPY"
+              // 0.1 YEN
+              if ( (parseFloat(this.amount) < 0.1) && (document.getElementById("fiatcode").value.toString() === "JPY") ) {
+                // Reject because too low
+                return;
+              }
+              // document.getElementById("fiatcode").value.toString() === "Satoshis"
+              // 1 Satoshi
+              if ( (parseFloat(this.amount) < 1) && (document.getElementById("fiatcode").value.toString() === "Satoshis") ) {
+                // Reject because too low
+                return;
+              }
+
               url = url + '&fiatCode=' + document.getElementById("fiatcode").value.toString();
             }
           }
@@ -229,6 +255,8 @@ var lnapp = new Vue({
           }
         }
 
+        // Display fetching
+        this.resultElement.innerHTML = 'Fetching....';
         // Hide form when submitted
         if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) document.getElementById("fiatcode").style.display = 'none'; // Hide fiatcode
         if (document.getElementById("blurb") !== undefined && document.getElementById("blurb") !== null) document.getElementById("blurb").style.display = 'none'; //  Hide text
