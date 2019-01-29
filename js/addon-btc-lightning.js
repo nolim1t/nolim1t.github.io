@@ -7,7 +7,7 @@
 // set defaults
 const base_url = "https://jenh8onnc8.execute-api.ap-southeast-1.amazonaws.com/awslightningmainnet1/generateinvoice";
 var traditionalPaymentURL = 'https://www.coinpayments.net/';
-var LNNodePort = 1666; // Use full node
+var LNNodePort = 1667; // Use full node
 var LNCNXNodeHost = 'reckless.nolim1t.co'; // same same
 
 const check_btc_rates = (callback) => {
