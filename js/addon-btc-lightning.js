@@ -243,6 +243,12 @@ var lnapp = new Vue({
                 // Reject because too low
                 return;
               }
+              // document.getElementById("fiatcode").value.toString() === "BTC"
+              // 0.00000001 BTC
+              if ( (parseFloat(this.amount) < 0.00000001) && (document.getElementById("fiatcode").value.toString() === "BTC") ) {
+                // Reject because too low
+                return;
+              }
 
               url = url + '&fiatCode=' + document.getElementById("fiatcode").value.toString();
             }
