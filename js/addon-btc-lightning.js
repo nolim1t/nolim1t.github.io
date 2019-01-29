@@ -189,7 +189,7 @@ var lnapp = new Vue({
           } // End this.amount check
         }
       }
-      if (parseFloat(this.amount) >= 0.005 && document.getElementById("descriptionform").value !== '') {
+      if (parseFloat(this.amount) >= 0.00000001 && document.getElementById("descriptionform").value !== '') {
         // If description not empty and greator than half a cent
         this.resultElement.innerHTML = 'Amount is ' + this.amount.toString();
         var invoiceDescriptionToGenerate = ''
@@ -212,9 +212,19 @@ var lnapp = new Vue({
         // If theres a fiatcode specified then set it
         if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
           if (document.getElementById("fiatcode").value !== undefined && document.getElementById("fiatcode").value !== null) {
-            if (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR" || document.getElementById("fiatcode").value.toString() === "THB") {
+            if (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR" || document.getElementById("fiatcode").value.toString() === "THB" || document.getElementById("fiatcode").value.toString() === "Satoshis" || document.getElementById("fiatcode").value.toString() === "BTC") {
+              if ( ((parseFloat(this.amount) < 0.001) && (document.getElementById("fiatcode").value.toString() === "USD" || document.getElementById("fiatcode").value.toString() === "EUR")) || ((parseFloat(this.amount) < 1) && (document.getElementById("fiatcode").value.toString() === "Satoshis" )) ) {
+                // Reject because too low
+                return;
+              }
               url = url + '&fiatCode=' + document.getElementById("fiatcode").value.toString();
             }
+          }
+        } else {
+          // Probably usd
+          if (parseFloat(this.amount) < 0.001) {
+            // Reject
+            return;
           }
         }
 
