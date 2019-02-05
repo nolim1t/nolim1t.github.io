@@ -327,15 +327,15 @@ var lnapp = new Vue({
                       document.getElementById('result').innerHTML = '<div id="innerresult">Amount too large, however there was an error getting the converted amount. Please contact support with the amount you are trying to pay</div>';
                     }
                   } else {
-                    document.getElementById('result').innerHTML = '<div id="innerresult">Error with the API: ' + error.response.data['message'].toString() + '</div>';
+                    document.getElementById('result').innerHTML = '<div id="innerresult">Error with the API: ' + error.response.data['message'].toString() + '. Try paying <a href="' + traditionalPaymentURL +'">on chain</a> and forwarding the receipt manually</div>';
                   }
                 } else {
                   console.log("Undefined Error");
-                  document.getElementById('result').innerHTML = '<div id="innerresult">Error from API</div>';
+                  document.getElementById('result').innerHTML = '<div id="innerresult">Error from LN API. Try paying <a href="' + traditionalPaymentURL +'">on chain</a> and forwarding the receipt manually</div>';
                 }
               } else {
                 console.log("Undefined Error");
-                document.getElementById('result').innerHTML = '<div id="innerresult">Error From API</div>';
+                document.getElementById('result').innerHTML = '<div id="innerresult">Error From LN API. Try paying <a href="' + traditionalPaymentURL +'">on chain</a> and forwarding the receipt manually</div>';
               } // End check for response.data.message
             } // End check for error.response.data
           } // End check for error.response
