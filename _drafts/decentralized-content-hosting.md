@@ -20,15 +20,25 @@ mkdir $HOME/ipfs-share
 docker run -d -p 8080:8080 -p 4001:4001 -p 5001:5001 -v $HOME/ipfs-share:/data/ipfs --name=arm-ipfs --rm nolim1t/ipfs:0.4.18
 ```
 
-## Pinning Files
+## Adding files
 
 ```bash
 # Set up a directory where you can pin stuff
 mkdir -p $HOME/ipfs-share/public
 
-# PIN stuff using ipfs add
+# Add files
 docker exec -ti arm-ipfs ipfs add -r /data/ipfs/public/test_file_or_directory
 ```
+
+## Pinning files
+
+From another machine (using a similar setup)
+
+```bash
+# Lets say to pin /ipfs/QmPJu3J8pY8iRMUnzTJaofX3toKrY3AjoCz1PoBNd2DetQ
+docker exec -ti arm-ipfs ipfs pin add QmPJu3J8pY8iRMUnzTJaofX3toKrY3AjoCz1PoBNd2DetQ
+```
+
 
 You should be able to now see the content on https://cloudflare-ipfs.com/ipfs/HASHNAME or https://gateway.ipfs.io/ipfs/HASHNAME
 
