@@ -40,6 +40,6 @@ docker exec -ti arm-ipfs ipfs pin add QmPJu3J8pY8iRMUnzTJaofX3toKrY3AjoCz1PoBNd2
 ```
 
 
-You should be able to now see the content on https://cloudflare-ipfs.com/ipfs/HASHNAME or https://gateway.ipfs.io/ipfs/HASHNAME
+You should be able to now see the content on ```https://cloudflare-ipfs.com/ipfs/HASHNAME``` or ```https://gateway.ipfs.io/ipfs/HASHNAME```
 
 For example, [this content](https://gateway.ipfs.io/ipfs/QmPJu3J8pY8iRMUnzTJaofX3toKrY3AjoCz1PoBNd2DetQ)
