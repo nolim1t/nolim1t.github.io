@@ -44,7 +44,7 @@ const check_btc_rates = (callback) => {
 };
 
 const check_charge_id = (chargeId, callback) => {
-  //axios.get(base_url + '?checkCharge=true&useLNCNXNode=false&LNCNXNodeHost=' + LNCNXNodeHost.toString() + '&LNCNXNodePort=' + LNNodePort.toString() + '&chargeId=' + chargeId).then((response) => {
+  //axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&LNCNXNodeHost=' + LNCNXNodeHost.toString() + '&LNCNXNodePort=' + LNNodePort.toString() + '&chargeId=' + chargeId).then((response) => {
   axios.get(base_url + '?checkCharge=true&chargeId=' + chargeId).then((response) => {
     if (response.data['response'] !== undefined) {
       if (response.data['response']['paid'] !== undefined) {
@@ -207,7 +207,7 @@ var lnapp = new Vue({
           invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
         }
         // LNNodePorts[whichLNDNode]
-        //var url = base_url + "?showInvoice=true&useLNCNXNode=false&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        //var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
         var url = base_url + "?showInvoice=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
 
         // If theres a fiatcode specified then set it
