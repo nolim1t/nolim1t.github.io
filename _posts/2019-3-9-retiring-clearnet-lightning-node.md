@@ -9,6 +9,8 @@ Reason being is the following:
 
 * **Nomadic Lifestyle** - I'm nomadic by nature (few months in one place, few months in another). Tor networking fits the bill a bit better as in there is a fixed address that works all the time.
 * **Privacy / Better Personal Sovereignity** - Not being associated with a single IP address or sovereign nation is great. The sovereignity I value more. This falls into the nomadic lifestyle part about moving around wherevers good right now (weather wise), and taking in whats great about a particularly location.
+* **Having a fixed address / Reliable networking** - Having a reliable networking environment improves peoples connectivity.
+* **Supporting the TOR Node community** - Theres not too many tor nodes out there. So I'm doing my part. I'll be also still contributing to [LNCM Projects](https://github.com/lncm) as well, so will be supporting TOR stuff. 
 
 Anyway for those who want to tune in to my nodes check out my nodes [1Ml.com](https://1ml.com/node/030a97ec5d3b3be3cc825838f49c73ca543eec0c8e4d528ac6371b3ba131ea2d4a) profile or at the command line open a channel to one of the following:
 
