@@ -32,7 +32,7 @@ Anyway for those who want to tune in to my nodes check out my nodes [1Ml.com](ht
 ### For support
 
 
-For support, lets say you want me to close your channel, feel free to reach out to me on Telegram/Wire Messenger/Twitter with the username @nolim1t or mastodon on nolim1t@bitcoinhackers.org
+For support, lets say you want me to close your channel, feel free to reach out to me on Telegram/Wire Messenger/Twitter with the username @nolim1t or mastodon on nolim1t@bitcoinhackers.org , or you can [open a ticket on gitlab](https://gitlab.com/nolim1t/nolim1t-co/issues/new) with your concerns.
 
 Also if you do open a channel to me, appreciate that you make yourself known so I can reciprocate, and also would be great to know whos behind the node (if I need you to close the channel too)
 
