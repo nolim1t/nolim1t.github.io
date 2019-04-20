@@ -17,13 +17,28 @@ Anyway for those who want to tune in to my nodes check out my nodes [1Ml.com](ht
 
 ### Nodes
 
-#### TOR V3
+#### The Box Archival
+
+This node is running the [lncm](https://lncm.io/) BOX software, but instead of 3 usb sticks, I've replaced one with a HDD (for the full blockchain rather than pruned).
+
+Links: [1ML.com](https://1ml.com/node/032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb)
+
+##### Tor Connection Strings
+
+* **TorV3** ```032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb@a4ljzkaxkyraujatgokbu3mkkaquadqpatprd5v3uhs6o5ulzel535id.onion:9735```
+* **TorV3** ```032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb@wylokoxmxwga56ia.onion:9735```
+
+#### The Box Pruned
+
+This node is running the [lncm](https://lncm.io/) BOX software in the standard merchant configuration.
+
+##### TOR V3
 
 ```
 030a97ec5d3b3be3cc825838f49c73ca543eec0c8e4d528ac6371b3ba131ea2d4a@w26c4bk3gtsxk3ebfuqeuxj3hehx3b57caddkhsiuefw6l56tesdobqd.onion:9735
 ```
 
-#### TOR V2
+##### TOR V2
 
 
 ```
