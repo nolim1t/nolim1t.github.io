@@ -26,30 +26,23 @@ Links: [1ML.com](https://1ml.com/node/032658fa3a01177b381618af9a5b92f95d90b80175
 ##### Tor Connection Strings
 
 * **TorV3** ```032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb@a4ljzkaxkyraujatgokbu3mkkaquadqpatprd5v3uhs6o5ulzel535id.onion:9735```
-* **TorV3** ```032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb@wylokoxmxwga56ia.onion:9735```
+* **TorV2** ```032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb@wylokoxmxwga56ia.onion:9735```
 
 #### The Box Pruned
 
 This node is running the [lncm](https://lncm.io/) BOX software in the standard merchant configuration.
 
-##### TOR V3
+##### Tor Connection Strings
 
-```
-030a97ec5d3b3be3cc825838f49c73ca543eec0c8e4d528ac6371b3ba131ea2d4a@w26c4bk3gtsxk3ebfuqeuxj3hehx3b57caddkhsiuefw6l56tesdobqd.onion:9735
-```
-
-##### TOR V2
+* **Tor V3** ```030a97ec5d3b3be3cc825838f49c73ca543eec0c8e4d528ac6371b3ba131ea2d4a@w26c4bk3gtsxk3ebfuqeuxj3hehx3b57caddkhsiuefw6l56tesdobqd.onion:9735```
+* **Tor V2**  ```030a97ec5d3b3be3cc825838f49c73ca543eec0c8e4d528ac6371b3ba131ea2d4a@mhpbuyl5zkfapkzb.onion:9735```
 
 
-```
-030a97ec5d3b3be3cc825838f49c73ca543eec0c8e4d528ac6371b3ba131ea2d4a@mhpbuyl5zkfapkzb.onion:9735
-```
+### For Node support
 
 
-### For support
 
-
-For support, lets say you want me to close your channel, feel free to reach out to me on Telegram/Wire Messenger/Twitter with the username @nolim1t or mastodon on nolim1t@bitcoinhackers.org , or you can [open a ticket on gitlab](https://gitlab.com/nolim1t/nolim1t-co/issues/new) with your concerns.
+For support, lets say you want me to close your channel, feel free to reach out to me on Telegram/Wire Messenger/Twitter with the username @nolim1t or mastodon on nolim1t@bitcoinhackers.org , or you can [open a ticket on gitlab](https://gitlab.com/nolim1t/nolim1t-co/issues/new) with your concerns. Don't forget to specify which node you used and where.
 
 Also if you do open a channel to me, appreciate that you make yourself known so I can reciprocate, and also would be great to know whos behind the node (if I need you to close the channel too)
 
