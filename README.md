@@ -28,8 +28,12 @@ bundle exec jekyll serve
 
 ### Clone
 
+Clone and add gitlab (authoritive source of truth), as well as github backup.
+
 ```bash
 git clone --recurse-submodules git@gitlab.com:nolim1t/nolim1t-co.git
+cd nolim1t-co/
+git remote add githuborigin git@github.com:nolim1t/nolim1t.github.io.git
 ```
 
 ### Syncing submodules
