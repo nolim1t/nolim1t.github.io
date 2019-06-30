@@ -18,5 +18,5 @@ wtclient.private-tower-uris=02c690cdb81fec5caa9f0b1c925a13ee5412c0232668bd8c5787
 
 ## Running it
 
-I've got a dockerified version on **nolim1t/lnd:v0.7.0-beta-rc3** which you can use or you can use [this repo](https://gitlab.com/nolim1t/lnd) (NOTE: there is a branch there which contains the build source)
+I've got a dockerified version on **nolim1t/lnd:v0.7.0-beta-rc3** which you can use or you can use [this repo](https://gitlab.com/nolim1t/lnd/tree/v0.7.0-beta-rc3-mainnet) which should build on most environments
 
