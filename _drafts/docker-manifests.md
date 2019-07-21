@@ -73,6 +73,38 @@ Finally Check that the changes have been applied
 docker manifest inspect username/repo:tagwithmanifest
 ```
 
+#### Example of inspect file
+
+An example should look like this
+
+```
+{
+   "schemaVersion": 2,
+   "mediaType": "application/vnd.docker.distribution.manifest.list.v2+json",
+   "manifests": [
+      {
+         "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+         "size": 950,
+         "digest": "sha256:6b1c68ef1540a6d1fdeb75a48c192d6a3905f63920513b3715e474f74e630d9d",
+         "platform": {
+            "architecture": "amd64",
+            "os": "linux"
+         }
+      },
+      {
+         "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+         "size": 950,
+         "digest": "sha256:f55c26d0ffac307d569c055588268e27898d877a152f8f295feaa76004a94d16",
+         "platform": {
+            "architecture": "arm",
+            "os": "linux",
+            "variant": "v7"
+         }
+      }
+   ]
+}
+```
+
 ## Pushing your Manifest to dockerhub
 
 If everything is good, you may push the manifest to dockerhub
