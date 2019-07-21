@@ -42,7 +42,7 @@ Here is a sample of what the configuration should look like
 
 ## Set up Manifests
 
-Next step is to build, tag, and push the builds on **each platform** to docker hub.
+Next step is to build, tag, and push the builds on ***each platform*** to docker hub.
 
 Be prepared to name them by architecture so you can reference them later.
 
@@ -56,9 +56,9 @@ docker -D manifest create username/repo:tagwithmanifest  username/repo:archtag1 
 
 ### Now we annote each manifest
 
-We need to now add an annotation to each manifest. By default it is **linux amd64** (assuming you used a 64bit linux device).
+We need to now add an annotation to each manifest. By default it is ***linux amd64*** (assuming you used a 64bit linux device).
 
-In the below example I am adding metadata to  **archtag2** and **archtag3** with the appropriate architectures.
+In the below example I am adding metadata to  ***archtag2*** and ***archtag3*** with the appropriate architectures.
 
 ```bash
 docker manifest annotate  username/repo:tagwithmanifest username/repo:archtag2  --os linux  --arch arm  --variant v6
@@ -113,4 +113,15 @@ If everything is good, you may push the manifest to dockerhub
 docker manifest push username/repo:tagwithmanifest
 ```
 
+## Testing out your docker hub changes
+
+First of all wipe down all the images using the ***docker images*** command. Then execute ***docker rmi*** against all the images.
+
+Next pull the docker image from docker hub on each environment
+
+```bash
+docker pull username/repo:tagwithmanifest
+```
+
+After you have fetched the tag, you can furthermore try to run it but if it fetchable it should already work.
 
