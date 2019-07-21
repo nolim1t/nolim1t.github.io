@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Docker manifest files"
+title: "Docker manifests: Usability across multiple architectures"
 ---
 
 While doing a cross platform framework for orchestration targeting both ARM and AMD64 devices, I have 
