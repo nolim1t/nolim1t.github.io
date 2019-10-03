@@ -13,8 +13,8 @@ var LNCNXNodeHost = 'reckless.nolim1t.co'; // same same
 const check_btc_rates = (callback) => {
   axios.get(base_url + '?showRates=true').then((response) => {
     if (response.data !== undefined && response.data !== null) {
-      if (response.data['status'] !== undefined && response.data['status'] !== null) {
-        if (response.data['status'] === 200) {
+      if (response.data['statusCode'] !== undefined && response.data['statusCode'] !== null) {
+        if (response.data['statusCode'] === 200) {
           if (response.data['rates'] !== undefined && response.data['rates'] !== null) {
             callback({
               fetched: true,
