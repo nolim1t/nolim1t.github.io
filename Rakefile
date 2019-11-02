@@ -2,7 +2,7 @@ task :default => [:clean, :preflight] do
     if ENV['TORDEPLOY'] != nil then
         puts "TOR DEPLOY is set, so lets install"
         sh "bundle exec jekyll build"
-        sh "cd _site"
+        Dir.chdir('_site') # Change directory
         sh "scp -r * #{ENV['TORDEPLOY']}:/www"
     else
         puts "TORDEPLOY not set"
