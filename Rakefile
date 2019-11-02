@@ -1,4 +1,8 @@
-task :default => [:clean, :preflight] do
+task :default => [:deploy] do
+end
+
+# Deploy task
+task :deploy => [:clean, :preflight] do
     if ENV['TORDEPLOY'] != nil then
         puts "TOR DEPLOY is set, so lets install"
         sh "bundle exec jekyll build"
@@ -9,11 +13,13 @@ task :default => [:clean, :preflight] do
     end
 end
 
+# Preflight task (install stuff thats needed like bundler)
 task :preflight do
     puts "Install bundler"
     sh "bundle install"
 end
 
+# Cleanup task
 task :clean do
     puts "Cleanup all stuff"
     sh "rm -fr _site"
