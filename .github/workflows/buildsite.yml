@@ -18,9 +18,13 @@ jobs:
         with:
           ruby-version: '2.x' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
       - run: rake
+        env:
+          GITHUB: true
         name: Run Rakefile
       - uses: nolim1t/actions/torscp@master
         name: Deploy to TOR over SCP
         env:
-          src: _site
+          SRC: _site
+          DEST: ${{ secrets.DEST }}
+          PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
         
