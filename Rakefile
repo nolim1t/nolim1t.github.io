@@ -16,16 +16,12 @@ end
 
 # Sync submodules
 task :submodulesync do
-    if ENV['GITHUB'] != nil then
-        puts "Skipping because github environment variable is set"
-    else
-        puts "Syncing submodules"
-        sh "git submodule foreach git pull origin master"
-    end
+    puts "Syncing submodules"
+    sh "git submodule foreach git pull origin master"
 end
 
 # Preflight task (install stuff thats needed like bundler)
-task :preflight => [:submodulesync] do
+task :preflight do
     puts "Install bundler"
     sh "bundle install"
 end
