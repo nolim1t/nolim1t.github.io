@@ -36,6 +36,17 @@ cd nolim1t-co/
 git remote add githuborigin git@github.com:nolim1t/nolim1t.github.io.git
 ```
 
+### Building
+
+Simply invoke the default rake task to build
+
+```
+rake
+```
+
+If you have ***TORDEPLOY*** set then it will also deploy the ***_site*** directory into the TOR host to a folder called ***www*** (this is assumed). ***TORDEPLOY*** should be the hostname of the configured tor site.
+
+
 ### Syncing submodules
 
 ```bash
