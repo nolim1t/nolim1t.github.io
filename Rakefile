@@ -16,7 +16,9 @@ end
 
 # Sync submodules
 task :submodulesync do
-    if ENV['GITHUB'] == nil then
+    if ENV['GITHUB'] != nil then
+        puts "Skipping because github environment variable is set"
+    else
         puts "Syncing submodules"
         sh "git submodule foreach git pull origin master"
     end
