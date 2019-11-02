@@ -16,8 +16,10 @@ end
 
 # Sync submodules
 task :submodulesync do
-    puts "Syncing submodules"
-    sh "git submodule foreach git pull origin master"
+    if ENV['GITHUB'] == nil then
+        puts "Syncing submodules"
+        sh "git submodule foreach git pull origin master"
+    end
 end
 
 # Preflight task (install stuff thats needed like bundler)
