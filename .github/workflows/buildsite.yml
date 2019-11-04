@@ -20,8 +20,8 @@ jobs:
         env:
           GITHUB: true
         name: Run Rakefile from Repository root
-      - uses: nolim1t/actions/torscp@master
-        name: Deploy site to hidden service over SCP
+      - uses: nolim1t/actions/torscp@0.1.1
+        name: Deploy site to hidden service over SCP and TOR
         env:
           SRC: _site
           DEST: ${{ secrets.DEST }}
