@@ -15,4 +15,4 @@
 	url = https://gitlab.com/nolim1t/lightning-pay-page.git
 [submodule "onions-list"]
 	path = onions-list
-	url = git@github.com:nolim1t/onions.git
+	url = https://gitlab.com/nolim1t/onions-module.git
