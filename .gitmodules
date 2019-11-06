@@ -13,3 +13,6 @@
 [submodule "lightning-pay-page"]
 	path = lightning-pay-page
 	url = https://gitlab.com/nolim1t/lightning-pay-page.git
+[submodule "onions-list"]
+	path = onions-list
+	url = git@github.com:nolim1t/onions.git
