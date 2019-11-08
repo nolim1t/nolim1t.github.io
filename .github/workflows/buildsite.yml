@@ -1,7 +1,7 @@
 name: Build and Push to TOR
 on:
   push:
-    branches:
+    branches: 
       - master
 
 jobs:
