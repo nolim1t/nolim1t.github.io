@@ -5,6 +5,7 @@ variables:
     GIT_SUBMODULE_STRATEGY: recursive
 
 before_script:
+    - apt-get -qq update && apt-get -qq install -y tor netcat
     - bundle install
     - git submodule sync --recursive
     - git submodule foreach git pull origin master
