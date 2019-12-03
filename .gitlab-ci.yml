@@ -5,7 +5,7 @@ variables:
     GIT_SUBMODULE_STRATEGY: recursive
 
 before_script:
-    - apt-get -qq update && apt-get -qq install -y tor netcat openssh-server openssh-client
+    - apt-get -qq update && apt-get -qq install -y tor netcat-openbsd openssh-server openssh-client
     - /etc/init.d/tor start
     - mkdir -p ~/.ssh && touch ~/.ssh/config
     - echo "$PRIVATE_KEY" > ~/.ssh/deploy_key
