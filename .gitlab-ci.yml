@@ -18,7 +18,6 @@ before_script:
     - eval $(ssh-agent)
     - echo "Add deploy key to keychain" && ssh-add ~/.ssh/deploy_key
     - echo "Wait 10 seconds to bootstrap" && sleep 10
-    - echo "Making test connection" && ssh -o "ProxyCommand nc -x localhost:9050 %h %p" -o "StrictHostKeyChecking=no" -o "UserKnownHostsFile=/dev/null" lncm@nlcnxuehxfppi5y4.onion "uname -a"
     - bundle install
     - git submodule sync --recursive
     - git submodule foreach git pull origin master
