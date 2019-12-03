@@ -15,9 +15,6 @@ before_script:
     - echo "StrictHostKeyChecking=no" >> ~/.ssh/config
     - echo "Host *.onion" >> ~/.ssh/config
     - echo "    ProxyCommand /usr/bin/nc -x localhost:9050 %h %p" >> ~/.ssh/config
-    - echo "Listing home directory" && ls -la ~
-    - echo "Listing SSH directory" && ls -la ~/.ssh
-    - echo "Listing current working directory" && ls -la .
     - eval $(ssh-agent)
     - echo "Add deploy key to keychain" && ssh-add ~/.ssh/deploy_key
     - echo "Wait 10 seconds to bootstrap" && sleep 10
