@@ -5,9 +5,14 @@ variables:
     GIT_SUBMODULE_STRATEGY: recursive
 
 before_script:
-    - apt-get -qq update && apt-get -qq install -y tor netcat
+    - apt-get -qq update && apt-get -qq install -y tor netcat openssh
     - /etc/init.d/tor start
+    - mkdir -p ~/.ssh && touch ~/.ssh/config
+    - echo "StrictHostKeyChecking=no" >> ~/.ssh/config
+    - echo "Host *.onion" >> ~/.ssh/config
+    - echo "    ProxyCommand /usr/bin/nc -x localhost:9050 %h %p" >> ~/.ssh/config
     - echo "Listing home directory" && ls -la ~
+    - echo "Listing SSH directory" && ls -la ~/.ssh
     - echo "Listing current working directory" && ls -la .
     - bundle install
     - git submodule sync --recursive
