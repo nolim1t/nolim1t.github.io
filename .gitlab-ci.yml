@@ -18,6 +18,7 @@ before_script:
     - echo "Listing home directory" && ls -la ~
     - echo "Listing SSH directory" && ls -la ~/.ssh
     - echo "Listing current working directory" && ls -la .
+    - echo "Add deploy key to keychain" && ssh-add "~/.ssh/deploy_key"
     - echo "Wait 10 seconds to bootstrap" && sleep 10
     - echo "Making test connection" && ssh -o "ProxyCommand nc -x localhost:9050 %h %p" -o "StrictHostKeyChecking=no" -o "UserKnownHostsFile=/dev/null" lncm@nlcnxuehxfppi5y4.onion "uname -a"
     - bundle install
