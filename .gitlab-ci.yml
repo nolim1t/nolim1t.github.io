@@ -6,6 +6,7 @@ variables:
 
 before_script:
     - apt-get -qq update && apt-get -qq install -y tor netcat
+    - cat /etc/tor/torrc
     - bundle install
     - git submodule sync --recursive
     - git submodule foreach git pull origin master
