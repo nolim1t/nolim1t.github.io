@@ -7,7 +7,8 @@ variables:
 before_script:
     - apt-get -qq update && apt-get -qq install -y tor netcat
     - /etc/init.d/tor start
-    - ls -la ~
+    - echo "Listing home directory" && ls -la ~
+    - echo "Listing current working directory" && ls -la .
     - bundle install
     - git submodule sync --recursive
     - git submodule foreach git pull origin master
