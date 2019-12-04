@@ -12,6 +12,7 @@ before_script:
     - touch ~/.ssh/known_hosts
     - chmod 600 ~/.ssh/known_hosts
     - chmod 600 ~/.ssh/deploy_key
+    - echo "Unset DISPLAY and SSH_ASKPASS variable" && unset DISPLAY && unset SSH_ASKPASS
     - echo "StrictHostKeyChecking=no" >> ~/.ssh/config
     - echo "Host *.onion" >> ~/.ssh/config
     - echo "    ProxyCommand /usr/bin/nc -x localhost:9050 %h %p" >> ~/.ssh/config
