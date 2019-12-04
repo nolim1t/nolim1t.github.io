@@ -3,17 +3,19 @@ layout: post
 title: "Auto-deploying a to TOR via CI (or CD)"
 ---
 
-Just a follow-up to <a href="https://nolim1t.co/2019/11/02/we-on-tor.html">this post</a> which announces and explains how the tor site for this site (and my other pages works), I'd like to share how I've done it.
+Just a follow-up to <a href="https://nolim1t.co/2019/11/02/we-on-tor.html">this post</a> which announces and explains how the tor site for this site (and my other pages works), I'd like to share how I've done it - because right now devops and CI/CD is hot tech right now.
 
 For sake of being platform agnostic, I'll explain in detail how to use it on Github as well as Gitlab.
+
+And I haven't forgotten the GitHub acquisition news by Microsoft around <a href="https://nolim1t.co/2018/10/27/radio-silence-august-october-2018.html">mid-2018</a>, which triggered a mini-exodus to Gitlab. And looking at Gitlab from a product perspective, having the option to host your own instance is also very appealing and more likely to be used in the corporate world.
 
 ## Github
 
 For Github, this is actually the easiest. And also supports many build environments.
 
-The pre-requisites (as of December 2019) is to have GitHub Actions enabled for your account, as its still in beta.
+The pre-requisites (as of December 2019) is to have <a href="https://github.com/actions">GitHub Actions</a> enabled for your account, as its still in beta.
 
-Once enabled simply create a file in **.github/workflows** and simply adding steps.
+Once enabled simply create a file in <a href="https://gitlab.com/nolim1t/nolim1t-co/blob/master/.github/workflows/buildsite.yml.old">**.github/workflows**</a> and simply adding steps.
 
 In the directory you can have different workflows, and also define a schedule as well (handy for Continuous Deployment or regular automated testing).
 
@@ -22,6 +24,8 @@ A workflow step in a github action either comprises of a docker module (with par
 The docker module actually makes it quite versatile as people can author their own addons, such as <a href="https://github.com/nolim1t/actions">mine</a> which is used heavily in this site (and others) for deployment. I mainly use it for deploying to TOR sites which does not work out of the box.
 
 The big drawback is Github is vendor lock-in, and we all know Microsoft (owners of Github) has a history of that.
+
+Also as of December 2019, Github Actions is still in beta mode so there may be issues (actually encountered some last month)
 
 ## Gitlab
 
