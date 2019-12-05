@@ -59,3 +59,20 @@ ls _site
 ```bash
 bundle exec jekyll serve
 ```
+
+### Auto-deployment
+
+If you wish to mirror this site simply add the following deploy key into your server:
+
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJxyFUr/7z5lhUWfuXsgzPp/vp159GnG8etLuThkZT9J deploykey@pub
+```
+
+and then update your web server with the pathnames. You may then send a merge or pull request to me for consideration.
+
+
+### Donations
+
+You may send donations via bitcoin lightning network to <a href="https://btl.to/p2qKPlWpWrnX">me</a> if you love my work and support open source (I don't get paid).
+
+
