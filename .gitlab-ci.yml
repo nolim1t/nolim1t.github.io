@@ -23,16 +23,6 @@ before_script:
     - git submodule sync --recursive
     - git submodule foreach git pull origin master
 
-test:
-    stage: test
-    script:
-    - bundle exec jekyll build -d test
-    artifacts:
-        paths:
-        - test
-    except:
-    - master
-
 pages:
     stage: deploy
     script:
