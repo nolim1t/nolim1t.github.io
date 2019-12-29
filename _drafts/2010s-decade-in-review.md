@@ -73,7 +73,7 @@ As the Mayans did predict, there would be a big change in the world.
 
 * Started off the transient journey. Sold a lot of things including my HK company. Got an Estonian e-Residency and company instead.
 * Started a new life in Thailand (March 15th 2017). Didn't plan on doing it but it just happened, and I ended up refunding my return flight. Discovered a community of remote workers. There was (and still is) a lot of temptation because its full of "gap year backpackers" and "full moon parties" which initially made it very easy to be distracted, but it seems ripe with many opportunities to build stuff and also having a nice serviced apartment sub $300 was a very good drawcard.
-* Continued to more transient lifestyle in 2017 as discovered that visas don't last for too long, including an [epic land road trip](https://itinerantfoodie.com/post/tripreport/2017-10-30/the-road-to-websummit.html) from Northern Europe to Southern Europe over the course of 2 months. The key take was some good business building connections out of Europe and also figured the Asia and Europe time zones are very similar.  
+* Continued to more transient lifestyle in 2017 as discovered that visas don't last for too long, including a trip [throughout china](https://itinerantfoodie.com/post/digitalnomad/2017-08-12/china-digital-nomadding.html), and an [epic land road trip](https://itinerantfoodie.com/post/tripreport/2017-10-30/the-road-to-websummit.html) from Northern Europe to Southern Europe over the course of 2 months. The key take was some good business building connections out of Europe and also figured the Asia and Europe time zones are very similar.  
 
 ## 2018 - Consolidation
 
