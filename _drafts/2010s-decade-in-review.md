@@ -1,45 +1,96 @@
 ---
 layout: post
-title: "2010s decade in review - My journey"
+title: "2010s decade in review"
 ---
 
 I think the 2010s for me was all about all the fruits of the previous decade paying off, as well as experimentation and consolidation.
 
-My 2010 saw myself a nice windfall which meant a short gap year through Europe and Asia to kick off my digital nomad journey.
+## 2010 - Lets start this decade right
 
-I started building apps then because it sounded cool to make something that you could use on a mobile device. The market back then wasn't as saturated so the payouts were a lot better.  
+* My 2010 kicked off with life in the USA (New York / Boston / Los Angeles). I got to attend South By Southwest for the first time, and experience my first tech conference. Lots of learning / networking, and much parties (all on someone's corporate budget). And also got to do some serious roadtripping between US cities (highways are nice). 
+* Also saw myself with a nice exit payout from a venture which meant at that time the perfect opportunity to do a short gap year through Europe and Asia.
+* Also started developing paid apps on the iPhone/iPad app store. 
 
-My 2011 saw myself doing consulting for various firms who wanted in on the app industry which timing could not be impeccable. On the travel side, I also fell in love with Hong Kong.. so much that I actually missed my flight. Even have an old Hong Kong passport stamp (on an old passport) back when they were still stamping passports. In 2011, was also the year where I first discovered a thing called bitcoin. I didn't think of it much and it was not easy to learn about it but grateful that I actually did learn about it early.
+## 2011 / 2012 - New Paradigms
 
-2012 was a bit more similar. I did a few more Hong Kong back and forth trips just to see what it would be like living there, and also explore some of the nearby locales. Also the year which I started accumulating (and spending) bitcoins too (silkroad lol). Also decided to get back on the old startup trail as "SoLoMo" was the hot thing, and a few people pitched me this. I signed onto a startup to build a discovery platform but soon discovered that there was a bit of FOMO there and also due to some team issues, I did leave it after a couple of months.
+2011 / 2012 saw the start of many good things later on (including this site)
 
-2013 was going to be the year where I did make my move initially to the east (also to get away from some personal things too). Hong Kong I figured would make a good base because it has both familiar comforts and exotic stuff. I set up base initially in Wan Chai - a nice and central neighborhood. 
+As the Mayans did predict, there would be a big change in the world.
 
-2014 was getting settled in to expat life, accumulating lots of bitcoins (and actually securing them properly). Also took part in the Ethereum crowdsale, and also the year which I unlocked China and South Korea. Those were very interesting places and I did find the culture fascinating. Especially the korean alphabet. And also beginning talks of formulating a business in the region.
+* Introduced to bitcoin. Got some free bitcoins from a website. The rest is history, and probably influenced a lot of the late decade.
+* Visited Hong Kong for the first time. Loved the cross section of eastern and western culture. That also influenced my later decisions.
+* Attended Rubykaigi 2011 in Japan. First tech conference where the language wasn't english.
+* Started doing apps for other people who wanted them which timing could not be impeccable, as sales started to dry out and also with ROI.
+* New beginnings of my [food and travel blog](https://github.com/itinerantfoodie/itinerantfoodie.github.io/commit/4c6a92bd41e2247b0941b653c4c380c0c87a5197) as well as [this blog](https://github.com/nolim1t/nolim1t.github.io/commit/4c6a92bd41e2247b0941b653c4c380c0c87a5197) on github
+* In 2011/2012, decided to go back into the startup world again adding yet another SoLoMo type app in there (but with prettier UI!). Built a bit of it, however visions misaligned and left the team as a result.
+* Started learning how to read Chinese (wasn't hard having Japanese knowledge)
 
-2015 was more like 2014, but was building up another startup in Taipei. It saw me doing a lot of back and forth trips between Hong Kong and Taipei (with Korea thrown in).
+## 2013 - 歡迎來到香港
 
-2016 was when we realized that startup wasn't going to be viable as it was heavily coupled with another business (brick and morter business) which encountered some "local issues". But also formed another startup based on a win at startup weekend so was focusing on that for a couple of months. Due to visa issues in Hong Kong, I spent a lot of time in South Korea / Taiwan / Phillipines / San Francisco. I actually kicked off my [travel & food blog](https://itinerantfoodie.com/) around then. And because I had over a million frequent flier miles accumulated as well as the highest tier on Cathay Pacific, I did right a few reviews on the lounges. 2016, was the first year I went to Web Summit in Portugal too. And I ended 2016 in South East Asia (Thailand / Vietnam / Cambodia / Myanmar). On the bitcoin/ethereum side, kept on accumulating and also sold most of my ethereum  for ethereum classic (lol) so I did miss most of the big 2017 ETH run-up. (no lambos)
+* Moved to Hong Kong (part of the reason was also to escape some drama XD)
+* Visited Taiwan for the first time
+* Earnt my first bitcoins from a sublet (and also lost my first bitcoins.. oops)
 
-2017 was the year I realized that if Hong Kong wasn't going to work out, South East Asia appears to be the next hotspot, as I soon discovered a community of remote workers. There was (and still is) a lot of temptation because its full of "gap year backpackers" and "full moon parties" which initially made it very easy to not be productive, but it seems ripe with many opportunities to build stuff and also having a nice serviced apartment sub $300 was a very good drawcard. I continued to more transient lifestyle in 2017, including an [epic land road trip](https://itinerantfoodie.com/post/tripreport/2017-10-30/the-road-to-websummit.html) from Northern Europe to Southern Europe over the course of 2 months. The key take is I actually got some good connections out of Europe and also figured the Asia and Europe time zones are very similar. 
+## 2014 - Hodl and accumulate
 
-2018 I did not travel too much initially ("shitcoin and ICO hangover"), but bunkered down and explored more on the tech side of things (bitcoin / lightning network). I wanted to have a payment platform which I can easily plug into any business and get validation without asking banks for permission to operate. Banks can be a big buzzkill sometimes for entrepreneurs. I also unlocked Bali in 2018 before ending the final days back in  Thailand.
+* Kept on accumulating as bitcoin got easier to buy.
+* Bought Ethereum from the crowdsale (20 cents a piece!)
+* Visited China for the first time (not just Shenzhen)
+* Visited South Korea for the first time
 
-2019 was a bit more like 2018, but even less travelling (just the essentials and extended visa runs (1 month+) .. as someone I met in Ho Chi Minh City calls "Visa walks"). Also continued building stuff with lightning network to make it easy for any business to use. Also the year where I might get some return on one of my 2016 startup investments from Hong Kong. Not big but its better than 0. I also did a lot of research on transient lifestyles and minimalism because in 2019 (and 2018) was the year where a there seems to be a lot of visa headaches so next time I'll be ready for it. 
 
-## Moving foward
+## 2015 - Buidl
 
-* More mobile / flexible / minimal (consume less) / sustainable lifestyle. Actually researching more options on working off a tablet.
-* Try to build businesses around the above.
+* Started work on building up a startup in Taipei
+* Attended RubyConf Taiwan for the first time. Met some amazingly smart people who also become conference buddies in future visits (some were from previous years)
+* Attended what would be the LAST Ruby Kaigi, but they ended up hosting them.
+* Attended first bitcoin conference
+
+## 2016 - Transitions
+
+* Stopped work on my Taiwan startup as it wasn't going to be viable after many setbacks.
+* Formed another startup from a win at startup weekend
+* Started being more transient as an experiment, Spent time (1+ months) in Taiwan / South Korea / Phillipines / United States / Thailand / Cambodia / Vietnam).
+* Started selling / giving away stuff in hopes to be even more transient.
+* Ended off the year in Siem Reap and start the next with a sunrise at Angor Wat.
+* Attended web summit for the first time
+
+## 2017 - Digital Nomad beginnings
+
+* Started off the transient journey. Sold a lot of things including my HK company. Got an Estonian e-Residency and company instead.
+* Started a new life in Thailand (March 15th 2017). Didn't plan on doing it but it just happened, and I ended up refunding my return flight. Discovered a community of remote workers. There was (and still is) a lot of temptation because its full of "gap year backpackers" and "full moon parties" which initially made it very easy to be distracted, but it seems ripe with many opportunities to build stuff and also having a nice serviced apartment sub $300 was a very good drawcard.
+* Continued to more transient lifestyle in 2017 as discovered that visas don't last for too long, including an [epic land road trip](https://itinerantfoodie.com/post/tripreport/2017-10-30/the-road-to-websummit.html) from Northern Europe to Southern Europe over the course of 2 months. The key take was some good business building connections out of Europe and also figured the Asia and Europe time zones are very similar.  
+
+## 2018 - Consolidation
+
+* Recover from the **shitcoin and ICO hangover**. Dumping everything for bitcoin becoming a bitcoin only person. Still hold DOGE for fun and small quantities of ETC because it was what I signed up for when I bought ETH (nostalgia).
+* Unlocked Bali. Great for short visits but didn't seem very impressed.
+* Started hacking with the LNCM people as the project aligned with my passions and I wanted to have a payment platform which I can easily plug into any business and get validation with little bureacracy.
+* Kept buying the dip (but got a little sidetracked with shitcoins like NEO/EOS initially).
+
+## 2019 - Renewal / Keep on Fighting
+
+* Same same but less travelling (down to bare minimum). Just some Thailand domestic travels though. Had a ton of fun locally so didn't feel inclined to leave
+* Contributed a good deal of code to [LNCM](https://github.com/lncm) projects because it aligns to what I believe in passionately.
+* Donated money to the [TOR project](https://www.torproject.org/), because privacy is a human right.
+* Recognizing there is a need for more privacy and to promote more TOR use. I set to authored a collection of [github actions](https://github.com/nolim1t/actions) to improve this and developed a way to deploy [static pages to TOR](https://nolim1t.co/2019/12/29/auto-deploying-to-tor-via-CI.html). Evidence: [{1)](nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion ) [(2)](http://nlboxzx55nq7gqtzmqdkik5d6lbnxzg4tdilrersg6zoq2m3gexj2nad.onion/) [(3)](http://itinzvrq4nfgard62w7dbcxuhal33c7m5zvsrqwxynkpahkertuy5sad.onion/)
+* Planning to be more decentralized. Not just a single hub but several.
+* Kept stacking sats (Thank you [GetBittr](http://getbittr.com) )
+
+## 2020s and Beyond - Moving foward
+
+General gist of things is **decentralization** based on past experiences.
+
+* More mobile / flexible / minimal (consume less) / sustainable lifestyle. Actually researching more options on working off a tablet and raspberry pi combo.
+* Try and build a business and lifestyle around the above. And find more people who want to do the same so we can BUIDL together.
 
 ## Summary
 
 * One startup exit
-* App development (independent and as a consultant)
-* Two failed startups
-* One moderatly ok exit (to be finalized still)
-* Bitcoin still strong and growing
-* Bought and lost money in shitcoins and ICOs (moral of the story: Bitcoin not blockchain)
-* Improve on minimalism, and mobility/freedom
-
+* Became an App developer and later full stack developer (independent and as a consultant)
+* Became a part time blogger
+* buy and keep buying bitcoin (#stacksats)
+* Learnt some lessons having failed twice at startups
+* Learnt a valuable lesson that is Bitcoin not blockchain no matter how fancy the whitepaper looks.
+* Improved and continue to improve on minimalism, decentralization and mobility/freedom
 
