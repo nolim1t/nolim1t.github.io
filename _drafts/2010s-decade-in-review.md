@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "2010 decade in review"
+title: "2010's decade in review"
 ---
 
 I think the 2010s for me was all about all the fruits of the previous decade paying off, as well as experimentation and consolidation.
 
 A lot of learning along the way too (conferences).
 
-## Summary - TLDR edition
+## Summary - TLDR; edition
 
 * One startup exit
 * Became an App developer and later full stack developer (independent and as a consultant)
@@ -15,7 +15,7 @@ A lot of learning along the way too (conferences).
 * buy and keep buying bitcoin (#stacksats)
 * Learnt some lessons having failed twice at startups
 * Learnt a valuable lesson that is Bitcoin not blockchain no matter how fancy the whitepaper looks.
-* Improved and continue to improve on minimalism, decentralization and mobility/freedom
+* Improved and will continue to improve on minimalism, decentralization and mobility/freedom
 
 ## 2010 - Lets start this decade right
 
@@ -71,9 +71,13 @@ As the Mayans did predict, there would be a big change in the world.
 
 ## 2017 - Digital Nomad beginnings
 
+![Chiang Mai](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/0079B744-DDA7-42DE-A25E-4B5A635A3045.jpeg) ![Chiang Rai](https://images.itinerantfoodie.com/uploads/lost-in-paradise-062018/62AA011F-21C9-4A62-A877-4D02A97864D6.jpeg)
+
 * Started off the transient journey. Sold a lot of things including my HK company. Got an Estonian e-Residency and company instead.
-* Started a new life in Thailand (March 15th 2017). Didn't plan on doing it but it just happened, and I ended up refunding my return flight. Discovered a community of remote workers. There was (and still is) a lot of temptation because its full of "gap year backpackers" and "full moon parties" which initially made it very easy to be distracted, but it seems ripe with many opportunities to build stuff and also having a nice serviced apartment sub $300 was a very good drawcard.
+* Started a new life in Thailand (March 15th 2017). Didn't plan on doing it but it just happened, and I ended up refunding my return flight. Discovered a community of remote workers. There was (and still is) a lot of temptation because its full of "gap year backpackers" and "full moon parties" which initially made it [very easy to be distracted](https://itinerantfoodie.com/post/travel/2018-06-11/lost-in-paradise.html), but it seems ripe with many opportunities to build stuff and also having a nice serviced apartment sub $300 was a very good drawcard.
 * Continued to more transient lifestyle in 2017 as discovered that visas don't last for too long, including a trip [throughout china](https://itinerantfoodie.com/post/digitalnomad/2017-08-12/china-digital-nomadding.html), and an [epic land road trip](https://itinerantfoodie.com/post/tripreport/2017-10-30/the-road-to-websummit.html) from Northern Europe to Southern Europe over the course of 2 months. The key take was some good business building connections out of Europe and also figured the Asia and Europe time zones are very similar.  
+
+![Estonia](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-/road-to-websummit-2017/IMG_2758.png) ![Paris](https://s3.amazonaws.com/images.itinerantfoodie.com/uploads/the-road-to-websummit-2017/IMG_3433.png)
 
 ## 2018 - Consolidation
 
@@ -95,7 +99,7 @@ As the Mayans did predict, there would be a big change in the world.
 
 General gist of things is **decentralization** based on past experiences.
 
-* More mobile / flexible / minimal (consume less) / sustainable lifestyle. Actually researching more options on working off a tablet and raspberry pi combo.
+* More mobile / flexible / minimalism (consume less; travel with 1 hand carry bag) / sustainable lifestyle. Actually researching more options on working off a tablet and raspberry pi combo.
 * Try and build a business and lifestyle around the above. And find more people who want to do the same so we can BUIDL together.
 * Keep on 💸 stacking sats ❤️  to make number go up 📈🐂
 
