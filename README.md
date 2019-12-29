@@ -73,6 +73,6 @@ and then update your web server with the pathnames. You may then send a merge or
 
 ### Donations
 
-You may send donations via bitcoin lightning network to <a href="https://btl.to/p2qKPlWpWrnX">me</a> if you love my work and support open source (I don't get paid).
+You may send donations via bitcoin lightning network to <a href="https://tippin.me/@nolim1t">me</a> if you love my work and support open source (I don't get paid).
 
 
