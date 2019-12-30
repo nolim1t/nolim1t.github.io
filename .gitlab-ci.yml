@@ -24,6 +24,8 @@ before_script:
     - git submodule foreach git pull origin master
 
 pages:
+    except:
+    - schedules
     stage: deploy
     script:
     - bundle exec jekyll build -d public
