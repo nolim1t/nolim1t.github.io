@@ -29,7 +29,7 @@ pages:
     stage: deploy
     script:
     - bundle exec jekyll build -d public
-    - echo "Making test deploy" && cd public/ && scp -o "ProxyCommand nc -x localhost:9050 %h %p" -o "StrictHostKeyChecking=no" -o "UserKnownHostsFile=/dev/null" -r * lncm@nlcnxuehxfppi5y4.onion:/www/_site
+    - echo "Making deploy to nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion" && cd public/ && scp -o "ProxyCommand nc -x localhost:9050 %h %p" -o "StrictHostKeyChecking=no" -o "UserKnownHostsFile=/dev/null" -r * deploy@2ma67qeyulhuw4xl.onion:/www-nolim1t
     artifacts:
         paths:
         - public
