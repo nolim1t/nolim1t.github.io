@@ -9,12 +9,13 @@ As I do get a lot of messages and requests please take the time to read this.
 
 ## Order of Messaging Priorities
 
-* Facebook Messenger (Try to use secret chats)
+* Facebook Messenger (Try to use secret chats. Please INTRODUCE yourself.)
 * Wire Messenger
+* Email. You may contact hello @ this domain. However, please PGP Encrypt it with my [key](https://nolim1t.co/key/pgpkey.asc.txt) as a test that you are not a spammer.
 * Keybase
 * Snap
-* iMessage (I use MacOS)
 * Twitter
+* iMessage (I use MacOS and iOS, but I'm trying to phase this off)
 * Telegram (Try to use secret chats, although they do suck) 
 * Any other messengersi/services (LINE / WhatsApp)
 
@@ -27,6 +28,4 @@ The biggest signal is **Authenticity** - Are you a real person. While I don't ca
 Next is obviously the **content value** that you share. (Private profiles need not read further, I can't see any of it so not much of a signal here). Do you overshare (it can be annoying), or do you share good quality content. 
 
 And finally **account age**. If I see that you are a new account with barely any posts, it comes off as a spammer. See the authenticity part on how to improve points on getting a reply/add.
-
-
 
