@@ -9,14 +9,14 @@ As I do get a lot of messages and requests please take the time to read this.
 
 ## Order of Messaging Priorities
 
-* Facebook Messenger (Try to use secret chats. Please INTRODUCE yourself.)
-* Wire Messenger
+* Facebook Messenger (Try to use secret chats. Please INTRODUCE yourself. Not having a complete profile including a profile picture will be ignored)
 * Email. You may contact hello @ this domain. However, please PGP Encrypt it with my [key](https://nolim1t.co/key/pgpkey.asc.txt) as a test that you are not a spammer.
 * Keybase
+* Wire Messenger
 * Snap
 * Twitter
 * iMessage (I use MacOS and iOS, but I'm trying to phase this off)
-* Telegram (Try to use secret chats, although they do suck) 
+* Telegram (Please introduce yourself, or you will be blocked.) 
 * Any other messengersi/services (LINE / WhatsApp)
 
 ## Reply / Follow / Add Policy
