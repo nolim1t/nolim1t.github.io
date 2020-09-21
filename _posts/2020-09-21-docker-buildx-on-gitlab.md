@@ -27,7 +27,7 @@ Cross architecture builds ties into decentralization and less supply chain issue
 
 And with Apple's push into building its own CPU, and also a user of the [pine64 Pinebook](https://www.pine64.org/pinebook-pro/) and [PinePhone](https://www.pine64.org/pinephone/) which can be a nice desktop system. I'd like to have things available on multiple systems.
 
-This also works to my advantage when deploying to embedded devices - currently the Raspberry PI 3/4 which I've done for the last 2 years, while building the Ultimate Financial Sovereignity box (see [The Box and Umbrel project](https://nolim1t.co/projects/(.
+This also works to my advantage when deploying to embedded devices - currently the Raspberry PI 3/4 which I've done for the last 2 years, while building the Ultimate Financial Sovereignity box (see [The Box and Umbrel project](https://nolim1t.co/projects/).
 
 ## Deep dive into the Example
 
