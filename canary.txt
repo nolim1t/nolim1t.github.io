@@ -1,0 +1,32 @@
+---
+layout: null
+permalink: /canary.txt
+---
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+I am the admin of nolim1t.co and nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion. (@nolim1t)
+I am in control of my PGP key
+I will update this canary within 14 days
+
+Today is 2020-11-09
+Best bitcoin block hash:
+0000000000000000000920385446b5ee1a5c2b156379a66fed4dd74f5f3ee253
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAl+pWnsACgkQ9ih7gsyE
+vL2QRw/+NqeieawdDLhvGOak7z3AsY9jO4V57RUivgNnJTyk8qbFxPUIWAt+GjqM
+2b88ReIPgHNOMfZcS1s1LJ9NFfBvSjPqb875wvZw9jYxOa3TDATvMKHZsJXC7LSi
+7TI2KqhzgNTce0NxXGHUDvcj6hLBG/YBh4CGC9ZFIVYmZ2Kbk6me+7ve6Z59pOJ+
+U+aHHEUHf14FFW3OdHexax87ztIuuLb2913F4bvfPauP3cfmJy1/PzCdQcE2+MW3
+bbtnWHhP1Wor4XmF+7Yb+OVgba2O0zESbTw3JVEhx/2bQOBBHf8ljTIb/zzpKH7m
+zO0HVYAuq68SAazeNacrigo/+XfLsklCX9RpQ724POPP3o8eSIPB8kyOhpASiaj2
+THCBqAN67mYa6Fu/PFtxM+DgJQdSX4uugpOnHyEPzVFYcdFvqjv1W3hWbEAZwUL+
+WL2x1auuPnlpF5+lSjxkoaJh2CP+MFGV/ASwF79OAQez/YcSpdHczH2Gqr1K+Z/r
+ONWsvb8o1l9zVyRrIW+qClWBB8EEzt40BcjJagS0Mx+0CUSb3rRraX5Li2OTqJA1
+UPn+ynUU1ii37dGwqkhYV+3vZ4ct4nARb579GIO9cXJjT46v743EM/GEemOTyZei
+SxyMk2hxOTpC6VfZm3JXAu+lticUYyng7Etys4+IvyCkPPOomo4=
+=iA4t
+-----END PGP SIGNATURE-----
