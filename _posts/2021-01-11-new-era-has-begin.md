@@ -12,7 +12,7 @@ It has been an interesting first week in the tech space. It seems as planned, Bi
 Anyway some things which I've noticed:
 
 * Bitcoins rise in price (as predicted)
-* Deplatforming of more public figures including Trump
+* Deplatforming of more public figures including Trump. Also on [payment networks](https://www.axios.com/payment-processor-stripe-bans-trump-campaign-0f55ff23-973b-4168-9f9c-0992b9a26d08.html) as well.
 * Deplatforming of some uncensorable social media networks
 * An attack on the Tor network (most likely state sponsored, because thats where people go to hide)
 * Another state attack on Bitcoin in the [UK](https://www.uniswapnews.com/bitcoin-investors-get-banned-from-hsbc-and-other-uk-banks/)
