@@ -18,10 +18,19 @@ ADMIN="@nolim1t"
 cat >./socialmedia.txt  <<EOF
 I am the owner of the following profiles:
 
+Mastodon
 https://bitcoinhackers.org/@nolim1t
+https://bitcoinersagainst.boats/@nolim1t
+
+Twitter
 https://twitter.com/nolim1t
+
+Telegram
 https://t.me/nolim1tcoblog
+
+Web
 https://nolim1t.co
+
 
 Today is ${DATE}
 
