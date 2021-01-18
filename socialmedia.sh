@@ -30,7 +30,11 @@ https://t.me/nolim1tcoblog
 
 Web
 https://nolim1t.co
+http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion
 
+PGP Key
+https://nolim1t.co/key/pgpkey.asc.txt
+http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion/key/pgpkey.asc.txt
 
 Today is ${DATE}
 
