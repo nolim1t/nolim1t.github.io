@@ -21,6 +21,7 @@ I am the owner of the following profiles:
 Mastodon
 https://bitcoinhackers.org/@nolim1t
 https://bitcoinersagainst.boats/@nolim1t
+https://social.nolim1t.co/@nolim1t (Social Sovereignity Achieved)
 
 Twitter
 https://twitter.com/nolim1t

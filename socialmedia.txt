@@ -11,6 +11,7 @@ I am the owner of the following profiles:
 Mastodon
 https://bitcoinhackers.org/@nolim1t
 https://bitcoinersagainst.boats/@nolim1t
+https://social.nolim1t.co/@nolim1t (Social Sovereignity Achieved)
 
 Twitter
 https://twitter.com/nolim1t
@@ -26,23 +27,23 @@ PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion/key/pgpkey.asc.txt
 
-Today is 2021-01-18
+Today is 2021-01-20
 
 The current best bitcoin block hash:
-00000000000000000004e90b72cf50ca312726e2d16e0ef732f9e44780c47e01 (Block: 666580)
+00000000000000000006eaa1e964b21727e56a9396cdd045e2cb559a5b1c78d0 (Block: 666856)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmAFRXcACgkQ9ih7gsyE
-vL04tw/8CGjE7ewTO7rCR0mOR5o5tVC7gN6xB1zxpOyxX6tYDRKZ9nH8qYYF32uT
-bUuwWIUANNNNPC/7WdWffod/PsiJP89NI/HGDo8nkPMIZ/rFmly9w+lHn8XOF1gF
-QViUF/8Wy/R18e9p2JIPGEF0Gm5m9bshQURLpHn7C+2c2pXLY9gI3CS37XVOAhZJ
-vG9FhD6B0MxYCv2BC0p7VAvNLRJ7rLHHu2+JZDr+g0lwcSEPHucMRcLJdeQZSHzG
-OJb8eFWdhAKDFBQgK8whvJVVwzXuv5yvqTNUnN9Rc+jP7jHYx+9eg/fG2bTTqWZl
-TXHxAwb+G33GjkR66Et+i+oXPnTSPW3LX+EVNceRsi+VyMSxj4l1lu9RrkAOBmgV
-hZNl4qnClHwTHK512F+JyEiL8KIWPK/WoWOIJ5QrmKVVNYGiAH/f+KZn20ZUlvQg
-AqXAh+JRA1XY1bhcC3ABvDkUAh7D030NtpuPNc6fkmcsDhbnzbCG7Ems4PD16Flg
-YLL77utX44Q5XwkKYA1XcZceHHVrmxF8ivY/t3IwagT2XW13ndzJ5xbl3IAbTuWD
-qCL0x+Nyo66a7HR355MWq52GIpNR8cNU1K/nMknmuLDlHVZD9nyb8lW0q3eSiozP
-nunMBJE+g23G36hX8sU90u8GZZSD6zcXMS+eBVUBBhbk+imdUCM=
-=HAQr
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmAHzlQACgkQ9ih7gsyE
+vL2Vxw/8DAA5cR06dAqYhOuBaHYrendi7aAnS9VU7RwD/leMj9+XgvW16b60Wnfa
+hXgIk29jg4eB+0uC0cYaKU9rZ9baEke2a0/AngJ7C0P5umgRUnSWcZeE1yF73zhN
+LIRzCgzPQG2pLAf+BYHVN3fCEGWOXFJdCjipiO18kQyWRRfQl3NJPncLgbcB/Pdr
+vLHHqqn3DNfAbBTkkSx70ntjX/+LJVrd1K/qy//3jdF6eickRy1M0J9hDIbAgvJo
+0y3HjjhfDIrsP82OhcBqWSMBzjhozzQ/7pftTssz+zFrl0SK9Ar2vT44jmTKCqqc
+SNlsuGqS58TvxHmSGabbLzEpB+JNMKQK/MQTPEEjJ8Ni1W4A3yTteRC1+tGBcU2b
+O+1kIbbNxK6wVPdSmEmUNBTiKhnZdVg+w+9Bh4adT0r/fq8uen3Bxi4v6fXsj6pm
+utapoI2bVWMo/DJB7/fRp6Cu7NmmYOyxeXKXHTye0+zm7sDZaMmdmDxihVsWtJAx
+SnsJOX4vP9XXcQZoHXvEi7HRMSYqYIELnaDwxB4UdmA32AgZgQA96X3Rn/JO1WEK
+TIb3MZrOX3Ctl3s7H2SSvDYdyG+QPTj1yDNWAIvfV2/UKdLqeo4YmgBou23VmQDe
+WTrA2/0w/Ir/nLqef8keRu80jJnJJP4Z6mn3B0qc3ytK1SJXAK4=
+=TbZv
 -----END PGP SIGNATURE-----
