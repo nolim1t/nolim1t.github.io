@@ -8,42 +8,45 @@ Hash: SHA256
 
 I am the owner of the following profiles:
 
+Matrix
+@nolim1t:matrix.org
+
 Mastodon
-https://bitcoinhackers.org/@nolim1t
-https://bitcoinersagainst.boats/@nolim1t
 https://social.nolim1t.co/@nolim1t (Social Sovereignity Achieved)
+https://bitcoinhackers.org/@nolim1t (Deprecated)
+https://bitcoinersagainst.boats/@nolim1t (Backup)
 
 Twitter
-https://twitter.com/nolim1t
+https://twitter.com/nolim1t (Deprecated; Read only. No engagement)
 
 Telegram
-https://t.me/nolim1tcoblog
+https://t.me/nolim1tcoblog (Read only)
 
-Web
-https://nolim1t.co
+Web (Curated)
+https://nolim1t.co 
 http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion
 
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion/key/pgpkey.asc.txt
 
-Today is 2021-01-22
+Today is 2021-01-24
 
 The current best bitcoin block hash:
-000000000000000000031525cdd8db9f6bf36a6f0c02951774d6f5928672cfcb (Block: 667148)
+0000000000000000000c3bb7be43cee7d720a45ac2e63c10d42d8cf36b179f09 (Block: 667444)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmAKjgQACgkQ9ih7gsyE
-vL2bUg/8DT3ctA5m0E0LLQIQvKmHpcMFZGdVTbtQelNP5a1oOXbuZ7Jy4Tmc7HNh
-EiWbGCVmig+u3jmOA4rg/mA57damExKaY9dv6R9ZCGAFJrZmTTgcMBX8Oky9+bwf
-Vt1N53i8XQt5ED//tUts1pCKf6FF6WtXG3SunBMwfEDdGv6fJcs4+X4qUy4Zn5Rv
-h7TJYlKQyglG56ABP/VRHDGVp8lzITqj7hH7HhxrVljpSqP3ro7BQ9HTI1GJKDVw
-XD2dAXjaqwGlymcEOPdFS8fcvDgZ+dd2nY0gf13IDL94Zqzx2+wCrscakSSshTYl
-YDpCJM54PoVv9UtwI4cLVLOY23l0XrFw8UdvC+HvJJ+qJQLaS268MmITRyXwcdXI
-+GxWPyHelfkq/qxgK1UaoRsA5N8Kj2JEY4l30EkXntLj0u1UyWoNoj6aKu8gcbMZ
-O9T6JiaY7MQS1/FyLl6QgYFwkApzjPtguL3R1sQ3Nu8iaIqiSzb3RcK3g258rpoR
-cGyk8Qv2nElM0IitFAPeLPahx61HvShWxh9e+Ey3UPTAB1bfVsDlXKSMBrVomagJ
-lmQkRHlD9ZW7Fu7xxIm8ATd7ZXhxW20lYMh17j6TRwCtOSdLdimLUzUR1ZJPNJDg
-Zp8LRY4PetckA5ofd0wxfbBbboaWGDpObCrFB4oMdECHAsbDUmQ=
-=7JgJ
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmANO3QACgkQ9ih7gsyE
+vL3NPA//cP9t/GHUQFJu5YPxh5sqjBDKe2/997pXVdg9L/RHP6CVAUdY8m4SynWi
+f9VqLJ4dzm91se/AJkYL1aqQF/J8qQ88AIHa5RhF3OElIOtxkVKfg7hjU3rmL/Yx
+JInpxfAR/rBQDi8z/tCby/GaT+gbaYgSiU4mJCMsdndpZHMvFQCw1sRuzhZ42d/8
+7LPEzo8j40xdvmhOdh+H+ZIZYLBd7Sl6SsqiPiHZ8yUc86B/lGdy9I0OGEhVyqDx
+VBKbtt+Ul2EP4BNNl7IXC3jzXyZYXaizwmlU8ztrhw84nfbyZn+Unl2LvbdyTA+x
+ef8PRv3Bl4/aKVVNp6bC/lHzWuen+utfxIkE0EpL1ikm1Y9rRTzsA4rJZcbBxaiT
+kpB5rhuw46PTNjd+R8hEC/97XCG844S4FYQA5uqjd2Y2ok2igtEVKtAEPrTk9f+F
+4eS+UvXnep1hdfeTWs6vhC5dOA6ZC22SvzhC2Rh+NonA/yCTZMlUJJsrBmnuDOLS
+X/CJuEpsuE+ktN9LWmuzvASSfOjOu+pRaMVOp4OPEDkeKc/U9KGOAetIUqaYZGcO
+fs0e1anK/ggzUy3Rrmpp9uwSY9gMcqACtfTjcs6OscDBeT3JamODZsag4W+26tUy
+Iy/mYZSmhZGVxFBzEcaG4c3Lj8nTqstZfK6BA3Rgls9cSRGXoxs=
+=XQ4a
 -----END PGP SIGNATURE-----

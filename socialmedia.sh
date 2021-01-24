@@ -18,19 +18,22 @@ ADMIN="@nolim1t"
 cat >./socialmedia.txt  <<EOF
 I am the owner of the following profiles:
 
+Matrix
+@nolim1t:matrix.org
+
 Mastodon
-https://bitcoinhackers.org/@nolim1t
-https://bitcoinersagainst.boats/@nolim1t
 https://social.nolim1t.co/@nolim1t (Social Sovereignity Achieved)
+https://bitcoinhackers.org/@nolim1t (Deprecated)
+https://bitcoinersagainst.boats/@nolim1t (Backup)
 
 Twitter
-https://twitter.com/nolim1t
+https://twitter.com/nolim1t (Deprecated; Read only. No engagement)
 
 Telegram
-https://t.me/nolim1tcoblog
+https://t.me/nolim1tcoblog (Read only)
 
-Web
-https://nolim1t.co
+Web (Curated)
+https://nolim1t.co 
 http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion
 
 PGP Key
