@@ -73,6 +73,8 @@ and then update your web server with the pathnames. You may then send a merge or
 
 ### Donations
 
-You may send donations via bitcoin lightning network to <a href="https://tippin.me/@nolim1t">me</a> if you love my work and support open source (I don't get paid).
+You may send donations via bitcoin lightning network to <a href="https://tippin.me/@nolim1t">me</a> if you love my work and support open source (I don't get paid) or if you prefer on-chain you may send to my [hodl address](https://blockstream.info/address/bc1qfu03xlgmezynuw2dwsvl6wagaw8ata9s9s3elfst2f36dtj23shql2vdsy).
+
+If you prefer Monero, you may send to **44DVS1F1haNCisz6VN6RAugWfnULSvZpXZxv56Zeu3srf5BR4simzB1WrqJ9CkxcuL9d753MEBGGTMkekdx6gMUuAGDuiQu**
 
 
