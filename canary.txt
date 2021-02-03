@@ -11,23 +11,23 @@ I am in control of my PGP key.
 I will update this canary within 14 days.
 This file can be accessed at /canary.txt
 
-Today is 2021-01-24
+Today is 2021-02-03
 
 The current best bitcoin block hash:
-0000000000000000000c3bb7be43cee7d720a45ac2e63c10d42d8cf36b179f09 (Block: 667444)
+0000000000000000000653c0fe87ceaca805b604ca85ded1ae4a0b10706ce01e (Block: 668858)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmANO7AACgkQ9ih7gsyE
-vL3WpxAAyfC4oPlE0y3/0VtnQevgOnFd4BnrbvB55/5NgtoPwrvgM8IEvcsUu2u3
-CZG9erw0wsbXbbdpgPdAREefCDhCrUQN778YBzx97ZhYyBNUpY9Rr1nH74i/dTPT
-Mm1ig5Dm/sahQdUeiNq5yjGPxlTfRbr66ssQ4L7d3/CuBoqxnfIcCfXB9e45WnSL
-A0yd7utpONWJxnfHm+1Jgjm65/c3idhLN9qeWRHvi1ECi8MxD06IL9jtRmxWtBDg
-kydRQC3pKAzRZ2ZRcGfcnKndAErfvRQ/flKIv7a/DSkP2TO3vuxvsMoMJ39J7kJB
-IB1YhjzXbhf7zQli/yH67VRHPH+6oXjaCl1bJDq4pZ8FDbpIfq8u5FREYCm2tHmq
-kiUSYxVqSHfQuai5KhTj/LAM84fAVi38s22s157PiBx6j817DOJ/ptoRmes2as99
-MzwgI67bxvZnbfqQ6ymLcDSxlymV5UzDx0Rhfm39XgC1NZnvlgg+gNS+sJtV0bnC
-1/6n657woccL/qRx/VOTtMJbukODK5+v0jtD1x70+tjMAh2XNBKaRJsbBwPDuNYk
-paFymD4jCa3S5cKsT2vXADvoP5MwojTaewIlflkcvaOj2+A0sP1nLvAVnJF9vFII
-n97iyOC6erKmkHLOly3SdozgYuq3zUl2rL+gJfJaUVzbQRkl9aY=
-=XOhb
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmAaLtYACgkQ9ih7gsyE
+vL1y6xAAwj1IbVTfbL3wgxZJCQCaaXOcYon6J0ePza3Y9X5Rk8eh4OvjaSMx2vo6
+CRdNfWSDfyTHc4H+hbs5By97732wUNYj9DXzKCLW2vHN9sWcxtBPbx8vXKmVE12B
+1XNO/WU8DwYnf+70U9QXvGaEwUTr4oXBKXWrhUxGq8LFTEFHAodvgQ2UNkb4+UDq
+ZgVP/ym2v1qLeZwtwpJsSwXj04bcXcu03r1TYvTX0molkxslouZ/tWuDv6r7oIr+
+vP+JOUwd61RXiOtIc8qJCVUpQaXbLiKJowPsuL+tfR/NnjiT2E8tenX4/51iu43f
+cnJN7FkRWgbHV4xVELcAr8LpAY830JMFZD5olfegu3nDB/84Nh+bs+ZRn6UN+LGQ
+JcXMFw0JUz8S1f+pNZpm+/u1nmtFElVv4eVMAmy4/7eIpjmC6lEbSZaqBY2/7n27
++tHWsZVShT3Nf1jTA/PTbOiWmSeZQd/u1gXh+xMpHWss/Ue/GvkGZewlMFuI03AF
+4c+3qXYl2RWdmbwRIdVZFH+AaJNE1y36orvxnP6Jw/cu4MRcvG4jr8pwKs6cRhXq
+xwYX976xFQxvR8pG1ALj8qluBqNDUGf039Y5+shIxAuiJJoi/kAl8pb82705Xa2b
+ffAajxeUBccOps3JEct9rJRDg2v1geFbkLizV51PSOsfbVohcjI=
+=k4wJ
 -----END PGP SIGNATURE-----
