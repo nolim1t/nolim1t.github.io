@@ -29,7 +29,7 @@ The current best bitcoin block hash:
 ${BLOCKHASH} (Block: ${BLOCKCOUNT})
 EOF
 
-gpg --clearsign ./canary.txt
+gpg --local-user F6287B82CC84BCBD --clearsign ./canary.txt
 echo "---" >> ./header.txt
 echo "layout: null" >> ./header.txt
 echo "permalink: /canary.txt" >> ./header.txt
