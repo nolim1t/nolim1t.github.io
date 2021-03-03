@@ -1,0 +1,41 @@
+---
+layout: null
+permalink: /matrixkeys.txt
+---
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Matrix
+@nolim1t:matrix.org
+
+My device keys are as follows:
+
+Mac Brave Browser:
+Session ID: OOPYKODQSM
+Session key:    7PSm a8Me aTUc 9y4Q p5Dw v8ZL EWKr v8i4 Wh5z 1weH TsU
+
+Phone (Main):
+Session ID:YRCIRYLPIN
+Session Key: 7K3C acQk reZF mlJ9 bOp7 DvZx kcE+ uLYN zhru cIP5 5Ho
+
+Today is 2021-03-03
+
+The current best bitcoin block hash:
+0000000000000000000c00997344f58c7c94e0afd67324d9033bcc601a3fea07 (Block: 672985)
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmA/hdwACgkQ9ih7gsyE
+vL0V7g//UXF4+/o1PCs/IR7R7sAO00cwlubN+hf6hlK2ziKyV2pZYoCvX3lNrlmM
+bbXtTc25zHyEgdN0IH3hqZhGxDFz7eKYGVuH0vMkIqFnUGnbsFnRJZ1N/yR/RRBd
+RAEcDg8zRd9K4uKkGO3cV6Z75RWF31ZouD29Ggfdv9unHxfElUDYnE1ajbaBLtK5
+XOMgC5HC09/uaDpbyCCZBNXGjO4Qq3awgcetj6ZSZXd1NoSKiNHoUKV4ksszWO9c
+VifV5pUD/ket6/3hr69lO7e3v7InxC2hAboEzRokm37LtlT/dQzZkBXKh+29+3tJ
+DfU3wg3XTqN7IPU6R6Dt2071ZbwxMHz1GuLtjl00uFw9QGimAfrRg1sR/21KZMI6
+OSv/axqi4KFGBxwmKnOiqKlbxFqVgYKtI9UftB21yFPO7Go4Zi5Vv9pRU8sQ7Pym
+xrmvbikmAbPC+IBRFsF5SSt5LveVuWDe6gdb1RDwGDg/nnf5t1GhebioIsBCjnE+
+UKZiaoWSwrWa37eGLxLt5zeVk62yk9shpK5IUlSsKMwV6YLHYFK/a6slOzZGlCqx
+4Yn0YTviqDce8I/hGmM8Qtyx7+deVlryisqKlNLG8gRissWq+rTr+2th2WBnPTBf
++iruEmfxgFzoQwHNWfT0fegtFr2vDYhlL8Btj5l/l78Y7tRObAc=
+=+ilk
+-----END PGP SIGNATURE-----
