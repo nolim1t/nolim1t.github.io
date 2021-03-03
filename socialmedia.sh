@@ -22,12 +22,11 @@ Matrix
 @nolim1t:matrix.org
 
 Mastodon
-https://social.nolim1t.co/@nolim1t (Social Sovereignity Achieved)
-https://bitcoinhackers.org/@nolim1t (Deprecated)
+https://bitcoinhackers.org/@nolim1t (Main)
 https://bitcoinersagainst.boats/@nolim1t (Backup)
 
 Twitter
-https://twitter.com/nolim1t (Deprecated; Read only. No engagement)
+https://twitter.com/nolim1t
 
 Telegram
 https://t.me/nolim1tcoblog (Read only)
@@ -46,7 +45,7 @@ The current best bitcoin block hash:
 ${BLOCKHASH} (Block: ${BLOCKCOUNT})
 EOF
 
-gpg --clearsign ./socialmedia.txt
+gpg --local-user F6287B82CC84BCBD --clearsign ./socialmedia.txt
 echo "---" >> ./header.txt
 echo "layout: null" >> ./header.txt
 echo "permalink: /socialmedia.txt" >> ./header.txt
