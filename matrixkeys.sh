@@ -29,6 +29,11 @@ Phone (Main):
 Session ID:YRCIRYLPIN
 Session Key: 7K3C acQk reZF mlJ9 bOp7 DvZx kcE+ uLYN zhru cIP5 5Ho
 
+Firefox Linux
+Session ID: CIOUFWHAHZ
+Session Key: ztja gzSi ynLj 5Fdt kW3L fFBV Ny9L gzpt 25jt IBWu zfg
+
+
 Today is ${DATE}
 
 The current best bitcoin block hash:

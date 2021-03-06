@@ -4,7 +4,7 @@ permalink: /matrixkeys.txt
 ---
 
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 Matrix
 @nolim1t:matrix.org
@@ -19,23 +19,28 @@ Phone (Main):
 Session ID:YRCIRYLPIN
 Session Key: 7K3C acQk reZF mlJ9 bOp7 DvZx kcE+ uLYN zhru cIP5 5Ho
 
-Today is 2021-03-03
+Firefox Linux
+Session ID: CIOUFWHAHZ
+Session Key: ztja gzSi ynLj 5Fdt kW3L fFBV Ny9L gzpt 25jt IBWu zfg
+
+
+Today is 2021-03-07
 
 The current best bitcoin block hash:
-0000000000000000000c00997344f58c7c94e0afd67324d9033bcc601a3fea07 (Block: 672985)
+000000000000000000062c336214d2a94a89271354c32f61166bf427064e71eb (Block: 673447)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmA/hdwACgkQ9ih7gsyE
-vL0V7g//UXF4+/o1PCs/IR7R7sAO00cwlubN+hf6hlK2ziKyV2pZYoCvX3lNrlmM
-bbXtTc25zHyEgdN0IH3hqZhGxDFz7eKYGVuH0vMkIqFnUGnbsFnRJZ1N/yR/RRBd
-RAEcDg8zRd9K4uKkGO3cV6Z75RWF31ZouD29Ggfdv9unHxfElUDYnE1ajbaBLtK5
-XOMgC5HC09/uaDpbyCCZBNXGjO4Qq3awgcetj6ZSZXd1NoSKiNHoUKV4ksszWO9c
-VifV5pUD/ket6/3hr69lO7e3v7InxC2hAboEzRokm37LtlT/dQzZkBXKh+29+3tJ
-DfU3wg3XTqN7IPU6R6Dt2071ZbwxMHz1GuLtjl00uFw9QGimAfrRg1sR/21KZMI6
-OSv/axqi4KFGBxwmKnOiqKlbxFqVgYKtI9UftB21yFPO7Go4Zi5Vv9pRU8sQ7Pym
-xrmvbikmAbPC+IBRFsF5SSt5LveVuWDe6gdb1RDwGDg/nnf5t1GhebioIsBCjnE+
-UKZiaoWSwrWa37eGLxLt5zeVk62yk9shpK5IUlSsKMwV6YLHYFK/a6slOzZGlCqx
-4Yn0YTviqDce8I/hGmM8Qtyx7+deVlryisqKlNLG8gRissWq+rTr+2th2WBnPTBf
-+iruEmfxgFzoQwHNWfT0fegtFr2vDYhlL8Btj5l/l78Y7tRObAc=
-=+ilk
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmBDw0UACgkQ9ih7gsyE
+vL2dGw//Yj+IcK3/pfL1b42b1BenoBfV9CV5yhJgZLZ+3u7/tHKaqqZnSh4jWGEr
+SHnDv/dJFI2Rx/jnydEsDB3NqNgr25HcV7pfEbQGGPX3M/2rotmSzcRjYEwb8Xzp
+3Utr0kJQfst6BXH7CMPf0/g3/d//yz3+XOiuqHnqJr+gG8e5IC3T2Dk8cXf/lap6
+4T/nqL0uphGNPrIGiQhslRk21iBveSUoZ3Vben5TKUHxK1g4WGXErIeKJ0IN6Avj
+RI91UjoGbNX1vo81NWqkj+vfbh7wYN71lP+zuNmKdGqsaSqhNPaTTcH5CghU+Jku
+/QzFT9QEEm/r46p54Rdi2iqOjWMZxDkXtnWPUnGOJaQFgcuvZtJUt4hHoN4zTU7s
+OvpJlUWsDEQQh7IWD6fAR0eLm3/X7QrRhgihURyy0EuC8QosddDz9ubjA6sBsR+h
+bmAsWKOxb+d0IBCxJ/x7roI+WZlRIfCiiWdWoYarzxmXtKgvuUmheZwgOaybtFdl
+SSwrdUXKTjBX1h1MHcC679aB1SUsScO/lCT6tNj1hLBxlmduh1k1LX9jNi0AfI25
+HeFdKEyVQgSC/fafngfNH475KxWFmyNx5JUajkuXHb37rZjimGrjB/G5UURj8rFq
+ig4AAnJBiDgY2kNRTHo2zN02g9K/zUJGzuhNzid9DYPnU7AN/so=
+=0HQV
 -----END PGP SIGNATURE-----

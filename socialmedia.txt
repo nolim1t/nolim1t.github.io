@@ -4,7 +4,7 @@ permalink: /socialmedia.txt
 ---
 
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 I am the owner of the following profiles:
 
@@ -29,23 +29,23 @@ PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion/key/pgpkey.asc.txt
 
-Today is 2021-03-03
+Today is 2021-03-07
 
 The current best bitcoin block hash:
-0000000000000000000c00997344f58c7c94e0afd67324d9033bcc601a3fea07 (Block: 672985)
+000000000000000000062c336214d2a94a89271354c32f61166bf427064e71eb (Block: 673447)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmA/hm8ACgkQ9ih7gsyE
-vL3KChAAjbaAE67kuT3OvEjr8s4BC3Ko7HQM/ildcXVFaFi66hgYOLbjjMWgqUEr
-W3xJ/S6fZvIS4NeCN05pBh1sOKuagiM8sV0JsJUf4Vda9CsbOL7jSQ0ViGXd4dlO
-PRpnPH1df3NpSi1INVdIsdiabVCm/tgtZLIUYuWshxmYccr9jJeOooIw5BjwfGJG
-c5k5ddeslsRWWq75WKaRXgzASwVtRN5Vfo9a2LbowEszxKrZwuqD8OIPGWeeBuSh
-cphlgaq24VAdN7Nt+9Y/s74t4vX+LboYl2iLt/qycY4M4Jnu4mqaScmbaolF2FAW
-wHW6PG+ceYERRLyiRweiBW0JEnUvu+x1N5yrIP4Uf+YjpyGVHRMLkn05acsborgx
-5qgL50Q3jYPmBV0wsxVob3UXQN4MHk6J58S9cnXk/cK2Hfq+TIW6rTjq1ncnlTkG
-VAUKGBzAwDXeQJ6dDEDLD6dTC1z1881xP4mlCrK2WDaAwsoo5Uj+ncGug5fJlrnG
-xfyYJlp8cyItl6PVejau1uGxDDuFDUTcbA3UO9CZsM9FcEvImXjQ5BdOH53dVpMB
-Ay+iNk2MZWLe26Hv3zioNxfCo0C6lymmiZyaOtPe0Ukpprh8vRf8suSYN221yX/9
-aDAMyGH7LuqojytvnVCSU/JBzv5vdr/sdnDHflGvMb/oZnKYCyc=
-=gHHp
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmBDw24ACgkQ9ih7gsyE
+vL2GPw//U05q5ZvJzqsv3E9SR7s5hoLVmtSuX22rFm5kRPuN7Uk/BkUX3JjetxJD
+VeaHO1MJ4evFbeNvn1BTCAvfkGwrA0AHqInPRyhBRUzCDs5Y/hwGtC4OzKfHWwae
+E9+LtcLLVTMbDn2eyrC0zkt2XdhtUto9M0ik0IhcmdCKl9i/cSiIT5Pl9jkY3E1P
+ppaCzrMl5d/2RhIQWeU74gpDzWoMOfdll2B4t2nFulEANZJmne/RT85yKbut9863
+LMx8/q1nv7e15QHMP2hlFQ4eASb7wBpARKXQzbMcb4Ajb/BvAja2ZyyRZ0D0vjqX
+/LUw7Sk1pHX2nXBf/+L28s+EB1ETjIKCDf5C/YydPsynatJ2XgzFERalzi0y2VHI
+lqjk0UZoFXpO7TXChGacywOS5SrYkzh7Lg+E5BY2L0/gD2hwPxpsF0tlrc75FaRJ
+ZDwg8bKBW6OZo4ilFstK6QrmfVi8IRvDFH4bt1e7JBGoli1z8XV9tdaM0b6/d191
+aIg84WNExOZhvaIulAA3LE2MIkYNlgOUF2XnbHKi0C1F8PrMDzUIaT1EdHogfdiD
+AMjuon3y8AFIQyoclMhy5XWCR5X3T++1P1c/VifBqYmbu8BWcxAz1FeYXujapSI8
+y0fQ9EBJWEwqmYncMM1BZiwL5279/qdRia/r/CmI+TMR5277tHo=
+=7mxw
 -----END PGP SIGNATURE-----

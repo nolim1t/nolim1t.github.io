@@ -4,30 +4,30 @@ permalink: /canary.txt
 ---
 
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 I am the admin of nolim1t.co and nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion. (@nolim1t).
 I am in control of my PGP key.
 I will update this canary within 14 days.
 This file can be accessed at /canary.txt
 
-Today is 2021-03-03
+Today is 2021-03-07
 
 The current best bitcoin block hash:
-0000000000000000000c00997344f58c7c94e0afd67324d9033bcc601a3fea07 (Block: 672985)
+000000000000000000062c336214d2a94a89271354c32f61166bf427064e71eb (Block: 673447)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmA/hhwACgkQ9ih7gsyE
-vL3l1g//aHKgadziTjcwaOpL4JbQ47SUEo1SFp7gV2+HJHswd+whb+cM4Flql+Gx
-m3oSyOqE70upBN03Yes2uLUzFOFGMQUOoEM8bzC0CWO+rFy5bvHfTg7UHyGdvB6u
-PpfywRORGYTsXap8SXQ3oIDSoopAU9D9+PMp5eetjvcwHjvY+JKmcOK8y3mvO9ke
-EdSpBwf+XPuYm/JF2lEqPqVjh31I/aoKBz9g2tqgytANkVM/WWkx3QHRsnbrrk5y
-i2mWklPn9ACOuQfBwaW/QmMLg1JYKFjtiF4MbbVXzfpZ8Mi9AU8B4OEppfHGlYwc
-SL6CrTT//1Q6REERe6+UdogMTac5c6dkS+vaS3ug7YWlLUlr2t9I7t+Vs2gyOjSX
-x9cFOIcx5Z/BOeMZJmZr3fwr2EThRs4FmxiTHNuUBU7Vn5ehsUGLqY54g9l8WxRt
-A2nJe0vDFKCG1ytlPudw1itVzl9EvKgo0oyJ9xKnlaqXCHOSmF0cULoHaDLg7NrO
-/fAKoXeSlx2LRnGZRkG+xsSPQdmpw+mv1BpgqtowSTR9/D5hdzWVgzA0b9eE/H0H
-QtD8S0hA7PlDtd7tDziBnmEABfgMSs6EXmAwid1+gayNnfL1hsvtGM0C6l1fxOI3
-LDPFlMCcm/8DOxP8mAlWsoturLWeJMpyApIOiXVMc1NI4EID7Ec=
-=VdCm
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmBDw3QACgkQ9ih7gsyE
+vL19hw/8CBlMZTa6ng2JROlcq/RUDMY0QOqi0kAqs5jc09E6qouBEmMHFepqMS4O
+WaIb+MOwD7bnQ+vc4g+YHc8vo0UXLgPMwmI0ZEuXHjs21bGaAkvX2B9I2bHmblPU
+IxKQcgz4hAJhbgdtTM7yojS4Ys290UV1rO0rdFE+C+o6UPvCB7n5dU0QQoTt4qJb
+iIVKSgDtZGeQ+dfT/fh4r1V+8B+fsj6lkMaNj5+AvsVRRJQ2zEy4klap+6vO6GQ0
+UW6+whCsgIXlu6hkTIMl76mwPw7PfAugd1F5GB/cR0ea3piDBN4DuGKqqbrFdVBG
+OIBgXCXdlBiCiOWyN1GThE9PHrMUboUqTcdXBdj8hpb8T2iUZ2kzzZ5Xi3HWTCJj
+cdb4V2AXNbsx6PMLvVAz67GW5c1UvWtckOA9Eewk3sPOb47OhX4/e1+NOXLJW/Sz
+4i8sTQUSrhOH22JOwVtM/NBqzRpreKbSkTwihxqwV5yTA9XH6piQh6IM1DC/iIVE
+OzjeJHGeC6vXiz4x7JZILlX906ua0LGXZ2pDNj7QoxVG8nW5Og4jH70DcPAIhsGd
+PWa0AaV+T//+IQMFOBMhosZNfz+YweJ7z3+GaWAVcjyyXvRZa4o5TALS7iaN4S0O
+ojK8qk8aQKpq2IRLcIE9+0Qms1SpzAXZN7IQiQojygE4cQgaBYs=
+=06Cb
 -----END PGP SIGNATURE-----
