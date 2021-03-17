@@ -5,10 +5,10 @@
 */
 
 // set defaults
-const base_url = "https://qct016m8b5.execute-api.ap-southeast-1.amazonaws.com/awslightning1/generateinvoice";
+const base_url = "https://tfqfpfsjpg.execute-api.ap-southeast-1.amazonaws.com/awslightning1/generateinvoice;
 var traditionalPaymentURL = 'https://www.coinpayments.net/';
-var LNNodePort = 1666; // Use full node
-var LNCNXNodeHost = 'reckless.nolim1t.co'; // same same
+var LNNodePort = 443; // Use full node
+var LNCNXNodeHost = 'flashpay.nolim1t.co'; // same same
 
 const check_btc_rates = (callback) => {
   axios.get(base_url + '?showRates=true').then((response) => {
@@ -45,7 +45,7 @@ const check_btc_rates = (callback) => {
 
 const check_charge_id = (chargeId, callback) => {
   //axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&LNCNXNodeHost=' + LNCNXNodeHost.toString() + '&LNCNXNodePort=' + LNNodePort.toString() + '&chargeId=' + chargeId).then((response) => {
-  axios.get(base_url + '?checkCharge=true&chargeId=' + chargeId).then((response) => {
+  axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&chargeId=' + chargeId).then((response) => {
     if (response.data['response'] !== undefined) {
       if (response.data['response']['paid'] !== undefined) {
         var cbresp_charge = {
@@ -208,7 +208,7 @@ var lnapp = new Vue({
         }
         // LNNodePorts[whichLNDNode]
         //var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
-        var url = base_url + "?showInvoice=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        var url = base_url + "?showInvoice=true&useLNCNXNode=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
 
         // If theres a fiatcode specified then set it
         if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
