@@ -11,6 +11,9 @@ I am the owner of the following profiles:
 Matrix
 @nolim1t:matrix.org
 
+Sphinx Chat
+02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f
+
 Mastodon
 https://bitcoinhackers.org/@nolim1t (Main)
 https://bitcoinersagainst.boats/@nolim1t (Backup)
@@ -29,23 +32,23 @@ PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion/key/pgpkey.asc.txt
 
-Today is 2021-03-19
+Today is 2021-03-24
 
 The current best bitcoin block hash:
-0000000000000000000388aca327e11e55a3982d6145259c861ae4ee6a4987e1 (Block: 675170)
+00000000000000000008ca96881e3ee85800f45d90cdf797fe688b2e8e72a902 (Block: 676028)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmBUaywACgkQ9ih7gsyE
-vL1AORAAmYMRgS67NxinI1a4/G569oZrhsviiOHk1yofX372+Ws4WFiF6GskyqRV
-BKSDmKBljqBIftrQGeO9LinglH9/4p7GRYQNAwSyVmuyrstxfltDSSOd0ZpD7Gl1
-FnIks4+c5WFDIoSZG8N28T0SGhDjzxhfW3TrR8BovfdzIQwPI62TDqXrf2BpALoi
-aN5EaG+3zvlbghe6CoZw4Kh2mEH9/IIU++RfENGBxkYXJmtxjJfSsxGCJiR5fKFS
-/AfVxx22BqmNSm3MJWDlrUsjFKKQ5RukP17QombnZn9Ho9ThwMyqz4B+v6imYBfz
-GGU3WjYAENQ8aEauiZm+FdixzUYdv6oHEYotvb8msuv8QuSoiJYTOiZnXOEn1Iqn
-Bd0o3ms6hM1neNsZmkTGSIYLcLwFOm26d0L4o3+RDOfTLhBsNEfFBEONMk6sr6G+
-mkokQMVayET86rUxEImywKqM06N4gTTrHAkVP0hTXGyaHEj3yY+YhvMpPoXFoRoH
-QABsid+704CDMEwdeiFi72bTtIYCG1Ve3Zq8cq7mMwDKk5XFJ1H3Yrafbql5Dst0
-dbOoiEmH5ikoSLIwnNhkrwqk3k6oIXbnfXwDjuPDPVr7JFux+j+7tD6tvsmlHye2
-l6H4ZQVIoMrpTlsPZV1KaUfPB43P57IS+2nsoW8tnZbc4vQSYtk=
-=NHwa
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmBar0YACgkQ9ih7gsyE
+vL2xhhAAh4P1kX9/AoXkDFEsQCtueg5I66UpzLP4GBiXg0oZoQhL02wEs1WnBv+M
+pEGMphzrber0LgPhDE10yhjmAOJ+4RwQDGTQQg/9HrM38gKe3la96o1HwUxfsaE4
+m/Ljt91MMa1Nf87S4PUs7K9oOGFogMrPWju3033U9LvxDLlZFmmsv8dKODmocoUt
+4iUbsFx5nJUMGqNjSHliH97D6VrRAFW+9wRZmpEELKSzuNbSByWb4Scs1HcmKxZ/
+qJTHMOqVZGh8jT4eTp5m+ifK/o2lcpt0fG7/x0XnL+0Um5D2mYtvbcJfalsTjAlk
+mTb4y04JSY8yKNxTt2o1603WIHP/khwuNP7HjO136a/FFscFLhfDGRgvG40ZD73t
+zLdQyNMlJBt6SlTEgEFHGhdBNTlKVXloiANlJMYzfLfhcc+WFwaHbb15Vrms1+k3
+E3vVonldPjUUTnoVT6GtVrHKpYQzAaCwSwRYYKvQppYkv/qWbs8dZTD8r1B+yx+x
+lAtfiKsl2rywUo5V1Mte/P5IQB0mLJs9TcNkXjLJeJH7yYnGzzku1GXeZqAPxKm5
+webangGRAsl9PWSqP5AHD/nrJR9XzIEfZkxPyx/PAWemxwqrgqA6tsqQGFcrSHSX
+JNw57MjutJwcKWfzMrxLQ56U0KcnqVl57ozy+Qc3civ6G4svJ5E=
+=8ja7
 -----END PGP SIGNATURE-----

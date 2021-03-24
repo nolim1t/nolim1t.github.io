@@ -21,6 +21,9 @@ I am the owner of the following profiles:
 Matrix
 @nolim1t:matrix.org
 
+Sphinx Chat
+02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f
+
 Mastodon
 https://bitcoinhackers.org/@nolim1t (Main)
 https://bitcoinersagainst.boats/@nolim1t (Backup)
