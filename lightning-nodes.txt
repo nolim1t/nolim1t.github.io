@@ -1,0 +1,38 @@
+---
+layout: null
+permalink: /lightning-nodes.txt
+---
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+I am the owner of the following lightning nodes:
+
+02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f (Sphinx Enabled)
+027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581 
+03f1b1b79212e5918177f357e8db1eb60f163d7140bcd818444e2dae75884dd3e0
+
+PGP Keys you may use
+https://nolim1t.co/key/pgpkey.asc.txt
+http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion/key/pgpkey.asc.txt
+
+Today is 2021-03-24
+
+The current best bitcoin block hash:
+00000000000000000006da49fa711844f96566d99f28ea6afdbd3b0fa7b5be0f (Block: 675928)
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmBa/W8ACgkQ9ih7gsyE
+vL04aRAAwnwQdHgYgUBdJ+WHjHG0Zr5fxFaMdThvT3G4lpdz+KXaMRuv6wxbBIdE
+PWg8vvgJ+SLzG17cRjP8NJQoRbOCIZJQxrBGsqCDcKlyEww4u3F6M0wH9wpaMMln
+Cyppt69YCrh+4PsZ+1EcJFT/FXZOnboJ8GPKeGA4fL6/XvG6ij9IeWhPluHXm/8l
+roacmX0syPRb19Qc7TW2zk4DlvVG01ix1Qmw057rvkIOgY+CoE7H+X8Hxjcjpit/
+ASv+96v9QovAZLvkogC7+dHPp+/eOBmgvMuj0QvgCjolkPZSvmO6x2F6y1T2mLdd
+3jlR5zKjzJWi33F6gFBfBuS4hGWNfr5u5MCBWnXOmoMYSuXqVPT1rcpXtPc8WHPo
+y38MwpAGWRyMf7nt4FheMyDrqa3LRAOKQvoZSF/1bmNBfpZKLAq5Hu/T9WfDASN4
+KJoWXr2z7AVWy5M6amFPJlRjcu3NZ/bHNqzNq9B0SXfIy+p/UkoLCVZj/xtsB0ew
+VtrBs88zvsPpjlx15QKZ/GWSb+FiH29TjX1tjMP224SRe6aXtf/fhFv454cFa0FT
+c4Eh/9Ug5lQSj2IPPW4G6ZzIQOfsylOfAhTYB7MUSeWOYnNGwrVeuzv6pCd3TSTk
+BTr5UeHH18LSESu8aV1S5qQ+kFr9BoxskJKrFQlxuFnxicBOtZw=
+=xPLE
+-----END PGP SIGNATURE-----

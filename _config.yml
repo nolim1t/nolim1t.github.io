@@ -5,7 +5,7 @@ title: "nolim1t.co :: thoughts become things"
 description: "nolim1t.co is a tech blog about code and sometimes notable conferences that I'm following or attending"
 url: "http://www.nolim1t.co"
 author: "@nolim1t"
-exclude: ["socialmedia.sh", "canary.sh", "generate.sh", "README.md", "LICENSE", ".git", "Gemfile", "Rakefile", "Gemfile.lock"]
+exclude: ["lightning-nodes.sh", "socialmedia.sh", "canary.sh", "generate.sh", "README.md", "LICENSE", ".git", "Gemfile", "Rakefile", "Gemfile.lock"]
 gems:
   - jekyll-paginate
   - jekyll-feed
