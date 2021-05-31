@@ -21,9 +21,9 @@ Matrix
 
 My device keys are as follows:
 
-Mac Brave Browser:
-Session ID: OOPYKODQSM
-Session key:    7PSm a8Me aTUc 9y4Q p5Dw v8ZL EWKr v8i4 Wh5z 1weH TsU
+Mac Client
+Session ID: HVITNQHIAC
+Session key:    9W5O EEzt V9a1 pVzE 0Dk+ 5LSJ DUN9 bW3S R9qS 7rDb kxc
 
 Phone (Main):
 Session ID:YRCIRYLPIN
