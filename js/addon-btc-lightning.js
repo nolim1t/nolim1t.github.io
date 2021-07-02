@@ -288,7 +288,14 @@ var lnapp = new Vue({
             this.lndinvoice = response.data['lnd_payment_request'];
             this.pollCount = 1;
             this.paid = false;
-            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following Mainnet ⚡️ lightning Invoice (or if you do not use lightning yet, try <a href="' + traditionalPaymentURL + '" target="newwin">this link</a> for bitcoin or other crypto. Link opens in new window):</strong><span id="waitresults"></span><br />' + this.generateQRCode(response.data['lnd_payment_request']) + '<br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div><div id="reference">If you wish to manually check the payment status, quote payment reference <strong>' + receiptId + '</strong> to the admin</div>';
+            // response.data['lnd_payment_request']
+            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following Mainnet ⚡️ lightning Invoice (or if you do not use lightning yet, try <a href="' + traditionalPaymentURL + '" target="newwin">this link</a> for bitcoin or other crypto. Link opens in new window):</strong><span id="waitresults"></span><br /><canvas id="qrcode-canvas"></canvas><br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div><div id="reference">If you wish to manually check the payment status, quote payment reference <strong>' + receiptId + '</strong> to the admin</div>';
+            // Draw canvas (replace this.generateQRCode() with local QR libraries)
+            const canvas = document.getElementById("qrcode-canvas");
+            var QRC = qrcodegen.QrCode;
+            var qr0 = QRC.encodeText(response.data['lnd_payment_request'], QRC.Ecc.HIGH);
+            qr0.drawCanvas(parseInt((response.data['lnd_payment_request'].toString()).length/60), 0, canvas);
+            // End draw canvas
             this.pollWaitDiv = document.getElementById('waitresults');
             this.intervalId = setInterval(function () {
               console.log("Poll Job ID: " + this.intervalId.toString());
