@@ -26,29 +26,27 @@ https://t.me/nolim1tcoblog (Read only)
 
 Web (Curated)
 https://nolim1t.co 
-http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion
 
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
-http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion/key/pgpkey.asc.txt
 
-Today is 2021-03-24
+Today is 2021-07-15
 
 The current best bitcoin block hash:
-00000000000000000008ca96881e3ee85800f45d90cdf797fe688b2e8e72a902 (Block: 676028)
+0000000000000000000c47746e6cc0b811169be0aad845d4e0c7a2f85c1aed68 (Block: 691107)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmBar0YACgkQ9ih7gsyE
-vL2xhhAAh4P1kX9/AoXkDFEsQCtueg5I66UpzLP4GBiXg0oZoQhL02wEs1WnBv+M
-pEGMphzrber0LgPhDE10yhjmAOJ+4RwQDGTQQg/9HrM38gKe3la96o1HwUxfsaE4
-m/Ljt91MMa1Nf87S4PUs7K9oOGFogMrPWju3033U9LvxDLlZFmmsv8dKODmocoUt
-4iUbsFx5nJUMGqNjSHliH97D6VrRAFW+9wRZmpEELKSzuNbSByWb4Scs1HcmKxZ/
-qJTHMOqVZGh8jT4eTp5m+ifK/o2lcpt0fG7/x0XnL+0Um5D2mYtvbcJfalsTjAlk
-mTb4y04JSY8yKNxTt2o1603WIHP/khwuNP7HjO136a/FFscFLhfDGRgvG40ZD73t
-zLdQyNMlJBt6SlTEgEFHGhdBNTlKVXloiANlJMYzfLfhcc+WFwaHbb15Vrms1+k3
-E3vVonldPjUUTnoVT6GtVrHKpYQzAaCwSwRYYKvQppYkv/qWbs8dZTD8r1B+yx+x
-lAtfiKsl2rywUo5V1Mte/P5IQB0mLJs9TcNkXjLJeJH7yYnGzzku1GXeZqAPxKm5
-webangGRAsl9PWSqP5AHD/nrJR9XzIEfZkxPyx/PAWemxwqrgqA6tsqQGFcrSHSX
-JNw57MjutJwcKWfzMrxLQ56U0KcnqVl57ozy+Qc3civ6G4svJ5E=
-=8ja7
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmDv6LwACgkQ9ih7gsyE
+vL1kPg//WcGFx2Pm2aRi2jFYAtvvGpsp0DUZl77+oYNsou4JNV4LFQeNAX05zghZ
+y67/Ii4ASLAfW9e7c/r5SRmdpOXLvkmltPYEpUvqA2oQ+EEZlc+bxIiMBZOuEl+G
+OltEkxonX86Zj2c9/URipDxnKhI0BPMmn7h0Xt92gO7H+QNd4tsqtDR5Urjajc6h
+20f+oCxOStL1XdgWrr38RA8KTHINHiZNDCRJtPW9jqHvkSfhZ2W07JsHEcAf/OU2
+AGpbVwqg+sCQwgexYpbW9KQ95Hhas7jgVjt1JFdCo7wOYGSNI5UlnPJcFUlofc/p
+WE3ZHYHbSAhZTo4Y8iGCm4Sf28DW7NOMsAIAYn0oY3DsHWbhp1M7QGO6W1YWM8Zf
+Ym6V3PGNjt2rD6JqQXQfMdqi7Xn9aQgwVGAJ9gNjiD/ZQTAio+gpKjO34fjQ6jdJ
+XqkdL3eOS10CQ2FLElkmdu3Tz+PLgz5qf56x43O1Y3PF5OUHitRW+kMICT1GeRd6
+IodnWWTofCXOmujI6HlHdvB6oTtTAvQw66krAYwdVQNnx7Jhu4NIlHEDoouXNWXY
+i1tq5/qMoixm6OBVJt7BrQgiCtiOOwT9jKNbaNaYVE85m7FuwnX5Cecpxe5ZDRvR
+lEl6x2iCMX84iH8A4VryPqArn5WUkjfsVHfImZbRMnTGknT02aw=
+=V93/
 -----END PGP SIGNATURE-----
