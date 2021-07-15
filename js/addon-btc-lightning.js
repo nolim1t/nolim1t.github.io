@@ -364,7 +364,7 @@ var lnapp = new Vue({
           if (callback['IsPaid'] == true) {
             this.paid = callback.IsPaid;
             if (document.getElementById('waitresults') !== undefined && document.getElementById('waitresults') !== null) document.getElementById('waitresults').innerHTML = '';
-            if (document.getElementById('result') !== undefined && document.getElementById('result') !== null) document.getElementById('result').innerHTML = 'Thank you for your ⚡️ payment! ✅.<br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. ';
+            if (document.getElementById('result') !== undefined && document.getElementById('result') !== null) document.getElementById('result').innerHTML = 'Thank you for your ⚡️ payment! ✅. Click <a href="#" onClick="window.location =  document.URL;">here</a> to return back<br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. ';
             console.log('Paid! Attempt to stop polling');
             clearInterval(this.intervalId);
           }
