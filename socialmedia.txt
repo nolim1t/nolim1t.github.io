@@ -14,6 +14,14 @@ Matrix
 Sphinx Chat
 02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f
 
+Sphinx Chat from app
+sphinx.chat://?action=tribe&uuid=YFob7x9I7N5sRGYvlUuKx4WLzIF3x_hCARenwi4-DUCgKF7ASn_vREZFSHHJWQPUrjdE2dNj-wDc7Qw_LZCpQ2j0ogB9&host=tribes.sphinx.chat
+
+
+
+Minds
+https://www.minds.com/nolim1t/
+
 Mastodon
 https://bitcoinhackers.org/@nolim1t (Main)
 https://bitcoinersagainst.boats/@nolim1t (Backup)
@@ -22,7 +30,7 @@ Twitter
 https://twitter.com/nolim1t
 
 Telegram
-https://t.me/nolim1tcoblog (Read only)
+https://t.me/nolim1tcoblog (Read only with commenting)
 
 Web (Curated)
 https://nolim1t.co 
@@ -36,17 +44,17 @@ The current best bitcoin block hash:
 0000000000000000000ed294f39652eeb47e0ae292291ba26770aec6e931d444 (Block: 692247)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmD6R54ACgkQ9ih7gsyE
-vL02qBAAoBPBDAcJQkN2hUgn25cEECfsc+0hbZoS22cLAh6NBTlZqJaZXeIS70Fi
-LJR+SOeH/feUahuqmHKwv2uFhBPQHx0d2iqj9v6c+KLq0oVRtx/SyGKdfzJJ2Zwt
-yWQYPai9sH4P4hEKj+qVp9OodzCtVi0eEIw9nNeLAL20rSqSex0CPilA8EDogYnG
-XGOk36OUhDYfhvOluip+BL9CNKyjDtRHrvDUvSOuV82wiCV9ip03kIBPqS8sBQhW
-SSycFrCx/PkzmqAkpkGQxSpSXk7yn5u3+34eqcBdabdyKCF0jgmOWg/wT49r96Mz
-o4axMCmhpMaiN4j85Jmiy9kenSBZvM5YeaOSZ8MIC7ZG4rLCY5rLJ1kCGOA6tzCk
-Ou5ZOBFWJeKhaqRxQA7Urm/3+u74uERZA/cwaw8PXunQ3RJTcyrvxbEogRexlE/E
-f7mN5dUbpxjEVUpM/D6PHyf62lHhmHoH2FquhBxEuLq3CEH8vBPMeLZuwlFNiwYF
-HSK6SkJG22mYTg0T/1yRIcXb+gZYs/H3+V7bXmyXPsTBMUbXP3f9AZ9hTPkuTwx+
-uUEC1hcKyDuY2NHHhx/r+keWfFUbNIOUKJ0OcOE2dtLi7922+Sg8hZ5cxBvepDTG
-u4E5MZf0wyvfiS7/RMWhomC5XgOmXKVyKf4P+V1m3lhSvrTfFow=
-=u+l4
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmD6SF0ACgkQ9ih7gsyE
+vL24xg/8Ddx94qFuF3/32K/KpGpMV7yFsl4KKHVSL254AlWJU+gWJaOEa9bpZ3FV
+HTq2ZZUdhJo7RbqdN3LInKjucOIoA1bhZDGroNaZVVgNVuLjhJv+0tf1+KJqXToA
+0YXub/BwftUw/SdABY8ecvKiOmeTwytI4ellkBQxRpAllgUcG+xGxRn6hwIb06nt
+ghn64ivfmohcq7fXdDkzR7MItsXVE45JLDZuXOkbBaJ5CLMG23Cf9RJtuN0UOkU1
+29fdqTzKHFwaC4vNfVVVr3oOsWdKK7HLNUIHrgDqwDWf65sfcZaWVhpGmMKUrmvq
+l6UBMLK5Bn2J+b6dQARdPQbRjpGFLhKjOsPE+Nby+oDUDVN7OKqOdxKVj4EC8Fiv
+RSe1tt15xyhF8H+nw1fYCBBkrI2OoWvvU95gKwBquMQ5sPt0FoAFa9FEV62o04bT
+MiupI43X6VZoqpcei7/q3712VKvNCMbXOAm1n5taoNbY62nSNf+Ibv0gvJZ4Chzr
+vw/P5IsFR7S/dJxBZK4xtBy627WJ33PV8Tn5iLQzurDlwzcqRpiZbes/kE7qnjGF
+BRNd6gZdqKSxO2KkQIDdme6rwBTRGfmsvcmTP8JtQavLPemdMenhRExqtwQpJmKH
+xUswvZKra3vWtT5kzNsL9n0wWHW7zuiTNIpmT4AvWlrAwfQykvA=
+=6qZ9
 -----END PGP SIGNATURE-----
