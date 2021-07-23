@@ -33,6 +33,9 @@ Firefox Linux
 Session ID: CIOUFWHAHZ
 Session Key: ztja gzSi ynLj 5Fdt kW3L fFBV Ny9L gzpt 25jt IBWu zfg
 
+Android Client
+Session Id: UUCZTIOVWQ
+Session key: AjaW kKtB UGG5 FIiZ jry8 OR8t xaVo XqfY elOM t2A3 SMk
 
 Today is ${DATE}
 

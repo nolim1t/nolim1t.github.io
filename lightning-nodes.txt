@@ -16,23 +16,23 @@ PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
 http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion/key/pgpkey.asc.txt
 
-Today is 2021-03-24
+Today is 2021-07-23
 
 The current best bitcoin block hash:
-00000000000000000006da49fa711844f96566d99f28ea6afdbd3b0fa7b5be0f (Block: 675928)
+000000000000000000118b714685e8c26990b7b4f7b441daec671df880d4f282 (Block: 692273)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmBa/W8ACgkQ9ih7gsyE
-vL04aRAAwnwQdHgYgUBdJ+WHjHG0Zr5fxFaMdThvT3G4lpdz+KXaMRuv6wxbBIdE
-PWg8vvgJ+SLzG17cRjP8NJQoRbOCIZJQxrBGsqCDcKlyEww4u3F6M0wH9wpaMMln
-Cyppt69YCrh+4PsZ+1EcJFT/FXZOnboJ8GPKeGA4fL6/XvG6ij9IeWhPluHXm/8l
-roacmX0syPRb19Qc7TW2zk4DlvVG01ix1Qmw057rvkIOgY+CoE7H+X8Hxjcjpit/
-ASv+96v9QovAZLvkogC7+dHPp+/eOBmgvMuj0QvgCjolkPZSvmO6x2F6y1T2mLdd
-3jlR5zKjzJWi33F6gFBfBuS4hGWNfr5u5MCBWnXOmoMYSuXqVPT1rcpXtPc8WHPo
-y38MwpAGWRyMf7nt4FheMyDrqa3LRAOKQvoZSF/1bmNBfpZKLAq5Hu/T9WfDASN4
-KJoWXr2z7AVWy5M6amFPJlRjcu3NZ/bHNqzNq9B0SXfIy+p/UkoLCVZj/xtsB0ew
-VtrBs88zvsPpjlx15QKZ/GWSb+FiH29TjX1tjMP224SRe6aXtf/fhFv454cFa0FT
-c4Eh/9Ug5lQSj2IPPW4G6ZzIQOfsylOfAhTYB7MUSeWOYnNGwrVeuzv6pCd3TSTk
-BTr5UeHH18LSESu8aV1S5qQ+kFr9BoxskJKrFQlxuFnxicBOtZw=
-=xPLE
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmD6pWsACgkQ9ih7gsyE
+vL36ThAApM8bVpeEC9X65Zfituue009rBYwea3ehJfTfirwC4PQQEifiKuYsWDhl
+Zutnt5yxKKQh3tS3DHiz6HCFpCuGkv/8CmdAqe++BtAPRLScctWuiXUqXanI231J
+XaIsNAlqvixj42EkRwjULD0A7B9x5hFieJOn8e4TasJDmHsBdD2ItkphZrBHG0Sc
+oQvODP8TFaDocg9utI4qCfEL6CkL8jKx6xFRuYN9HIWstv7jKCqyJ3fUwipLIs/R
+5kjAoYSBiL/BGDM6chw/mcT37AEamYRr/lZhMyM2WKz7uO2LosSgm0uEuooTlqJx
+2GfDi5/J7xRFkofohzo8JpbhBUN7wf8atmFxFjoLi2bCeowyNMB/6V6j3gHiqOB9
+qkklFIpjy6G6QrW8vUJ11O9H57QpTBDFcovYi/QFSR/5+n7vCLfXXBont/hr4qxA
+4S1f64yPotTlvj5/QTCwhg4mgUgApNeGeiPmC0rZdHbzwyttBSz8rjfnbDl6UKrK
+PwGHT3yKJk6ZcYXQ2+X/cxqm/UqBpXfSi4vLx1PVrrbN4e1ai/HAQsTfcLXLug+l
+3tSLUM0uUZREUATsplfrC3oI8DPk3gzXzPslcn/Rb5g2u7clVd0rOGtW/BAuH7yr
+nQh0jlKB4fZLkhsDfEgA5lCPlErOOFOpLHsMdv86lNIva8fysPg=
+=6NMZ
 -----END PGP SIGNATURE-----
