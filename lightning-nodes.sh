@@ -20,11 +20,9 @@ I am the owner of the following lightning nodes:
 
 02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f (Sphinx Enabled)
 027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581 
-03f1b1b79212e5918177f357e8db1eb60f163d7140bcd818444e2dae75884dd3e0
 
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
-http://nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion/key/pgpkey.asc.txt
 
 Today is ${DATE}
 
