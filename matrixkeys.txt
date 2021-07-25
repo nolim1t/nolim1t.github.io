@@ -15,10 +15,6 @@ Mac Client
 Session ID: HVITNQHIAC
 Session key:    9W5O EEzt V9a1 pVzE 0Dk+ 5LSJ DUN9 bW3S R9qS 7rDb kxc
 
-Phone (Main):
-Session ID:YRCIRYLPIN
-Session Key: 7K3C acQk reZF mlJ9 bOp7 DvZx kcE+ uLYN zhru cIP5 5Ho
-
 Firefox Linux
 Session ID: CIOUFWHAHZ
 Session Key: ztja gzSi ynLj 5Fdt kW3L fFBV Ny9L gzpt 25jt IBWu zfg
@@ -27,23 +23,23 @@ Android Client
 Session Id: UUCZTIOVWQ
 Session key: AjaW kKtB UGG5 FIiZ jry8 OR8t xaVo XqfY elOM t2A3 SMk
 
-Today is 2021-07-23
+Today is 2021-07-25
 
 The current best bitcoin block hash:
-000000000000000000118b714685e8c26990b7b4f7b441daec671df880d4f282 (Block: 692273)
+0000000000000000000638efa55602aec68e5c3b3738cf0fc2ec81bbe8f22e5f (Block: 692543)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmD6pk0ACgkQ9ih7gsyE
-vL0paA/+Om7tJnI7BVVU9WldPHA+f6jFLZUIqMaAjV8ros3EBYzQgCme6g2In8dJ
-aIiFqumSzNwbXegF2Zy2Hzywiu/y5jsg+nvmSebXnEttU3crl6Lz6anDwcaKrhbG
-sVfhIYsC1amg1zq1/DYD9SBkHmvgV8QzCBG/gNiUasAJXPlH9Xg+9+f/nQ0AMRzT
-hKefwwdKcla7IRoRQaSbznE4RHaj9cfow2A7w8VuuH8/nVfcTWqIVh1LJAwUAECS
-sbQQi3wAvZes0PVS0AplNTpEMCzvlrmMdTxpgHU2/KLBS8A57MLg1NXaCjKZmsH/
-hGW32l+3cxYtPmjF+3wbXxKMnJZZIxOA//wJHQMwuxFYODT41XRA6zd3MdiFqWT0
-Pe5fkLXuxiRAXB2HGiy9MB/egp5E2m0LS5GTOg2hXWQg/w3LJyz8eO3n+bHczZHE
-Oa6TQYxcZnwYxsob7Pwi7vNcGziA6uJnxcJUIDSu+ZWLWpe5Uj5j8NvK8fea8yaV
-+e1hhZUFw550dRunPZAKzg2fVb1KQyKsFGjXJxOQHBMRuptVdASfichl28yRap+/
-rbfRriplV3eYdqrm9cFSiF6TD4g6J/QROGv6Hkh+xQsRvzHLoxxiShlGV2w2+3LH
-j4LEURkI5VTCWOr6AZgwBcOdQYUZwlj8SMzKR5yZkhsIzBXN8PE=
-=eBIv
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmD87V4ACgkQ9ih7gsyE
+vL1I4g/8DmvSseX8SfZSHMwVc9KDLTu5fnC01Kv5f83zbrHc8iTPmNVmG+8Sbuwt
+HsdkZaJ8GBmOKJFyVA3LUfdqdvytzAekdLqaXjpccQhhWS8NMQxyZS7j9ok7W/5g
+hrubIOCy1f0vfpBGYwjhc4Ye5JM9DnqFcL6p60Dm8irsKeX3hGlfM3XKyyWEUqOV
+VgxJIAYdoSloAwT2wXnotBkIf225fm2lThhZ7xA/4YP4Ok+RBOxwsziuTtAHpXhT
+cd9ljUrnAXVn3N9V3/mZK4FY+MsisgapMKsIhEXp5m+wZaBD/EiwAlY7H0a4sCPo
+omwU37AJ2H+kn5NYvIfpzRJQZ5BYJVjrgOeyXuBXI2mDAdxi8o6qqeZ9R7T5Qx/k
+mVcMzFIvJGydz9UTrv2NlITtgNNrsbGVAqVxxFmaHbw2qaed0cqziQLi3T4i+NU7
+Cm0sCqKyupbYmnoYJEVSYJii+jxkZeaAAOBuHurvujG39ODUe9RdRjwVJq81JcmK
+faRChYqLM1jB8tdEi1jHGgjucCnqoQr3JRJSnyw3+/oZzLZ5FkOdx9KXZmen+7IV
+BcbCcmW12sgOTDMbw5EUzdNpN5OcQpkY5zbDAgSfrN5HE5/yL2oYYlpeUGr2VxN5
+dME2IkV8df6o/SU+ADWDq8M6ddZXJM5YWwA/WGFGvBRO14ulNCg=
+=fy4r
 -----END PGP SIGNATURE-----
