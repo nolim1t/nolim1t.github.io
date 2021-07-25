@@ -21,6 +21,11 @@ Matrix
 
 My device keys are as follows:
 
+Mobile Client
+Session ID: GPOXMNETXX
+Session key:
+7qWl SvVB XrXF 1Xz6 9nAC g7Rx NyPm 2Ln9 mBKr qtoB WUQ
+
 Mac Client
 Session ID: HVITNQHIAC
 Session key:    9W5O EEzt V9a1 pVzE 0Dk+ 5LSJ DUN9 bW3S R9qS 7rDb kxc
