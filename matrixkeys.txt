@@ -6,45 +6,42 @@ permalink: /matrixkeys.txt
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Matrix
-@nolim1t:matrix.org
-
 My device keys are as follows:
 
-Mobile Client
+Mobile Client (@nolim1t:matrix.org)
 Session ID: GPOXMNETXX
 Session key:
 7qWl SvVB XrXF 1Xz6 9nAC g7Rx NyPm 2Ln9 mBKr qtoB WUQ
 
-Mac Client
+Mac Client (@nolim1t:matrix.org)
 Session ID: HVITNQHIAC
 Session key:    9W5O EEzt V9a1 pVzE 0Dk+ 5LSJ DUN9 bW3S R9qS 7rDb kxc
 
-Firefox Linux
+Firefox Linux (@nolim1t:matrix.org)
 Session ID: CIOUFWHAHZ
 Session Key: ztja gzSi ynLj 5Fdt kW3L fFBV Ny9L gzpt 25jt IBWu zfg
 
-Android Client
+Android Client (@nolim1t:matrix.org)
 Session Id: UUCZTIOVWQ
 Session key: AjaW kKtB UGG5 FIiZ jry8 OR8t xaVo XqfY elOM t2A3 SMk
 
-Today is 2021-07-25
+Today is 2021-07-27
 
 The current best bitcoin block hash:
-0000000000000000000bd3d418e3448a7077aee96f74c33c9b97615bb6f400c0 (Block: 692561)
+000000000000000000045a528beb7da37dc57be498f81146fbe5bbb0cfe077c4 (Block: 692880)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmD9DKUACgkQ9ih7gsyE
-vL1fpw/+MN5qxcQQ0ywGjxV7SsmtP1LvVjAxpCG4BsSgqBn0W8L892h19J5t0PKb
-m/GZNGa7nJPklERjpGPl7L5nUiGYmLLsAlfmzWfn7tTAWrMlr1effktEafNTDxnV
-z5y4uMflxG6c8advIJ4FG8KJfwH2pID5fhWNKsG9sOErXOvlv+2WwC07Isj+15g5
-9L0RDD7BAuVgpTZ+KuoddmhPO9DyHeIQghaTbQsUQvA9EnMGKt769M6kNk9l9BOk
-OgYgi+IAjTii5043vt/+EgR6wMSKNqYvmsKDN82JPCMuLk4+l0Sp4x+byzjYwEaC
-04ZmbwlbIvFbW0PtNW9c4VIWQG/4bcU7K/xuEuTAcmBj3JnH+bizMCqgYUXWGP1t
-/wCqaM+7nEZp9e1FMvadaYjj7RykPwBOkZ/Ghs4iy6CAsVxjmicl39D+p6OHhEEw
-mYtYPvjBOEbZjdNQw6xkNU4b2IKWNYEZorw+5WtqH37tZTVi0c+7Xy7mCK9HwUp/
-yS/iqdl/xg6LCk1WQuLF4ojDdgf8ZJf3eK+6LA8tfBHyTRG4Zrw/nGUNHbQQ6QDj
-SHBIWxHBb9ya/ehYWFX/+u+dryMNeqReiCOd6DA8OrqBJJJ2Q+Amxr5EI1Eksvg3
-/TYKsvd5rRWW2FHeYsakaDdI6bXd5ZgKqWqPBZVEN+je/awNKZM=
-=Or9W
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmD/07QACgkQ9ih7gsyE
+vL0hcw/+LXqp/qSRWfXTLr91CH7jUzTfrDU7AFB6nlZfr7UyJ8+BpF6TnIzmdZvp
+8nqGNa1zTS8gWQH4jwCq/DTZ3PCryuub4TwJTCFk4lT5RLchv+QHjsHgmmLfp3oQ
+l2SmCjUSyHBHs4jSIw5lLXG8R3LcQTmTEAOGPHEIFH20No0zslVXkMQIKbmgmwdk
+wutWQujEt83tsLMjz+mTt0b5aBi6alL1hdhT5KjnpIgcmZFz0NHY24dmNYMJOXAf
+D0FJvVbVboZn6UBLKR0pRurpjNtihwtPTU2zmUWFHuwMyCsAJyk8RLnxm3N1W3p0
+Yk+HWlnoLAvuz/wAlNffNuBvYa52NEVRPeFv23h0OgY2htvuY93c1hv3g6KRrNSl
+eGqtzp0YdQPDkb2VvL4NOOsE1R4uZ4RfW+CrjPSxjABnuMgdsvaTVkd1MG+ahqs9
+VO/7/LZ9Nnp2p/dTbKiZAlOjwIDnHznPKLbDb9cpskDyhQOBaIJrL+Hn78pQpIEo
+MuLKtErZXAfe2PQFtoT7kLwGI2g4+EEcC8h/r8RD0xklPgbxeTjkgCwj3g1Prtnq
+5o00OYabRl8ZXBtqD7q5ZzEOX0MZ4q4YqDzxP2s4K7oluK9gHXAMFHVfRi1mJhBj
+e0OechsbUrxHnulLwLmvC3zN5cvZsWtS5TVDDhL/eizZ84fjTkU=
+=7vDC
 -----END PGP SIGNATURE-----
