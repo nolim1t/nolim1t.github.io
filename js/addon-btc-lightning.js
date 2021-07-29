@@ -206,9 +206,19 @@ var lnapp = new Vue({
           // by default
           invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
         }
-        // LNNodePorts[whichLNDNode]
-        var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
-        //var url = base_url + "?showInvoice=true&useLNCNXNode=true&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        // if theres a hostname set
+        if (document.getElementById("invoicerhost") !== undefined && document.getElementById("invoicerhost") !== null) {
+          if (document.getElementById("invoicerhost").value !== undefined && document.getElementById("invoicerhost").value !== null) {
+            // Invoicer host (use invoicer host instead of LNCNXNodeHost)
+            var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + document.getElementById("invoicerhost").value.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+          } else {
+            // value not set (normal flow)
+            var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+          }
+        } else {
+          // value not set (normal flow)
+          var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+        }
 
         // If theres a fiatcode specified then set it
         if (document.getElementById("fiatcode") !== undefined && document.getElementById("fiatcode") !== null) {
