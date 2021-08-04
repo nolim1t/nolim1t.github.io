@@ -43,8 +43,8 @@ const check_btc_rates = (callback) => {
   });
 };
 
-const check_charge_id = (chargeId, callback) => {
-  axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&LNCNXNodeHost=' + LNCNXNodeHost.toString() + '&LNCNXNodePort=' + LNNodePort.toString() + '&chargeId=' + chargeId).then((response) => {
+const check_charge_id = (chargeId, hostname="ln-vps.nolim1t.co", callback) => {
+  axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&LNCNXNodeHost=' + hostname.toString() + '&LNCNXNodePort=' + LNNodePort.toString() + '&chargeId=' + chargeId).then((response) => {
   //axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&chargeId=' + chargeId).then((response) => {
     if (response.data['response'] !== undefined) {
       if (response.data['response']['paid'] !== undefined) {
@@ -211,13 +211,16 @@ var lnapp = new Vue({
           if (document.getElementById("invoicerhost").value !== undefined && document.getElementById("invoicerhost").value !== null) {
             // Invoicer host (use invoicer host instead of LNCNXNodeHost)
             var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + document.getElementById("invoicerhost").value.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+            var invoicerhost = getElementById("invoicerhost").value;
           } else {
             // value not set (normal flow)
             var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+            var invoicerhost = LNCNXNodeHost.toString();
           }
         } else {
           // value not set (normal flow)
           var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
+          var invoicerhost = LNCNXNodeHost.toString();
         }
 
         // If theres a fiatcode specified then set it
@@ -311,12 +314,12 @@ var lnapp = new Vue({
               console.log("Poll Job ID: " + this.intervalId.toString());
               if (this.pollCount >= this.maxpollIntervals || this.paid === true) {
                 console.log("Cancel all waiting"); // If waiting timed out
-                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Click <a onClick="document.getElementById(\'manualcheckstatus\').innerHTML = \'. Checking status...\'; check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ <br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. \'; } else { console.log(\'Still not paid. \'); document.getElementById(\'manualcheckstatus\').innerHTML = \'. Not Paid\'; } }); ">here</a> to manually check payment<span id="manualcheckstatus"></span>)';
+                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Click <a onClick="document.getElementById(\'manualcheckstatus\').innerHTML = \'. Checking status...\'; check_charge_id(\'' + this.chargeId + '\', \'' + invoicerhost + '\' (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ <br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. \'; } else { console.log(\'Still not paid. \'); document.getElementById(\'manualcheckstatus\').innerHTML = \'. Not Paid\'; } }); ">here</a> to manually check payment<span id="manualcheckstatus"></span>)';
                 clearInterval(this.intervalId);
               } else {
                 if (document.getElementById('waitresults')!== undefined && document.getElementById('waitresults') !== null) {
                   document.getElementById('waitresults').innerHTML = ' (Waiting for payment... )';
-                  this.pollPayment(this.chargeId)
+                  this.pollPayment(this.chargeId, hostname)
                 } else { // Safety Stop
                   console.log("No longer polling because  'pollWaitDiv' element is no longer appearing");
                   clearInterval(this.intervalId);
@@ -365,12 +368,12 @@ var lnapp = new Vue({
     },
     generateLNDTextArea: generateLNDTextArea,
     generateQRCode: generateQRCode,
-    pollPayment: function (chargeId) {
+    pollPayment: function (chargeId, hostname="ln-vps.nolim1t.co") {
       console.log("Before running pollPayment: " + this.paid.toString());
       if (this.pollCount < this.maxpollIntervals || this.paid === true) { // Either max poll or paid
         console.log("checking for payments... (ID: " + this.intervalId.toString() + ")");
         this.pollCount += 1;
-        check_charge_id(chargeId, function(callback) {
+        check_charge_id(chargeId, hostname, function(callback) {
           if (callback['IsPaid'] == true) {
             this.paid = callback.IsPaid;
             if (document.getElementById('waitresults') !== undefined && document.getElementById('waitresults') !== null) document.getElementById('waitresults').innerHTML = '';
@@ -380,14 +383,28 @@ var lnapp = new Vue({
           }
         });
       } else { // If poll payment still runs and paid true (this block probably doesnt get executed)
-        if (this.pollWaitDiv !== undefined) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Please click <a onClick="document.getElementById(\'manualcheckstatus\').innerHTML = \'. Checking status...\'; check_charge_id(\'' + this.chargeId + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅<br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. \'; } else { console.log(\'Still not paid. \'); } }); document.getElementById(\'manualcheckstatus\').innerHTML = \'. Not Paid\'; ">here</a> to manually check payments <span id="manualcheckstatus"></span>)';
+        if (this.pollWaitDiv !== undefined) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Please click <a onClick="document.getElementById(\'manualcheckstatus\').innerHTML = \'. Checking status...\'; check_charge_id(\'' + this.chargeId + '\', \'' + hostname + '\', (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅<br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. \'; } else { console.log(\'Still not paid. \'); } }); document.getElementById(\'manualcheckstatus\').innerHTML = \'. Not Paid\'; ">here</a> to manually check payments <span id="manualcheckstatus"></span>)';
         console.log("No longer polling because paid");
       }
     },
     checkreceipt: function() {
+      // if theres a hostname set
+      if (document.getElementById("invoicerhost") !== undefined && document.getElementById("invoicerhost") !== null) {
+        if (document.getElementById("invoicerhost").value !== undefined && document.getElementById("invoicerhost").value !== null) {
+          // Invoicer host (use invoicer host instead of LNCNXNodeHost)
+          var invoicerhost = getElementById("invoicerhost").value;
+        } else {
+          // value not set (normal flow)
+          var invoicerhost = LNCNXNodeHost.toString();
+        }
+      } else {
+        // value not set (normal flow)
+        var invoicerhost = LNCNXNodeHost.toString();
+      }
+
       if (document.getElementById('receiptresult') !== undefined && document.getElementById('receiptresult') !== null && document.getElementById('receiptrefinput') !== undefined && document.getElementById('receiptrefinput') !== null) {
         if (document.getElementById('receiptrefinput').value !== undefined && document.getElementById('receiptrefinput').value !== null && document.getElementById('receiptrefinput').value !== '') {
-          check_charge_id(document.getElementById('receiptrefinput').value.toString(), function(callback) {
+          check_charge_id(document.getElementById('receiptrefinput').value.toString(), invoicerhost, function(callback) {
             var friendlyPaymentStatus = 'Not Paid';
             if (callback.IsPaid === true) friendlyPaymentStatus = 'Paid';
 
