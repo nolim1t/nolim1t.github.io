@@ -212,8 +212,8 @@ var lnapp = new Vue({
           if (document.getElementById("invoicerhost").value !== undefined && document.getElementById("invoicerhost").value !== null) {
             // Invoicer host (use invoicer host instead of LNCNXNodeHost)
             var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + document.getElementById("invoicerhost").value.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
-            var invoicerhost = getElementById("invoicerhost").value;
-            this.hostname = getElementById("invoicerhost").value;
+            var invoicerhost = document.getElementById("invoicerhost").value;
+            this.hostname = document.getElementById("invoicerhost").value;
           } else {
             // value not set (normal flow)
             var url = base_url + "?showInvoice=true&useLNCNXNode=true&LNCNXNodeHost=" + LNCNXNodeHost.toString() + "&LNCNXNodePort=" + LNNodePort.toString() + "&invoiceAmount=" + this.amount.toString() + "&invoiceDescription=" + encodeURIComponent(invoiceDescriptionToGenerate);
@@ -394,8 +394,8 @@ var lnapp = new Vue({
       if (document.getElementById("invoicerhost") !== undefined && document.getElementById("invoicerhost") !== null) {
         if (document.getElementById("invoicerhost").value !== undefined && document.getElementById("invoicerhost").value !== null) {
           // Invoicer host (use invoicer host instead of LNCNXNodeHost)
-          var invoicerhost = getElementById("invoicerhost").value;
-          this.hostname = getElementById("invoicerhost").value;
+          var invoicerhost = document.getElementById("invoicerhost").value;
+          this.hostname = document.getElementById("invoicerhost").value;
         } else {
           // value not set (normal flow)
           var invoicerhost = LNCNXNodeHost.toString();
