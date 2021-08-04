@@ -35,6 +35,15 @@ Android Client (@nolim1t:matrix.org)
 Session Id: UUCZTIOVWQ
 Session key: AjaW kKtB UGG5 FIiZ jry8 OR8t xaVo XqfY elOM t2A3 SMk
 
+iOS Client (@nolim1t:converser.eu)
+Session ID: QAPFYQCOQF
+Session key:
+w+Ed 3up/ i4dq u6hu ozBT UQQK ZEhd crRB Y4EP 00F8 roc
+
+Web Client (@nolim1t@converser.eu)
+Session ID:TSHTWVGGKV
+Session key:bMZ7 FEbz +1Ye 7yAv XNhU Kqzj B/+Y W6HC 7eyw KpNQ Bzw
+
 Today is ${DATE}
 
 The current best bitcoin block hash:

@@ -10,6 +10,7 @@ I am the owner of the following profiles:
 
 Matrix
 @nolim1t:matrix.org
+@nolim1t:converser.eu (Because decentralization)
 
 Minds
 https://www.minds.com/nolim1t/
@@ -33,20 +34,20 @@ https://nolim1t.co/key/pgpkey.asc.txt
 Today is 2021-08-04
 
 The current best bitcoin block hash:
-0000000000000000000f18b95f474638460ee5200fc12f18b130df993d4b9c1c (Block: 694128)
+00000000000000000005a2d10e452b45f2bc07a840b0cd18c060770a6a82b0ef (Block: 694151)
 -----BEGIN PGP SIGNATURE-----
 
-iQIyBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmEKI2AACgkQ9ih7gsyE
-vL0x8Q/2JS2RoJ0sbXtb4QPJShIhkQQMBVWM3yC2l/nOyWU3MPOEzh+z+HCThkLC
-4HPYICnO7lIG/7OCrPRCFIcH0sjoKtNWzb/QY5r9gtcI61vfS7eaCFZYGqSrqnkI
-Cn6g2sQsj0czcrgawna4R1+LVIHjuneA7b7b6ua8jDqya6cmtCivHO5x/FRTZjpI
-c1Mv9gUHlXMtvCw73VNgL45w14AMmZalIDJakyumDfc8QzWVor/0zpGiEzo0LE/M
-qNBe6GAb6foHOppnlgrCFVMM2pQW7gFtLagV+xVxE+OkLy+DhaV5uj1uO9GNrmvn
-lrbKOmt2gvI/ZQEaPC1qngCMeWRSfVgqc6i0m9wyNMPvaxfIjUJ0hdN8btqeb/SI
-8A1SJfz7wcPr86992vw/SNkwFPxxhnPkGRvGWC8YtNP4kMjatmx+XDwT68Qdvph2
-hQV1bZ8AKCDPlaYSVklpxcuxrx8MJIlWuT0o0FKMO5VtX0jY7He9KtPzeQi9pOMm
-3OfqgAT/8c+6LJnQ31XAe7xukeOafGU0/WmccagCzK/1Wk3iSc4OvlBSOSF/Qr96
-/KcS5TspVCBpKrk+azvSesSsC160v/kg+pDU4am08Ii3BU+N4L0DN3LRFUqFdp5D
-ENzcNYIwS2Dxl4L9DFspdKYcq24OKvAy274pXRjUbJCxEuKPIQ==
-=QtjF
+iQIyBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmEKcRMACgkQ9ih7gsyE
+vL23SA/44wW7KjaeKSvDXgekNe0YIJ5bUczCsj0fASMhP50YFf/sot1MCu7c3kjw
+duQC3P7mp8DaW+CPddbZ5U5+mYJf7apRfoQzopq4rNZXuRapq/e7afDnQjzhVBju
+cS7vG60KMvSJy/oFHhbU+0+rF7wPJ5Bsy8sbJ3xeKqXluO93c8XBLT/FjmouE0ru
+Acy5qaSzQQm/67uQlAF2mmxJ1/eWNnhiaRfbpr7uAu1IQHXSbp6oZmTmZgXHIGvU
+zCsdhDVzqg01XLrEWDC9iPd4IZv2Em1kIMQkOsCQt5/ubJlRXXeFyYy1GymsGbD5
+0F/EDPOMpgag32BCpI0GXpvZlNRAiQSY8SAHCXC2f81yztNUIlaDwzlV4nNG+RA/
+MNRRwgzE3EQgOpwZJPcCBIyWPggcbN9ZrZib/WkT9GI7XS01Ly6Kpc6Vrj7nAPUU
+HMBrVyP1RJPTfvhmWzVoWPiDI8TJaANnxG1adncfvOS3spqnPKQiy4pqwV2byrdT
+PcdPyGRBx6eTQJH1INizksWtUxLzHVHLkBtueEPr2Wn3yockd9pQxzfy+e/P64+t
+kmmLGPrPqK5CJQV6eufKcJkiVGlhiv0HOMnVcVxbOuqet1bQsycIQJVL2maWmHRV
+R++IeksNbmR6aEv2FpyPZP1y8b2wQA0uyF9xwC1E2MBH32lg7A==
+=suD+
 -----END PGP SIGNATURE-----

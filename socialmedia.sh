@@ -20,6 +20,7 @@ I am the owner of the following profiles:
 
 Matrix
 @nolim1t:matrix.org
+@nolim1t:converser.eu (Because decentralization)
 
 Minds
 https://www.minds.com/nolim1t/
