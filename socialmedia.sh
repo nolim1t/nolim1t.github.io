@@ -21,14 +21,6 @@ I am the owner of the following profiles:
 Matrix
 @nolim1t:matrix.org
 
-Sphinx Chat
-02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f
-
-Sphinx Chat from app
-sphinx.chat://?action=tribe&uuid=YFob7x9I7N5sRGYvlUuKx4WLzIF3x_hCARenwi4-DUCgKF7ASn_vREZFSHHJWQPUrjdE2dNj-wDc7Qw_LZCpQ2j0ogB9&host=tribes.sphinx.chat
-
-
-
 Minds
 https://www.minds.com/nolim1t/
 

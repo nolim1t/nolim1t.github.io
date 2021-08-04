@@ -11,14 +11,6 @@ I am the owner of the following profiles:
 Matrix
 @nolim1t:matrix.org
 
-Sphinx Chat
-02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f
-
-Sphinx Chat from app
-sphinx.chat://?action=tribe&uuid=YFob7x9I7N5sRGYvlUuKx4WLzIF3x_hCARenwi4-DUCgKF7ASn_vREZFSHHJWQPUrjdE2dNj-wDc7Qw_LZCpQ2j0ogB9&host=tribes.sphinx.chat
-
-
-
 Minds
 https://www.minds.com/nolim1t/
 
@@ -38,23 +30,23 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2021-07-25
+Today is 2021-08-04
 
 The current best bitcoin block hash:
-0000000000000000000638efa55602aec68e5c3b3738cf0fc2ec81bbe8f22e5f (Block: 692543)
+0000000000000000000f18b95f474638460ee5200fc12f18b130df993d4b9c1c (Block: 694128)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmD87WUACgkQ9ih7gsyE
-vL3BlBAAj8DiPXTW7UcPyUhwjJHQqmRtHbTYVmc6OkpLaxbZsfIauSVIyDUG9dAH
-BNDeih7/w7H2yhHcUps2sbV+/cnWO9JfEa/yxLaCgi8qT6uFQJi4n8xVGXCRgqxu
-lzgzBZD/qcPuAvV9S0XNxt/oBatUIwHwOM9SRW4/7ZJPL9shhjYb4e1usa7x8Csb
-2bv9jgq5hYOfn+XevGoGSX6XvOjUjXDumVF1zTlaTmD4fkRTEGdiSKRzuidLw0+E
-aBuISGz8dasKWfmVHLaTiN9ANmDwYuC+5hYDqhPOpDk7CUPwLM7LRZWwAK4RF2vT
-ic428/Y/3v0Uq+jf7RTp0MTE2okL0fhk+zg7LBclYIvddEyQAx2Q5R8HNE7MrfaV
-OPFMa/dgARwX10CGsk2+2dDvYI1FbEQwvgfTQCZMS5TstnepagfsQlLZXVbtNW1C
-SRj7+LeWMXzRXsm+EFT5OmfDXQ8F9tq8suA5DEfHVFuYQCR+iuDqep+txCTvR4Bl
-bmtolpTZoiEkfDhdiNG7NCBFlNePmGuPaLCDXzDWYbfLJ5LcHOmFohLIdWVVfXVi
-7P0ZhNzVdfDu4YotzgT3P5F8Vv7YaRtAJmeD0BGlXqeRPrHEFm+G1jnySJ48snuv
-dYidEdPLFduYv+PBYzpKYaE2UuLtLpNgssmGXWfUMah7AdIYc60=
-=mteE
+iQIyBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmEKI2AACgkQ9ih7gsyE
+vL0x8Q/2JS2RoJ0sbXtb4QPJShIhkQQMBVWM3yC2l/nOyWU3MPOEzh+z+HCThkLC
+4HPYICnO7lIG/7OCrPRCFIcH0sjoKtNWzb/QY5r9gtcI61vfS7eaCFZYGqSrqnkI
+Cn6g2sQsj0czcrgawna4R1+LVIHjuneA7b7b6ua8jDqya6cmtCivHO5x/FRTZjpI
+c1Mv9gUHlXMtvCw73VNgL45w14AMmZalIDJakyumDfc8QzWVor/0zpGiEzo0LE/M
+qNBe6GAb6foHOppnlgrCFVMM2pQW7gFtLagV+xVxE+OkLy+DhaV5uj1uO9GNrmvn
+lrbKOmt2gvI/ZQEaPC1qngCMeWRSfVgqc6i0m9wyNMPvaxfIjUJ0hdN8btqeb/SI
+8A1SJfz7wcPr86992vw/SNkwFPxxhnPkGRvGWC8YtNP4kMjatmx+XDwT68Qdvph2
+hQV1bZ8AKCDPlaYSVklpxcuxrx8MJIlWuT0o0FKMO5VtX0jY7He9KtPzeQi9pOMm
+3OfqgAT/8c+6LJnQ31XAe7xukeOafGU0/WmccagCzK/1Wk3iSc4OvlBSOSF/Qr96
+/KcS5TspVCBpKrk+azvSesSsC160v/kg+pDU4am08Ii3BU+N4L0DN3LRFUqFdp5D
+ENzcNYIwS2Dxl4L9DFspdKYcq24OKvAy274pXRjUbJCxEuKPIQ==
+=QtjF
 -----END PGP SIGNATURE-----
