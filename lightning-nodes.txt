@@ -14,23 +14,23 @@ https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2021-08-04
+Today is 2021-08-08
 
 The current best bitcoin block hash:
-0000000000000000000f18b95f474638460ee5200fc12f18b130df993d4b9c1c (Block: 694128)
+ (Block: )
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmEKI3cACgkQ9ih7gsyE
-vL2dNA/9Hf1CP6xCIKSHh+zJenFkf1StEtNOFGYgbflKF8knu2GrwyTOvxEtkkos
-LRDHcwTLW/wnvVwb9NJXaJGwtieqgw2I9b4hmJg2Wxmuk7+p9x6QnrBAQetC23mA
-rxjVw+nQniEKqJ/E32yAelBzOe3IumgnyHFmuj3/THUgjapiWY6n+gks82t26gcy
-bwdKwwTx7DHdsi9QNn7afv3T+6W7zo+tSo2NPUUlzXy2lgvDpGuPsZb/k9uCkA3/
-8DhnYvfxQPq8524qvHWZA5RyFUUZWgwG+eN1+MJduEdy3OGXIWndbRuh9V2j0fH1
-7IKJPp3zhMmi73Bqyccpm9S1sG8OX+R7uBeFJRQmQG8aeHx95fIaKfLviT3sAc5h
-Rv45/qeV4vNmQS7bTjI0gjgjQOtS4enOadW8j40LtHuC4FjfXin62nht/KCKn8zl
-TxSotHY2JM8VYrj9osIXuceap+whlJfCGgkhA6Q8jXPEemcnfH1cZGNVpmVfg/hR
-wJqm5xO9T8xjDWKysZWpxpaiLUrgDOetv3LI25FnarL3XQIsq63qlCPHMuyB/EXq
-dUh0reDQeZNWnUe2V6vGwnYYUGm4bD7EkqhwZShFUhZYqy93xl70zz4BeLa63Rfm
-BLPQOzF0QR1j8IiOeHyucLnS9U1x5qp13BHqjRjs47vQxnEP3Yw=
-=m59l
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmEPrD4ACgkQ9ih7gsyE
+vL28SRAAhuVe0EOqKB24mDgTwSwNeaftyTOt6d0BDzSoSx0r1JUa0N52r6gSCAe4
+Hee4GJJOebfWkyyicf401YfwxOsCgBsXpgqKh0p1if8wej3Rk6NUvT0SUsx96RX/
+0e12c6MTbyd/PmhugUTWzcgnU6fdSraXVWQoc/LmII/0JRgcGgzOPOJE1L/nTO2e
+9Ma0zB/BIzxtJKPur07Yq2OyyT9oaopjivh15orkzc1LZLz5DSdthcG6qjhrlCLa
+qS7qtVVo+AWT32gD/byRkZIbarJR/7WNeP9cvcAUTsKo7HiRW/5AsUweU7JJ5STY
+luJt5pEGJamU51tu56pDZaGMZEWuuWjEv50G266AbV5n+fwnFDwoPq9STKezcA9H
+C13mMtmLc6JLtaGfAMBp61TNfGbww7G2i16Q1lt5Z8qlxOi0rCVQLICjaCf9azKv
+mMF361VK2Iix+D2I9kkL/fcVvKUbUvXRfQjsCziHObyqd312FktA3kBzZgHrdQZ8
+rYMfEh2KGJvJuaymufuVy7w/AZhfCShodoEbzwN5yfj+YXJAXpCzdIlNgiEE7nSt
+v0xmz9+25pHdkmq5w0vVaIWHcXIFWG68M4qM5GLcdebcd5NflCn3Yy4MQXnN8rZ9
+x9mQM9gquSx/g9I03P9wrd348pxKnsmmztl0hB2aInYM3ih13rY=
+=JuHX
 -----END PGP SIGNATURE-----
