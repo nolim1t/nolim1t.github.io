@@ -44,6 +44,10 @@ Web Client (@nolim1t@converser.eu)
 Session ID:TSHTWVGGKV
 Session key:bMZ7 FEbz +1Ye 7yAv XNhU Kqzj B/+Y W6HC 7eyw KpNQ Bzw
 
+Fluffy Cat (@nolim1t:converser.eu)
+Session ID: ODTYIVYFEP
+Session Key: s2Rl ihJs h3xl M8Fu zxyN 8dQM vcR2 GJp8 SfFw fKue TuE
+
 Today is ${DATE}
 
 The current best bitcoin block hash:
