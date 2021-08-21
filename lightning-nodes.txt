@@ -8,29 +8,32 @@ Hash: SHA256
 
 I am the owner of the following lightning nodes:
 
-https://amboss.space/node/02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f (Sphinx Enabled)
+Node
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
+
+Decommissioned
+https://amboss.space/node/02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f (Sphinx Enabled)
 
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2021-08-08
+Today is 2021-08-21
 
 The current best bitcoin block hash:
-00000000000000000000c3b2a7960947b111c6ca50b8e2328b1ac32646d0faa4 (Block: 694775)
+0000000000000000000d45bba8238a9cd7e2abe0a1f9403555230a7bc18cf5ce (Block: 696861)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmEPrIYACgkQ9ih7gsyE
-vL13ow//WmpAB1ZH3Hlz+q/lR9cT9H70HMaqpqYztuy57P+t74tNEUcxCWaEzpwZ
-oH7AOL7TLTI0rOgc3KfYKlhyYBXDiFM1YS22i5Xdy1a2Urwb8jk9wKloXhkEtR3T
-H8K6m9JXroN/RfYDCbPLaseytnKGJBD+54nPhaeD8AW3b2J2T+/DPjl8hzpiLYRl
-HSeJbkQeJY/QlPrt/+lP0DSXXco3HjHSmK8DjCQ+4CS47T0idh2shti4zi+lRGpC
-eBvaIV2D7FzVyOTgKJVVMX+nQJRH3w2/J3jRUtLjqnAgSTB94lFteEug1PCVzzue
-mokaS+6i/d/Su5idNNBBA2m9YOgJkSbOPd/YSmO7ynNWNHsHd8juOEIVY0Rh1FA7
-ibk2NvWdecRaJqkHde2qWMSnrlvfTDVJ/yaGBysrIyNRMlAv+DiRiZzdohH6WhVR
-5XorSZpprQI/Hi3WAuoRZd/JUxegsfSKf0PZnNeNh5jrLeSES1/Hu8ON/a585JmW
-NUoP6DwYuM30oSPgfHz85M7MzZKYoOJB4b3/FhxgzRr+k28nxNCpIJTKZ9QKkfho
-ZOW1v/FMaNuNu/zMxh3MbzBOxK25owsxfd1XLyq8+1TP0A9TR4suhe55w12bODeQ
-NebUV9x2DxziQ55XoVgzRpbHF5EY7t3uPgX6TKFQoj8EQ/rFOKs=
-=UyTF
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmEhACgACgkQ9ih7gsyE
+vL0EoxAAv/GgkZ1nXlf/3u6UF39pJC17nDJCbch72JQlQ/1aCtcbYAi5t60q43bl
+T4nhx/8GXO6etUVuQuRYI4YootuGuGPfdKlCB/JJrtggnighqipw7FCUiCA6evdX
+m3Fdl4qwNT+uSr5tDn/q4M/HvGTBZPrxZ/ae0jdw47dcT6vPYEPFP6XkOVrRLb8C
+SBsrGEsONtfiFqPHm3PD/Bff0ptX7MHCf+c3T7MPmYXePuOKCTiuQEyugPm4ONc/
+WA3p5GWisA891OFXDeeBU8VOdwKj90PlHyVE2SXfey9w4sC99uCIB5dqgtokqMNE
+iXdloMRbM3FVKzV/8Eou/qSV0RRriYUX06fLQ4jlD0CLV7xlbJhxcAGDk3mELeS1
+Y/wsfRe2KV+PUTkNxO5fFmMTIuyyQtxHlmqDRACIZ83DCglUDhcZDxBcbl7fO/mN
+gMcdz4wFBucWGaYciqvKgl/keRJhSdtJDze5U0RWY7GtHd1vmbcxQBdV3Rqwugee
+tUmabb0OxPiW9UJnpLGWIa1zHdiDwluH0PlzU6yEI1abBiJbGSxcitASGDvqC4Q/
+Nm9VNcGWLjuD6ODHejAWvKqmC4M0y64Z5LatOWxmbTYG8vi6rLu5hgAG1R25WtjX
+DQenYvRSaPxT4OondnaSOQ8ZMEeSjDSNTegm9WctEdViOdgzfoc=
+=VR2h
 -----END PGP SIGNATURE-----

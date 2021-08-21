@@ -35,6 +35,9 @@ https://twitter.com/nolim1t
 Telegram
 https://t.me/nolim1tcoblog (Read only with commenting)
 
+Discord (nolim1t#2650)
+https://discord.gg/Vnt7Nd9wzs
+
 Web (Curated)
 https://nolim1t.co 
 

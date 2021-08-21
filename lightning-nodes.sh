@@ -18,8 +18,11 @@ ADMIN="@nolim1t"
 cat >./lightning-nodes.txt  <<EOF
 I am the owner of the following lightning nodes:
 
-https://amboss.space/node/02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f (Sphinx Enabled)
+Node
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
+
+Decommissioned
+https://amboss.space/node/02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f (Sphinx Enabled)
 
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
