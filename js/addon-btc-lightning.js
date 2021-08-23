@@ -8,7 +8,7 @@
 const base_url = "https://tfqfpfsjpg.execute-api.ap-southeast-1.amazonaws.com/awslightning1/generateinvoice";
 var traditionalPaymentURL = 'https://www.coinpayments.net/';
 var LNNodePort = 443; // Use full node
-var LNCNXNodeHost = 'flashpay.nolim1t.co'; // same same
+var LNCNXNodeHost = 'rpi-invoicer.nolim1t.co'; // same same
 
 const check_btc_rates = (callback) => {
   axios.get(base_url + '?showRates=true').then((response) => {
