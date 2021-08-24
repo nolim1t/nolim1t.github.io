@@ -35,18 +35,17 @@ Android Client (@nolim1t:matrix.org)
 Session Id: UUCZTIOVWQ
 Session key: AjaW kKtB UGG5 FIiZ jry8 OR8t xaVo XqfY elOM t2A3 SMk
 
-iOS Client (@nolim1t:converser.eu)
-Session ID: QAPFYQCOQF
-Session key:
-w+Ed 3up/ i4dq u6hu ozBT UQQK ZEhd crRB Y4EP 00F8 roc
-
 Web Client (@nolim1t@converser.eu)
 Session ID:TSHTWVGGKV
 Session key:bMZ7 FEbz +1Ye 7yAv XNhU Kqzj B/+Y W6HC 7eyw KpNQ Bzw
 
-Fluffy Cat (@nolim1t:converser.eu)
+Fluffy Chat Main Phone (@nolim1t:converser.eu)
 Session ID: ODTYIVYFEP
 Session Key: s2Rl ihJs h3xl M8Fu zxyN 8dQM vcR2 GJp8 SfFw fKue TuE
+
+Fluffy Chat Secondary Main Phone: (@nolim1t:converser.eu)
+Session ID: DUFBRXGZYZ
+Session Key: Xp5U IKYT NKo9 7fFE 0aKq Rq4D aCOV h+2G ZHqh BZdq mo0
 
 Today is ${DATE}
 

@@ -25,36 +25,35 @@ Android Client (@nolim1t:matrix.org)
 Session Id: UUCZTIOVWQ
 Session key: AjaW kKtB UGG5 FIiZ jry8 OR8t xaVo XqfY elOM t2A3 SMk
 
-iOS Client (@nolim1t:converser.eu)
-Session ID: QAPFYQCOQF
-Session key:
-w+Ed 3up/ i4dq u6hu ozBT UQQK ZEhd crRB Y4EP 00F8 roc
-
 Web Client (@nolim1t@converser.eu)
 Session ID:TSHTWVGGKV
 Session key:bMZ7 FEbz +1Ye 7yAv XNhU Kqzj B/+Y W6HC 7eyw KpNQ Bzw
 
-Fluffy Cat (@nolim1t:converser.eu)
+Fluffy Chat Main Phone (@nolim1t:converser.eu)
 Session ID: ODTYIVYFEP
 Session Key: s2Rl ihJs h3xl M8Fu zxyN 8dQM vcR2 GJp8 SfFw fKue TuE
 
-Today is 2021-08-21
+Fluffy Chat Secondary Main Phone: (@nolim1t:converser.eu)
+Session ID: DUFBRXGZYZ
+Session Key: Xp5U IKYT NKo9 7fFE 0aKq Rq4D aCOV h+2G ZHqh BZdq mo0
+
+Today is 2021-08-24
 
 The current best bitcoin block hash:
-0000000000000000000d45bba8238a9cd7e2abe0a1f9403555230a7bc18cf5ce (Block: 696861)
+0000000000000000000886341f8c7241c175b61d2611367a466c9cf4d2f8c0d1 (Block: 697384)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmEg/+cACgkQ9ih7gsyE
-vL1GMg//csBeQPfZF2ifhYWkbBzdoxXr1xnVqF4ixACz2IlXB5jppkXCPtTWlSdb
-O3b/0p2Go7+UaMdmTfOgJnTW+OKx0oAxevxIge+fKKJUstT2vHfIeWs8E+ODwzGE
-XRIs5oHHyCTZHBGIWcrzfJDtKzDn6NHZasdfQwzhwGTvCGdB4xYaHlJAsyk2FdSh
-dsqRC8ZnEwdjFUfaFexHq6IsCSzL61Ls8Mb7v8LpwMt04RE0WevedtbvUYQK4TGO
-FBYQ5h9x8ZZ3SK3ka67bILdNOPrREMKmWMBnyGCVxiHXmv935J8irZgxTQ3NDD2+
-g/31AThMIrIy16NqU/bnQLAKO1PyjUaoZVWHmoySuRKh4KOm4y49isyzhxb1M4Vr
-Vi0qXk4R+efd/seViiYSzXiX3IJlEWJVo2cDLisfP2mDFsgascVCRAW/Wis/vIA3
-MWoqa+Om4zMzYAuj5Hw9zUstLFgYfWeSsJWOSMh0VixI/wXa+cbdxARq3xWzMTPq
-NIWZSwmQ/49OubW7w+F1d7WjNOWjR4dPSq5+iK11fcEXYSuSC+bDycjcmKw7bvZA
-JFSvJzybIF2uNWMThTL/m8x9WY+oiPfud1kw7pvyINDiX0ZD//eUfgucMPbjW4V3
-QDvmlJaH8HYQjJKHgP0RO0KwE1reTMGqifgKt5UOclEo5OYgC94=
-=YWi0
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmElCAAACgkQ9ih7gsyE
+vL3M5A//bkPsJy5DMdNNUmJkIUzCK04QGtGlSyoZ9amriAnq6jVzGrAEfyXHls7J
+hBl2YBj3DRiyjtKnfCRDFzHuUezog0p+dMy0ldl28hSgMP9yPmzzN5TVSalmflaH
+e7s+Y7qCSCywXfH+eILxXEIC1QOc7pAEFzvzBu3BBIl2u7fzjLaCuj37nqb9H3jN
+Dw0rw9O66S5Af2JvZL/r1IWaBVLmdG+VEA/sxVB2CsjNMlops069ojXOjrds/g4U
+OcR5sqPBPUgNoMY6QAZ7Zj/vaHQxiaR11qA0gX2VPuA9x6782Qp2rSF8FUSVIwQ+
+1n3DIOsWUAr0Rez855WIBCr2dON/JTXsnkm5Z8m1sKcXfUPEWr68StF7WFnSDMo0
+KOQQj7wHaZ5iK9CqMk2CT1nR82kzcjYf9Aqo1Je9oFfIoqwrbfBRDsfLgH/nkBdP
+TV2vleb75RJx/D1UcULS8iOnXUg2dcPtt8T3oQhAf290ycc+LK2dJkWFfH0/k3j1
+gMtEnzn0Hqs9p1J4xT9AtwEScLKnOHM/P+56Kal7XTsVRSiCZaFfPfXCURsh1soh
+ybBJ+fDdWvYDlZFsJj3+4Z/R9lC5J4pfQ2XXAPTg2pqJVd9ute9ab/neqiI/Cl3V
+yafQHwF+tirSO+Gi4/c209q+EHf3UaD3kCpCiiasUjQtMaml100=
+=6Dt2
 -----END PGP SIGNATURE-----
