@@ -8,22 +8,9 @@ Hash: SHA256
 
 My device keys are as follows:
 
-Mobile Client (@nolim1t:matrix.org)
-Session ID: GPOXMNETXX
-Session key:
-7qWl SvVB XrXF 1Xz6 9nAC g7Rx NyPm 2Ln9 mBKr qtoB WUQ
-
-Mac Client (@nolim1t:matrix.org)
+Desktop Client (@nolim1t:matrix.org)
 Session ID: HVITNQHIAC
 Session key:    9W5O EEzt V9a1 pVzE 0Dk+ 5LSJ DUN9 bW3S R9qS 7rDb kxc
-
-Firefox Linux (@nolim1t:matrix.org)
-Session ID: CIOUFWHAHZ
-Session Key: ztja gzSi ynLj 5Fdt kW3L fFBV Ny9L gzpt 25jt IBWu zfg
-
-Android Client (@nolim1t:matrix.org)
-Session Id: UUCZTIOVWQ
-Session key: AjaW kKtB UGG5 FIiZ jry8 OR8t xaVo XqfY elOM t2A3 SMk
 
 Web Client (@nolim1t@converser.eu)
 Session ID:TSHTWVGGKV
@@ -37,23 +24,23 @@ Fluffy Chat Secondary Main Phone: (@nolim1t:converser.eu)
 Session ID: DUFBRXGZYZ
 Session Key: Xp5U IKYT NKo9 7fFE 0aKq Rq4D aCOV h+2G ZHqh BZdq mo0
 
-Today is 2021-08-24
+Today is 2021-08-25
 
 The current best bitcoin block hash:
-0000000000000000000886341f8c7241c175b61d2611367a466c9cf4d2f8c0d1 (Block: 697384)
+00000000000000000011b87df3cc639bb0484dd6ea9288c58dbd6c6bf289bf41 (Block: 697467)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmElCAAACgkQ9ih7gsyE
-vL3M5A//bkPsJy5DMdNNUmJkIUzCK04QGtGlSyoZ9amriAnq6jVzGrAEfyXHls7J
-hBl2YBj3DRiyjtKnfCRDFzHuUezog0p+dMy0ldl28hSgMP9yPmzzN5TVSalmflaH
-e7s+Y7qCSCywXfH+eILxXEIC1QOc7pAEFzvzBu3BBIl2u7fzjLaCuj37nqb9H3jN
-Dw0rw9O66S5Af2JvZL/r1IWaBVLmdG+VEA/sxVB2CsjNMlops069ojXOjrds/g4U
-OcR5sqPBPUgNoMY6QAZ7Zj/vaHQxiaR11qA0gX2VPuA9x6782Qp2rSF8FUSVIwQ+
-1n3DIOsWUAr0Rez855WIBCr2dON/JTXsnkm5Z8m1sKcXfUPEWr68StF7WFnSDMo0
-KOQQj7wHaZ5iK9CqMk2CT1nR82kzcjYf9Aqo1Je9oFfIoqwrbfBRDsfLgH/nkBdP
-TV2vleb75RJx/D1UcULS8iOnXUg2dcPtt8T3oQhAf290ycc+LK2dJkWFfH0/k3j1
-gMtEnzn0Hqs9p1J4xT9AtwEScLKnOHM/P+56Kal7XTsVRSiCZaFfPfXCURsh1soh
-ybBJ+fDdWvYDlZFsJj3+4Z/R9lC5J4pfQ2XXAPTg2pqJVd9ute9ab/neqiI/Cl3V
-yafQHwF+tirSO+Gi4/c209q+EHf3UaD3kCpCiiasUjQtMaml100=
-=6Dt2
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmElwS0ACgkQ9ih7gsyE
+vL1Dtw/9ERopsr4CdQUTmfHSt27Okt3RUFzZQD/ygkPSVPwGfMrJfUpZ4X/24Fn6
+35OxFfigyCV1YDtB6kbo2le0ecIa0hzgUawVux/3GYUZIRDC3HOQfAzt9VB2gsva
+6XttDkiokJaUCFCAzg7Z2HjSz5irx3f84AwqzpVDlvAyqsCL6JKChRbfYEchKNyR
+YwoS75lAZAxcgbepcVc1c4qVRKsyyuIdPkTacS/dH8lHmuRidkZnXGHPiSOQl6Qg
+ZecqsYO0FqYAPrsEz3r0deCvNU1dIQhtvwchLsAvgj+Gg8JPaF5mvz1CsVMP5j+r
+BUjC3Ay4W1R86OuRQ+3WYHBmhgMqqzNT+99WtwHNydf47WxgBe4ec8KH4+TdPqt4
+Z0/3IkQJoy1mjR3xFDN2OX+94wpzO4OjmX+MR3qYlPdxTCu9se9pV7LJo5cZ/haG
+pg+H+q8Z6Ogi7jeIwT7oiKGyxYzLDHJlZyiiUSiuyVXLtJ/SCO5OK+UeiCsWxZL4
+oGmZ8bUBKX3o06tkWjN667q9juzCddFq9HA1fd41ZWa762zyHNLitpr3jxeST1ua
+x5CerucdCuQxmgtV4npUWJHfOG5SEMKbY2pTyDkDqC4t7P++yGCnOAGYjZ+YxFPn
+COs8rrpy2bhTNyO1MYEWJl1zfsH/6KMRGWE9KOnI/UiDNhKcYrA=
+=LMtU
 -----END PGP SIGNATURE-----
