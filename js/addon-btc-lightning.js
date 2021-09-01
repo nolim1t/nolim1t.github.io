@@ -43,7 +43,7 @@ const check_btc_rates = (callback) => {
   });
 };
 
-const check_charge_id = (chargeId, hostname="ln-vps.nolim1t.co", callback) => {
+const check_charge_id = (chargeId, hostname="rpi-invoicer.nolim1t.co", callback) => {
   axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&LNCNXNodeHost=' + hostname.toString() + '&LNCNXNodePort=' + LNNodePort.toString() + '&chargeId=' + chargeId).then((response) => {
   //axios.get(base_url + '?checkCharge=true&useLNCNXNode=true&chargeId=' + chargeId).then((response) => {
     if (response.data['response'] !== undefined) {
@@ -95,11 +95,14 @@ const check_charge_id = (chargeId, hostname="ln-vps.nolim1t.co", callback) => {
 const generateLNDTextArea = function(lndinvoice) {
   return "<textarea id='lndtextarea' cols='1' rows='5' style='width: 400px; height: 100px' onSelect='document.execCommand(\"copy\");' onClick='document.getElementById(\"lndtextarea\").select(); '>" + lndinvoice + "</textarea>";
 }
+
+// Function is deprecated
 const generateQRCode = function(lndinvoice) {
   return "<img src=\"https://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=" + lndinvoice + "\" />";
 }
 
 var receiptId = ''; // Global
+
 /*
   Lightning App
 */
@@ -201,11 +204,11 @@ var lnapp = new Vue({
             invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (From: ' + document.getElementById("shoutoutbox").value + ')';
           } else {
             // By default (if less than 32 characters)
-            invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
+            invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (Amount: ' + document.getElementById("amountinput").value.toString() + ')'
           }
         } else {
           // by default
-          invoiceDescriptionToGenerate = document.getElementById("descriptionform").value
+          invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (Amount: ' + document.getElementById("amountinput").value.toString() + ')'
         }
         // if theres a hostname set
         if (document.getElementById("invoicerhost") !== undefined && document.getElementById("invoicerhost") !== null) {
@@ -304,7 +307,7 @@ var lnapp = new Vue({
             this.pollCount = 1;
             this.paid = false;
             // response.data['lnd_payment_request']
-            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following Mainnet ⚡️ lightning Invoice (or if you do not use lightning yet, try <a href="' + traditionalPaymentURL + '" target="newwin">this link</a> for bitcoin or other crypto. Link opens in new window):</strong><span id="waitresults"></span><br /><canvas id="qrcode-canvas"></canvas><br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div><div id="reference">If you wish to manually check the payment status, quote payment reference <strong>' + receiptId + '</strong> to the admin</div>';
+            this.resultElement.innerHTML = '<div id="innerresult"><strong>Please pay the following Mainnet ⚡️ lightning Invoice: </strong><span id="waitresults"></span><br /><canvas id="qrcode-canvas"></canvas><br />or copy the following payment request<br />' + this.generateLNDTextArea(response.data['lnd_payment_request']) + '</div><div id="reference">If you wish to manually check the payment status, quote payment reference <strong>' + receiptId + '</strong> to the admin</div>';
             // Draw canvas (replace this.generateQRCode() with local QR libraries)
             const canvas = document.getElementById("qrcode-canvas");
             var QRC = qrcodegen.QrCode;
