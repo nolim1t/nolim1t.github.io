@@ -319,7 +319,7 @@ var lnapp = new Vue({
               console.log("Poll Job ID: " + this.intervalId.toString());
               if (this.pollCount >= this.maxpollIntervals || this.paid === true) {
                 console.log("Cancel all waiting"); // If waiting timed out
-                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Click <a onClick="document.getElementById(\'manualcheckstatus\').innerHTML = \'. Checking status...\'; check_charge_id(\'' + this.chargeId + '\', \'' + invoicerhost + '\' (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ <br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin. \'; } else { console.log(\'Still not paid. \'); document.getElementById(\'manualcheckstatus\').innerHTML = \'. Not Paid\'; } }); ">here</a> to manually check payment<span id="manualcheckstatus"></span>)';
+                if (this.pollWaitDiv !== undefined && this.pollWaitDiv !== null) this.pollWaitDiv.innerHTML = ' (No longer checking for payments. Click <a onClick="document.getElementById(\'manualcheckstatus\').innerHTML = \'. Checking status...\'; check_charge_id(\'' + this.chargeId + '\', \'' + invoicerhost + '\' (cidcb) => {if (cidcb.IsPaid === true) {document.getElementById(\'result\').innerHTML = \'Thank you for your ⚡️ payment! ✅ <br />Should you require receipt verification please quote <strong>' + receiptId + '</strong> to the site admin or copy the code and paste it <a href="/check-payment/">here</a>. \'; } else { console.log(\'Still not paid. \'); document.getElementById(\'manualcheckstatus\').innerHTML = \'. Not Paid\'; } }); ">here</a> to manually check payment<span id="manualcheckstatus"></span>)';
                 clearInterval(this.intervalId);
               } else {
                 if (document.getElementById('waitresults')!== undefined && document.getElementById('waitresults') !== null) {
@@ -373,7 +373,7 @@ var lnapp = new Vue({
     },
     generateLNDTextArea: generateLNDTextArea,
     generateQRCode: generateQRCode,
-    pollPayment: function (chargeId, hostname="ln-vps.nolim1t.co") {
+    pollPayment: function (chargeId, hostname="rpi-invoicer.nolim1t.co") {
       console.log("Before running pollPayment: " + this.paid.toString());
       if (this.pollCount < this.maxpollIntervals || this.paid === true) { // Either max poll or paid
         console.log("checking for payments... (ID: " + this.intervalId.toString() + ")");
