@@ -204,11 +204,11 @@ var lnapp = new Vue({
             invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (From: ' + document.getElementById("shoutoutbox").value + ')';
           } else {
             // By default (if less than 32 characters)
-            invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (Amount: ' + document.getElementById("amountinput").value.toString() + ')'
+            invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (Amount: ' + document.getElementById("amountinput").value.toString() + ' ' + document.getElementById("fiatCode").value.toString() + ')'
           }
         } else {
           // by default
-          invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (Amount: ' + document.getElementById("amountinput").value.toString() + ')'
+          invoiceDescriptionToGenerate = document.getElementById("descriptionform").value + ' (Amount: ' + document.getElementById("amountinput").value.toString() + ' ' + document.getElementById("fiatCode").value.toString() + ')'
         }
         // if theres a hostname set
         if (document.getElementById("invoicerhost") !== undefined && document.getElementById("invoicerhost") !== null) {
