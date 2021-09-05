@@ -115,7 +115,7 @@ var lnapp = new Vue({
     chargeId: '',
     paid: false,
     pollCount: 0,
-    maxpollIntervals: 6,
+    maxpollIntervals: 12,
     resultElement: '',
     pollWaitDiv: '',
     intervalId: '',
