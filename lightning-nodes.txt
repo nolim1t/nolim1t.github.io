@@ -8,32 +8,28 @@ Hash: SHA256
 
 I am the owner of the following lightning nodes:
 
-Node
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
-
-Decommissioned
-https://amboss.space/node/02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f (Sphinx Enabled)
 
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2021-09-14
+Today is 2021-10-05
 
 The current best bitcoin block hash:
-0000000000000000000e971bb118ab918d1ddbf626951cff2eafb1731b1ac2f7 (Block: 700470)
+00000000000000000003927fd3d3e92d251d475870bb4e7a4915d28f9f899e54 (Block: 703628)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmFAM4MACgkQ9ih7gsyE
-vL1HmRAAtT9QqO+Fct0XnVr3yCeND69W7NtPDoZ8UxF3byuqexnkBt7i47v8xz6M
-IGEbp/TZSrqbnMq3eBZs3xxXhyojjLJNyZssivcAifJ/V+T74DQdJRfPhXnqonC6
-4DW7nEaowdwX+Tekk3qCqZ7bIA7o90FxeUI70/MFC48ZjdVSFehf7jKjKbFH01At
-Qnq9IfdsmSsYwND0ne/GOGxITHnXcv3LFj20UDlizTi5aZdyScqmYxruVjLuYqh0
-8pexeU90Z4//UAns+eRELkHB0V7/t+cbndHpCsYnJz/DctJpaaqmf6RTLGNtWict
-hqzM9FZqqMg+oy0/yEuVllIwuqNwX/3ZopvDXVAFr1+mHeP9ysf22nioLPXaFsfy
-ph/nMaE/U1X6h6lhZ+aPUjmth7TT9Qc/Zez6feRLVRmPP3DBSUT9gesO4jXrh7T5
-4LvI6lgvf2BdxdlBK4lVrWXe2T3pL81a/7/xNbbf0I8v9GRe6QUxP+uvLZO9CQuR
-Qp9F8Jld/IDSdJUcKkRLDXqqW4XboYQUNc1i2x+NGcnILRGVS6KU2iJwGa7LI5lj
-yr6z9Pz9uIiZzBStYfXdcAQjDXryLG+FxDg4nLk3QJkARBCOFXR/+5wBly31jteK
-bzl4Lxn5RA8uj8Ss6HfU74v9VpUNoQWg06KOoeYeXvExkQlMWqk=
-=l5as
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmFb7RMACgkQ9ih7gsyE
+vL2FBxAAxL534U1DIXWVbpVVq2+9Igesh8T6v/R6PzO4SA2lRITa+6VNVwCkIHcq
+fJsfqg+JNp5J5aI3xQxFHfS434ii2AEEyr82jMRpjoY3TprVSWOiGjUNfM6hnwzo
+5UsA5lKQUFtlGQ5YGOyoeaa11FA8e2LOQ74VIea8o0AZ4oltRw8bNpS88vJkXFUP
+W9z3CB0QzsyBODw1CVuPRuIv0an57a4F2swa1xaK/o8hy4xjBVadbhtyFoxnme9v
+xmQ3G1hVnV+UMBw+SNuLr3qxDBpv1ObehqHG+UUH/y1jKT5GAZW/F6AiJMUQC1tz
+57IeDXeXMy0PNayqTYunsG1lV3y1pDy2+BE0HcBVMNYxX9gRBkzSTZp6hhPqqMrc
+xZ8uOS4yPoBp0qUt4wx51+P6rZ4Z2vCXqb4VIfOTZfA/hHWxM1WOevHuIKqwNtDx
+xZSdtLHT3W4SXhyDcqlJSFhdo9bFW5TP6ccljRyFK0oLK0E66y0Skbsu/NjVJTQi
+CLPgTy8aWXvwGgaHZPL8fTgMvURsgm2mDJx3NVaQjPPax027EYHkTE8ZF6VYs1Bn
+UZ+eeSWgk407aqtOxTiozf7JwkUQ+JkFCTl2AlUQYVpzZbg6bTd+2aGnfQpEifF6
+EzuJzsZq2dnO4/mzbq7l2wRnenv6qxtt1gw1pScFfdrlAtREiPs=
+=GoYw
 -----END PGP SIGNATURE-----
