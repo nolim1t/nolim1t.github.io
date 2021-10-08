@@ -3,6 +3,8 @@ layout: post
 title: "Lightning Networking"
 ---
 
+Well its been a while since my last blog post. I'm still alive but been posting to telegram mostly (see [my telegram microblog](https://t.me/nolim1tcoblog) or if you're part of the bitcoin community check out [this page](https://t.me/cmbtcevents) also.)
+
 In case you've seen, I've been getting balls deep into lightning network (layer 2 for bitcoin).
 
 It's come a long way from its humble beginnings as a whitepaper in 2016, but started my journey hacking on various lightning network projects in 2018, much of it has become [Umbrel](https://getumbrel.com/).
