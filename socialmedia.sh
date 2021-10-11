@@ -19,8 +19,8 @@ cat >./socialmedia.txt  <<EOF
 I am the owner of the following profiles:
 
 Matrix
-@nolim1t:matrix.org
-@nolim1t:converser.eu (Because decentralization)
+@nolim1t:tedomum.net
+@nolim1t:converser.eu (Because decentralization - currently down)
 
 Minds
 https://www.minds.com/nolim1t/

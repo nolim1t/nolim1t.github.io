@@ -9,8 +9,8 @@ Hash: SHA256
 I am the owner of the following profiles:
 
 Matrix
-@nolim1t:matrix.org
-@nolim1t:converser.eu (Because decentralization)
+@nolim1t:tedomum.net
+@nolim1t:converser.eu (Because decentralization - currently down)
 
 Minds
 https://www.minds.com/nolim1t/
@@ -34,23 +34,23 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2021-10-08
+Today is 2021-10-11
 
 The current best bitcoin block hash:
-000000000000000000001853814963080bd21b7930527a7c2ac8077fc4467ffb (Block: 704067)
+00000000000000000006a6a85895d612f40e1f94b9ddec03f699095b8851b2cf (Block: 704498)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmFgA6kACgkQ9ih7gsyE
-vL0H/A/+KhzyIJHwnA+0GTr1AfXPw5QXD6c4n7fSs5mfD3OaxpQRuvRC4nfM0R+S
-23Mc8AQFVymA36EU0puLmfNktWxJfNTonm+irYla9tfZHWr43Z2+pH8VO0mUE050
-zZeS7TxxohWH/baf1HqeJip8CcEXTg2O9phFid1UMD2gTnRBucZuJmPmXLRtBjDy
-e7eSIIMQAxs5nXthihwjOYf/z6iCp1u1K/P7vRcUPTZijzxgAKB7PxnoUyz0sieC
-/quR2jIBAenAYty/pT/NpHh26bFs6+5ZhwJ7sU9GpIP3+dftpr4PvRyEpWkhBNFi
-mNuX4rkdDrp/V4j/GwoN6aJSFkE23qKCd5vfXpY4ybio3lcDwcpIhX/x0U1ruHg0
-N1E06xdyqgmOKEAJLDEZD+PboqejecmH5cpdFflckdQN8/VpsszZMeV63WEJsAQV
-OMutimPpDeoVwmeDLP9n2WjYV77jlizHufaplyL9lat//E4XxTkwBee0VIdOkk5L
-aQSoOmsLciry2ixPpqVyza3UI7wAZf0B/Zlmtfq+WAPHqitgX+ArsS6tzJ7S8KLJ
-sfRfY11MMDgSVED2oo3/XDyYuRsgRjNYl2xOeSaLdJEaDKjaiuaw2cu3xu507JBn
-fZQaBuqtjjcCHp3V1dEEjA6dpFNJ6KOTJahZsAkfA4250sJths4=
-=VeXD
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmFj3+wACgkQ9ih7gsyE
+vL19mg//dAJFQDW40td/Re5hAgCIV2Y28XNP3502/RYd8e5qR1i2Smg+XRO+qJmT
+qa4f7V/KGbSU2FrL4jzQ0DiOYxzUU2lLmoeE64zo0w0tXS42oXmJC3hbl54lbOZe
+BA+GSEtm5G43T86u5VrAUT8nPsez/aHFvWQCMAaSJTPz8UmLMZ0em/qyL07Yd2fz
+jge0O1vO28awodN0Qio5dmbUK5WubOXn3lT6f0npMH+2+FaRi1KRaJwAfVZvLGm3
+utuGDo1JIO7jnpodAAtgSfg8AFw5u+vFMkm9LsK1ExjadHVEWtteL+Qt/QMzBfSB
+jA7igb02v3wuB1+tE1uYMoUoYwxnAqR3hMNGL3FRW/Qmln2T/p7vDdMC45rMeFVp
+8h0/hMjKFIZhj5gbx6BfIb61pGI1nb5kkKSm4POuVMBfuwfURSw3SV29+G7fzGRJ
+rhy+HgBWw6foVZTbBwjLVot31kEsFnqrsHr1APSATmBc8RBmVxc4GLfl2iGrrbt0
+pSvVaFlk+e4ORzaXihfd0UjH8/KZ5SJnvbYGm0GS+i1puc1DZdXW+t/6XJPlsIvT
+NbF3tMFISWB+1cRRjAF3c1MXQrYyPz15MxNyR8H2XFHfm5k8WlYUjpL1kzwrSuBe
+hzR6gmSrbYBaO5LlTvfhMoOLGhwyhJNI7aYXNzDuIFQvZGIygdI=
+=UMN6
 -----END PGP SIGNATURE-----
