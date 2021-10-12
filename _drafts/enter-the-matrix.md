@@ -77,3 +77,7 @@ Oh and you might want to also do a ```/etc/init.d/nginx configtest``` before res
 The default configuration seems to omit public registrations, but I think I'll keep the instance private. Public requires more admining and care.
 
 To register a user, use the [```register_new_matrix_user(1)```](https://manpages.debian.org/testing/matrix-synapse/register_new_matrix_user.1.en.html) command.
+
+## Final Crosscheck
+
+Try to join your instance and then start chatting away. You may also find me on [my own matrix channel](https://matrix.to/#/%23thebarrenschat:matrix.nolim1t.co) which you can ask questions. I'll keep it unmoderated (post whatever conspiracy theories about COVID / Vaccines / 9-11 / etc, I don't care.). As long as you don't post scams / HYIP / MLM / Shitcoins, will keep the post.
