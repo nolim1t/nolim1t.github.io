@@ -20,7 +20,9 @@ I am the owner of the following profiles:
 
 Matrix
 @nolim1t:tedomum.net
+@nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @nolim1t:converser.eu (Because decentralization - currently down)
+@nolim1t:matrix.org (OG account, but I've deleted it)
 
 Minds
 https://www.minds.com/nolim1t/
@@ -39,7 +41,7 @@ Discord (nolim1t#2650)
 https://discord.gg/Vnt7Nd9wzs
 
 Web (Curated)
-https://nolim1t.co 
+https://nolim1t.co
 
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
