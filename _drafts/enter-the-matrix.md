@@ -5,7 +5,7 @@ title: "Sovereignty for chat applications"
 
 Finally, I've gotten around to being a little more sovereign when it comes to chat applications and now have my own matrix instance!
 
-You may now message me at ***@nolim1t:matrix.nolim1t.co*** on matrix. I'm keeping this instance as a trial for now.
+You may now message me at [***@nolim1t:matrix.nolim1t.co***](https://matrix.to/#/@nolim1t:matrix.nolim1t.co) on matrix. I'm keeping this instance as a trial for now.
 
 ## Steps involved
 
