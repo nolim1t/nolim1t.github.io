@@ -10,7 +10,9 @@ I am the owner of the following profiles:
 
 Matrix
 @nolim1t:tedomum.net
+@nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @nolim1t:converser.eu (Because decentralization - currently down)
+@nolim1t:matrix.org (OG account, but I've deleted it)
 
 Minds
 https://www.minds.com/nolim1t/
@@ -29,28 +31,28 @@ Discord (nolim1t#2650)
 https://discord.gg/Vnt7Nd9wzs
 
 Web (Curated)
-https://nolim1t.co 
+https://nolim1t.co
 
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2021-10-11
+Today is 2021-10-12
 
 The current best bitcoin block hash:
-00000000000000000006a6a85895d612f40e1f94b9ddec03f699095b8851b2cf (Block: 704498)
+000000000000000000024bee1e428a8c7a81209d49e8f3258f0f26f7c2855116 (Block: 704650)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmFj3+wACgkQ9ih7gsyE
-vL19mg//dAJFQDW40td/Re5hAgCIV2Y28XNP3502/RYd8e5qR1i2Smg+XRO+qJmT
-qa4f7V/KGbSU2FrL4jzQ0DiOYxzUU2lLmoeE64zo0w0tXS42oXmJC3hbl54lbOZe
-BA+GSEtm5G43T86u5VrAUT8nPsez/aHFvWQCMAaSJTPz8UmLMZ0em/qyL07Yd2fz
-jge0O1vO28awodN0Qio5dmbUK5WubOXn3lT6f0npMH+2+FaRi1KRaJwAfVZvLGm3
-utuGDo1JIO7jnpodAAtgSfg8AFw5u+vFMkm9LsK1ExjadHVEWtteL+Qt/QMzBfSB
-jA7igb02v3wuB1+tE1uYMoUoYwxnAqR3hMNGL3FRW/Qmln2T/p7vDdMC45rMeFVp
-8h0/hMjKFIZhj5gbx6BfIb61pGI1nb5kkKSm4POuVMBfuwfURSw3SV29+G7fzGRJ
-rhy+HgBWw6foVZTbBwjLVot31kEsFnqrsHr1APSATmBc8RBmVxc4GLfl2iGrrbt0
-pSvVaFlk+e4ORzaXihfd0UjH8/KZ5SJnvbYGm0GS+i1puc1DZdXW+t/6XJPlsIvT
-NbF3tMFISWB+1cRRjAF3c1MXQrYyPz15MxNyR8H2XFHfm5k8WlYUjpL1kzwrSuBe
-hzR6gmSrbYBaO5LlTvfhMoOLGhwyhJNI7aYXNzDuIFQvZGIygdI=
-=UMN6
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmFlSnwACgkQ9ih7gsyE
+vL0g3xAAyxWaPDwWo9kHQUo+YSc0xn3sCBNlqmPa+e3fnsdqjMsMjDCMuiTY6737
+zVMUxxl60gLqcbOpRAscUmAdVkJS539UKkTashR6x69i8dIkI37CIoYuTcZ6FSmM
+svyx9LQkohF38j+IesuIaV9RPyb8G2/Hk9aeQsCAlrcETHuBbexwLuJUtSBadlRy
+uJsQK1wp7sljVRQjgzojUUr990ZX3zMj2cRatuGhJ4Z9+NoB9uuwU3GqW4m9WkBz
+s4lXCD7qaHJiXG5pet4gGh2s8MUSyB1DVsSlPbLDINhb5XMlTW6XvntLh2WFizRa
+i7bytCpndxeW0C5KVj3qgf5xrZuyyUB3zhGDY/oIyh+sq+TwqVg+OCk17WbB/ZDq
+drBIcpaVrg31ZUmTWn/foxVXXRqBcofjxa0ggfh+aAfgypCHOTdx2oUJ96Ua8bb7
+FViND66EYTenYQ00QSkbYAdRvofDlUUU+nRCirbSqMdWFR3diu6VC2Yo81gFvD6h
+AJtbBmZgnDLzmdD3jPgSBvDnrBugfJo4wDw8cu5T8KwO2sLHtviOh1o3NqMdyJ+e
+TVf6Yu0V36q0EkCaeg8Rq1C4cUTz8Sp71ui7AwI1yX6JsNrJnZ4pyzqTX/2ywnfm
+sUlp5I43xyA5yS2STv9e5xzXVfVgaIAdKd6IuXEskXIjyxiuuII=
+=kBrK
 -----END PGP SIGNATURE-----
