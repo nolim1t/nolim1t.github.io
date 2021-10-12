@@ -70,6 +70,8 @@ server {
 
 ... and you're done! You should be able to connect to your flashy matrix instance and join chats.
 
+Oh and you might want to also do a ```/etc/init.d/nginx configtest``` before restarting it to make sure you don't mess things up too badly.
+
 ## Next steps
 
 The default configuration seems to omit public registrations, but I think I'll keep the instance private. Public requires more admining and care.
