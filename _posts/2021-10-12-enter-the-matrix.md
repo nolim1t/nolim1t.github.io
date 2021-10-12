@@ -10,7 +10,7 @@ You may now message me at [***@nolim1t:matrix.nolim1t.co***](https://matrix.to/#
 ## Steps involved
 
 * Set up a domain name. Ideally the root domain if its possible. Was unable to do this as nolim1t.co is hosted on gitlab pages for the static goodness, and migration and reconfiguring this wasn't something I wanted to do.
-* Allocate a directory to store the data and configs. I'm using [this setup](https://github.com/nolim1t/synapse-docker-compose) right now. Some hints to improve it is needed. After all this is a learning experience for me right now.
+* Allocate a directory to store the data and configs. I'm using [***this setup***](https://github.com/nolim1t/synapse-docker-compose) right now. Some hints to improve it is needed. After all this is a learning experience for me right now.
 * For full internet access, open ports 443 and 8448 (this should ideally by secured by TLS/SSL)
 * Run the docker-compose
 * Set up certbot
