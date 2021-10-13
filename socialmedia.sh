@@ -23,6 +23,7 @@ Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @nolim1t:converser.eu (Because decentralization - currently down)
 @nolim1t:matrix.org (OG account, but I've deleted it)
+#thebarrenschat:matrix.nolim1t.co (General real time chatroom)
 
 Minds
 https://www.minds.com/nolim1t/

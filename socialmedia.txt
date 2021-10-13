@@ -13,6 +13,7 @@ Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @nolim1t:converser.eu (Because decentralization - currently down)
 @nolim1t:matrix.org (OG account, but I've deleted it)
+#thebarrenschat:matrix.nolim1t.co (General real time chatroom)
 
 Minds
 https://www.minds.com/nolim1t/
@@ -36,23 +37,23 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2021-10-12
+Today is 2021-10-13
 
 The current best bitcoin block hash:
-000000000000000000024bee1e428a8c7a81209d49e8f3258f0f26f7c2855116 (Block: 704650)
+00000000000000000009297e7272d6ce9472a1e4df19ce158429465f477a5e03 (Block: 704778)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmFlSnwACgkQ9ih7gsyE
-vL0g3xAAyxWaPDwWo9kHQUo+YSc0xn3sCBNlqmPa+e3fnsdqjMsMjDCMuiTY6737
-zVMUxxl60gLqcbOpRAscUmAdVkJS539UKkTashR6x69i8dIkI37CIoYuTcZ6FSmM
-svyx9LQkohF38j+IesuIaV9RPyb8G2/Hk9aeQsCAlrcETHuBbexwLuJUtSBadlRy
-uJsQK1wp7sljVRQjgzojUUr990ZX3zMj2cRatuGhJ4Z9+NoB9uuwU3GqW4m9WkBz
-s4lXCD7qaHJiXG5pet4gGh2s8MUSyB1DVsSlPbLDINhb5XMlTW6XvntLh2WFizRa
-i7bytCpndxeW0C5KVj3qgf5xrZuyyUB3zhGDY/oIyh+sq+TwqVg+OCk17WbB/ZDq
-drBIcpaVrg31ZUmTWn/foxVXXRqBcofjxa0ggfh+aAfgypCHOTdx2oUJ96Ua8bb7
-FViND66EYTenYQ00QSkbYAdRvofDlUUU+nRCirbSqMdWFR3diu6VC2Yo81gFvD6h
-AJtbBmZgnDLzmdD3jPgSBvDnrBugfJo4wDw8cu5T8KwO2sLHtviOh1o3NqMdyJ+e
-TVf6Yu0V36q0EkCaeg8Rq1C4cUTz8Sp71ui7AwI1yX6JsNrJnZ4pyzqTX/2ywnfm
-sUlp5I43xyA5yS2STv9e5xzXVfVgaIAdKd6IuXEskXIjyxiuuII=
-=kBrK
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmFmjJ0ACgkQ9ih7gsyE
+vL31QQ//VpjDMlR/D8tkhgXPkbLIuB03TOn+ExuUmaSiZTy7XmYyE6mpFvIDg1aI
+7yOBFVbrmw9Y2U8FTypDpCVcky90sChwp0Hd3XB2K0lu/GmVLYJbi9raNvFc5qdI
+P2vTw7WeKNiAoctMcxpo/QAU96rkcfxO3G48b4WN2AyrNLooKWEIKIQdn9mrNdel
+twzw7ZIpJWFsU7mZuJsmbMZVgE8F/cfddUf1Zp/H7bXF/k4ZNCaoOJ7MUww/7m5p
+b8nAwFokCUkMu+lLOLEXYOBFQSNBDD4J9G3XhPJCb5L0mODMxUs6cvXTfGu5jr28
+qTrTUBwu8OEJwyzdaeMVC6JCI0ufq4UiBL1/vILJVvyx1y3ZnvkstPYwb+m2HEk6
+PL9HSBCCKa8kCYWQ3YesnvEMIN4kJFsNT4DnGkrVpIGi8l+SKX3PoTB18xfzZ0Uq
+zHDSFcoIzm7QSOvgOM0roB+aLZZNgAcNHFDyxHXu1tBHdySKrK0KZ5/bYnL4eoZy
+TnUV+wk/WOrsZjM5UhC0OKxWnKvHHqBIPxHj8PY3pDgi1ZQflONi8QL076hAn9Y9
+6MoGho6x6F8Lz4zvy9VLlBKpQqR6svTleElSUhwNrQRvDjt/4BvnuJNmPk1Ia3RI
+FM6UOOkTN4rHiqimD90exXiTi/jsHaL/9fO2ZvgapeNu16AZJr4=
+=rgr8
 -----END PGP SIGNATURE-----
