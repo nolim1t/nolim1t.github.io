@@ -19,10 +19,9 @@ cat >./socialmedia.txt  <<EOF
 I am the owner of the following profiles:
 
 Matrix
-@nolim1t:tedomum.net
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
+@nolim1t:tedomum.net
 @nolim1t:converser.eu (Because decentralization - currently down)
-@nolim1t:matrix.org (OG account, but I've deleted it)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
 
 Minds
@@ -37,6 +36,7 @@ https://twitter.com/nolim1t
 
 Telegram
 https://t.me/nolim1tcoblog (Read only with commenting)
+https://t.me/nolim1t (Contact at your risk. Introduce yourself or get blocked)
 
 Discord (nolim1t#2650)
 https://discord.gg/Vnt7Nd9wzs
