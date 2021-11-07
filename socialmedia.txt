@@ -10,7 +10,6 @@ I am the owner of the following profiles:
 
 Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
-@nolim1t:tedomum.net
 @nolim1t:converser.eu (Because decentralization - currently down)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
 
@@ -37,23 +36,23 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2021-11-02
+Today is 2021-11-08
 
 The current best bitcoin block hash:
-0000000000000000000c0a474ed56373ce87814c70c4d150585b24b59ac2306a (Block: 707853)
+000000000000000000040cc5995858b93e0f09195cb68530a8b54fb8acddb09a (Block: 708658)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmGBGS8ACgkQ9ih7gsyE
-vL3pBg//VY4UqGtY//Tn47KzILETJMWFfsV1sgB3Wxtp//t78Zyph//rK5tfE/8c
-0rF9vqJhwvZleP7FLTclee0rT5nfdWAQbj3FHakOWkfcnodnUMxgNYmAfQm64w0z
-4b8LRIo/xv+qFD+cI4hUxqYBWaNUsP7vtz6NicsPj5QACmR/VJUJ25IZMPGgD/DA
-4cunw5bqkSWnv7rw+VIu+lurg/4ViaSLEV2znLt9SqhlZ5giInFFU/uo8QJxnqP6
-66sw8/CSRHng9SafnnPmUEGgEwe8i2HqURsWV9eck08OriHhpPfST9MDl9GiuLQl
-3sZz3ZfJBSWFF9l16FcrEN5pOg+ZDZcAWfuaN63exs0041qRX7DhA5LYMDqQEbEx
-o7xNKkCbwFYz3Dk1LwU57/Y8mN+1k06w9Jx2enwp6C4DxVjPFI3KHqlXaDGiIGvU
-fbDr6/tWInyZOwVvha/tzXsM90b050hOAph7+tsSjN4M2iyRuqWiKGY9yDEFmdWh
-8d36kAdTzQk+ao3IL2B6Icy14ZC/pk099ugiBog8+SVj93JUOkmOSWtWBiCOe6hQ
-qh1RmQJZyzWJjho6ORUAErEZ1kNSkUqD02CGjEgmnhLvmiEHRTBcuYlz1syznCpq
-Fb4BEx1Tr5A30p6TeyfjuggvQ3TncLlAI8m6VtMMA5vHHM1J9Ic=
-=lDy5
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmGIDH4ACgkQ9ih7gsyE
+vL12sA/9E552xUS9tDPH7n1vqH1yEjPH4aZqIr0VmxW5gNA+VbJUlgMoL+2twGOr
+nFixEae0LtzKiiLIhmlwKOYKXnSKEV/kSemdAHxS+qM/SpNYIO3D/SfpVQ4X2Mcy
+slxYrb1+OSYDaf4SYnt6sRnCuZzpPSPIN/btlW5KZauv00t3UbQbFYHAFvpMSZOf
+RDqGBCwajhau3N8Hj+QKm75m95a1vEoyQ5xrYJTcRRpr5PWeNJuqSWpHd7218G/D
+keA6EVfzwxOEeBzRtSJ8YtHl7dEXhe+Kuka6zbOTISGKPkC2w9049oc3llnSLTym
+VeHtPvR9RrnBoSh0rVuKkvfo6WCh9lBN5mw2Z3NJqk4lSshROssAIhF0r69GbBhE
+8FD4LAM/JzrmgDESteRr+VrApWI+x2XeF5Br6pMdPvC+kXGgBGd3X9ersWKzRpnd
+7q1PwJD5INKH9GMmKpznfr+D40VAF3QYbakkmOFpnzcl0HqTd5y9abLNzFaOztbh
+cW78bc1xgjwHtRpwm8t06jNKHup4Wfik05UsOTJXkUKVpGue31t6p6Ch+ZwwfL8T
+Jwv4EiIYPimVqnAOEkr9JdGlqBQaQp5zfxT0i0odURbmslYHIrP3gt4e3XtS5Vue
+ghSw/hhdn47lwFoCp5L8nKgC2XqWJXzmebqlQO0U5IhncpLAoBY=
+=ymKD
 -----END PGP SIGNATURE-----

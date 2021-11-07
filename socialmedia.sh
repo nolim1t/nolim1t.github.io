@@ -20,7 +20,6 @@ I am the owner of the following profiles:
 
 Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
-@nolim1t:tedomum.net
 @nolim1t:converser.eu (Because decentralization - currently down)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
 
