@@ -17,6 +17,5 @@ Citadel will also support alternative bitcoin implementations going forward. Whi
 
 I'll also be running a bitcoin knots node for better network diversity too. I already have 3 bitcoin core nodes, but would like to use an alternative implementation too.
 
-In future, I'd also like to support the [btcd implementation](https://github.com/btcsuite/btcd) for docker containers too.
-
+In future, I'd also like to support the [btcd implementation](https://github.com/btcsuite/btcd) for docker containers too, however it looks like [someone has got this](https://github.com/btcsuite/btcd/pull/1465).
 
