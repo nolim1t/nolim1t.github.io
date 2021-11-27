@@ -20,7 +20,8 @@ SITE="nolim1t.co and nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.on
 cat >./canary.txt  <<EOF
 I am the admin of ${SITE}. (${ADMIN}).
 I am in control of my PGP key.
-I will update this canary within 14 days.
+I will update this canary within 14-21 days.
+
 This file can be accessed at /canary.txt
 
 Today is ${DATE}

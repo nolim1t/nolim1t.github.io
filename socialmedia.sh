@@ -50,6 +50,7 @@ Today is ${DATE}
 
 The current best bitcoin block hash:
 ${BLOCKHASH} (Block: ${BLOCKCOUNT})
+
 EOF
 
 gpg --local-user F6287B82CC84BCBD --clearsign ./socialmedia.txt
