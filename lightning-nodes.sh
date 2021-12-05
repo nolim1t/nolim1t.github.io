@@ -20,6 +20,15 @@ I am the owner of the following lightning nodes:
 
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
 
+Chiang Mai nodes
+
+AirDeveloppa co th.
+https://amboss.space/node/034b450402ad76d02586883ba61eadd5368cd2ae132e9090918d5c1e5c0c3376d6
+
+Burrito Squad / Corner Bistro
+https://amboss.space/node/02a6ae00f1e658e23447b5fd3a03acc42ddd0e80350ce4fc02ee33bffc095d0187
+
+
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
 
