@@ -26,6 +26,7 @@ Focus for 2022:
 
 * Growth. Looking to expand and increase my income in a more sustainable way. Restaurants seems more consistent type growth in these trying times. People need to eat. And exploring CBD type products due to numerous health benefits [(1)](https://www.cbdoil.org/cbd-benefits/) [(2)](https://www.studyfinds.org/cbd-covid-19-prevent-lung-damage/)
 * Learning rust programming language
-* Continue to run the Sovereingty Meetup for Soveignty fans in Chiang Mai.
+* Continue to run the Sovereingty Meetup for Soveignty fans in Chiang Mai. And promote the concepts of sovereignty a lot more as a lot of people could use this.
+
 
 
