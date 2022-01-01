@@ -20,6 +20,9 @@ Mastodon
 https://bitcoinhackers.org/@nolim1t (Main)
 https://bitcoinersagainst.boats/@nolim1t (Backup)
 
+Gettr (Twitter replacement)
+https://gettr.com/user/nolim1t
+
 Twitter
 https://twitter.com/nolim1t
 
@@ -36,24 +39,24 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2021-12-31
+Today is 2022-01-01
 
 The current best bitcoin block hash:
-00000000000000000003181b5d29a836ae6f0734d09c0034c324c870bf236c55 (Block: 716479)
+000000000000000000081c48486a15bc6893bd62f35c633b5c069af2c0e14309 (Block: 716648)
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmHOjyAACgkQ9ih7gsyE
-vL3xOQ/8DfmejcC9AsmEU8aGGPCVcY7ZFqZKfmvt4v3heHo4fa67YUwUaVZSUydD
-DbRJf5d35PRq9RBUsa6gbeLI41uYgIaxE1PCV2vLhrDD9CJB/o/Nen31SRAuUoh8
-Zo1w4CgtDEC6nEFvI/ZrS3o83Lq/tcB4EWTT1UXigPYs4BJB2seyntQhy+YLCSnD
-XI4h1aC7PwlAwCb0y40gxZ5Dt5hG3glnw6Ih3VsYjrHvzj8CfF7cXxyo+MjPvQ/G
-HNBGCOp/nWz16gSyvMSb7IuLGndQaQFOg4DD9dTNNvzou1bbLi7wEPvDCikr7J/m
-7s8H790LPZhyF6sbNMwF4ogphMYWXz2vwhTMIVxoDOO8jILYc+Z7kM0ZtGIEHGcO
-juOKU+7mPaL38wXVUPgwD0oIuE0AAeHajYOy6moIztFJYOWnDK3yVD52yGK2phVt
-wpX+r5Bb/ry+4BC/Z8HtoRpZN+8qRWrEZSs2qOF8GUX/JTKrDKFxPLY9djLWUIlw
-bmDkcMEhxnMDhhV8MDJO0Lg9ryGXy3mkRytuR2j+jutSt86Mg6C2SKWfUeeU0iPr
-jNyP65s3rSdFE0ipaU2dXhVn05CCMIAGMAROdLczRyYRQZ+9muvUMZl8b9JvOr7O
-NsxVd7GmlLSflVrCE45Q3nrcgPQ/rqvvgr/QZkWAxZQdVBpgLw0=
-=IeW1
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmHQAAoACgkQ9ih7gsyE
+vL2Mtw/+LE9RQUWCeJ6aoqVvbWri00epqbOEBZfAZCpcUFyxfYYxJdwSq1TSJOxt
+Od521WW0RrxDiCxBqV/Wdo8j0KGhYgK929qv3S4RT5bGk5e+N5MyvIb1pyrs4tJQ
+J7IpUYAtCddM/HGIti8ap4HcCkL89z76tSo7tsq1y4Llg7x17DubCNnSm+beIyET
+QdlYWKSIb0Lxf0VSTMuQmfLEQS0GK6qGm7AzewHdqgmvODX2QblEnp3AttJf3ZiY
+7SxpyxCsQjihX2rn9jolbpCRIODt3eC1evFIqzR0Wd5hXrqEshXW8KLAelUKAEtL
+Pg5i+hJvB4452qwYoTktGWI1gQpOKwW4mpkp9CW751Aav42KP0z3ShP+41AvGBws
+/KhO9WrYIqHeaXiKo2XyFZNWHqtsOxl0BdjzujpXooOQWB1WX4qTIX3gwran46Zz
+cRbt6DzpncyUfQneynbXIbXj4iQHqeXbhjLFEL0OgAyxZQ59r7uVkHJ8LqFSEW1O
+YzM5YRf1gf5chY9ZXAS88G4nGIlj6Gtl6ndNUi8VpyzePiyNRr9RilF3x07GBg7n
+A/EE6J0QSjjEar91w1jw5yF7lk4QQMsFNCMKB2fC+fXRxoR86IylV/yVLuKr/LdO
+kKzMxiNBNTaFz+K/JzAfiSgjavALessDYhjNDWQZhPYumXOeokk=
+=/IAy
 -----END PGP SIGNATURE-----

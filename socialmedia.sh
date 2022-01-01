@@ -30,6 +30,9 @@ Mastodon
 https://bitcoinhackers.org/@nolim1t (Main)
 https://bitcoinersagainst.boats/@nolim1t (Backup)
 
+Gettr (Twitter replacement)
+https://gettr.com/user/nolim1t
+
 Twitter
 https://twitter.com/nolim1t
 
