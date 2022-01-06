@@ -37,8 +37,8 @@ Twitter
 https://twitter.com/nolim1t
 
 Telegram
-https://t.me/nolim1tcoblog (Read only with commenting)
-https://t.me/nolim1t (Contact at your risk. Introduce yourself or get blocked)
+https://t.me/nolim1t (Read only with commenting)
+https://t.me/nolim1tcoblog (Archived blog)
 
 Discord (nolim1t#2650)
 https://discord.gg/Vnt7Nd9wzs
