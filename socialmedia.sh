@@ -18,13 +18,14 @@ ADMIN="@nolim1t"
 cat >./socialmedia.txt  <<EOF
 I am the owner of the following profiles:
 
+Lightning address:
+nolim1t@bitrefill.me
+nolim1t@lnmarkets.com 
+
 Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @nolim1t:converser.eu (Because decentralization - currently down)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
-
-Minds
-https://www.minds.com/nolim1t/
 
 Mastodon
 https://bitcoinhackers.org/@nolim1t (Main)
@@ -35,6 +36,9 @@ https://gettr.com/user/nolim1t
 
 Twitter
 https://twitter.com/nolim1t
+
+Minds
+https://www.minds.com/nolim1t/
 
 Telegram
 https://t.me/nolim1t (Read only with commenting)

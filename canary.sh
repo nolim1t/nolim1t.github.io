@@ -15,7 +15,7 @@ BLOCKCOUNT=`curl "${APISERVER}blocks" 2>/dev/null | jq .count`
 DATE=`date +"%Y-%m-%d"`
 ADMIN="@nolim1t"
 # Defaine your site
-SITE="nolim1t.co and nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion"
+SITE="nolim1t.co"
 
 cat >./canary.txt  <<EOF
 I am the admin of ${SITE}. (${ADMIN}).
@@ -28,6 +28,7 @@ Today is ${DATE}
 
 The current best bitcoin block hash:
 ${BLOCKHASH} (Block: ${BLOCKCOUNT})
+
 EOF
 
 gpg --local-user F6287B82CC84BCBD --clearsign ./canary.txt

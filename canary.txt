@@ -6,29 +6,30 @@ permalink: /canary.txt
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-I am the admin of nolim1t.co and nlboxajljr5boevw3vyfryenhwqs5eehfh5pnbzjlnounrje5wulbnyd.onion. (@nolim1t).
+I am the admin of nolim1t.co. (@nolim1t).
 I am in control of my PGP key.
 I will update this canary within 14-21 days.
 
 This file can be accessed at /canary.txt
 
-Today is 2022-01-06
+Today is 2022-01-10
 
 The current best bitcoin block hash:
-0000000000000000000ae596f1df513d73a2080e879401832705314f52f230f6 (Block: 717418)
+0000000000000000000a58b55e2438e5952f48bf6701ae43ad0437c793a9ead7 (Block: 717998)
+
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmHWtVoACgkQ9ih7gsyE
-vL3wvhAAo/WOnd/9h7XuPkE5OK26fyGu3gBEpuDvNbmHZR+XBvONGQHiB79Fx/aI
-I66HPkIRBvYzTTU4jHk/MP54+D1C1kjO9nr5H+6EFQ5yE2T561BzbitgKYJ7RZ9B
-T6N1EWubZ9kW4ipAYzGTfkMl439SN8PgohbTLtSxsJnrxaza0QX/Rq0NMpPZt8K2
-RmZtMggX+mQBn2oA5jP1re/s5JCYbxJzVbtp1GJa0E6wQJRR+di+rZLKCV2CL1V6
-K4RZC3uAa5i/AY3v7QxsvvR7RR5LZ2erNhGAKDQMCYPKx+VlPEH+VJqSoGV3ZhVy
-Oarcc1vHPr33OxalNNiieOEJbE2CcHol2iXjAzNHM/xbPjyKvx1Mnjra1SrDXgZb
-K2ezZO7rViU/phHOvh60tLyyB+dYd4kyOzAeefq14mbcROdQZyjPBo2UFT5V6V3+
-+s85+4TyYw6Rr3dLl/fw+XkfPO4efbEAtmeqwRnoMp+AhbXpwNetzciLe7cGhHcz
-gpXscvJInFq9PRKa8bMurr2PwhVRXxXzWwlYCn931FfgYkWtB5nzg2NoDtndJsRb
-8psuUSNDWrW+DV+LLkaNC/h6NL8hgpVEFgn6X3g1iqq2yFAGJm/2wNhI7Pbqtyj3
-y0BQTRtUXF5jaOuG3Z73GdzGdEKZniuBU10kaiHdXpqhlO6GTnY=
-=LhZj
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmHb/pUACgkQ9ih7gsyE
+vL1VRA/+O1vvcMmO8nyoAtin5XgRM6bj+ds6hMmZ0Og1Pk7xOaHSc1gV+qBqTrnM
+1vfre07yJfwaXZFzZ/FCTSOI9PKvJEOKJIcp8NlHnVL5bYLOAf9549VGtVqIf+yB
+ibWr/PLweP2mlZl5xJ7vwV+w76nBxnlNat0+p2/LjRTy6XFslxDTs6KmRjwEDvmc
+oN3oE4e/aQW9whLcGz0dYfw3HlfzJkwcHLXS/rUR1n6y1RVlN1jRQtc3DC9wNm9B
+iDEWZvrmC3aAg6te2ipk7DMDKdTr9jLqLq2MUlQeQ6MG+tSOreWJyEJdORK7ELxQ
+bTYP7HUgnzJqBSKUWjUAhzVgXknuqnfQop2ieDnt6MPzOAvJ6ijOmZfixQgmteto
+59HuPTJ+RbxFcLYd7F55iz31pairMg6UIWyvTwAjtMpHBD+LEwrN5jhObMvqWY2H
+r6UKPff9myV6kZ6uhcmwaV6qIvEmwOH4m8dDmWpi21/j5ANTu7fs/DwpB1qlDUB4
+Xb30ucZZncetFOKlCgi4RUqrZ+kdKsdNs/sJuP9DWNlnXYqnYTQxEfqH3IX8aopo
+E0w0M3K1qTAU0Wgm3P+oomJSfoNpE1St28dezpw+eXES89pTnkLlq+oyTZaCXZp6
+Ckf18KYeIF+QNzKTAI2e7CB3QlmmfKGLoeV7xy9786IYYpOHvug=
+=PdfF
 -----END PGP SIGNATURE-----
