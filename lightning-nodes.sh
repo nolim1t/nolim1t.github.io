@@ -29,6 +29,11 @@ Burrito Squad / Corner Bistro
 https://amboss.space/node/02a6ae00f1e658e23447b5fd3a03acc42ddd0e80350ce4fc02ee33bffc095d0187
 
 
+Watchtowers run by me
+02426142a3724b1c4e08f74f2995514bf5a83d8ceeee1db05cb15e749f543bf4c3@jc7bpbggvkiakcbcjo6gp3d6aaqjmn3wtrf4h2j5dbd7ba2ke7zw7aqd.onion:9911 (recommended)
+0293d642f22a1838f0238894a5ed0600629010d772ff66d4cd26e3ac850b56b985@mwd3ssxb73egp2z3oo6k7q4qdm6ne245lsci7uc6slje6slintdgpeid.onion:9911 (backup)
+
+
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
 
