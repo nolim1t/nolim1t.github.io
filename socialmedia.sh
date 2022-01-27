@@ -19,6 +19,8 @@ cat >./socialmedia.txt  <<EOF
 I am the owner of the following profiles:
 
 Lightning address:
+nolim1t@lnaddress.me (Sovereign)
+cornerbistro@lightning.by (Sovereign)
 nolim1t@bitrefill.me
 nolim1t@lnmarkets.com 
 
