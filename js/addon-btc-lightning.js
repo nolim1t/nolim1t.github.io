@@ -5,7 +5,7 @@
 */
 
 // set defaults
-const base_url = "https://tfqfpfsjpg.execute-api.ap-southeast-1.amazonaws.com/awslightning1/generateinvoice";
+const base_url = "https://payserver.perceptionz.net";
 var traditionalPaymentURL = 'https://www.coinpayments.net/';
 var LNNodePort = 443; // Use full node
 var LNCNXNodeHost = 'rpi-invoicer.nolim1t.co'; // same same
