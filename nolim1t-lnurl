@@ -1,0 +1,13 @@
+---
+layout: null
+permalink: /.well-known/.well-known/lnurlp/lightning
+---
+
+{
+    "callback": "https://payserver.perceptionz.net/lnaddress-callback",
+    "maxSendable": 1000000000,
+    "minSendable": 1000,
+    "commentAllowed":150,
+    "metadata": "[[\"text/plain\",\"nolim1t tip address\"], [\"text/identifier\",\"lightning@nolim1t.co\"]",
+    "tag": "payRequest" 
+}

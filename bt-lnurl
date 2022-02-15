@@ -1,0 +1,12 @@
+---
+layout: null
+permalink: /.well-known/.well-known/lnurlp/bt
+---
+
+{
+    "callback": "https://payserver.perceptionz.net/lnaddress-callback",
+    "maxSendable": 1000000000,
+    "minSendable": 1000,
+    "commentAllowed":150,
+    "tag": "payRequest" 
+}
