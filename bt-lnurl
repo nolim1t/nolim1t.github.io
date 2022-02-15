@@ -4,9 +4,10 @@ permalink: /.well-known/lnurlp/bt
 ---
 
 {
-    "callback": "https://payserver.perceptionz.net/lnaddress-callback",
-    "maxSendable": 1000000000,
-    "minSendable": 1000,
-    "commentAllowed":150,
-    "tag": "payRequest" 
+  "callback": "https://payserver.perceptionz.net/lnaddress-callback",
+  "maxSendable": 1000000000,
+  "minSendable": 1000,
+  "commentAllowed": 150,
+  "metadata": "[[\"text/plain\",\"bt tip address\"], [\"text/identifier\",\"bt@nolim1t.co\"]",
+  "tag": "payRequest"
 }
