@@ -8,12 +8,6 @@ Hash: SHA256
 
 I am the owner of the following profiles:
 
-Lightning address:
-nolim1t@lnaddress.me (Sovereign)
-cornerbistro@lightning.by (Sovereign)
-nolim1t@bitrefill.me
-nolim1t@lnmarkets.com 
-
 Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @nolim1t:converser.eu (Because decentralization - currently down)
@@ -52,24 +46,24 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2022-02-13
+Today is 2022-02-23
 
 The current best bitcoin block hash:
-00000000000000000007061f9038c841e9d61191e06deaf99eacd2db6b8cfa14 (Block: 723089)
+00000000000000000009f791d10c6d31a97bc9e2fff4ed58c511122687398936 (Block: 724581)
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmII7TUACgkQ9ih7gsyE
-vL2OuA//VU9+KBlD97x2v5Y+nNlZjAjwnUPu/sxrhS/RYxPE4csN8FzTmGZyEB0r
-MqYYyft9iAWAnC5z4HHAUjaLIJ6yFvXww+jf8r2A+IvNrDayMsFROx5W9mp+JM1A
-oV2pZ3KGd1Aw5zJJweINOGgUzw6IPdljdlYBd5Ln1n+6aFKbV9ECh0lNfYEKQ0HT
-gWYKgOA5S4T0Rv7Jf82jCDsgz8fgDBydwMpxCEe6iWGwbLco4KGegWj3Yv18WJ0k
-fVtN53P6RQY7BSHsopZXUv8k3J/7J/rQk8nXlC3/f+YoBq2Wb9ppkGU7QaDCNFfW
-StZ2gJwyhq3jtO0BsaTZg2Ll04hyqdrwniWfM92m7wj4/kEtaFm8gwbdAwXWricx
-RaJmUnayLU6mEoa37zLyYl0hv8LytEKNE9xj2YQ2oBgDL7jDZ6AeCCnvvAegpVQZ
-VvWiTciO3/UpNnCQtyycD8bfzbaZ1qZFd8uU7+g3jdjG6o4t5R/xl6AeoTdKhmKO
-ct0Q7vz5xqoKvVCC2mtyOTUqM3AtTaZVGGZjFpBL1XPfSZOGnOalQP3d3qoyiW3h
-vBTIxTGAI3AzQWknXhOcRiF6xPHrwz9uGPIh4xquwoqLbLAhU+YTV3Q3KP3x199/
-pdq3C18DHngBQDod5WefMRpCheJJBcytz5ZWrp98MB7L9RfXDOk=
-=4axf
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmIV7ucACgkQ9ih7gsyE
+vL39GhAAoiASZm8CTwnYIS6/NCFEGYkXqvb9MDfg8ZgrvG1fF/txq/z1wrP896LY
+AWszzhiL586xeS3jVN4sMeEgQWTujWrMFFaGrf4EnoWud9oGCcpd2gWDUuXnfzY3
+2Epqq1veeH+mbFu892VuOS7Zp7pxLA1Ou8qpErwp+Q46X2gpyozlsECC4oDzYPbX
+XqXnGnjYUkXLrDTcxxrw7F4E8OZ1hbbVwSgzEk+Ke/VPuRdI/ZenLadiZO2+x9OS
+eniS9REax9Y6nGlP0ImWwZe67m9+FZTRCfMt9ncCHYLd3NKaI6QXjWAgXX0rd1KC
+m8h1xHrM8uBqSIT2afgr4bqN9t5jW4Q92kaLTTo5LPej0mVumWjDwewR0Y/vUake
+piFJaRXcSwo8ATX0SXXh3uQjhgoSQq/+hkQiFbkOWKqKaf8oEUvEsm9HiDKoRvzb
+ghrK16DYTH/RHruFCtOITKlyKRZhwJ+vvb0ZhGIP1j0SJL0eVdhkRyrF8kdKag0A
+ZoJGH1cJ48mMgRejfbkCa36OYD8xxfn1jxpjgRo2PNFvDkuaPQmQ+HryI0oVhQMi
+C+NwKQgeGsZpc4U7G8w9HKQACc1AaTkr+uayfKy0cQzK46j/uc+cJNxWflou5N/L
+Bl2bpf0BRA1FuKooluEDpadq5BFIyk4n7Duh0M/pfZtlArkuAKQ=
+=iv60
 -----END PGP SIGNATURE-----

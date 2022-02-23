@@ -18,12 +18,6 @@ ADMIN="@nolim1t"
 cat >./socialmedia.txt  <<EOF
 I am the owner of the following profiles:
 
-Lightning address:
-nolim1t@lnaddress.me (Sovereign)
-cornerbistro@lightning.by (Sovereign)
-nolim1t@bitrefill.me
-nolim1t@lnmarkets.com 
-
 Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @nolim1t:converser.eu (Because decentralization - currently down)
