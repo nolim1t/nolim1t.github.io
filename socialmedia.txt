@@ -13,6 +13,9 @@ Matrix
 @nolim1t:converser.eu (Because decentralization - currently down)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
 
+Briar Add Key (Add from distance)
+briar://acv2wg7e35tcyv7ktmefkbu5xfcfjntgwfwec3grz5zxkuojxt6ts
+
 Nostr Public Key
 146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd
 
@@ -46,24 +49,24 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2022-02-23
+Today is 2022-03-08
 
 The current best bitcoin block hash:
-00000000000000000009f791d10c6d31a97bc9e2fff4ed58c511122687398936 (Block: 724581)
+0000000000000000000256715261275a15fdcfaae3fe3a4de914e3db1ed5330c (Block: 726409)
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmIV7ucACgkQ9ih7gsyE
-vL39GhAAoiASZm8CTwnYIS6/NCFEGYkXqvb9MDfg8ZgrvG1fF/txq/z1wrP896LY
-AWszzhiL586xeS3jVN4sMeEgQWTujWrMFFaGrf4EnoWud9oGCcpd2gWDUuXnfzY3
-2Epqq1veeH+mbFu892VuOS7Zp7pxLA1Ou8qpErwp+Q46X2gpyozlsECC4oDzYPbX
-XqXnGnjYUkXLrDTcxxrw7F4E8OZ1hbbVwSgzEk+Ke/VPuRdI/ZenLadiZO2+x9OS
-eniS9REax9Y6nGlP0ImWwZe67m9+FZTRCfMt9ncCHYLd3NKaI6QXjWAgXX0rd1KC
-m8h1xHrM8uBqSIT2afgr4bqN9t5jW4Q92kaLTTo5LPej0mVumWjDwewR0Y/vUake
-piFJaRXcSwo8ATX0SXXh3uQjhgoSQq/+hkQiFbkOWKqKaf8oEUvEsm9HiDKoRvzb
-ghrK16DYTH/RHruFCtOITKlyKRZhwJ+vvb0ZhGIP1j0SJL0eVdhkRyrF8kdKag0A
-ZoJGH1cJ48mMgRejfbkCa36OYD8xxfn1jxpjgRo2PNFvDkuaPQmQ+HryI0oVhQMi
-C+NwKQgeGsZpc4U7G8w9HKQACc1AaTkr+uayfKy0cQzK46j/uc+cJNxWflou5N/L
-Bl2bpf0BRA1FuKooluEDpadq5BFIyk4n7Duh0M/pfZtlArkuAKQ=
-=iv60
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmInSzwACgkQ9ih7gsyE
+vL09Vw//UXlR+0mmPbyp0HX3p/1tX+PmCdueqV6VIR/hIGq7J1TgDMkoGg4LDVkV
+MHYfJdjBredcyeELreEtVUOXDxSFtkV0qnY3CRpWJeGD7ujXiISvjhxoCbima2QW
+YdokbMhBGLTkIrkaNbpbBwr0blh3MxSJR/tn6JVMkfVnIeIU/VnpNDrMopLq96cQ
+YaY3YGRMR5hvbCVDF9brqjENwsKxJsuyWZrm/ckElGEjqtbmlgDAa+5UzYF96mby
+evKQgiRcXuh/5aIu/Ht3GvDsGW+9jCxAc6w8Vb6ArN2B41OyhydhARg85scIc+Mc
+PWTbF1/BWYtp1Qz0hHzh2LYGyvsyh0lrPQJwtvdqj0r/laAf/g48kRem72rfP71f
+aqmKpNFhE5LVLJ6kLzHRsovxokiF5h/HrEJBLeYuVdZmKhi85DWs0LmWnCdsafaT
+DvgX3/z/3zGI4GoP4/8gw4jWHtQOa53Y0toHK8zO+7ySjzmLW6Lu2FCwjQ+y/Chx
+KiltVKqoQHWqnb6TwbFzhY+JzKtpr1WtC6l9/5X9xvl24gJVcmLfsVQRKpG833iS
+s7UGbFODpoGVPTegPKDDmE7QR6+uqHzOGG2Vhf3Zlpr7JaxETSMS6DXLZ2Jwgzd8
+gWPenWSzuwZqNM/CEk9GvG3XhD7ZONe/oDygqt0hWrvmDB5bKXo=
+=N13M
 -----END PGP SIGNATURE-----
