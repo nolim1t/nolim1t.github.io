@@ -18,7 +18,11 @@ ADMIN="@nolim1t"
 cat >./lightning-nodes.txt  <<EOF
 I am the owner of the following lightning nodes:
 
+nlt hub
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
+
+nlt sphinx
+https://amboss.space/node/03c81224383d7063ce859f8dd55a70546e0ca1beae70e406f9aba46ad6cfd80a19
 
 Chiang Mai nodes
 

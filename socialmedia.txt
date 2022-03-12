@@ -16,6 +16,9 @@ Matrix
 Briar Add Key (Add from distance)
 briar://acv2wg7e35tcyv7ktmefkbu5xfcfjntgwfwec3grz5zxkuojxt6ts
 
+Sphinx Chat Public key
+03c81224383d7063ce859f8dd55a70546e0ca1beae70e406f9aba46ad6cfd80a19
+
 Nostr Public Key
 146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd
 
@@ -49,24 +52,24 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2022-03-08
+Today is 2022-03-12
 
 The current best bitcoin block hash:
-0000000000000000000256715261275a15fdcfaae3fe3a4de914e3db1ed5330c (Block: 726409)
+000000000000000000024354608cf135cf2bf483776b3c131a5df7e7e6650128 (Block: 726958)
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmInSzwACgkQ9ih7gsyE
-vL09Vw//UXlR+0mmPbyp0HX3p/1tX+PmCdueqV6VIR/hIGq7J1TgDMkoGg4LDVkV
-MHYfJdjBredcyeELreEtVUOXDxSFtkV0qnY3CRpWJeGD7ujXiISvjhxoCbima2QW
-YdokbMhBGLTkIrkaNbpbBwr0blh3MxSJR/tn6JVMkfVnIeIU/VnpNDrMopLq96cQ
-YaY3YGRMR5hvbCVDF9brqjENwsKxJsuyWZrm/ckElGEjqtbmlgDAa+5UzYF96mby
-evKQgiRcXuh/5aIu/Ht3GvDsGW+9jCxAc6w8Vb6ArN2B41OyhydhARg85scIc+Mc
-PWTbF1/BWYtp1Qz0hHzh2LYGyvsyh0lrPQJwtvdqj0r/laAf/g48kRem72rfP71f
-aqmKpNFhE5LVLJ6kLzHRsovxokiF5h/HrEJBLeYuVdZmKhi85DWs0LmWnCdsafaT
-DvgX3/z/3zGI4GoP4/8gw4jWHtQOa53Y0toHK8zO+7ySjzmLW6Lu2FCwjQ+y/Chx
-KiltVKqoQHWqnb6TwbFzhY+JzKtpr1WtC6l9/5X9xvl24gJVcmLfsVQRKpG833iS
-s7UGbFODpoGVPTegPKDDmE7QR6+uqHzOGG2Vhf3Zlpr7JaxETSMS6DXLZ2Jwgzd8
-gWPenWSzuwZqNM/CEk9GvG3XhD7ZONe/oDygqt0hWrvmDB5bKXo=
-=N13M
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmIsTVEACgkQ9ih7gsyE
+vL06eBAAwxGXplZuxRAnTejL3Aama4koTtPBv4AhSw9lGZcizokqCS5ujii5EMu0
+5RNh1F7VVsSvpY3oD7PaC3robk0fV8RKMc9LuH8tNUUgNZ3n8gxMZhHVFnvF/BQ/
+jFitUabe3Yp/ZoVotfwFjWVkCcqGzaj0tWfDgadY9pfQuVpZhgyy/iIbEaIiXysI
+pY2agPdXQvbHuPfqxASCFQdT9X4FDM8TBiMDgm9ogl9RJV7sSPS0NlCa4XegZC0q
+q/gtMyRBGGaRAeIYvV+5R4TzxPykx6u2oBJ/ClhzY8FOvIiNJi89lUmF07ztMLvu
+xnsrfoi6a9j37pPYG6q44/a1wqBGENoLnw7VmITpVx12R17tnDBeggy4jte2J2sH
+QCFsublgHhQHepGOzwGYTziw0/U3oTorjvLNXWY7u8tLlOW7RBKzYW/Occ/6XYve
+ujGGGq4NjIno6ckf8/WH63oDP+Ric2I7FBhVixgpWKx7et+jpx0U6Cp3B218jzVB
+2MDh8Tc4z/E3sqAZlbhwF9Lv6V4P3X49SXIbNf3Bz/TeVxhZE+JTOQsCY3b5oxb3
+CKiMKHMxs2yKjJ3WlcACeSUKG1T12jDM2gRd6Wq481QtWTAF7u/WzPrduGgVLUs/
+FlRSrw4GWTDMZ0D7o+SF3XEfCDeiflB+tG1wupIA7xEoGSJzd9c=
+=LwIP
 -----END PGP SIGNATURE-----

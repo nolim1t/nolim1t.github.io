@@ -8,7 +8,11 @@ Hash: SHA256
 
 I am the owner of the following lightning nodes:
 
+nlt hub
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
+
+nlt sphinx
+https://amboss.space/node/03c81224383d7063ce859f8dd55a70546e0ca1beae70e406f9aba46ad6cfd80a19
 
 Chiang Mai nodes
 
@@ -27,23 +31,23 @@ Watchtowers run by me
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2022-03-08
+Today is 2022-03-12
 
 The current best bitcoin block hash:
-0000000000000000000256715261275a15fdcfaae3fe3a4de914e3db1ed5330c (Block: 726409)
+000000000000000000024354608cf135cf2bf483776b3c131a5df7e7e6650128 (Block: 726958)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmInSz4ACgkQ9ih7gsyE
-vL1+zw//actOceaf9yvDFWu9U/EdRTgm1fjvXppcDqvR3eYOlYUw0qUmI/7kPtZw
-KbFoqDZmkBRT2XUY6J6R8Ppy75T9I+8k+8XVfUIVsXD71A5DuNB6BzxH32ZwrfYQ
-9HraK1jSeF9iNCtpX03nB0PvA1/vxynl3bX50iIEvXIJRCTLLYGg1v7FutY9+Puy
-tBMcZrEdjse2svSQiSVi/tssZcfS9k+qMkfiyY4CZC1/H3QmRc/2bC3BFzV/xgam
-xuEKHYQK5wYyRiShyeMJWoCmTGk/cW2F7kUN7IzYt6lGkEnpDyNn2aOaLER3EDy7
-zLH5KKQhQr/OBopl852cPn93HLFfhKYtTHVWFH4b14oyH3BUNTr2Y9fD3dlNSm/q
-AKuJ+kRCPD5bNmrS79UJD7w5gEA5TX+wJBbnF+OrC5wvSIux9sXmSzI1oaHYDsJ4
-8A8cbxsSqAeJaXSzcaQ8ofBkwYn7p1tnvRnHo2aEqz48nPEC/0Gm+ArlRkon1z87
-pdOmN8DO+ePOJSRD0HWC5yBeQRg0hh1Oj0JvwgyPqnbb207e4uoK7+jmey3sc4tW
-Qr8zVGLH67qSk6xxhFum0lY/N0HXjYLq4oQx9INX25RfSKhg8x/4urRhB9aPnR0Z
-rdcUnHRSqnjZ0ZsxWRCa6sCqWjX6Ichwmn00K76WXydukjh0PP4=
-=OHkD
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmIsTY0ACgkQ9ih7gsyE
+vL0DbA//fFXnvktgdnaoSJPBzHza3ja19qces3m+9+BxmfOS2WzrOkY9v8DVnNIK
+pj6llhjpprVl1tJ0gkswTVJx5pnZ0cxWxY5lE1QeBFkKXMIlSNRM/y5Hjg9NcF4e
+QiuIMsw/Qf9FV80sX/orNLgt+NRapCmkFmvnwKZfNl1mS0RHEUYB5Qd4imMyioz5
+q/1NN2lmihp5cEruzsosv5DTVi+btT1fVjhVXUmXbKLPB5/PFwK421lR9wgwsDB4
+6wBoleE0dyxK3isCQXzp6+K4CNvZiskISDO7nc1gYMB4Rl89jyPMZTiI9SuY/aKA
+vOwydtgV7z1SvbLJQcHFSuzn5fgug9rA4AiIZDSN773D+dKEUptJwKIzxYu3srdV
+FW3p6VIZnf0y+gLf+ZwS1yhoeNx+sYwT3f1G43FGQrm1T/iiLZ5PplZsGEVBrWMh
+M1gCmwv84oao/zELiTJnKsvIN+iqTEroYrkjnWwZ5wsbgVd4QUBI0gBzrf1vz/Hp
+KKtRm9W6PkNkjf08Kw5tnCJ3rNgzLjZ3DI8qAMfV/nmAM4CW88WDUhY15jOj4Ans
+EIrT9RtHxJYR+ZPJXS33V0jjDK3UBb395Qx1HRL1FcSNCBbZ4v09qib8j/iwF0Lt
+LnE5o8CPCghQUId87N0oZAtlm+4QIeK/CX5281jQWNBEupFZE0k=
+=LQCR
 -----END PGP SIGNATURE-----

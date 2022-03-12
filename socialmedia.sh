@@ -26,6 +26,9 @@ Matrix
 Briar Add Key (Add from distance)
 briar://acv2wg7e35tcyv7ktmefkbu5xfcfjntgwfwec3grz5zxkuojxt6ts
 
+Sphinx Chat Public key
+03c81224383d7063ce859f8dd55a70546e0ca1beae70e406f9aba46ad6cfd80a19
+
 Nostr Public Key
 146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd
 
