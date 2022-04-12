@@ -5,9 +5,11 @@ permalink: /lncm-satsback/
 
 # Satsback Terms and conditions
 
+- Do not contact staff of all venues regarding the promotion. You may contact @lncm or @lncm.box on Facebook should you have any questions
+
 ## For the 10 % promo
 
-- Subject to change (will be announced on @lncnx twitter and LNCM facebook)
+- Subject to change (will be announced on @lncnx twitter and @lncm.box on facebook)
 - Please provide proof of payment with clear date and amount
 - Bill/tab must be opened and closed on the same day
 - The bill must be within the last week
