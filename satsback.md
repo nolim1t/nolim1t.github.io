@@ -13,7 +13,7 @@ permalink: /lncm-satsback/
 - The bill must be within the last week
 - Satsback eligible participants can opt to receive sats directly OR opt to send it as a tip to staff (using the rate that they paid)
 - User must have their own node configured for keysend payments (Umbrel and Citadel both work) OR have a Lightning address available OR a provided LNURL is also acceptable too.
-- To remain fully compliant with local regulations in Thailand, user must not receive the payment to a digital asset provider account, and additionally must send the payment from their own wallet.
+- To remain fully compliant with local regulations in Thailand, user must not receive the payment to a digital asset provider account, and additionally must send the payment from their own wallet ideally (CashApp / Strike are OK to use).
 
 
 ## For the 21% promo
