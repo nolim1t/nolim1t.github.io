@@ -5,14 +5,19 @@ permalink: /lncm-satsback/
 
 # Satsback Terms and conditions
 
+## General T&C
+
 - Do not contact staff of all venues regarding the promotion. You may contact @lncm or @lncm.box on Facebook should you have any questions
+- No responsibility shall be claimed should the payment fail due to routing issues, connectivity issues, etc. 
+- Subject to change (will be announced on @lncnx twitter and @lncm.box on facebook)
+- Bill/tab must be opened and closed on the same day
+- The bill must be within the last week
+- Eligibility means you are able to provide proof of payment with clear date and amount. This will be verified.
+
 
 ## For the 10 % promo
 
-- Subject to change (will be announced on @lncnx twitter and @lncm.box on facebook)
-- Please provide proof of payment with clear date and amount
-- Bill/tab must be opened and closed on the same day
-- The bill must be within the last week
+- General T&C must be met
 - Satsback eligible participants can opt to receive sats directly OR opt to send it as a tip to staff (using the rate that they paid)
 - User must have their own node configured for keysend payments (Umbrel and Citadel both work) OR have a Lightning address available OR a provided LNURL is also acceptable too.
 - To remain fully compliant with local regulations in Thailand, user must not receive the payment to a digital asset provider account, and additionally must send the payment from their own wallet ideally (CashApp / Strike are OK to use).
