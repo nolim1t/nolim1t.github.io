@@ -9,7 +9,7 @@ permalink: /lncm-satsback/
 
 - Do not contact staff of all venues regarding the promotion. You may contact @lncm or @lncm.box on Facebook should you have any questions
 - One claim per customer per day please
-- No responsibility shall be claimed should the payment fail due to routing issues, connectivity issues, etc. But we have a well connected lightning node with a 99% uptime.
+- No responsibility shall be claimed should the payment fail due to routing issues, connectivity issues, etc. But we have a well connected lightning node with a 99% uptime, so failure should be minimal. You are welcome to let us know your expected arrival date/time to ensure all things go smoothly or have a backup
 - Subject to change (will be announced on @lncnx twitter and @lncm.box on facebook)
 - Bill/tab must be opened and closed on the same day
 - The bill must be within the last week
