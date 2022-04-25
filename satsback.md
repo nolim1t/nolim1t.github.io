@@ -8,7 +8,8 @@ permalink: /lncm-satsback/
 ## General T&C
 
 - Do not contact staff of all venues regarding the promotion. You may contact @lncm or @lncm.box on Facebook should you have any questions
-- No responsibility shall be claimed should the payment fail due to routing issues, connectivity issues, etc. 
+- One claim per customer per day please
+- No responsibility shall be claimed should the payment fail due to routing issues, connectivity issues, etc. But we have a well connected lightning node with a 99% uptime.
 - Subject to change (will be announced on @lncnx twitter and @lncm.box on facebook)
 - Bill/tab must be opened and closed on the same day
 - The bill must be within the last week
@@ -27,4 +28,4 @@ permalink: /lncm-satsback/
 
 - All of the above conditions for 10% promo is met
 - 21% promo is either on the 21st of each month OR if advised otherwords on twitter or facebook
-- Must be 69420 sats or more on one bill/tab.
+- Must be 69420 sats or more on one bill/tab unless advised otherwise.
