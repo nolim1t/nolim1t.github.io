@@ -13,6 +13,9 @@ Matrix
 @nolim1t:converser.eu (Because decentralization - currently down)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
 
+PayNym
++emptywaterfall024
+
 Briar Add Key (Add from distance)
 briar://acv2wg7e35tcyv7ktmefkbu5xfcfjntgwfwec3grz5zxkuojxt6ts
 
