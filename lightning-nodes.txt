@@ -11,13 +11,8 @@ I am the owner of the following lightning nodes:
 nlt hub
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
 
-Chiang Mai nodes
-
-AirDeveloppa co th.
-https://amboss.space/node/034b450402ad76d02586883ba61eadd5368cd2ae132e9090918d5c1e5c0c3376d6
-
-Burrito Squad / Corner Bistro
-https://amboss.space/node/02a6ae00f1e658e23447b5fd3a03acc42ddd0e80350ce4fc02ee33bffc095d0187
+nlt v2
+02a3b1235d83fb02f39a54cad936d057ed0ee243597d4f7f53a486c8b5914bf424@xv3m2477zckg4edrkxdd6zfn55cn6b26vvhpgsqgzurgem5ayr3htuid.onion:9735
 
 
 Watchtowers run by me
@@ -28,23 +23,23 @@ Watchtowers run by me
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2022-05-09
+Today is 2022-05-10
 
 The current best bitcoin block hash:
-00000000000000000008bc6710153bb219c719b237066c27497cb32e058c03b3 (Block: 735569)
+00000000000000000000a6d28a69fceed17e450f9e8111be15d4bb9f6a67d222 (Block: 735750)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmJ4oTwACgkQ9ih7gsyE
-vL1ppBAAgyDcnF87PHwcdoVIEj5gloOeu9SWNGHdXDkhnuZ+TeAMKwnUtlOj/S1a
-nNxYdH8daRU0dDa2+AWUzUa0aidZ9GxKYtPCTBZGuZXb5LjGxmoMRWPFPvp9iNWg
-ReVy5pUgw60SlBvNDEFsBcrgq646pYYk+dBbM4JRGwPnz7kIcc0Vnb+0/bCxklhG
-yjSpl3/M1K1411AsPt7QfXjTNvqsyZztc44DcBoSOaPnISwR1+EQJF4HHzrK5j+V
-Uqb//qTM7og7EilgzD4qLskYmGT5PAujB36xF2HB0+np2RwlMVCwlzI2Qm+edPKh
-T4CGYEZaGM3ky7nbV/F8T6VgQAKc89KZRKyaSt7RdGOCERtTYfLQQ1okIxHSqvoD
-pfDxseJdqG7DD8FEzLBhMj5DkAioeMpSvVjcOlSIbjEZSvuDWIeBGlGGM7m8pJ1g
-bSVfXdPyoVJPBvJfpc3mjB5/LFLrDO1q9JVTO33xrPmQxKTxUhyN/T+9so9zHnhO
-2ieAnj9P35lK+yGHbzuod6g5ZA2O6UxKnPYfWUwpdtuF8zxj5uyZGRNbREwDlyOu
-hg1V42HX3SQLPOh9L2AwXIV90o1zPNLr9+6+cIrPwdPHqcoBPVat4MgFcMidZQKL
-oeUI80+X5e/Etv0L/dmiTqr7huoFk8shnCe6TJddXii5Nwu5b4w=
-=Mzqx
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmJ6NssACgkQ9ih7gsyE
+vL229A/+Ka2FwUiWeZl1dekG0bnx003cpOzzKRWqVlMEjNvHKBwN7dPaC/PfqK9U
+u7c/+F0n+cslVsU3tnGIwx82Z0uhu2RrUQWsPuy+WsCtAlxZSu4H3dvY04RTVXf1
+KiYliLBWvxU7bmKJgNmsO3v5Ecgfr3p023hhpZQcHBnjE+6JYQbF/4jyBG09baJe
+aApTtB+Luiroc51krId7dwv8jGIFfKGyMZ5sDqgu3E4Ck8MYbZYzpJcXmi1XLfvW
+sEKdOL+O+eePl6aZG7e+rcws+bT1VayV+tTmtr7wc1eVID79YjBiYElqeIAvLlN+
+7loFQuknlgcoVj2ilK6zarv1LHnU7gjAo039NbIUdQHTs7Snq9cuW9Qi1PNMstX2
+JllzT8UOox0YcjFIrQjV2QhrE+xhnwXv1JAvwdzbqk7rLL4ReMT0U1YpzttTunxd
+8HAO33DTx5GQXlPini1CxconGzq/IVGuy8ZyiNVcYbSamQCdxU8Y9b5DWlzvoq5r
+393w0oyDrX/6qGgXHk6VJHKGnOhD6CH/0fqBCb3EDhVSDcG6+hMRlrJs/mZVrhrH
+QbG/berSULaLqJJY7xUr1s2i+NghtlRymoD2Pl1w0iWvWTuOwl0pyj8sdi8pLbK/
+MXb03EcM1HAS873Jrrbha5LosuUxKJlfZWB5JOa1WSOCv195xtI=
+=kVb0
 -----END PGP SIGNATURE-----
