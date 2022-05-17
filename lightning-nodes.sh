@@ -26,8 +26,7 @@ nlt v2
 
 
 Watchtowers run by me
-02426142a3724b1c4e08f74f2995514bf5a83d8ceeee1db05cb15e749f543bf4c3@jc7bpbggvkiakcbcjo6gp3d6aaqjmn3wtrf4h2j5dbd7ba2ke7zw7aqd.onion:9911 (recommended)
-0293d642f22a1838f0238894a5ed0600629010d772ff66d4cd26e3ac850b56b985@mwd3ssxb73egp2z3oo6k7q4qdm6ne245lsci7uc6slje6slintdgpeid.onion:9911 (backup)
+03826e23b8801826fb34942af5e3f1fedd48ff1ca24e38997667d84bead681a418@s4awdfa62tb36v7jchuwcwkyvn4ykovxmjpcc4wkguzgbii5ei2sbeqd.onion:9911
 
 
 PGP Keys you may use
