@@ -18,6 +18,9 @@ ADMIN="@nolim1t"
 cat >./socialmedia.txt  <<EOF
 I am the owner of the following profiles:
 
+PGP
+f6287b82CC84bcbd (or https://nolim1t.co/f6287b82CC84bcbd.asc.txt)
+
 Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @nolim1t:converser.eu (Because decentralization - currently down)
@@ -25,6 +28,9 @@ Matrix
 
 Paynym
 +emptywaterfall024
+
+LN address
+f6287b82CC84bcbd@stacker.news
 
 Briar Add Key (Add from distance)
 briar://acv2wg7e35tcyv7ktmefkbu5xfcfjntgwfwec3grz5zxkuojxt6ts
