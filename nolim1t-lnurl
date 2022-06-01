@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: /.well-known/lnurlp/lightning
+permalink: /.well-known/lnurlp/sats4me
 ---
-{"callback":"https://payserver.perceptionz.net/lnaddress-callback","maxSendable":1000000000,"minSendable":1000,"commentAllowed":150,"metadata":"[[\"text/plain\",\"nolim1t tip address 🚀💎🙌\"], [\"text/identifier\",\"lightning@nolim1t.co\"]","tag":"payRequest"}
+{"callback":"https://stacker.news/api/lnurlp/f6287b82CC84bcbd/pay","minSendable":1000,"maxSendable":1000000000,"commentAllowed":150,"metadata":"[[\"text/plain\",\"Funding me via @f6287b82CC84bcbd on stacker.news\"],[\"text/identifier\",\"f6287b82CC84bcbd@stacker.news\"]]","tag":"payRequest"}
