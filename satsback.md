@@ -38,6 +38,7 @@ permalink: /lncm-satsback/
 - Only applies to checks/tabs opened after 1 August 2022 00:01 and closed before 1 August 2022 23:59 Bangkok Time
 - Items must be on the menu and not cannabis products. Off menu items are not accepted.
 - The venue should not be contacted about this promotion. This is run independently with close consultation with partners.
+- The promoter is not responsible for failed lightning payments. We have a well connected node with good inbound and outbound capacity. Please open a channel to ```027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581@flh6m6hd4wg4o2e5bfdelg4cobvsmcp5cxftaujsvwou5wg5iuwe5wad.onion:9735``` and enjoy fee free transactions!
 - The promoter reserves the right to cancel/alter this promotion at any time should there be foul play involved. So please play fair.
 
 
