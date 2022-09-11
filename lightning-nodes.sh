@@ -21,9 +21,6 @@ I am the owner of the following lightning nodes:
 nlt hub
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
 
-nlt v2
-02a3b1235d83fb02f39a54cad936d057ed0ee243597d4f7f53a486c8b5914bf424@xv3m2477zckg4edrkxdd6zfn55cn6b26vvhpgsqgzurgem5ayr3htuid.onion:9735
-
 
 Watchtowers run by me
 03826e23b8801826fb34942af5e3f1fedd48ff1ca24e38997667d84bead681a418@s4awdfa62tb36v7jchuwcwkyvn4ykovxmjpcc4wkguzgbii5ei2sbeqd.onion:9911

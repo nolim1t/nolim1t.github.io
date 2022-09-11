@@ -23,6 +23,7 @@ f6287b82CC84bcbd (or https://nolim1t.co/f6287b82CC84bcbd.asc.txt)
 
 Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
+@f6287b82cc84bcbd:monero.social (decentralization and monero)
 @nolim1t:converser.eu (Because decentralization - currently down)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
 
@@ -54,12 +55,8 @@ https://gettr.com/user/nolim1t
 Twitter
 https://twitter.com/nolim1t
 
-Minds
-https://www.minds.com/nolim1t/
-
 Telegram
 https://t.me/nolim1t (Read only with commenting)
-https://t.me/nolim1tcoblog (Archived blog)
 
 Discord (nolim1t#2650)
 https://discord.gg/Vnt7Nd9wzs
