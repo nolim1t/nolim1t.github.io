@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /.well-known/nostr.json
+---
+{
+    "names": {
+        "nolim1t": "npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r"
+    }
+}
