@@ -29,15 +29,15 @@ Matrix
 
 Nostr Public Key
 146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd
+npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
+https://snort.social/p/npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
 
 Paynym
 +emptywaterfall024
 
 LN address
 f6287b82CC84bcbd@stacker.news
-
-Briar Add Key (Add from distance)
-briar://acv2wg7e35tcyv7ktmefkbu5xfcfjntgwfwec3grz5zxkuojxt6ts
+nolim1t@zbd.gg
 
 Vida (Call and SMS paywall)
 https://vida.live/nolim1t
@@ -52,7 +52,7 @@ https://bitcoinhackers.org/@nolim1t (Main)
 Gettr (Twitter replacement)
 https://gettr.com/user/nolim1t
 
-Twitter
+Twitter (Using less and less)
 https://twitter.com/nolim1t
 
 Telegram
