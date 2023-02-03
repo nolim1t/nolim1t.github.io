@@ -14,12 +14,14 @@ f6287b82CC84bcbd (or https://nolim1t.co/f6287b82CC84bcbd.asc.txt)
 Matrix
 @nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @f6287b82cc84bcbd:monero.social (decentralization and monero)
-@nolim1t:converser.eu (Because decentralization - currently down)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
 
 Nostr Public Key
+Hex
 146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd
+Non Hex
 npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
+Link
 https://snort.social/p/npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
 
 Paynym
@@ -28,13 +30,6 @@ Paynym
 LN address
 f6287b82CC84bcbd@stacker.news
 nolim1t@zbd.gg
-
-Vida (Call and SMS paywall)
-https://vida.live/nolim1t
-
-Nostr Urls
-https://nostr.rocks/146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd
-https://nostr.com/146bda4ec6932830503ee4f8e8b626bd7b3a5784232b8240ba15c8cbff9a07cd
 
 Mastodon
 https://bitcoinhackers.org/@nolim1t (Main)
@@ -57,24 +52,24 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2023-01-22
+Today is 2023-02-03
 
 The current best bitcoin block hash:
-000000000000000000023760074e0f7f2f165551ea2c235e7bd4730c347367d8 (Block: 773031)
+000000000000000000002d4657c7837aef91c93e651e22bdbf4f75a266d97e85 (Block: 774851)
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmPMvJwACgkQ9ih7gsyE
-vL3kGg//Z46dPt3pAf65ni0uR5A4d8pBFrfDLo+pRjB0uVf8j1dRq/fd/JJ92ZQG
-dwHgN5U9pRM/w17I8+N1V1l/uZ28woacKtnQAKn5IjxL0SdLnNbFc1RmPFRis63O
-hFJHm5kWLogztlWkRKNYsgbKxkPq9z/kxNI7BsApOocPI7nP1hw+37Z6yiyrTH2L
-uBrkgqmKoJQ2mP9pzglb1eOYyHV8N6j0YWTAAlSkbkW1/pSGxUc8CjqSvwO8yqT7
-y6otsVtok56HTc2bWWzNIHz9yi5xeYt837q/bE/tJ4PtO0LAKauGs3ta8kPW3vBT
-HolO0uiZN5/tytW0boUZ/VnJwr+M4l0Viww0/26GIed8EuSCbSUJUb0r/VTxxCf/
-fEHkfmU3UvZgbeCUPsrWrYnsqWPA+tkHxYtnd7XLEfzaaE+t2fpq7CJEylgmbgsX
-Kw2N5XuYktdHKny1QLwdMoHCN6MOfNEMPYr3UkXmKYE51ci1/K2Wgf81juyR/GRp
-AornFDfMIcBE06j9XzKMmOBzbhvWvutxG9x4S+8Hj6JBhZZ+4t+dVXRwf7UdxeJ2
-esvVzYBU4qzpKfB2E+I325G265NV1W7PsITP+YzJGsW5+B1UH4NfTIjv4t+8/9mF
-PMFxHhGJxIq+/V44csOY+fbNQtoIC/7GNz7xC9ZrWZagzRE3WCE=
-=qbzj
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmPc2UMACgkQ9ih7gsyE
+vL0WLw//SVrDLWZulAs9IHU9LFjxuVfkLHmLlJogjjX7QN5tM0YwFyqMZE0rSifj
+ZbwiRxYEgpNXIiSofO9RYe0Gq5o4eAbDTzWGTpfVBCqDbjlARQ2GL7NWohz8ZJhK
+nhojixIOYOT+GFbov1nBbwC4+BlxEvPvBsNYhWrZ61HkESbkBuGL/OA9hj7w4Utb
+Px3/LQsP6ERteFB8nSFD4IdQudrnxIG/nGPp4d0knad1xHk+LBYWPlZ6DV+S1eQ3
+MjrnLaU3g9OHiN4UTGmEcs9TbgY6RkPxhn7XgHfqCxS+kEyhmHCfs1XdNS0clZda
+gpZXJeOxKJ0r1E8UpWMDol3L2QZF/avZQfSVTjyvC4H3ItOsGqO1zKGWyX4rG2uS
+DhrXn8dfVg1D+h7Hsre4xcUnkNZuv/E93RqxmHe0orOq71A1y/cxuW4n447fhYiR
+kKyd48d7VdDAVC12z25CehNIzxgSRm+4Y5kzhSX04fKl69RJzwudWpnDhOEolJxv
+Vmk+QVV8NLrPMYYbqIISZGJQfWhVtHtc/LCqkkxCCkR+QJ6niMfYhhhQ+rApMOpS
+6HHZQFM134hu/D0wQC+ee2HeMwuE8KjJ9pXZpJPHhxNFwIKqSjzGY0++Ts8JKNji
+k+E+v9qyDusG15AcR5pw7Lc9iij7IhHfE0LjMtzAnDxYeDtTk5Y=
+=+KOn
 -----END PGP SIGNATURE-----
