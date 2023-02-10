@@ -53,6 +53,12 @@ https://twitter.com/nolim1t
 Telegram
 https://t.me/nolim1t (Read only with commenting)
 
+Instagram
+https://instagram.com/nolim1t
+
+Tiktok
+https://www.tiktok.com/@69420hashespersecond
+
 Discord (nolim1t#2650)
 https://discord.gg/Vnt7Nd9wzs
 
