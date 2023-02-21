@@ -22,9 +22,9 @@ PGP
 f6287b82CC84bcbd (or https://nolim1t.co/f6287b82CC84bcbd.asc.txt)
 
 Matrix
-@nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @f6287b82cc84bcbd:monero.social (decentralization and monero)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
+@nolim1t:matrix.nolim1t.co (Because sovereignty rocks! Deprecated)
 
 Nostr Public Key
 Hex

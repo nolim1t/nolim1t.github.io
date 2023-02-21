@@ -12,9 +12,9 @@ PGP
 f6287b82CC84bcbd (or https://nolim1t.co/f6287b82CC84bcbd.asc.txt)
 
 Matrix
-@nolim1t:matrix.nolim1t.co (Because sovereignty rocks!)
 @f6287b82cc84bcbd:monero.social (decentralization and monero)
 #thebarrenschat:matrix.nolim1t.co (General real time chatroom)
+@nolim1t:matrix.nolim1t.co (Because sovereignty rocks! Deprecated)
 
 Nostr Public Key
 Hex
@@ -58,24 +58,24 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2023-02-16
+Today is 2023-02-21
 
 The current best bitcoin block hash:
-00000000000000000003db77ab95b53656e2df0fdb41e6645ca067044bab9e1f (Block: 776760)
+00000000000000000006dde2100571adea6f5441235dfd40458d51826d568b6f (Block: 777626)
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmPtoioACgkQ9ih7gsyE
-vL0BRg/7BehtJLlwHpytugisYJy8tM3Kjil72vhy9WwWhkbVtIc7/7pCACYqKDln
-MQZklz8W1Yo5KdJ86e32g5bSowa55kJutKJhD2vxylyGCSLG6TDa1ygDrtci9wWE
-LckAHzHOIRByEZF3J2UG4WcWygASi0Skddw/9koREPCE03Ip3Buj4fksXeZBjVKz
-wRuPPMYMHXFRXUjT5Z0l9Ln/aZNVSAXm0IGdayFzFfbrnfY/wfmzkyo3w9MpQUCI
-1c7rnQfauHLtoVGloNpEp7LZxBNNpNVVGt348FYdpkKS4y/AA2Rk0yIDHr4PZy1Z
-YXisysCic9QsQQRGaWQGFBS4vMH1UuWPE2ay6X6O3EOFx7xh/MkJmY/EqJwOc+x2
-cobljt7YFciDE9zdmuYHsRS9AmElaQTBDxOddZLZ5Ur7AMy4pB5iTnJ3wBeOGDp/
-wiwLQfhVveE34SQKZFmwWFcyGzaBEo2s6BfABvTq3moiYKovSQanV6GBQjNi3uy/
-h+tpZkc2V07Zg7YgyNEEO+mIFUsMdTbG7qjJvLk8g6JexBZeB6f0CGmkdcUZ2W0M
-sIqurGlIg+bNHkuTer0dGzFl5xG40gHMnTza48pCtSaMCOxLdSTb+fP4Fb3WRwm6
-ovqqWhaszjFfavGj2izdRIciQTQl52w6fmj/p/VZi6Ey8DzXyHs=
-=y3tA
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmP0oJ0ACgkQ9ih7gsyE
+vL1bvw/9F1CF/vUwBsd/A2/rnTIW3pV899AKdBIXEprKjJeN44QrLfIEJfQbnLQ1
+4j/K2Nu+7UPtEdud+UetEzuaQdc4GEyzQmdYRZ1PxiqRNTKYfI1CIipf83kb0q/d
+WKyqd/B72BWB4L5iaS/5tupceiB7Pd36T6ivTduzV/T482V2eRacJZqkbGHVzma1
+O7cpWvoc5XZi93orG6Qav7PmTuzAR/sdtK5XCMwthFyoxa8GBrfq65BbO8twciwM
+p5YrnpkS9RfbhPCAGgHQVN9R1gypunrUhsuFT4Dv1nx3mJxUT9ZxOVwp2t+lOYJN
+2NJ8vguS23k0CphQQvStgYxD3QEiEV8zbrH/TF+QewIe2Va6DpuSw7ne1RTeuUYW
+LQW5L2O4v0bDsAGmYKphUsgYlw7EXecyr4RigelD1bKCwdqJW7spjjqDZ796Cd67
+7FEdbEZVJH+g+bcPlblgm9j+L20MDitMKZWQhv0SpkDViX5yKhQotojqNjq2YKgr
+/3bKByd6anna+xSkqZbBQUcnWRy9/51eT8n2qaNCs1lOnPr23vNrP5GOAsy9D7+8
+Ariod8z3OuETTdKQGJuuW4wCpvyYUw9/gqHTT+RvJPn8gzvLulFmeiYJKpvvjI/X
+RowxEyjejHHWp+H0l/w78FqphbbHnal2blvAf5PDRQBaTxlpl+8=
+=gall
 -----END PGP SIGNATURE-----
