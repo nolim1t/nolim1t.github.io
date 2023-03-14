@@ -29,12 +29,6 @@ LN address
 f6287b82CC84bcbd@stacker.news
 nolim1t@zbd.gg
 
-Mastodon
-https://bitcoinhackers.org/@nolim1t (Deprecated))
-
-Twitter (Deprecated)
-https://twitter.com/nolim1t
-
 Telegram
 https://t.me/nolim1t (Read only with commenting)
 
@@ -53,24 +47,24 @@ https://nolim1t.co
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2023-03-07
+Today is 2023-03-14
 
 The current best bitcoin block hash:
-00000000000000000005d27dfbcf06b25e8395d2717469084c169352efbdaf4f (Block: 779697)
+000000000000000000050bb38d00dc0225edc655746e10761b044c9f92b950e2 (Block: 780728)
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmQG7+sACgkQ9ih7gsyE
-vL1hNg//foSAA3rwnjPdo8Ud418fX8OH2sNbvZNpp8j2zUEqwkmETJxGtX4MAEi5
-iba34w4T3UBg6c9G9TtuB25opJ993DR7xa7Qlg0w8S6zqKPGzqIqceZqI9/H3/0c
-0Ksh6j7jgdu+feDNy9MQymaE00zYxsnJS6A+Haw8JLIc6a6mY6RiWsT8SCD+clbv
-WASgm0UxQgTwulh8jNHtQMB/PZiZSMWCvA3BvBtPEeka97pqjmWMt7nBWniChwsb
-iIDeM0t3F9a2vmjHvxXb2SpYeArMc7nvvmzmP6ENJObS2rgOyYqe/mspTEQDpa4N
-Rq0GlMuTALQnknPln9CEnMmUIo8UuqEVWQhmh9LnfZEqEFdAXdwfwLC1craXWZoG
-DNsRq9JiKrjUmASn8rlp9NHQRRGDTdGliwHis8j+vzxDTEjnilt4R3C+Rhp8UmiR
-qaSASidw1f987y83LOHIEKg3UDFnTScvGzOKazdR2jJMnn+Pn5FXQ45XFQ/rW9+f
-+r85RLtZziTuxRXTBJDX/6EjbYDH+8s9rcPDd/CHcjeQRV5Uqyp8BD4t7UPZhvGr
-gwVx9nGQnjzy9+pLdp5130Deuy/6sii6Q+9Z4vCh7spZ48fw58LbVwOZPHPwby/h
-O0JG7dUrF5JaPlESOowVSf7XG6tNWuYpIDsjM7gNlVt6O4uF7wk=
-=FUWC
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmQQBKEACgkQ9ih7gsyE
+vL1wMA/9HbWazo4WDoY62z6stbcxR+LTA1Jo8Kxx1VKnBlQ/HITMjTDfFsU2QdYd
+H03T87WNnCjL8Tqn6wKCpbVnZtTg8gHmrphvgsnC0K+pmmsf1gQfImZLMffEzXYx
+Fhs6Hncrjd0KwSCg3Xcrr9PpQcemU3+h4lzn29wK3dwCeFme3H+nml5+kESvlIZi
+gZ9/j4lsWRP1eW3RQw250+5M0JWQixRkl6QAguH15QNHnuUsW6xvu8FR4dJK/RJu
+uHYq5+EaiLVBubN0YGiOOlvb/DXhvDFO9thkOanYeb2loBa4E3lVKH2D/FYeqDiH
+utWKNKos3alBGs7lsLeoPy/6Dyz4jRE0Hltlk2C0ttX2ds5klza4uINjAhoFkZ+i
+NHWvloGSDbOCahIf6r9aF8kpIpiEkrN3vmHw6n81ejmeGtSUoubDbzK2s7iA6T+x
+eyBeSsDFqUBh2JwP1Bl1MU2rgGyqCyXRpP8RMEGEsjFfCQe8oiqiIxnLl9Jf8WmI
+euclkuodQdZBUt2MKVTxyUkTE/Sj1RJkCOAcw05cjDo/oB37rq7y/fdXenKY4jKB
+S1wCB1CzaVXvJ1vR5ajajnrkQE0A5NZ8szHV2MH40pExiTLH57/FkdC/+C1pwmhK
+hOh5ugvY4BQdCkWeB3QK2So7Bfg4eEQ0oIKzBWWsDDyzZxA7H1Q=
+=90rS
 -----END PGP SIGNATURE-----

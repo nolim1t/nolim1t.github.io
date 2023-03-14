@@ -39,12 +39,6 @@ LN address
 f6287b82CC84bcbd@stacker.news
 nolim1t@zbd.gg
 
-Mastodon
-https://bitcoinhackers.org/@nolim1t (Deprecated))
-
-Twitter (Deprecated)
-https://twitter.com/nolim1t
-
 Telegram
 https://t.me/nolim1t (Read only with commenting)
 
