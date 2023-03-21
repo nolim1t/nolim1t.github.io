@@ -18,12 +18,9 @@ ADMIN="@nolim1t"
 cat >./lightning-nodes.txt  <<EOF
 I am the owner of the following lightning nodes:
 
-nlt hub
+nlt hub (OFFLINE - to be upgraded)
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
 
-
-Watchtowers run by me
-03826e23b8801826fb34942af5e3f1fedd48ff1ca24e38997667d84bead681a418@s4awdfa62tb36v7jchuwcwkyvn4ykovxmjpcc4wkguzgbii5ei2sbeqd.onion:9911
 
 
 PGP Keys you may use

@@ -8,34 +8,31 @@ Hash: SHA256
 
 I am the owner of the following lightning nodes:
 
-nlt hub
+nlt hub (OFFLINE - to be upgraded)
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
 
-
-Watchtowers run by me
-03826e23b8801826fb34942af5e3f1fedd48ff1ca24e38997667d84bead681a418@s4awdfa62tb36v7jchuwcwkyvn4ykovxmjpcc4wkguzgbii5ei2sbeqd.onion:9911
 
 
 PGP Keys you may use
 https://nolim1t.co/key/pgpkey.asc.txt
 
-Today is 2023-03-14
+Today is 2023-03-21
 
 The current best bitcoin block hash:
-000000000000000000050bb38d00dc0225edc655746e10761b044c9f92b950e2 (Block: 780728)
+00000000000000000003e445d92e7952fde63a267d24997dce8cefd49ad2111f (Block: 781821)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmQQBKYACgkQ9ih7gsyE
-vL01dRAAtmgo4nZmjxvHZzHiw4HfwBKoj/9Ol5vElw8eyX6yUP+7lccfeLmjxyEs
-Z4ou+QEH1E4Y9Hd0SUUqEabx4GSjOQ01D3qtCI7/E7KzhL1JLbReuJwIB5lefxz+
-QHfiAANcTtM4zf6GWNaXSQWtwpJG+dqRVoeJrwdznWFs6/QA2t2iC+oG1UbYOQJV
-9VqUbaQlws2kWccRmbkmmrUzvIacGQ6wzW0nTTD6TVsVB/vpyARqafLteXoJp38h
-p5ykvw5VB/1mhi7iguIbNVF/1DcQm+KgMd0+T1p6ZeTa290E92WqPbGEoxTkCYGD
-PWNPk2TlnhlqZlx2HOqnAK/+ht4bDu9JB1s77UHejWRoMkb/xf5ym9UoC0QcNnP5
-tlsnT4M6S4NIVzBhVlUXcKCtz8o7z7SeYivgMtqbeBvlar0IM93JbYhewnXF5OEb
-b3V2oy4o65qvVbPecv+mRvaBCfHbNrWWgBzd53MteBuOaOiWX5O4jCTKreXEyKMI
-XvZWTOgo2Uvrka6aub/pf3Uzu0CoH2xyOgw3GatE4aUriwkSdlXrhXtlhGLvuUYD
-0pLue7c1pogOGLd84yF1e1bDGUmB+ET31ZigVK2jSbTPhRVFYZKhJMFOXydOq8ba
-szDprV5E1gFPGycqBecPcoGS4gK4aG0pFbxLJ178dr+n4B3CYVQ=
-=TOy9
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmQZ0CsACgkQ9ih7gsyE
+vL0ytg/+NQdAtd1eA1rOezSlc77oIprFTg/jw4yXRo1gCeUKVXO8YmhtNlzo0kgz
+BtDjxZNeeGr2WKCMaHKUKnpu7Dl+uxF+lAyXQD9N/FndzSEKM40Nya/jLRS7j1zH
+4SoJ4/hzYFXfxIcXxb9hkZzPdbQ4jfCJn69E0VdM0n9ovq6f1zKUZ2OFdOR1SqEw
+X8cBVwycYRtVHLm6hKqY03Us+iWafC++YRjXc+MNDajBNENgZvrch8Jy98g1WQ6k
+ugDOiYCvw264UwT2Ck8bxNodYsU8IehSCevErfLjAncCSAaYSPMQOLyGH7i1txeO
+lc1YM4c5IaVH8IKj2HKg0FagJQW79D7TFJH9ylPNmlZnUVwOJ4xNWJ6VjDRoCmRh
+tv0pBdFMTvoaxluWsmujEESflrJ3bpVWpWtkzrS5V2AK+ursm7MYpskWURNGn/kn
+jv+2bvUP/M4i7n7HRU9lUyYlvQfQvd8jYBUToX7Y+Ua+BmcsSkPbyvakHTSBdrdf
+QE5IhpQ0ZbzRPRv2a4NgWot8CsD6DzxXD/DZIIQGg+WmMY20D2T/6igdXaKXbgVn
+Sm74ZyT/k0Q3mloy+cOncskbEy7D59YoiiKcHHO1UMG5/1wIsJ2JSuwXNgOGgbI6
+sF1nQEX7y20V78cWj10kTDBpulXkkFXn3X3myTxbYY0xyEXvC00=
+=852K
 -----END PGP SIGNATURE-----
