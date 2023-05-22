@@ -18,7 +18,7 @@ ADMIN="@nolim1t"
 cat >./lightning-nodes.txt  <<EOF
 I am the owner of the following lightning nodes:
 
-nlt hub (OFFLINE - to be upgraded)
+nlt hub (DECOMMISSIONED)
 https://amboss.space/node/027cf9967a2d79631c665417b363d7113764bdede6c7bc21897062655448cd3581
 
 
