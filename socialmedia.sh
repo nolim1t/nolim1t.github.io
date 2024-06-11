@@ -29,8 +29,8 @@ npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
 Link
 https://snort.social/p/npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
 
-Matrix
-@f6287b82cc84bcbd:monero.social (decentralization and monero)
+Simplex.chat
+https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2F_lmteZ1lEkwRPrLiF1xxjGWfoAIL36H3%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAHwIAL-HqwUMW6Ab26K6JXUFIfMVjmAIN0jAvGL_Yw24%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion
 
 Paynym
 +emptywaterfall024

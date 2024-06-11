@@ -19,8 +19,8 @@ npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
 Link
 https://snort.social/p/npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
 
-Matrix
-@f6287b82cc84bcbd:monero.social (decentralization and monero)
+Simplex.chat
+https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2F_lmteZ1lEkwRPrLiF1xxjGWfoAIL36H3%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAHwIAL-HqwUMW6Ab26K6JXUFIfMVjmAIN0jAvGL_Yw24%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion
 
 Paynym
 +emptywaterfall024
@@ -51,21 +51,21 @@ https://nolim1t.co/key/pgpkey.asc.txt
 Today is 2024-06-11
 
 The current best bitcoin block hash:
-000000000000000000000e436195e7c53724c1b9db8801c12316a9871eba93a9 (Block: 847443)
+ (Block: )
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmZn5XkACgkQ9ih7gsyE
-vL0LUg/9F6cL5Dq6NX0AxqCuZKrDnuQeTxK/HURwmnFl+5hcLqAPkhMt2uQAWFbW
-oELpGRf7x04i5iHcpcUnz40tzNBdmxwHM7DPYXK3Eevq5m5xpofQzkBGDGA5lAb9
-FC2VtqSnZgfPD1buB2wCOv+FtiK3d32HSfV6QkJTYsbUgiS7YsKQNlEN5/1yTFiI
-6wDvuOvkddgil92kOQ4tPp5+qOj8pcgbR0On/0Lxi3QZprjNu3l1eWZpARjS1osj
-4pE7GFdGJL/Oh0I7Yh/MSwFpF6XN4DQeBSmYMJKMgKIoW8kADmIm02Zqh9D6s+DG
-86UV8RHO8NbwYEw31PKC6hPMfHDIlaK/rjMSBm7sXx9XopBjfTza3ZiVBRrSpY9Q
-i4SvTN36q5sy0atUw+mKpMSEUJ5wg9YG09+BmCpNYyasnIHHoXkdSjgfmxVQGlD0
-e2um467wOBAG5WFdoVBCGhs/BhYLeyZAzWeDAnE8VXbZ85Udbxl6em9fhkuai+R6
-nKcNx420diucvVpRBPC2ZNI/X3eoDGKAWE8+d7EefwaRqrUcU9D+IIcq29+adLVC
-UVX99npkdFJRT+dylVuZE+kQoYUU9MB2N61Bk8xHRLb08ofarMkUuXNQBS8B+i5/
-tvfswyUgRtC8vTjencQi9BKKAJztwsw4lL3TjgiWzxMJIqpdQ0I=
-=MSu3
+iQIzBAEBCAAdFiEEksL5+RunkK1CmZ/Q9ih7gsyEvL0FAmZn91IACgkQ9ih7gsyE
+vL37ig//ewPHJwSUgEmRNeJ0MP6tF+b2HiYJzUxszcW72tMnkGfVz6NW7EuVcbiJ
+WmWNrIWL7j+fCaYkNMOs10THS7QgQ8O5iQxcdVdQ0Hp1n7Q1afGkJb9vcVI0RDtb
+AgnIOeS9+h3VOLv3kWoq3qrogXPV21dshY0wqqPA3+h6EfBtecPUbB9pou3u2piL
+9NuCIqQcOhnOT2jKXdRR6ZIGoP6ZxYk4op4NuDiGvQp+BrYyTE5ZpAUwtnLIjKvm
+VTfOQa6Qwx320XbjrJoYviOrcEQ2/OTze2LnSQDIZSkPz3xo/HY/GP1Z8TqG2jye
+1rDBMVdZxLc34FYknhl/lofqEwljytGOBg4Se/ldNTSpCmGgKHCFns/b6yx00pNI
+vCPfZJA1xNS2JJEU2oX3TqeM0RaZjoZl3EWXFM8WaYpQe5XHpBNExZiL6Ipz4b/g
+mardkGakq9waKwwnEksBdvR3k9IvyrIFgwkRPLuuDT0z4blGXZEyfZ+pvx9asTOH
+m2VF9WWOWB7zibQ+d2QZhFhKBS09CmUHUO908YsJG0rSVpzEpWuNWETmPxgGKUP2
+/x0+eVFIVjWp1squHCbQ4OUR5eUCp4uC4J3tkYU2NREAHNjZ5t/Pge2xYeJh5PK3
+dOgAUtaJL+AkQkB63dBjhJR2c2if2Rrh8Sugw6bYTb66cbC6kBU=
+=SCen
 -----END PGP SIGNATURE-----
