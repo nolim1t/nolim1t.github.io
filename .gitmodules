@@ -15,4 +15,4 @@
 	url = https://gitlab.com/nolim1t/onions-module.git
 [submodule "_layouts"]
 	path = _layouts
-	url = https://github.com/nolim1t/nolim1t-co-templates.git
+	url = https://gitlab.com/nolim1t/nolim1t-co-templates.git
