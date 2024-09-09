@@ -27,21 +27,18 @@ Hex
 Non Hex
 npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
 Link
-https://snort.social/p/npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
+https://njump.me/npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
 
-Simplex.chat
-https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2F_lmteZ1lEkwRPrLiF1xxjGWfoAIL36H3%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAHwIAL-HqwUMW6Ab26K6JXUFIfMVjmAIN0jAvGL_Yw24%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion
+Web Links:
+https://nolim1t.co
+https://nostree.me/npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r
 
-Paynym
-+emptywaterfall024
 
 LN address
 nolim1t@getalby.com
 f6287b82CC84bcbd@stacker.news
 nolim1t@zbd.gg
 
-Telegram
-https://t.me/nolim1t (Read only with commenting)
 
 Instagram
 https://instagram.com/nolim1t
@@ -51,9 +48,6 @@ https://www.tiktok.com/@69420hashespersecond
 
 Discord (nolim1t#2650)
 https://discord.gg/Vnt7Nd9wzs
-
-Web (Curated)
-https://nolim1t.co
 
 PGP Key
 https://nolim1t.co/key/pgpkey.asc.txt
