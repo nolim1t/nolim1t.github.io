@@ -2,7 +2,7 @@
 
 ## Build status
 
-[![pipeline status](https://gitlab.com/nolim1t/nolim1t-co/badges/master/pipeline.svg)](https://gitlab.com/nolim1t/nolim1t-co/commits/master) [![Bitcoin lightning](https://badgen.net/badge/icon/bitcoin-lightning?icon=bitcoin-lightning&label=donate&color=yellow)](https://tippin.me/@nolim1t)
+[![pipeline status](https://gitlab.com/nolim1t/nolim1t-co/badges/master/pipeline.svg)](https://gitlab.com/nolim1t/nolim1t-co/commits/master) [![Bitcoin lightning](https://badgen.net/badge/icon/bitcoin-lightning?icon=bitcoin-lightning&label=donate&color=yellow)](lightning:nolim1t@getalby.com)
 
 ## About
 This is the source for the github site
