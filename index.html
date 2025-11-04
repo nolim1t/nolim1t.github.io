@@ -1,40 +1,14 @@
 ---
-layout: default
+layout: null
 title: "nolim1t.co :: @nolim1t"
 ---
-<section>
-  <ul class="posts">
-    {% for post in paginator.posts %}
-    <li>
-      <article>
-        <header>
-          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-          <time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
-        </header>
-        <script>
-          var randomNumber = Math.floor((Math.random() * 12) + 1);
-          if (randomNumber < 10) {
-            randomNumber = "0" + randomNumber.toString();
-          } else {
-            randomNumber = randomNumber.toString();
-          }
-          document.write('<a href="{{ post.url }}" class="image"><img src="https://nolim1t.gitlab.io/nolim1t-co/template/images/pic' + randomNumber + '.jpg" alt="" /></a>');
-        </script>
-      </article>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
 
-<!-- Pagination links -->
-<section class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous Page</a>
-  {% endif %}
-  <span class="page_number ">
-    Page {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.page != paginator.total_pages %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next Page</a>
-  {% endif %}
-</section>
+<html>
+  <head>
+    <title>nolim1t.co</title>
+    <meta http-equiv="refresh" content="0; url=https://nostree.me/npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r" />
+  </head>
+  <body>
+    <p>Redirecting you to <a href="https://nostree.me/npub1z34a5nkxjv5rq5p7unuw3d3xh4an54uyyv4cys96zhyvhlu6qlxs4qnh9r">nostree</a> (join us! It's decentralized)</p>
+  </body>
+</html>
